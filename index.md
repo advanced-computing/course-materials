@@ -1,21 +1,19 @@
-
-
 # Advanced Computing for Policy syllabus
 
-**Course Number:** [INAFU6659](https://vergil.columbia.edu/vergil/course/20251/74227)  
-**Instructor:** [Aidan Feldman](https://www.sipa.columbia.edu/communities-connections/faculty/aidan-feldman), [alf2215@columbia.edu](mailto:alf2215@columbia.edu)  
-**Teaching Assistant (TA):** [Roberto Zuniga Valladares](https://www.sipa.columbia.edu/communities-connections/faculty/roberto-zuniga-valladares), [rz2516@columbia.edu](mailto:rz2516@columbia.edu)  
-**Semester and Year:** Spring 2025  
+**Course Number:** [INAFU6659](https://vergil.columbia.edu/vergil/course/20251/74227)
+**Instructor:** [Aidan Feldman](https://www.sipa.columbia.edu/communities-connections/faculty/aidan-feldman), [alf2215@columbia.edu](mailto:alf2215@columbia.edu)
+**Teaching Assistant (TA):** [Roberto Zuniga Valladares](https://www.sipa.columbia.edu/communities-connections/faculty/roberto-zuniga-valladares), [rz2516@columbia.edu](mailto:rz2516@columbia.edu)
+**Semester and Year:** Spring 2025
 **Credits:** 3
 
 # Meeting Dates/Times
 
-**Lecture:** Thursdays 9-10:50am  
-**Recitation, a.k.a. lab:** Fridays 2:20-3:50pm  
+**Lecture:** Thursdays 9-10:50am
+**Recitation, a.k.a. lab:** Fridays 2:20-3:50pm
 [Academic calendar](https://bulletin.columbia.edu/sipa/registration/academic-calendar/)
 
-**Meeting Location:** \[Determined by SIPA Academic Affairs. Preview IAB classrooms [here](https://www.sipa.columbia.edu/information-technology/sipa-av-services/sipa-erooms).\]  
-   
+**Meeting Location:** \[Determined by SIPA Academic Affairs. Preview IAB classrooms [here](https://www.sipa.columbia.edu/information-technology/sipa-av-services/sipa-erooms).\]
+
 **Instructor’s Office Hours:** \[Faculty must hold office hours at least 2 hours per week. SIPA Academic Affairs (sipa\_academicaffairs@columbia.edu) handles the scheduling of shared office space for adjunct faculty.\]
 
 # Course Description
@@ -34,21 +32,21 @@ In Computing in Context, students “explore\[d\] computing concepts and coding 
 
 Coming into the course, you’re expected to be comfortable with the following:
 
-* Getting Python and Jupyter running locally  
-* Using Jupyter  
-* Installing Anaconda packages  
-* Python  
-  * Programs as files  
-  * Types  
-  * Conditionals and iteration  
-  * Understanding algorithms  
-  * Functions  
-  * Manipulating strings  
-  * Lists, dictionaries, and sets  
-  * Reading and writing to files  
-* Data analysis and visualization in Python (using pandas)  
-  * See [the Computing in Context syllabus](https://computing-in-context.afeld.me/#schedule) for more details.  
-* How to read API documentation
+- Getting Python and Jupyter running locally
+- Using Jupyter
+- Installing Anaconda packages
+- Python
+  - Programs as files
+  - Types
+  - Conditionals and iteration
+  - Understanding algorithms
+  - Functions
+  - Manipulating strings
+  - Lists, dictionaries, and sets
+  - Reading and writing to files
+- Data analysis and visualization in Python (using pandas)
+  - See [the Computing in Context syllabus](https://computing-in-context.afeld.me/#schedule) for more details.
+- How to read API documentation
 
 ## Testing out
 
@@ -60,12 +58,12 @@ Note that this pathway is specific to this course. This test does not waive the 
 
 The test will:
 
-* Be taken in late December or early January, online, on your own schedule  
-* Have a time limit of 90 minutes  
-* Include both multiple choice and free response questions, including questions like:  
-  * “What would the result of this code be?”  
-  * “What does this code do, in plain English?”  
-* Be relatively straightforward if you’re comfortable with [the topics above](#topics), very challenging if you’re not
+- Be taken in late December or early January, online, on your own schedule
+- Have a time limit of 90 minutes
+- Include both multiple choice and free response questions, including questions like:
+  - “What would the result of this code be?”
+  - “What does this code do, in plain English?”
+- Be relatively straightforward if you’re comfortable with [the topics above](#topics), very challenging if you’re not
 
 You won’t be allowed to [register](https://bulletin.columbia.edu/sipa/registration/) yourself; once you take and pass the test, the instructor will have you manually added before the start of the semester. **The test must be taken before Jan 17**, and can only be taken once.
 
@@ -75,18 +73,18 @@ For those who have taken Python for Public Policy (INAFU6504) but not Computing 
 
 # Grading
 
-* Attendance: 10%  
-* Technical assignments: 50%  
-* Reading responses: 20%  
-* Final Project: 20%
+- Attendance: 10%
+- Technical assignments: 50%
+- Reading responses: 20%
+- Final Project: 20%
 
-Communication with the instructors is paramount. The instructors are happy to be flexible with requests for extensions made *before the deadlines*. Work that is not submitted by the due date without advance notice and permission from the instructor will be deducted 5% for every day it is late.
+Communication with the instructors is paramount. The instructors are happy to be flexible with requests for extensions made _before the deadlines_. Work that is not submitted by the due date without advance notice and permission from the instructor will be deducted 5% for every day it is late.
 
 Additional assignment scoring details:
 
-* Syntax errors: \-10 points  
-* Incomplete Steps / Steps with logic errors: \-2 to \-5 points  
-* Unattempted Steps: \-10 points
+- Syntax errors: \-10 points
+- Incomplete Steps / Steps with logic errors: \-2 to \-5 points
+- Unattempted Steps: \-10 points
 
 # Attendance
 
@@ -104,39 +102,39 @@ You are expected to bring a laptop to each lecture and recitation.
 
 See the details and links in the schedule below. Books, which are either open access and/or will be placed on [Course Reserves](https://library.columbia.edu/services/reserves.html):
 
-* Article 19, Knodel, M., Uhlig, U., Oever, N. ten, & Cath, C. (2020). *How the Internet Really Works: An Illustrated Guide to Protocols, Privacy, Censorship, and Governance* (Illustrated edition). No Starch Press.  
-* LeMay, M. (2022). *Product Management in Practice* (2nd edition). O’Reilly Media.  
-* Sweigart, A. (2020). *Automate the boring stuff with Python: Practical programming for total beginners* (2nd edition). No Starch Press.  
-* Wufka, M., & Canonico, M. (2023). *Overview of Cloud Computing*. Overleaf.
+- Article 19, Knodel, M., Uhlig, U., Oever, N. ten, & Cath, C. (2020). _How the Internet Really Works: An Illustrated Guide to Protocols, Privacy, Censorship, and Governance_ (Illustrated edition). No Starch Press.
+- LeMay, M. (2022). _Product Management in Practice_ (2nd edition). O’Reilly Media.
+- Sweigart, A. (2020). _Automate the boring stuff with Python: Practical programming for total beginners_ (2nd edition). No Starch Press.
+- Wufka, M., & Canonico, M. (2023). _Overview of Cloud Computing_. Overleaf.
 
 For each set of readings/podcasts/videos, you will be asked to submit a reflection/questions to demonstrate that it was completed and prompt discussion.
 
 # Schedule – IN PROGRESS
 
-| Week | Topic | Homework due |
-| ----- | ----- | ----- |
-| 1 | Data structures | none |
-|  | Command line | TODO |
-|  | Version control and collaboration |  |
-| 2 | Databases | Course Setup Listen to [50 Things That Made the Modern Economy: Compiler](https://www.bbc.co.uk/programmes/p04n04cm) Read [Automate the Boring Stuff, chapter 5](https://automatetheboringstuff.com/2e/chapter5/) Data Modeling assignment |
-| 3 | Complex data transformations | Go through [Learn SQL](https://www.codecademy.com/learn/learn-sql) Database assignment Read [Pandas Crosstab Explained](https://pbpython.com/pandas-crosstab.html) Read [Calculating Streaks in Pandas](https://joshdevlin.com/blog/calculate-streaks-in-pandas/) Read [Analyzing Pronto CycleShare Data with Python and Pandas](https://jakevdp.github.io/blog/2015/10/17/analyzing-pronto-cycleshare-data-with-python-and-pandas/) |
-| 4 | Abstraction | Reshaping assignment |
-| 5 | Organizing code | Refactoring assignment |
-| 6 | Privacy | Listen to [50 Things That Made the Modern Economy: Public Key Cryptography](https://www.bbc.co.uk/programmes/p04vqrwy) Read [How the Internet Really Works](https://catnip.article19.org/), pages 46-51 Read [Alexa Takes the Stand: Listening Devices Raise Privacy Issues](https://time.com/4766611/alexa-takes-the-stand-listening-devices-raise-privacy-issues/) Read [Study Reveals Extent of Privacy Vulnerabilities With Amazon’s Alexa](https://news.ncsu.edu/2021/03/alexa-skill-vulnerabilities/) Read [Amazon Echo Dot | Privacy & security guide](https://foundation.mozilla.org/en/privacynotincluded/amazon-echo-dot/) Optional: Read [Alexa and Third Parties’ Reasonable Expectation of Privacy](https://www.law.georgetown.edu/american-criminal-law-review/aclr-online/volume-54/alexa-and-third-parties-reasonable-expectation-of-privacy/) Optional: Read [The Privacy Risks of Your Smart Speaker](https://vpnoverview.com/privacy/devices/privacy-risks-smart-speaker/) |
-| 7 | Algorithms | Read [A simple way to anonymize data with Python and Pandas](https://dev.to/r0f1/a-simple-way-to-anonymize-data-with-python-and-pandas-79g) Read [Stitch Fix Algorithms Tour](https://algorithms-tour.stitchfix.com/) Read [How the Internet Really Works](https://catnip.article19.org/), Chapter 8 (pages 67-73) |
-| 8 | APIs | Fast and Slow assignment Watch: [What Are APIs?](https://www.youtube.com/watch?v=OVvTv9Hy91Q) [APIs, Conceptually](https://drive.google.com/file/d/10VCtYI5Im9MnvDcn4vnUeWbqztF77tyL/view) [Understanding And Using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/) [Let’s Look at Some Data](https://drive.google.com/file/d/10_2UPxa0ThWus47jKKeefGji5ZZmnr-e/view) |
-| 9 | Automated testing | Read [World’s First Computer Bug](https://education.nationalgeographic.org/resource/worlds-first-computer-bug/) Read [What is Software Testing?](https://www.guru99.com/software-testing-introduction-importance.html) |
-| 10 | Data engineering | Unit Testing assignment |
-| 11 | Infrastructure / cloud computing | Pipeline assignment Listen to [Cracking the Cloud\_Open](https://www.redhat.com/en/command-line-heroes/season-1/crack-the-cloud-open) Read [Overview of Cloud Computing](https://dc.arcabc.ca/islandora/object/dc%3A54375?solr_nav%5Bid%5D=c0f46853d72e7e533f04&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0), Chapters 1-2 |
-| 12 | Web development | Cloud Function assignment |
-| 13 |  | Web Form assignment Read [Automate the Boring Stuff](https://automatetheboringstuff.com/), chapters to be determined |
-| 14 | Professional software engineering practices | Final Project |
+| Week | Topic                                       | Homework due                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ---- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Data structures                             | none                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|      | Command line                                | TODO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|      | Version control and collaboration           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 2    | Databases                                   | Course Setup Listen to [50 Things That Made the Modern Economy: Compiler](https://www.bbc.co.uk/programmes/p04n04cm) Read [Automate the Boring Stuff, chapter 5](https://automatetheboringstuff.com/2e/chapter5/) Data Modeling assignment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 3    | Complex data transformations                | Go through [Learn SQL](https://www.codecademy.com/learn/learn-sql) Database assignment Read [Pandas Crosstab Explained](https://pbpython.com/pandas-crosstab.html) Read [Calculating Streaks in Pandas](https://joshdevlin.com/blog/calculate-streaks-in-pandas/) Read [Analyzing Pronto CycleShare Data with Python and Pandas](https://jakevdp.github.io/blog/2015/10/17/analyzing-pronto-cycleshare-data-with-python-and-pandas/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 4    | Abstraction                                 | Reshaping assignment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 5    | Organizing code                             | Refactoring assignment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 6    | Privacy                                     | Listen to [50 Things That Made the Modern Economy: Public Key Cryptography](https://www.bbc.co.uk/programmes/p04vqrwy) Read [How the Internet Really Works](https://catnip.article19.org/), pages 46-51 Read [Alexa Takes the Stand: Listening Devices Raise Privacy Issues](https://time.com/4766611/alexa-takes-the-stand-listening-devices-raise-privacy-issues/) Read [Study Reveals Extent of Privacy Vulnerabilities With Amazon’s Alexa](https://news.ncsu.edu/2021/03/alexa-skill-vulnerabilities/) Read [Amazon Echo Dot Privacy & security guide](https://foundation.mozilla.org/en/privacynotincluded/amazon-echo-dot/) Optional: Read [Alexa and Third Parties’ Reasonable Expectation of Privacy](https://www.law.georgetown.edu/american-criminal-law-review/aclr-online/volume-54/alexa-and-third-parties-reasonable-expectation-of-privacy/) Optional: Read [The Privacy Risks of Your Smart Speaker](https://vpnoverview.com/privacy/devices/privacy-risks-smart-speaker/) |
+| 7    | Algorithms                                  | Read [A simple way to anonymize data with Python and Pandas](https://dev.to/r0f1/a-simple-way-to-anonymize-data-with-python-and-pandas-79g) Read [Stitch Fix Algorithms Tour](https://algorithms-tour.stitchfix.com/) Read [How the Internet Really Works](https://catnip.article19.org/), Chapter 8 (pages 67-73)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 8    | APIs                                        | Fast and Slow assignment Watch: [What Are APIs?](https://www.youtube.com/watch?v=OVvTv9Hy91Q) [APIs, Conceptually](https://drive.google.com/file/d/10VCtYI5Im9MnvDcn4vnUeWbqztF77tyL/view) [Understanding And Using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/) [Let’s Look at Some Data](https://drive.google.com/file/d/10_2UPxa0ThWus47jKKeefGji5ZZmnr-e/view)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 9    | Automated testing                           | Read [World’s First Computer Bug](https://education.nationalgeographic.org/resource/worlds-first-computer-bug/) Read [What is Software Testing?](https://www.guru99.com/software-testing-introduction-importance.html)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 10   | Data engineering                            | Unit Testing assignment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 11   | Infrastructure / cloud computing            | Pipeline assignment Listen to [Cracking the Cloud_Open](https://www.redhat.com/en/command-line-heroes/season-1/crack-the-cloud-open) Read [Overview of Cloud Computing](https://dc.arcabc.ca/islandora/object/dc%3A54375?solr_nav%5Bid%5D=c0f46853d72e7e533f04&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0), Chapters 1-2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 12   | Web development                             | Cloud Function assignment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 13   |                                             | Web Form assignment Read [Automate the Boring Stuff](https://automatetheboringstuff.com/), chapters to be determined                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 14   | Professional software engineering practices | Final Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 All the above is subject to change.
 
 # SIPA Academic Integrity Statement
 
-The School of International & Public Affairs does not tolerate cheating or plagiarism in any form. Students who violate the Code of Academic & Professional Conduct will be subject to the Dean’s Disciplinary Procedures. 
+The School of International & Public Affairs does not tolerate cheating or plagiarism in any form. Students who violate the Code of Academic & Professional Conduct will be subject to the Dean’s Disciplinary Procedures.
 
 Please familiarize yourself with the proper methods of citation and attribution. The School provides some valuable resources online; we strongly encourage you to familiarize yourself with these various styles before conducting research. Cut and paste the following link into your browser to view the Code of Academic & Professional Conduct and to access useful resources on citation and attribution: [http://bulletin.columbia.edu/sipa/academic-policies/](http://bulletin.columbia.edu/sipa/academic-policies/)
 
@@ -144,4 +142,4 @@ Violations of the Code of Academic & Professional Conduct should be reported to 
 
 # SIPA Disability Statement
 
-SIPA is committed to ensuring that students registered with [Columbia University’s Disability Services](https://health.columbia.edu/content/disability-services) (DS) receive the reasonable accommodations necessary to participate fully in their academic programs. If you are a student with a disability and have a DS-certified accommodation letter, you may wish to make an appointment with your course instructor to discuss your accommodations. Faculty provide disability accommodations to students with DS-certified accommodation letters, and they provide the accommodations specified in such letters.  If you have any additional questions, please contact SIPA’s DS liaison at [disability@sipa.columbia.edu](mailto:disability@sipa.columbia.edu) or 212-854-8690.
+SIPA is committed to ensuring that students registered with [Columbia University’s Disability Services](https://health.columbia.edu/content/disability-services) (DS) receive the reasonable accommodations necessary to participate fully in their academic programs. If you are a student with a disability and have a DS-certified accommodation letter, you may wish to make an appointment with your course instructor to discuss your accommodations. Faculty provide disability accommodations to students with DS-certified accommodation letters, and they provide the accommodations specified in such letters. If you have any additional questions, please contact SIPA’s DS liaison at [disability@sipa.columbia.edu](mailto:disability@sipa.columbia.edu) or 212-854-8690.
