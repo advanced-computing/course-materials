@@ -1,34 +1,29 @@
 # Advanced Computing for Policy syllabus
 
-**Course Number:** [INAFU6659](https://vergil.columbia.edu/vergil/course/20251/74227)
-**Instructor:** [Aidan Feldman](https://www.sipa.columbia.edu/communities-connections/faculty/aidan-feldman), [alf2215@columbia.edu](mailto:alf2215@columbia.edu)
-**Teaching Assistant (TA):** [Roberto Zuniga Valladares](https://www.sipa.columbia.edu/communities-connections/faculty/roberto-zuniga-valladares), [rz2516@columbia.edu](mailto:rz2516@columbia.edu)
-**Semester and Year:** Spring 2025
-**Credits:** 3
+- **Course Number:** [INAFU6659](https://vergil.columbia.edu/vergil/course/20251/74227)
+- **Instructor:** [Aidan Feldman](https://www.sipa.columbia.edu/communities-connections/faculty/aidan-feldman), [alf2215@columbia.edu](mailto:alf2215@columbia.edu)
+- **Teaching Assistant (TA):** [Roberto Zuniga Valladares](https://www.sipa.columbia.edu/communities-connections/faculty/roberto-zuniga-valladares), [rz2516@columbia.edu](mailto:rz2516@columbia.edu)
+- **Semester and Year:** Spring 2025
+- **Credits:** 3
 
-# Meeting Dates/Times
+## Meeting Dates/Times
 
-**Lecture:** Thursdays 9-10:50am
-**Recitation, a.k.a. lab:** Fridays 2:20-3:50pm
+- **Lecture:** Thursdays 9-10:50am
+- **Recitation, a.k.a. lab:** Fridays 2:20-3:50pm
+- **Meeting Locations:** TBD
+- **Office Hours:** TBD
+
 [Academic calendar](https://bulletin.columbia.edu/sipa/registration/academic-calendar/)
 
-**Meeting Location:** \[Determined by SIPA Academic Affairs. Preview IAB classrooms [here](https://www.sipa.columbia.edu/information-technology/sipa-av-services/sipa-erooms).\]
+## Course Description
 
-**Instructor’s Office Hours:** \[Faculty must hold office hours at least 2 hours per week. SIPA Academic Affairs (sipa\_academicaffairs@columbia.edu) handles the scheduling of shared office space for adjunct faculty.\]
+In [Computing in Context](https://computing-in-context.afeld.me/), students “explore\[d\] computing concepts and coding in the context of solving policy problems.” Building off that foundation of Python fundamentals and data analysis, Advanced Computing for Policy goes both deeper and broader. The course covers computer science concepts like data structures and algorithms, as well as supporting systems like databases, cloud services, and collaboration tools. Over the semester, students will build a complex end-to-end data system. This course prepares students for more advanced data science coursework at SIPA, and equips them to do sophisticated data ingestion, analysis, and presentation in research/industry.
 
-# Course Description
-
-In Computing in Context, students “explore\[d\] computing concepts and coding in the context of solving policy problems.” Building off that foundation of Python fundamentals and data analysis, Advanced Computing for Policy goes both deeper and broader. The course covers computer science concepts like data structures and algorithms, as well as supporting systems like databases, cloud services, and collaboration tools. Over the semester, students will build a complex end-to-end data system. This course prepares students for more advanced data science coursework at SIPA, and equips them to do sophisticated data ingestion, analysis, and presentation in research/industry.
-
-# Course Overview
-
-\[Optional to provide more detailed information from the Course Description.\]
-
-# Prerequisites
+## Prerequisites
 
 [Computing in Context (INAFU6006)](https://computing-in-context.afeld.me/)
 
-## Topics {#topics}
+### Topics
 
 Coming into the course, you’re expected to be comfortable with the following:
 
@@ -48,13 +43,13 @@ Coming into the course, you’re expected to be comfortable with the following:
   - See [the Computing in Context syllabus](https://computing-in-context.afeld.me/#schedule) for more details.
 - How to read API documentation
 
-## Testing out
+### Testing out
 
 For Spring 2025 only, during [SIPA’s transition to the new Concentrations](https://www.sipa.columbia.edu/news/introducing-columbia-sipas-enhanced-curriculum), students can test out of this prerequisite. If you are interested in doing so, please read the following, then [**reach out**](mailto:alf2215@columbia.edu).
 
 Note that this pathway is specific to this course. This test does not waive the Computing in Context prerequisite for other courses, such as [Applying Machine Learning (INAFU6503)](https://vergil.columbia.edu/vergil/course/20251/62323).
 
-### Test details
+#### Test details
 
 The test will:
 
@@ -67,11 +62,11 @@ The test will:
 
 You won’t be allowed to [register](https://bulletin.columbia.edu/sipa/registration/) yourself; once you take and pass the test, the instructor will have you manually added before the start of the semester. **The test must be taken before Jan 17**, and can only be taken once.
 
-### Coming from [Python for Public Policy](https://python-public-policy.afeld.me/en/columbia/syllabus.html)
+#### Coming from [Python for Public Policy](https://python-public-policy.afeld.me/en/columbia/syllabus.html)
 
 For those who have taken Python for Public Policy (INAFU6504) but not Computing in Context, you will need to [get more experience with Python fundamentals](https://python-public-policy.afeld.me/en/columbia/resources.html#python-fundamentals) before taking the test. This is essentially making up for the extra seven weeks of Python you would have gotten in Computing in Context. In other words: it’s possible, but will be a lot of work.
 
-# Grading
+## Grading
 
 - Attendance: 10%
 - Technical assignments: 50%
@@ -82,11 +77,11 @@ Communication with the instructors is paramount. The instructors are happy to be
 
 Additional assignment scoring details:
 
-- Syntax errors: \-10 points
-- Incomplete Steps / Steps with logic errors: \-2 to \-5 points
-- Unattempted Steps: \-10 points
+- Syntax errors: -10 points
+- Incomplete Steps / Steps with logic errors: -2 to -5 points
+- Unattempted Steps: -10 points
 
-# Attendance
+## Attendance
 
 Attending class is mandatory, but most importantly, important. Learning programming requires commitment from the part of the student and the skills are built out of practice. If you miss an experience in class, you miss an important learning moment and the class misses your contribution.
 
@@ -98,7 +93,7 @@ You are responsible for getting caught up on what was covered in class. You may 
 
 You are expected to bring a laptop to each lecture and recitation.
 
-# Readings
+## Readings
 
 See the details and links in the schedule below. Books, which are either open access and/or will be placed on [Course Reserves](https://library.columbia.edu/services/reserves.html):
 
@@ -109,7 +104,7 @@ See the details and links in the schedule below. Books, which are either open ac
 
 For each set of readings/podcasts/videos, you will be asked to submit a reflection/questions to demonstrate that it was completed and prompt discussion.
 
-# Schedule – IN PROGRESS
+## Schedule – IN PROGRESS
 
 | Week | Topic                                       | Homework due                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ---- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -132,7 +127,7 @@ For each set of readings/podcasts/videos, you will be asked to submit a reflecti
 
 All the above is subject to change.
 
-# SIPA Academic Integrity Statement
+## SIPA Academic Integrity Statement
 
 The School of International & Public Affairs does not tolerate cheating or plagiarism in any form. Students who violate the Code of Academic & Professional Conduct will be subject to the Dean’s Disciplinary Procedures.
 
@@ -140,6 +135,6 @@ Please familiarize yourself with the proper methods of citation and attribution.
 
 Violations of the Code of Academic & Professional Conduct should be reported to the Associate Dean for Student Affairs.
 
-# SIPA Disability Statement
+## SIPA Disability Statement
 
 SIPA is committed to ensuring that students registered with [Columbia University’s Disability Services](https://health.columbia.edu/content/disability-services) (DS) receive the reasonable accommodations necessary to participate fully in their academic programs. If you are a student with a disability and have a DS-certified accommodation letter, you may wish to make an appointment with your course instructor to discuss your accommodations. Faculty provide disability accommodations to students with DS-certified accommodation letters, and they provide the accommodations specified in such letters. If you have any additional questions, please contact SIPA’s DS liaison at [disability@sipa.columbia.edu](mailto:disability@sipa.columbia.edu) or 212-854-8690.
