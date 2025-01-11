@@ -19,3 +19,4 @@
 
 - pip vs conda
 - Virtual environment
+- code formatting

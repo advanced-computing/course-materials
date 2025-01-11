@@ -105,23 +105,23 @@ For each set of readings/podcasts/videos, you will be asked to submit a reflecti
 
 ## Schedule
 
-| Week | Lecure date | Topic                                     |
-| ---- | ----------- | ----------------------------------------- |
-| 1    | 1/23        | Collaborating on code (GitHub)            |
-| 2    | 1/30        | Project/product management                |
-| 3    | 2/6         | Command line; dependency management (pip) |
-| 4    | 2/13        | Web development (Flask/Streamlit)         |
-| 5    | 2/20        | Automated testing                         |
-| 6    | 2/27        | Data structures and abstraction           |
-| 7    | 3/6         | Organizing code                           |
-| 8    | 3/13        | Databases                                 |
-| 9    | 3/20        | none (Spring Recess)                      |
-| 10   | 3/27        | Data engineering (pipelines, ETL)         |
-| 11   | 4/3         | Infrastructure / cloud computing          |
-| 12   | 4/10        | Big data; algorithms                      |
-| 13   | 4/17        | Privacy                                   |
-| 14   | 4/24        | buffer                                    |
-| 15   | 5/1         | buffer                                    |
+| Week | Lecure date | Topic(s)                                                    |
+| ---- | ----------- | ----------------------------------------------------------- |
+| 1    | 1/23        | [Welcome; collaborating on code (GitHub)](lecture_01.ipynb) |
+| 2    | 1/30        | Project/product management                                  |
+| 3    | 2/6         | Command line; dependency management (pip)                   |
+| 4    | 2/13        | Web development (Flask/Streamlit)                           |
+| 5    | 2/20        | Automated testing                                           |
+| 6    | 2/27        | Data structures and abstraction                             |
+| 7    | 3/6         | Organizing code                                             |
+| 8    | 3/13        | Databases                                                   |
+| 9    | 3/20        | none (Spring Recess)                                        |
+| 10   | 3/27        | Data engineering (pipelines, ETL)                           |
+| 11   | 4/3         | Infrastructure / cloud computing                            |
+| 12   | 4/10        | Big data; algorithms                                        |
+| 13   | 4/17        | Privacy                                                     |
+| 14   | 4/24        | buffer                                                      |
+| 15   | 5/1         | buffer                                                      |
 
 This is a new course; all of the above is subject. Things will be adjusted to the needs and interests of the students.
 
