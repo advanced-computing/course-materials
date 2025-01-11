@@ -11,5 +11,5 @@ pip install -r requirements.txt
 ```sh
 jupyter nbconvert --to slides \
    --SlidesExporter.reveal_scroll=True \
-   --post serve lecture_NN.ipynb
+   --post serve lectures/lecture_NN.ipynb
 ```
