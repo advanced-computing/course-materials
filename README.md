@@ -141,4 +141,4 @@ SIPA is committed to ensuring that students registered with [Columbia University
 
 All materials in this repository are licensed under:
 
-<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank"><img height="50" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="CC-BY-4.0"/></a>
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank"><img height="35" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="CC-BY-4.0"/></a>
