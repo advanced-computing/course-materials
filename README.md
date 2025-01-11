@@ -136,9 +136,3 @@ Violations of the Code of Academic & Professional Conduct should be reported to 
 ## SIPA Disability Statement
 
 SIPA is committed to ensuring that students registered with [Columbia University's Disability Services](https://health.columbia.edu/content/disability-services) (DS) receive the reasonable accommodations necessary to participate fully in their academic programs. If you are a student with a disability and have a DS-certified accommodation letter, you may wish to make an appointment with your course instructor to discuss your accommodations. Faculty provide disability accommodations to students with DS-certified accommodation letters, and they provide the accommodations specified in such letters. If you have any additional questions, please contact SIPA's DS liaison at [disability@sipa.columbia.edu](mailto:disability@sipa.columbia.edu) or 212-854-8690.
-
-## License
-
-All materials in this repository are licensed under:
-
-<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank"><img height="35" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="CC-BY-4.0"/></a>
