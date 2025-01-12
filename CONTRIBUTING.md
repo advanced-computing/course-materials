@@ -8,8 +8,12 @@ pip install -r requirements.txt
 
 ## Viewing slides
 
-```sh
-jupyter nbconvert --to slides \
-   --SlidesExporter.reveal_scroll=True \
-   --post serve lectures/lecture_NN.ipynb
-```
+They are built in [Remark](https://github.com/gnab/remark).
+
+1. From this directory, start the server.
+
+   ```sh
+   python3 -m http.server
+   ```
+
+1. Open http://localhost:8000/slides.html?lecture=01, replacing the slide number.

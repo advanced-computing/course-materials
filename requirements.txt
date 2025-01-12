@@ -1,4 +1,3 @@
 isort
 jupyter==1.*
-nbconvert
 ruff
