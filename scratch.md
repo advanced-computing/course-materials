@@ -18,6 +18,7 @@
 | Professional software engineering practices | Final Project                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 - pip vs conda
+- Homebrew/Chocolatey
 - Virtual environment
 - code formatting
 - containers

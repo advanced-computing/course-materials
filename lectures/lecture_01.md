@@ -14,10 +14,17 @@ Aidan Feldman
 
 ## Intros
 
-1. Name (what you'd like to be called)
-1. Pronouns
-1. What you want to use this class for? (The more specific the better.)
-1. Favorite snack
+- Copy from [Aidan's Markdown file](../people/aidan.md) under [`people/`](../people/)
+- Add profile photo / avatar under [`img/`](../img/)
+  - Not huge, please
+- Include nickname / what you'd like to be called
+- "Why are you in this class?"
+  - The more specific the better
+  - Can answer in terms of dream project/job
+
+---
+
+### Read-out
 
 ---
 
@@ -71,3 +78,5 @@ Thinking teams of two.
 ---
 
 ## GitHub
+
+What did we do for the intros?
