@@ -1,6 +1,8 @@
 # Advanced Computing for Policy
 
-Aidan Feldman
+**Instructor:** Aidan Feldman
+
+**TA:** Roberto Zuniga Valladares
 
 ---
 
@@ -14,17 +16,25 @@ Aidan Feldman
 
 ## Intros
 
-- Copy from [Aidan's Markdown file](../people/aidan.md) under [`people/`](../people/)
-- Add profile photo / avatar under [`img/`](../img/)
-  - Not huge, please
-- Include nickname / what you'd like to be called
-- "Why are you in this class?"
-  - The more specific the better
-  - Can answer in terms of dream project/job
+The hard way! Hitting the ground running.
+
+1. Accept the invite to [the GitHub Organization](https://github.com/advanced-computing), if you haven't already.
+   - You should show up in [the list of People](https://github.com/orgs/advanced-computing/people).
+1. [Clone](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_clone-a-repository-locally) [the repository](https://github.com/advanced-computing/course-materials).
+1. [Create a branch.](https://code.visualstudio.com/docs/sourcecontrol/overview#_branches-and-tags)
+1. Make your own Markdown file under [`people/`](../people/), based on [Aidan's](../people/aidan.md).
+   - Add a profile photo / avatar under [`img/`](../img/).
+     - Not huge, please.
+   - Include nickname / what you'd like to be called
+   - The more specific the better.
+   - [Preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview)
+1. [Commit](https://code.visualstudio.com/docs/sourcecontrol/overview#_commit)
+1. [Push](https://code.visualstudio.com/docs/sourcecontrol/overview#_remotes)
+1. [Review](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request) [pull requests](https://github.com/advanced-computing/course-materials/pulls)
 
 ---
 
-### Read-out
+### [Read-out](../people/)
 
 ---
 

@@ -4,6 +4,7 @@ Coming into the course, you're expected to be comfortable with the following:
 
 - Getting Python and Jupyter running locally
 - Using Jupyter
+- Markdown
 - Installing Anaconda packages
 - Python
   - Programs as files
