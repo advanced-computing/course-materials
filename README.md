@@ -80,7 +80,7 @@ For each set of readings/podcasts/videos, you will be asked to submit a reflecti
 | 14   | 4/24        | buffer                                                            |
 | 15   | 5/1         | buffer                                                            |
 
-This is a new course; all of the above is subject. Things will be adjusted to the needs and interests of the students.
+This is a new course; all of the above is subject to change. Things will be adjusted to the needs and interests of the students.
 
 ## SIPA Academic Integrity Statement
 
