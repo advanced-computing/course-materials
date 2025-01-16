@@ -20,16 +20,10 @@ The hard way! Hitting the ground running.
 
 1. Accept the invite to [the GitHub Organization](https://github.com/advanced-computing), if you haven't already.
    - You should show up in [the list of People](https://github.com/orgs/advanced-computing/people).
-1. [Clone](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_clone-a-repository-locally) [the repository](https://github.com/advanced-computing/course-materials).
-1. [Create a branch.](https://code.visualstudio.com/docs/sourcecontrol/overview#_branches-and-tags)
-1. Make your own Markdown file under [`people/`](../people/), based on [Aidan's](../people/aidan.md).
-   - Add a profile photo / avatar under [`img/`](../img/).
-     - Not huge, please.
+1. [Make your own Markdown file](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository#adding-a-file-to-a-repository-on-github) under [`people/`](../people/), based on [Aidan's](../people/aidan.md).
    - Include nickname / what you'd like to be called
    - The more specific the better.
    - [Preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview)
-1. [Commit](https://code.visualstudio.com/docs/sourcecontrol/overview#_commit)
-1. [Push](https://code.visualstudio.com/docs/sourcecontrol/overview#_remotes)
 1. [Review](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request) [pull requests](https://github.com/advanced-computing/course-materials/pulls)
 
 ---

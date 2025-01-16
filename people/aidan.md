@@ -1,7 +1,5 @@
 # Aidan Feldman
 
-![avatar](../img/aidan.jpg)
-
 **Name:** Aidan Feldman
 
 **Pronouns:** he/him
