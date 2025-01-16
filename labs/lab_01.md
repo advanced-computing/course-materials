@@ -28,4 +28,6 @@ If you did all the following:
 1. [Add the image to your Markdown file.](https://www.markdownguide.org/basic-syntax/#images-1)
    - [Preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview)
 1. [Commit](https://code.visualstudio.com/docs/sourcecontrol/overview#_commit)
+1. Check out the [Source Control Graph](https://code.visualstudio.com/docs/sourcecontrol/overview#_source-control-graph).
 1. [Push](https://code.visualstudio.com/docs/sourcecontrol/overview#_remotes)
+1. Check out the repository's [network graph](https://github.com/advanced-computing/course-materials/network).
