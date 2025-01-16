@@ -1,6 +1,6 @@
 # Aidan Feldman
 
-<img src="../img/aidan.jpg" height="200"/>
+![avatar](../img/aidan.jpg)
 
 **Name:** Aidan Feldman
 
