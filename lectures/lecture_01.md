@@ -91,3 +91,21 @@ What did we do for the intros?
 ## Project teams
 
 We will be in teams of two; let me know ASAP if you have enemies.
+
+---
+
+## Generative AI policy
+
+[SIPA guidance:](https://bulletin.columbia.edu/sipa/teaching-guide/#teachingresourcestext)
+
+> Consider the continuum of policies: (a) Use of Generative AI is prohibited … (c) Use freely with acknowledgment and disclosure.
+
+Thoughts?
+
+---
+
+### Considerations
+
+- Understanding of material
+- Accuracy
+- Equity

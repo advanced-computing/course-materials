@@ -24,7 +24,7 @@ In [Computing in Context](https://computing-in-context.afeld.me/), students "exp
 
 ## Grading
 
-- Attendance: 12%
+- [Attendance: 12%](#attendance)
 - Technical assignments: 48%
 - Reading responses: 20%
 - Final Project: 20%
@@ -36,18 +36,6 @@ Additional assignment scoring details:
 - Syntax errors: -10 points
 - Incomplete Steps / Steps with logic errors: -2 to -5 points
 - Unattempted Steps: -10 points
-
-## Attendance
-
-Attending class (lectures and labs) is mandatory, but most importantly, important. Learning programming requires commitment from the part of the student and the skills are built out of practice. If you miss an experience in class, you miss an important learning moment and the class misses your contribution.
-
-Missing class counts as an absence, regardless of the reason or notifying the instructor(s) beforehand. Missing more than 20 minutes of a class session will be treated as an absence. The first two absences are treated as "freebies", each subsequent absence will result in a 0.5% deduction from the overall grade.
-
-If you do miss class, we trust that it's for a good reason. If you're sick, please use that freebie and stay home and rest.
-
-You are responsible for getting caught up on what was covered in class. You may want to ask a classmate for notes.
-
-You are expected to bring a laptop to each lecture and recitation.
 
 ## Readings
 
@@ -86,7 +74,31 @@ It's likely that you will need to do reading beyond what is assigned to fill in 
 
 This is a new course; all of the above is subject to change. Things will be adjusted to the needs and interests of the students.
 
-## SIPA Academic Integrity Statement
+## Course Policies
+
+### Attendance
+
+Attending class (lectures and labs) is mandatory, but most importantly, important. Learning programming requires commitment from the part of the student and the skills are built out of practice. If you miss an experience in class, you miss an important learning moment and the class misses your contribution.
+
+Missing class counts as an absence, regardless of the reason or notifying the instructor(s) beforehand. Missing more than 20 minutes of a class session will be treated as an absence. The first two absences are treated as "freebies", each subsequent absence will result in a 0.5% deduction from the overall grade.
+
+If you do miss class, we trust that it's for a good reason. If you're sick, please use that freebie and stay home and rest.
+
+You are responsible for getting caught up on what was covered in class. You may want to ask a classmate for notes.
+
+You are expected to bring a laptop to each lecture and recitation.
+
+### Academic Integrity
+
+For individually-submitted assignments: A student may work with other students. However, assignment solutions should not be identical to / copied-and-pasted from one another, and each student should submit theirs separately. In addition, students need to indicate who they worked with with each submission.
+
+Similarly, it is common practice to use code snippets found on the internet; these sources must be cited.
+
+#### Generative AI
+
+[To be co-developed with the students](lectures/lecture_01.md#generative-ai-policy)
+
+#### SIPA Academic Integrity Statement
 
 The School of International & Public Affairs does not tolerate cheating or plagiarism in any form. Students who violate the Code of Academic & Professional Conduct will be subject to the Dean's Disciplinary Procedures.
 
@@ -94,6 +106,6 @@ Please familiarize yourself with the proper methods of citation and attribution.
 
 Violations of the Code of Academic & Professional Conduct should be reported to the Associate Dean for Student Affairs.
 
-## SIPA Disability Statement
+### SIPA Disability Statement
 
 SIPA is committed to ensuring that students registered with [Columbia University's Disability Services](https://health.columbia.edu/content/disability-services) (DS) receive the reasonable accommodations necessary to participate fully in their academic programs. If you are a student with a disability and have a DS-certified accommodation letter, you may wish to make an appointment with your course instructor to discuss your accommodations. Faculty provide disability accommodations to students with DS-certified accommodation letters, and they provide the accommodations specified in such letters. If you have any additional questions, please contact SIPA's DS liaison at [disability@sipa.columbia.edu](mailto:disability@sipa.columbia.edu) or 212-854-8690.
