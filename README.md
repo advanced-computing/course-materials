@@ -58,7 +58,9 @@ See the details and links in the schedule below. Books, which are either open ac
 - [Sweigart, A. (2025). _Automate the boring stuff with Python_ (3rd Edition). No Starch Press.](https://automatetheboringstuff.com/)
 - [Wufka, M., & Canonico, M. (2023). _Overview of Cloud Computing_. Overleaf.](https://dc.arcabc.ca/islandora/object/dc%3A54375)
 
-For each set of readings/podcasts/videos, you will be asked to submit a reflection/questions to demonstrate that it was completed and prompt discussion.
+For each set of readings (which might include podcasts/videos), you will be asked to submit a reflection/questions to demonstrate that it was completed and prompt discussion.
+
+It's likely that you will need to do reading beyond what is assigned to fill in gaps of understanding. If you're having trouble finding a resource, ask!
 
 ## Schedule
 
