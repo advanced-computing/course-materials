@@ -25,9 +25,10 @@ In [Computing in Context](https://computing-in-context.afeld.me/), students "exp
 ## Grading
 
 - [Attendance: 12%](#attendance)
-- Technical assignments: 48%
-- Reading responses: 20%
-- Final Project: 20%
+- Assignments/Project: 64% (split to be determined)
+- Reading responses: 24% (12 x 2% each)
+
+There will not be an exam.
 
 Communication with the instructors is paramount. The instructors are happy to be flexible with requests for extensions made _before the deadlines_. Work that is not submitted by the due date without advance notice and permission from the instructor will be deducted 5% for every day it is late.
 
