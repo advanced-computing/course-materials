@@ -62,23 +62,23 @@ For each set of readings/podcasts/videos, you will be asked to submit a reflecti
 
 ## Schedule
 
-| Week | Lecure date | Topic(s)                                                          |
-| ---- | ----------- | ----------------------------------------------------------------- |
-| 1    | 1/23        | [Welcome; collaborating on code (GitHub)](lectures/lecture_01.md) |
-| 2    | 1/30        | Project/product management                                        |
-| 3    | 2/6         | Command line; dependency management (pip)                         |
-| 4    | 2/13        | Web development (Flask/Streamlit)                                 |
-| 5    | 2/20        | Automated testing                                                 |
-| 6    | 2/27        | Data structures and abstraction                                   |
-| 7    | 3/6         | Organizing code                                                   |
-| 8    | 3/13        | Databases                                                         |
-| 9    | 3/20        | none (Spring Recess)                                              |
-| 10   | 3/27        | Data engineering (pipelines, ETL)                                 |
-| 11   | 4/3         | Infrastructure / cloud computing                                  |
-| 12   | 4/10        | Big data; algorithms                                              |
-| 13   | 4/17        | Privacy                                                           |
-| 14   | 4/24        | buffer                                                            |
-| 15   | 5/1         | buffer                                                            |
+| Week | Lecure date | Lecture topic(s)                                                  | Lab topic(s)                                 |
+| ---- | ----------- | ----------------------------------------------------------------- | -------------------------------------------- |
+| 1    | 1/23        | [Welcome; collaborating on code (GitHub)](lectures/lecture_01.md) | [Computer setup / local Git](labs/lab_01.md) |
+| 2    | 1/30        | Project/product management                                        | TBD                                          |
+| 3    | 2/6         | Command line; dependency management (pip)                         | TBD                                          |
+| 4    | 2/13        | Web development (Flask/Streamlit)                                 | TBD                                          |
+| 5    | 2/20        | Automated testing                                                 | TBD                                          |
+| 6    | 2/27        | Data structures and abstraction                                   | TBD                                          |
+| 7    | 3/6         | Organizing code                                                   | TBD                                          |
+| 8    | 3/13        | Databases                                                         | TBD                                          |
+| 9    | 3/20        | none (Spring Recess)                                              | TBD                                          |
+| 10   | 3/27        | Data engineering (pipelines, ETL)                                 | TBD                                          |
+| 11   | 4/3         | Infrastructure / cloud computing                                  | TBD                                          |
+| 12   | 4/10        | Big data; algorithms                                              | TBD                                          |
+| 13   | 4/17        | Privacy                                                           | TBD                                          |
+| 14   | 4/24        | buffer                                                            | TBD                                          |
+| 15   | 5/1         | buffer                                                            | TBD                                          |
 
 This is a new course; all of the above is subject to change. Things will be adjusted to the needs and interests of the students.
 

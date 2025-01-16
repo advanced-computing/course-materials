@@ -20,6 +20,7 @@ The hard way! Hitting the ground running.
 
 1. Accept the invite to [the GitHub Organization](https://github.com/advanced-computing), if you haven't already.
    - You should show up in [the list of People](https://github.com/orgs/advanced-computing/people).
+1. [Open the repository.](https://github.com/advanced-computing/course-materials)
 1. [Make your own Markdown file](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository#adding-a-file-to-a-repository-on-github) under [`people/`](../people/), based on [Aidan's](../people/aidan.md).
    - Include nickname / what you'd like to be called
    - The more specific the better.
