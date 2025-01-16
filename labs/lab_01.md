@@ -1,5 +1,15 @@
 # Lab 1
 
+## Objectives
+
+Students:
+
+- are set up with:
+  - Git
+  - VSCode
+  - Terminal
+- understand how to work with Git repositories
+
 ## Setup
 
 We're going to go through and make sure you have the following installed / set up:
@@ -31,3 +41,15 @@ If you did all the following:
 1. Check out the [Source Control Graph](https://code.visualstudio.com/docs/sourcecontrol/overview#_source-control-graph).
 1. [Push](https://code.visualstudio.com/docs/sourcecontrol/overview#_remotes)
 1. Check out the repository's [network graph](https://github.com/advanced-computing/course-materials/network).
+
+## Git concepts/[terms](https://docs.github.com/en/get-started/learning-about-github/github-glossary)/[workflow](https://docs.github.com/en/get-started/using-github/github-flow)
+
+- Repository
+- Clone
+- Branch
+- Commit
+- History
+- Push
+- Review
+- Merge
+- Fork
