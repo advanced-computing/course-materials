@@ -54,23 +54,23 @@ For each set of readings (which might include podcasts/videos), you will be aske
 
 ## Schedule
 
-| Week | Lecure date | Lecture topic(s)                                                  | Assignments due                 | Lab topic(s)                                    |
-| ---- | ----------- | ----------------------------------------------------------------- | ------------------------------- | ----------------------------------------------- |
-| 1    | 1/23        | [Welcome; collaborating on code (GitHub)](lectures/lecture_01.md) |                                 | [Computer setup / Git workflow](labs/lab_01.md) |
-| 2    | 1/30        | Project/product management                                        | [Readings](readings/week_02.md) | TBD                                             |
-| 3    | 2/6         | [Command line; dependency management](lectures/lecture_03.md)     | [Readings](readings/week_03.md) | TBD                                             |
-| 4    | 2/13        | Web development (Flask/Streamlit)                                 |                                 | TBD                                             |
-| 5    | 2/20        | Automated testing                                                 |                                 | TBD                                             |
-| 6    | 2/27        | Data structures and abstraction                                   |                                 | TBD                                             |
-| 7    | 3/6         | Organizing code                                                   |                                 | TBD                                             |
-| 8    | 3/13        | Databases                                                         |                                 | TBD                                             |
-| 9    | 3/20        | none ([Spring Recess][recess])                                    |                                 | TBD                                             |
-| 10   | 3/27        | Data engineering (pipelines, ETL)                                 |                                 | TBD                                             |
-| 11   | 4/3         | Infrastructure / cloud computing                                  |                                 | TBD                                             |
-| 12   | 4/10        | Big data; algorithms                                              |                                 | TBD                                             |
-| 13   | 4/17        | Privacy                                                           |                                 | TBD                                             |
-| 14   | 4/24        | buffer                                                            |                                 | TBD                                             |
-| 15   | 5/1         | buffer                                                            |                                 | TBD                                             |
+| Week | Lecure date | Lecture topic(s)                                                  | Assignments due (at the start of lecture) | Lab topic(s)                                   |
+| ---- | ----------- | ----------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------- |
+| 1    | 1/23        | [Welcome; collaborating on code (GitHub)](lectures/lecture_01.md) | none                                      | [Computer setup; Git workflow](labs/lab_01.md) |
+| 2    | 1/30        | Project/product management                                        | [Readings](readings/week_02.md)           | TBD                                            |
+| 3    | 2/6         | [Command line; dependency management](lectures/lecture_03.md)     | [Readings](readings/week_03.md)           | TBD                                            |
+| 4    | 2/13        | Web development (Flask/Streamlit)                                 | TBD                                       | TBD                                            |
+| 5    | 2/20        | Automated testing                                                 | TBD                                       | TBD                                            |
+| 6    | 2/27        | Data structures and abstraction                                   | TBD                                       | TBD                                            |
+| 7    | 3/6         | Organizing code                                                   | TBD                                       | TBD                                            |
+| 8    | 3/13        | Databases                                                         | TBD                                       | TBD                                            |
+| 9    | 3/20        | none ([Spring Recess][recess])                                    | none                                      | none ([Spring Recess][recess])                 |
+| 10   | 3/27        | Data engineering (pipelines, ETL)                                 | TBD                                       | TBD                                            |
+| 11   | 4/3         | Infrastructure / cloud computing                                  | TBD                                       | TBD                                            |
+| 12   | 4/10        | Big data; algorithms                                              | TBD                                       | TBD                                            |
+| 13   | 4/17        | Privacy                                                           | TBD                                       | TBD                                            |
+| 14   | 4/24        | buffer                                                            | TBD                                       | TBD                                            |
+| 15   | 5/1         | buffer                                                            | TBD                                       | TBD                                            |
 
 [recess]: https://registrar.columbia.edu/content/academic-calendar?acfy=49&acschool=18&acterm=6&field_event_type1_tid%255B%255D=23&keys=#!#e=9806
 

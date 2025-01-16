@@ -78,19 +78,15 @@ We'll be building a data system that:
 
 ---
 
-Thinking teams of two.
+## Project teams
+
+Thinking teams of two; let me know ASAP if you have enemies.
 
 ---
 
 ## GitHub
 
 What did we do for the intros?
-
----
-
-## Project teams
-
-We will be in teams of two; let me know ASAP if you have enemies.
 
 ---
 
@@ -106,6 +102,7 @@ Thoughts?
 
 ### Considerations
 
+- Ubiquity
 - Understanding of material
 - Accuracy
 - Equity
