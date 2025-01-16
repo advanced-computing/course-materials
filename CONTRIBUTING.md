@@ -16,4 +16,4 @@ They are built in [Remark](https://github.com/gnab/remark).
    python3 -m http.server
    ```
 
-1. Open http://localhost:8000/slides.html?lecture=01, replacing the slide number.
+1. Open http://localhost:8000/slides.html?file=lectures/lecture_01.md, replacing the file path as needed.

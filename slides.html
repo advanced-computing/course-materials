@@ -35,12 +35,12 @@
     <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
     <script>
       const urlParams = new URLSearchParams(window.location.search);
-      const lecture = urlParams.get("lecture");
-      if (!lecture) {
-        alert("No lecture number provided");
+      const file = urlParams.get("file");
+      if (!file) {
+        alert("No file provided");
       }
       const slideshow = remark.create({
-        sourceUrl: `lectures/lecture_${lecture}.md`,
+        sourceUrl: file,
       });
     </script>
   </body>
