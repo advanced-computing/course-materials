@@ -24,8 +24,8 @@ In [Computing in Context](https://computing-in-context.afeld.me/), students "exp
 
 ## Grading
 
-- Attendance: 10%
-- Technical assignments: 50%
+- Attendance: 12%
+- Technical assignments: 48%
 - Reading responses: 20%
 - Final Project: 20%
 
@@ -39,9 +39,9 @@ Additional assignment scoring details:
 
 ## Attendance
 
-Attending class is mandatory, but most importantly, important. Learning programming requires commitment from the part of the student and the skills are built out of practice. If you miss an experience in class, you miss an important learning moment and the class misses your contribution.
+Attending class (lectures and labs) is mandatory, but most importantly, important. Learning programming requires commitment from the part of the student and the skills are built out of practice. If you miss an experience in class, you miss an important learning moment and the class misses your contribution.
 
-Missing class counts as an absence, regardless of the reason or notifying the instructor(s) beforehand. Missing more than 20 minutes of a class session will be treated as an absence. The first absence is treated as a "freebie", each subsequent absence will result in a 1% deduction from the overall grade.
+Missing class counts as an absence, regardless of the reason or notifying the instructor(s) beforehand. Missing more than 20 minutes of a class session will be treated as an absence. The first two absences are treated as "freebies", each subsequent absence will result in a 0.5% deduction from the overall grade.
 
 If you do miss class, we trust that it's for a good reason. If you're sick, please use that freebie and stay home and rest.
 
