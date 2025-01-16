@@ -51,14 +51,14 @@ It's likely that you will need to do reading beyond what is assigned to fill in 
 
 ### Responses
 
-For each set of readings (which might include podcasts/videos), you will be asked to submit a reflection/questions to demonstrate that it was completed and prompt discussion.
+For each set of readings (which might include podcasts/videos), you will be asked to submit a reflection/questions to demonstrate that it was completed and prompt discussion. These will be done in [Ed](https://courseworks2.columbia.edu/courses/210480/external_tools/37606?display=borderless).
 
 ## Schedule
 
 | Week | Lecure date | Lecture topic(s)                                                  | Assignments due (at the start of lecture) | Lab topic(s)                                   |
 | ---- | ----------- | ----------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------- |
 | 1    | 1/23        | [Welcome; collaborating on code (GitHub)](lectures/lecture_01.md) | none                                      | [Computer setup; Git workflow](labs/lab_01.md) |
-| 2    | 1/30        | Project/product management                                        | [Readings](readings/week_02.md)           | TBD                                            |
+| 2    | 1/30        | [Project/product management](lectures/lecture_02.md)              | [Readings](readings/week_02.md)           | TBD                                            |
 | 3    | 2/6         | [Command line; dependency management](lectures/lecture_03.md)     | [Readings](readings/week_03.md)           | TBD                                            |
 | 4    | 2/13        | Web development (Flask/Streamlit)                                 | TBD                                       | TBD                                            |
 | 5    | 2/20        | Automated testing                                                 | TBD                                       | TBD                                            |
