@@ -32,7 +32,7 @@ The test will:
 - Include both multiple choice and free response questions, including questions like:
   - "What would the result of this code be?"
   - "What does this code do, in plain English?"
-- Be relatively straightforward if you're comfortable with [the topics above](#topics), very challenging if you're not
+- Be relatively straightforward if you're comfortable with the topics above, very challenging if you're not
 
 You won't be allowed to [register](https://bulletin.columbia.edu/sipa/registration/) yourself; once you take and pass the test, the instructor will have you manually added before the start of the semester. **The test must be taken before Jan 17**, and can only be taken once.
 
