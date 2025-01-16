@@ -85,3 +85,9 @@ Thinking teams of two.
 ## GitHub
 
 What did we do for the intros?
+
+---
+
+## Project teams
+
+We will be in teams of two; let me know ASAP if you have enemies.
