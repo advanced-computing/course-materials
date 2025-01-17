@@ -1,4 +1,4 @@
-# Week 3 readings
+# Week 3 readings - IN PROGRESS
 
 [General information](../README.md#readings)
 
