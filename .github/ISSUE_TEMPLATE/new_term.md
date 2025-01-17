@@ -23,6 +23,7 @@ assignees: afeld
   - [ ] [Automatically post grades](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-select-a-grade-posting-policy-for-a-course-in-the/ta-p/588)
   - [ ] [Set up Ed](https://courseworks2.columbia.edu/courses/56883/pages/using-ed-discussions)
     - [ ] Send welcome Announcement
+    - [ ] Schedule reading response threads
   - [ ] [Set up Gradescope](https://ctl.columbia.edu/resources-and-technology/teaching-with-technology/teaching-online/gradescope/)
     - [ ] Sync Roster
     - [ ] [Create assignments](https://guides.gradescope.com/hc/en-us/articles/23584827793421-Using-Gradescope-LTI-1-0-with-Canvas-as-an-Instructor)
