@@ -24,6 +24,11 @@ In [Computing in Context](https://computing-in-context.afeld.me/), students "exp
 
 [Computing in Context (INAFU6006)](https://computing-in-context.afeld.me/). See [info about testing out](testing_out.md).
 
+## Important links
+
+- [Courseworks](https://courseworks2.columbia.edu/courses/210480)
+- [Ed Discussions](https://courseworks2.columbia.edu/courses/210480/external_tools/37606?display=borderless)
+
 ## Grading
 
 - [Attendance: 12%](#attendance)
