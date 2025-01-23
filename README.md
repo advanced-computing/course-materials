@@ -10,7 +10,7 @@
 
 - **Lecture:** Thursdays 9-10:50am, [IAB][IAB] room 402B
 - **Lab, a.k.a. recitation:** Fridays 2:20-3:50pm, [IAB][IAB] room 402B
-- [**Office Hours:**](https://calendar.google.com/calendar/embed?src=c_0f46e8283081fed502941bfac7501cd0b8b5cd26635c8f4546e313ef7403e5fa%40group.calendar.google.com&ctz=America%2FNew_York) make sure you're signed in to your Columbia Google account to view
+- [**Office Hours:**](https://calendar.google.com/calendar/embed?src=c_0f46e8283081fed502941bfac7501cd0b8b5cd26635c8f4546e313ef7403e5fa%40group.calendar.google.com&ctz=America%2FNew_York) Make sure you're signed in to your Columbia Google account to view. Also available by appointment.
 
 [IAB]: https://maps.app.goo.gl/Hg6dyuWcchZ2DmRB6
 
@@ -24,10 +24,12 @@ In [Computing in Context](https://computing-in-context.afeld.me/), students "exp
 
 [Computing in Context (INAFU6006)](https://computing-in-context.afeld.me/). See [info about testing out](testing_out.md).
 
-## Important links
+## Communications
 
-- [Courseworks](https://courseworks2.columbia.edu/courses/210480)
-- [Ed Discussions](https://courseworks2.columbia.edu/courses/210480/external_tools/37606?display=borderless)
+- Grades and assignments will be posted through [Courseworks](https://courseworks2.columbia.edu/courses/210480).
+- Troubleshooting and other communications between class sessions will be through [Ed Discussions](https://courseworks2.columbia.edu/courses/210480/external_tools/37606?display=borderless) / GitHub, so that other students can respond and/or benefit from the answers.
+  - Email is also an option, though please only use for questions that aren't appropriate for others to see.
+  - The instructor/Reader will try to respond within 24 hours, 48 hours max, if someone else hasn't already.
 
 ## Grading
 
