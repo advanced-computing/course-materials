@@ -37,10 +37,10 @@ In [Computing in Context](https://computing-in-context.afeld.me/), students "exp
 
 There will not be an exam.
 
-Communication with the instructors is paramount. The instructors are happy to be flexible with requests for extensions made _before the deadlines_. Work that is not submitted by the due date without advance notice and permission from the instructor will be deducted 5% for every day it is late.
+### Assignment scoring details
 
-Additional assignment scoring details:
-
+- Late work: -5% per day
+  - Communication with the instructor/TA is paramount. They are happy to be flexible with requests for extensions made _before the deadlines_.
 - Syntax errors: -10 points
 - Incomplete Steps / Steps with logic errors: -2 to -5 points
 - Unattempted Steps: -10 points
