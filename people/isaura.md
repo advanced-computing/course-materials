@@ -5,7 +5,7 @@ Pronouns: she/hers
 
 UNI: ia2525
 
-GitHub username: @ia2525
+**GitHub username:** [@ia2525](https://github.com/ia2525)
 
 Why are you in this class? Do you have a dream project/job?
 
