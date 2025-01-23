@@ -1,4 +1,4 @@
-# Week 2 readings - IN PROGRESS
+# Week 2 readings
 
 [General information](../README.md#readings)
 
@@ -18,5 +18,9 @@ Please do the following:
 
 ## Readings
 
+- [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
+- [A look under the hood: how branches work in Git](https://stackoverflow.blog/2021/04/05/a-look-under-the-hood-how-branches-work-in-git/)
 - [Manifesto for Agile Software Development ("The Agile Manifesto")](https://agilemanifesto.org/)
-- Kanban
+- [Kanban](https://www.atlassian.com/agile/kanban)
+- [_Inspired_ by Marty Cagan, chapters 8-9](https://courseworks2.columbia.edu/courses/210480/files?preview=23023996)
+- [Getting to “technical enough” as a product manager](https://medium.com/@lulu_cheng/getting-to-technical-enough-as-a-product-manager-5b372513cd1c)
