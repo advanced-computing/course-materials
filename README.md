@@ -8,8 +8,8 @@
 
 ## Meeting Dates/Times
 
-- **Lecture:** Thursdays 9-10:50am, [IAB](https://maps.app.goo.gl/Hg6dyuWcchZ2DmRB6) room 404
-- **Recitation, a.k.a. lab:** Fridays 2:20-3:50pm, [IAB](https://maps.app.goo.gl/Hg6dyuWcchZ2DmRB6) room 411
+- **Lecture:** Thursdays 9-10:50am, [IAB](https://maps.app.goo.gl/Hg6dyuWcchZ2DmRB6) room 402B
+- **Recitation, a.k.a. lab:** Fridays 2:20-3:50pm, [IAB](https://maps.app.goo.gl/Hg6dyuWcchZ2DmRB6) room 402B
 - **Office Hours:** TBD
 
 [Academic calendar](https://bulletin.columbia.edu/sipa/registration/academic-calendar/)
