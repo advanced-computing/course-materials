@@ -40,7 +40,10 @@ If you did all the following:
 1. [Commit](https://code.visualstudio.com/docs/sourcecontrol/overview#_commit)
 1. Check out the [Source Control Graph](https://code.visualstudio.com/docs/sourcecontrol/overview#_source-control-graph).
 1. [Push](https://code.visualstudio.com/docs/sourcecontrol/overview#_remotes)
+1. [Create a pull request.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 1. Check out the repository's [network graph](https://github.com/advanced-computing/course-materials/network).
+1. Review the pull request of the person next to you.
+1. Merge
 
 ## Git concepts/[terms](https://docs.github.com/en/get-started/learning-about-github/github-glossary)/[workflow](https://docs.github.com/en/get-started/using-github/github-flow)
 
@@ -53,3 +56,5 @@ If you did all the following:
 - Review
 - Merge
 - Fork
+
+[Slides visualizing Git history](https://speakerdeck.com/aidanfeldman/git-graphically)
