@@ -33,6 +33,22 @@ The hard way! Hitting the ground running.
 
 ---
 
+## Pull requests
+
+What happened?
+
+---
+
+### Reviews
+
+What did you look for?
+
+---
+
+Why?
+
+---
+
 ## [Syllabus](../README.md)
 
 ---
@@ -81,12 +97,6 @@ We'll be building a data system that:
 ## Project teams
 
 Thinking teams of two; let me know ASAP if you have enemies.
-
----
-
-## GitHub
-
-What did we do for the intros?
 
 ---
 

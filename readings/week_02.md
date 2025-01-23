@@ -15,6 +15,7 @@ Please do the following:
 - Open [CourseWorks notification settings](https://courseworks2.columbia.edu/profile/communication) and enable the following:
   - Grading
   - Submission Comment
+- Fill out [your GitHub profile](https://github.com/settings/profile) - name, avatar, etc.
 
 ## Readings
 
