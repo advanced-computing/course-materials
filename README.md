@@ -58,7 +58,23 @@ It's likely that you will need to do reading beyond what is assigned to fill in 
 
 ### Responses
 
-For each set of readings (which might include podcasts/videos), you will be asked to submit a reflection/questions to demonstrate that it was completed and prompt discussion. These will be done in [Ed](https://courseworks2.columbia.edu/courses/210480/external_tools/37606?display=borderless).
+For each set of readings (which might include podcasts/videos), you will submit a response in [Ed](https://courseworks2.columbia.edu/courses/210480/external_tools/37606?display=borderless). This might be one or more of:
+
+- A paragraph of reflection
+- A list of questions
+- A link to a notes doc
+- A photo of some [sketchnotes](https://en.wikipedia.org/wiki/Sketchnoting)
+
+Creativity is welcome. The response should do a few things:
+
+- Demonstrate that you did the reading, speaking to / referencing / synthesizing all of them
+- Indicate whether the material made sense to you
+- Show the instructor/TA where gaps in understanding might be so that we can cover in lecture or subsequent readings
+- Encourage discussion
+
+After your initial post, you are encouraged to read and respond to others'.
+
+You can find the rubric under the [Assignment](https://courseworks2.columbia.edu/courses/210480/assignments) in Courseworks.
 
 ## Schedule
 

@@ -24,3 +24,5 @@ Please do the following:
 - [Kanban](https://www.atlassian.com/agile/kanban)
 - [_Inspired_ by Marty Cagan, chapters 8-9](https://courseworks2.columbia.edu/courses/210480/files?preview=23023996)
 - [Getting to “technical enough” as a product manager](https://medium.com/@lulu_cheng/getting-to-technical-enough-as-a-product-manager-5b372513cd1c)
+
+Now [submit a response](../README.md#responses).
