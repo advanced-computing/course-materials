@@ -16,6 +16,8 @@ assignees: afeld
   - [ ] Update in syllabus
   - [ ] Set up check-in
   - [ ] Share solutions
+  - [ ] Add them to shared calendar
+  - [ ] Have them set up office hours
 - [ ] Set up Courseworks
   - [ ] [Import content from previous term](https://support.ctl.columbia.edu/892419)
   - [ ] Specify Textbooks
