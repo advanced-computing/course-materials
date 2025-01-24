@@ -2,6 +2,8 @@
 
 **Name:** Alexa Chan 
 
+![Alexa](/img/alexa.jpeg)
+
 **Pronouns:** she/her
 
 **UNI:** asc2244
