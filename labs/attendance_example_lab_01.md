@@ -12,4 +12,5 @@ For example:
 Here is the actual list:
 
 1. Roberto Zuniga
-2. Alexa Chan
+2. Isaura Arias
+3. Alexa Chan
