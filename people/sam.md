@@ -2,6 +2,8 @@
 
 **Name:** Sam Bennett
 
+![Sam](/img/Sam.jpg)
+
 **Pronouns:** he/him
 
 **UNI:** sab2389
