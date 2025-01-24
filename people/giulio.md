@@ -1,4 +1,5 @@
 # Giulio Trombin
+![Giulio](/img/giulio.jpg)
 
 **Name:** Giulio Trombin
 
