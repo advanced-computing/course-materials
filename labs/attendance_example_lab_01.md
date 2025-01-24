@@ -12,4 +12,7 @@ For example:
 Here is the actual list:
 
 1. Roberto Zuniga
+
+2. Will Frolich
 1.5 Isaura Arias 
+
