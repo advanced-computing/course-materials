@@ -14,4 +14,4 @@
 
 I do really like Python! Really like it!
 
-**Favorite snack:** Chocolate bars and candies
+**Favorite snack:** Chocolate bars and candiess
