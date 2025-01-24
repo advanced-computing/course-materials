@@ -16,3 +16,4 @@ I initially took this class because Python is now a must-have skill, but I ended
 My dream job would involve travelling and working on finance deals that promote economic development in emerging economies and/or are related to geopolitical strategy. 
 
 Favorite snack: Pastries or berries 
+ 

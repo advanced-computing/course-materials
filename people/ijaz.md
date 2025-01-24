@@ -1,5 +1,7 @@
 # Ijaz Ahmed Khan
 
+![Ijaz](/img/Ijaz.png)
+
 **Name:** Ijaz Ahmed Khan
 
 **Pronouns:** he/him
