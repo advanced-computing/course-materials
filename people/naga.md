@@ -1,5 +1,7 @@
 # Takaaki Nagasawa
 
+![Naga](../img/naga.jpeg)
+
 **Name:** Naga
 
 **Pronouns:** he/him
