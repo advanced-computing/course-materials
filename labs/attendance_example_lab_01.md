@@ -14,3 +14,5 @@ Here is the actual list:
 1. Roberto Zuniga
 2. Isaura Arias
 3. Alexa Chan
+4. Sam Bennett
+5. Will Frolich
