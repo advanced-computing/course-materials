@@ -2,6 +2,8 @@
 
 **Name:** Fred Lee
 
+![Fred](/img/fred_photo.jpeg)
+
 **Pronouns:** he/him
 
 **UNI:** ftl2110 
