@@ -1,5 +1,7 @@
 # Will Frolich
 
+![Will](/img/will.jpg)
+
 **Name:** Will Frolich
 
 **Pronouns:** he/him
