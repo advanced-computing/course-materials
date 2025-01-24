@@ -1,5 +1,7 @@
 # Hiroyuki Oiwa
 
+![Hiroyuki](/img/hiro.png)
+
 **Name:** Hiroyuki Oiwa
 
 **Pronouns:** he/him
