@@ -12,4 +12,9 @@ For example:
 Here is the actual list:
 
 1. Roberto Zuniga
-2. Arshiya Sawhney
+2. Isaura Arias
+3. Alexa Chan
+4. Sam Bennett
+5. Will Frolich
+6. Ijaz Ahmed Khan
+7.Arshiya Sawhney
