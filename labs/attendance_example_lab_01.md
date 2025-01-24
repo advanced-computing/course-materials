@@ -12,4 +12,4 @@ For example:
 Here is the actual list:
 
 1. Roberto Zuniga
-1. Hiroyuki Oiwa
+7. Hiroyuki Oiwa
