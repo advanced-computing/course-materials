@@ -17,4 +17,5 @@ Here is the actual list:
 4. Sam Bennett
 5. Will Frolich
 6. Ijaz Ahmed Khan
-7.Arshiya Sawhney
+7. Fred Lee
+9. Arshiya Sawhney
