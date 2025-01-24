@@ -1,5 +1,7 @@
 # Roberto Zuniga
 
+![Roberto](/img/roberto.png)
+
 **Name:** Roberto Zuniga
 
 **Pronouns:** he/him
