@@ -19,3 +19,5 @@ Here is the actual list:
 6. Ijaz Ahmed Khan
 7. Fred Lee
 9. Arshiya Sawhney
+10. Takaaki Nagasawa
+
