@@ -1,4 +1,4 @@
-# Attenance List
+# Attendance List
 
 Add your first and last name to the list. Insert your name following an alphabetical order (by last name).
 
