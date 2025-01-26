@@ -4,6 +4,14 @@
 
 ---
 
+## Agenda
+
+1. Organizing work
+1. Waterfall vs. agile
+1. Project management
+
+---
+
 Let's say you have a big project to do — school, work, personal, whatever. How do you go about it?
 
 _Try and avoid jargon._
@@ -54,7 +62,13 @@ Why would circular vs. linear help?
 
 ---
 
-> Responding to change over following a plan
+> Plans are worthless, but planning is everything.
+
+[Dwight D. Eisenhower](https://quoteinvestigator.com/2017/11/18/planning/)
+
+---
+
+> we have come to value … Responding to change over following a plan
 
 [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 
@@ -64,13 +78,46 @@ Why would circular vs. linear help?
 
 ---
 
-Benefits app
+## Types of PM
+
+| Role              | Responsibility    | Boils down to                                  |
+| ----------------- | ----------------- | ---------------------------------------------- |
+| Product           | Users/customers   | What is this team trying to do?                |
+| Project           | Process/delivery  | Who is doing what when, and what's in the way? |
+| Program/Portfolio | Multiple products | What are we doing, collectively?               |
 
 ---
 
-> Plans are worthless, but planning is everything.
+## Product example
 
-[Dwight D. Eisenhower](https://quoteinvestigator.com/2017/11/18/planning/)
+[simpler.grants.gov](https://simpler.grants.gov/)
+
+---
+
+## Product management
+
+[Product Roadmap](https://github.com/orgs/HHS/projects/12/views/1)
+
+---
+
+## Project management
+
+[Product Backlog](https://github.com/orgs/HHS/projects/13/views/1)
+
+---
+
+[Another example](https://www.airtable.com/templates/product-planning-with-gantt/expTuVTcdn6ey62yh) - see different [Views](https://www.airtable.com/platform/views)
+
+---
+
+Many, _many_ tools, such as:
+
+- Asana
+- GitHub Projects
+- Jira
+- Monday
+- Smartsheet
+- Trello
 
 ---
 
@@ -79,3 +126,7 @@ Per [syllabus](../README.md#course-description):
 > Over the semester, students will build a complex end-to-end data system.
 
 What might we need?
+
+---
+
+## Teams
