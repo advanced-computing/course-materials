@@ -1,6 +1,6 @@
 # Takaaki Nagasawa
 
-![Naga](../img/naga.jpeg)
+![Naga](../img/people/naga.jpeg)
 
 **Name:** Naga
 
@@ -12,7 +12,7 @@
 
 **Why are you in this class? Do you have a dream project/job?**
 
-I want to be a data scientist in a tech company and propose effective strategies based on evidence. 
+I want to be a data scientist in a tech company and propose effective strategies based on evidence.
 
 One dream job is working from home forever.
 

@@ -1,8 +1,8 @@
-# Alexa Chan 
+# Alexa Chan
 
-**Name:** Alexa Chan 
+**Name:** Alexa Chan
 
-![Alexa](/img/alexa.jpeg)
+![Alexa](/img/people/alexa.jpeg)
 
 **Pronouns:** she/her
 

@@ -2,11 +2,11 @@
 
 **Name:** Fred Lee
 
-![Fred](/img/fred_photo.jpeg)
+![Fred](/img/people/fred_photo.jpeg)
 
 **Pronouns:** he/him
 
-**UNI:** ftl2110 
+**UNI:** ftl2110
 
 **GitHub username:** [@ftl2110](https://github.com/ftl2110)
 

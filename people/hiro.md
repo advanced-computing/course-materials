@@ -1,6 +1,6 @@
 # Hiroyuki Oiwa
 
-![Hiroyuki](/img/hiro.png)
+![Hiroyuki](/img/people/hiro.png)
 
 **Name:** Hiroyuki Oiwa
 
@@ -20,6 +20,5 @@ I want to deepen my knowledge about digital technologies.
 
 One dream job is the current job.
 I'll retrun to the Ministry.
-
 
 **Favorite snack:** Grilled Seaweed
