@@ -53,6 +53,15 @@ Why?
 
 ---
 
+## Data Engineering
+
+- Lots of emphasis on the data and stuff you can do with it (in the world); not as much around how to get and manage it
+- Repeatability
+- Reliability
+- Access
+
+---
+
 ## Scope
 
 From [Computing in Context](https://computing-in-context.afeld.me/), we're going:
@@ -106,7 +115,7 @@ Thinking teams of two; let me know ASAP if you have enemies.
 
 > Consider the continuum of policies: (a) Use of Generative AI is prohibited … (c) Use freely with acknowledgment and disclosure.
 
-Thoughts?
+What are the considerations for that spectrum?
 
 ---
 
