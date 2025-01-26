@@ -10,24 +10,23 @@ Students:
   - Terminal
 - understand how to work with Git repositories
 
-
 ---
-
 
 ## Setup
 
 We're going to go through and make sure you have the following installed / set up:
 
 ### [Git](https://git-scm.com/downloads)
-   - On Windows, there are a _lot_ of options in the installer - safe to stick to the defaults.
-   - Set global [name](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git) and [email](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-in-git)
-   ```
-   git config --global user.name "Mona Lisa"
-   git config --global user.email "ml1234@columbia.edu"
-   ```
+
+- On Windows, there are a _lot_ of options in the installer - safe to stick to the defaults.
+- Set global [name](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git) and [email](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-in-git)
+
+```
+git config --global user.name "Mona Lisa"
+git config --global user.email "ml1234@columbia.edu"
+```
 
 ---
-
 
 ### [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
 
@@ -49,7 +48,7 @@ If you did all the following:
 
 1. [Clone](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_clone-a-repository-locally) [the repository](https://github.com/advanced-computing/course-materials).
 1. [Create a branch.](https://code.visualstudio.com/docs/sourcecontrol/overview#_branches-and-tags)
-1. Add a profile photo / avatar under [`img/`](../img/).
+1. Add a profile photo / avatar under [`img/people/`](../img/people/).
    - Keep them around 200px tall, please.
 1. [Add the image to your Markdown file.](https://www.markdownguide.org/basic-syntax/#images-1)
    - [Preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview)
@@ -75,7 +74,6 @@ If you did all the following:
 1. Merge
 
 ---
-
 
 ## Git concepts/[terms](https://docs.github.com/en/get-started/learning-about-github/github-glossary)/[workflow](https://docs.github.com/en/get-started/using-github/github-flow)
 
