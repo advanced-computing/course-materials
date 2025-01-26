@@ -88,25 +88,33 @@ Why would circular vs. linear help?
 
 ---
 
-## Product example
+### Product example
 
 [simpler.grants.gov](https://simpler.grants.gov/)
 
 ---
 
-## Product management
+### Product management
 
 [Product Roadmap](https://github.com/orgs/HHS/projects/12/views/1)
 
 ---
 
-## Project management
+### Project management
 
 [Product Backlog](https://github.com/orgs/HHS/projects/13/views/1)
 
 ---
 
 [Another example](https://www.airtable.com/templates/product-planning-with-gantt/expTuVTcdn6ey62yh) - see different [Views](https://www.airtable.com/platform/views)
+
+---
+
+## Kanban
+
+[Came out of Toyota.](https://en.wikipedia.org/wiki/Kanban)
+
+> One of the main benefits of kanban is to establish an upper limit to work in process (commonly referred as "WIP") inventory to avoid overcapacity.
 
 ---
 
@@ -120,6 +128,26 @@ Many, _many_ tools, such as:
 - Trello
 
 ---
+
+Even simpler:
+
+![stickies on a whiteboard](https://5sensesll.com/wp-content/uploads/2020/04/kanban-2.png.webp)
+
+[source](https://5sensesll.com/2023/10/kanban-your-kids-chore-charts-that-work/)
+
+---
+
+## Scrum
+
+Essentially Kanban with more process.
+
+![scrum diagram](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2023-09/scrum-framework-9.29.23.png)
+
+[source](https://www.scrum.org/resources/what-scrum-module)
+
+---
+
+## Bringing it back
 
 Per [syllabus](../README.md#course-description):
 
