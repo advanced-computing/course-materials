@@ -1,7 +1,5 @@
 # Lecture 2: Project/product management - DRAFT
 
-<!-- pulling from https://docs.google.com/presentation/d/1zLndDlmhzaNYz7rsK21deAEoSMilGyOdvP5LxZKZ9yw/edit -->
-
 ---
 
 ## Agenda
@@ -147,6 +145,10 @@ Essentially Kanban with more process.
 
 ---
 
+_Show Asana_
+
+---
+
 ## Bringing it back
 
 Per [syllabus](../README.md#course-description):
@@ -157,4 +159,4 @@ What might we need?
 
 ---
 
-## Teams
+## [Teams](../people/teams.md)
