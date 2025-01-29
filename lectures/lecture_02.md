@@ -159,4 +159,4 @@ What might we need?
 
 ---
 
-## [Teams](../people/)
+## [Teams](../people/README.md)
