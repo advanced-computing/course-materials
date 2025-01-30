@@ -38,4 +38,28 @@ The goals here are to pick an initial:
 
 Part of this project is getting experience with automated data ingestion. Doing so is more interesting with data that changes. Therefore, pick a [dataset that's regularly updated](data.md#datasets-that-are-regularly-updated). You can incorporate additional datasets in the future.
 
-None of this is set in stone, it can all be changed later.
+Do the following as a group:
+
+1. Discuss what you'd like your project to focus on. Don't need to get _too_ specific yet.
+1. Explore [datasets that are regularly updated](data.md#datasets-that-are-regularly-updated) and pick one.
+1. Create a new notebook in [Google Colab](https://colab.research.google.com/).
+1. Ensure you can load the data.
+1. Narrow down on 1-3 research questions.
+   - In other words, at the end of this project, what do you want to be able to show?
+1. Draw an example visualization that you'd like to produce.
+   - Include a title, legend, and axes labels (where appropriate).
+
+You will then submit the following to the Discussion on [Ed](https://courseworks2.columbia.edu/courses/210480/external_tools/37606?display=borderless):
+
+- **What dataset are you going to use?**
+  - Please include a link.
+- **What are your research question(s)?**
+  - It should be _specific, and objectively answerable_ through the data available.
+- **What's the link to your notebook?**
+  - Go to Share -> General access -> LionMail -> Commenter.
+- **What's your target visualization?**
+  - Include a picture.
+- **What are your [known unknowns](https://en.wikipedia.org/wiki/There_are_unknown_unknowns)?**
+- **What challenges do you anticipate?**
+
+Only one person from your group needs to submit. None of this is set in stone long term, it is just a starting place. It can all be changed later.
