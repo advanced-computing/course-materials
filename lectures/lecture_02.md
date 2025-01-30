@@ -163,7 +163,11 @@ What might we need / need to think about?
 
 ---
 
-### [Teams](../people/README.md)
+### [Project overview](../docs/project.md)
+
+---
+
+### [Teams](../docs/project.md#teams)
 
 ---
 

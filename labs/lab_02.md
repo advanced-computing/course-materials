@@ -21,7 +21,7 @@ We'll be doing this lab as pair programming, with the TA floating around to help
 
 1. Go over [pair programming](../docs/pairing.md).
 1. Talk through the steps below.
-1. Set up groups with different people than the [project teams](../people/README.md).
+1. Set up groups with different people than the [project teams](../docs/project.md#teams).
 
 ---
 

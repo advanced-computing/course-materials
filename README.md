@@ -34,7 +34,7 @@ In [Computing in Context](https://computing-in-context.afeld.me/), students "exp
 ## Grading
 
 - [Attendance: 12%](#attendance)
-- Assignments/Project: 64% (split to be determined)
+- Assignments/[Project](docs/project.md): 64% (split to be determined)
 - Reading responses: 24% (12 x 2% each)
 
 There will not be an exam.
