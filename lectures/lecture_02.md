@@ -1,4 +1,4 @@
-# Lecture 2: Project/product management - DRAFT
+# Lecture 2: Project/product management
 
 ---
 
@@ -160,6 +160,12 @@ Per the [syllabus](../README.md#course-description):
 > Over the semester, students will build a complex end-to-end data system.
 
 What might we need / need to think about?
+
+---
+
+![project flow](../img/projectflow.png)
+
+Source: [Big Data and Social Science](https://textbook.coleridgeinitiative.org/chap-intro.html#the-structure-of-the-book)
 
 ---
 

@@ -26,6 +26,10 @@
 
 ---
 
+#### [VSCode interpreter selection](https://code.visualstudio.com/docs/python/environments#_working-with-python-interpreters)
+
+---
+
 ### Operating system
 
 - Homebrew/Chocolatey
