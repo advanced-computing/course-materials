@@ -7,6 +7,8 @@
 1. Organizing work
 1. Waterfall vs. agile
 1. Project management
+1. Project kickoff
+1. Revisiting Generative AI policy
 
 ---
 
@@ -149,14 +151,27 @@ _Show Asana_
 
 ---
 
-## Bringing it back
+## The Project
 
-Per [syllabus](../README.md#course-description):
+_Bringing it back_
+
+Per the [syllabus](../README.md#course-description):
 
 > Over the semester, students will build a complex end-to-end data system.
 
-What might we need?
+What might we need / need to think about?
 
 ---
 
-## [Teams](../people/README.md)
+### [Teams](../people/README.md)
+
+---
+
+## Generative AI policy
+
+- Recap of discussion from last time
+- New thoughts?
+
+---
+
+## [Snacks](https://docs.google.com/spreadsheets/d/1-Jmx10JMxhiJettMsYX7SFt53olMTDXDJCrsF8D0nLc/edit?gid=0#gid=0)
