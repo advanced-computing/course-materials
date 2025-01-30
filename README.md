@@ -85,15 +85,15 @@ You can find the rubric under the [Assignment](https://courseworks2.columbia.edu
 | 2    | 1/30        | [Project/product management](lectures/lecture_02.md)              | [Readings](readings/week_02.md)           | [Jupyter/pandas/visualization refresher](labs/lab_02.md) |
 | 3    | 2/6         | [Command line; dependency management](lectures/lecture_03.md)     | [Readings](readings/week_03.md)           | TBD                                                      |
 | 4    | 2/13        | Web development (Flask/Streamlit)                                 | TBD                                       | TBD                                                      |
-| 5    | 2/20        | Automated testing                                                 | TBD                                       | TBD                                                      |
-| 6    | 2/27        | Data structures and abstraction                                   | TBD                                       | TBD                                                      |
+| 5    | 2/20        | Automated testing                                                 | [Readings](readings/week_05.md)           | TBD                                                      |
+| 6    | 2/27        | Data structures and abstraction                                   | [Readings](readings/week_06.md)           | TBD                                                      |
 | 7    | 3/6         | Organizing code                                                   | TBD                                       | TBD                                                      |
-| 8    | 3/13        | Databases                                                         | TBD                                       | TBD                                                      |
+| 8    | 3/13        | Databases                                                         | [Readings](readings/week_08.md)           | TBD                                                      |
 | 9    | 3/20        | none ([Spring Recess][recess])                                    | none                                      | none ([Spring Recess][recess])                           |
 | 10   | 3/27        | Data engineering (pipelines, ETL)                                 | TBD                                       | TBD                                                      |
-| 11   | 4/3         | Infrastructure / cloud computing                                  | TBD                                       | TBD                                                      |
-| 12   | 4/10        | Big data; algorithms                                              | TBD                                       | TBD                                                      |
-| 13   | 4/17        | Privacy                                                           | TBD                                       | TBD                                                      |
+| 11   | 4/3         | Infrastructure / cloud computing                                  | [Readings](readings/week_11.md)           | TBD                                                      |
+| 12   | 4/10        | Big data; algorithms                                              | [Readings](readings/week_12.md)           | TBD                                                      |
+| 13   | 4/17        | Privacy                                                           | [Readings](readings/week_13.md)           | TBD                                                      |
 | 14   | 4/24        | buffer                                                            | TBD                                       | TBD                                                      |
 | 15   | 5/1         | buffer                                                            | TBD                                       | TBD                                                      |
 
