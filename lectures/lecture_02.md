@@ -48,6 +48,10 @@ Why is that a problem?
 
 ---
 
+[Varying findings of improvement with agile](https://www.ijprems.com/uploadedfiles/paper//issue_12_december_2023/32363/final/fin_ijprems1727280092.pdf#page=4)
+
+---
+
 _Hop to [Human-Centered DevOps](https://speakerdeck.com/aidanfeldman/human-centered-devops?slide=8), slides 8-16_
 
 ---
