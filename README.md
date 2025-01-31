@@ -55,7 +55,9 @@ See the details and links in the [schedule](#schedule) below. Books, which are e
 - [Sweigart, A. (2025). _Automate the boring stuff with Python_ (3rd Edition). No Starch Press.](https://automatetheboringstuff.com/)
 - [Wufka, M., & Canonico, M. (2023). _Overview of Cloud Computing_. Overleaf.](https://dc.arcabc.ca/islandora/object/dc%3A54375)
 
-It's likely that you will need to do reading beyond what is assigned to fill in gaps of understanding. If you're having trouble finding a resource, ask!
+### Additional resources
+
+It's likely that you will need to do reading beyond what is assigned to fill in gaps of understanding. If you're having trouble finding a resource, ask! [Resources from the Python class.](https://python-public-policy.afeld.me/en/columbia/resources.html)
 
 ### Responses
 
@@ -69,6 +71,7 @@ For each set of readings (which might include podcasts/videos), you will submit 
 Creativity is welcome. The response should do a few things:
 
 - Demonstrate that you did the reading, speaking to / referencing / synthesizing all of them
+  - More interested in "a-ha!" moments / how the readings relate to you, rather than a recap of the content.
 - Indicate whether the material made sense to you
 - Show the instructor/TA where gaps in understanding might be so that we can cover in lecture or subsequent readings
 - Encourage discussion
