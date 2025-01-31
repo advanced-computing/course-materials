@@ -66,6 +66,16 @@ Why would circular vs. linear help?
 
 ---
 
+## Communication overhead
+
+This works best when teams are:
+
+- Small
+  - ["Two-pizza teams"](https://martinfowler.com/bliki/TwoPizzaTeam.html)
+- High-trust
+
+---
+
 > Plans are worthless, but planning is everything.
 
 [Dwight D. Eisenhower](https://quoteinvestigator.com/2017/11/18/planning/)
@@ -178,13 +188,6 @@ Source: [Big Data and Social Science](https://textbook.coleridgeinitiative.org/c
 ---
 
 ### [Teams](../docs/project.md#teams)
-
----
-
-## Generative AI policy
-
-- Recap of discussion from last time
-- New thoughts?
 
 ---
 
