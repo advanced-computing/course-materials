@@ -12,6 +12,18 @@ This will incorporate:
 
 …all in the cloud. Essentially, we are building a live dashboard, with all the infrastructure behind it.
 
+## Inspiration
+
+- [Center for Disease Control (CDC) dashboards](https://www.cdc.gov/nssp/php/data-research/dashboards/index.html)
+- [Chicago Region Transit Dashboard](https://experience.arcgis.com/experience/2aa35be601ed4e1aa1b1fcf2bf56cb2f/page/Home/)
+- [Chicago Transit Authority Historical Bus Crowding](https://capacitydb.ctadataportal.com/)
+- [Johns Hopkins COVID map](https://coronavirus.jhu.edu/map.html)
+- [New York Flu Tracker](https://nyshc.health.ny.gov/web/nyapd/new-york-state-flu-tracker)
+- [New York Traffic Data Viewer (TDV)](https://www.dot.ny.gov/tdv)
+- [NYPD TrafficStat](https://trafficsafetyforum.nypdonline.org/)
+- [TransitMatters](https://dashboard.transitmatters.org/)
+- [United States of Health](https://www.mckinsey.com/industries/public-sector/our-insights/us-public-health-dashboard)
+
 ## Expectations
 
 - All code is peer-reviewed, through [pair programming](pairing.md) and/or pull requests.
