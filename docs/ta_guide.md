@@ -1,0 +1,28 @@
+# Teaching Assistant (TA) Guide
+
+The TA is there to help students improve their coding and data analysis skills, lead recitations (a.k.a. labs), ensure student questions get answered, and perform grading. [General information on SIPA Assistantships.](https://www.sipa.columbia.edu/students/resources-sipa-students)
+
+## Time commitment
+
+- Attending the full lectures (on time) and leading the recitation session in-person for your assigned section each week
+- Holding office hours for two hours each week
+  - At least one hour should be a set time, the remainder can be by appointment
+  - Can be virtual or in-person
+- Weekly meeting with the instructor
+- Grading and student support between classes can be done on your own schedule
+
+## Responsibilities
+
+- Reviewing assignment submissions, ideally within five days, checking if:
+  - They completed the assignment requirements
+  - There’s anything that arises that would be worth sharing with / clarifying for the whole class
+- Tracking participation in the online discussion forum
+- Being responsive to questions and direction from the instructor
+- Helping continue to grow this class, providing recommendations on improvements to the course material/processes
+- Taking attendance
+- Grading assignments, including reading responses
+- Leading [labs](../labs/)
+  - Those materials are meant as a guide / objectives; can adapt as you see fit.
+  - You can just do live demo, make slides... up to you.
+- Responding to student questions
+  - Keeping an eye on Discussions
