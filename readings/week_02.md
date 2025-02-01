@@ -19,14 +19,14 @@ Please do the following:
 
 ## Readings
 
-- [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
-- [A look under the hood: how branches work in Git](https://stackoverflow.blog/2021/04/05/a-look-under-the-hood-how-branches-work-in-git/)
-- [Manifesto for Agile Software Development](https://agilemanifesto.org/)
-  - a.k.a. The Agile Manifesto
-  - This is short, but important. Read it slowly.
-- [_Inspired_ by Marty Cagan, chapters 8-9](https://courseworks2.columbia.edu/courses/210480/files?preview=23023996)
-- [Kanban](https://www.atlassian.com/agile/kanban)
-- [The three "PM"s: Differentiating between Product, Project, and Program Management](https://www.linkedin.com/pulse/three-pms-differentiating-between-product-project-diamonde-henderson)
-- [Getting to “technical enough” as a product manager](https://medium.com/@lulu_cheng/getting-to-technical-enough-as-a-product-manager-5b372513cd1c)
+1. [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
+1. [A look under the hood: how branches work in Git](https://stackoverflow.blog/2021/04/05/a-look-under-the-hood-how-branches-work-in-git/)
+1. [Manifesto for Agile Software Development](https://agilemanifesto.org/)
+   - a.k.a. The Agile Manifesto
+   - This is short, but important. Read it slowly.
+1. [_Inspired_ by Marty Cagan, chapters 8-9](https://courseworks2.columbia.edu/courses/210480/files?preview=23023996)
+1. [Kanban](https://www.atlassian.com/agile/kanban)
+1. [The three "PM"s: Differentiating between Product, Project, and Program Management](https://www.linkedin.com/pulse/three-pms-differentiating-between-product-project-diamonde-henderson)
+1. [Getting to “technical enough” as a product manager](https://medium.com/@lulu_cheng/getting-to-technical-enough-as-a-product-manager-5b372513cd1c)
 
 Now [submit a response](../README.md#responses).

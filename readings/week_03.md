@@ -8,8 +8,11 @@
    - Mac users: [Install XCode Command Line Tools](https://www.freecodecamp.org/news/install-xcode-command-line-tools/)
    - Windows: [Git BASH](https://gitforwindows.org/)
 1. [Command Line for Beginners](https://www.freecodecamp.org/news/command-line-for-beginners/)
-1. Optional: [Command Line Heroes: Hello, World](https://www.redhat.com/en/command-line-heroes/season-2/hello-world)
-1. Optional: [Modern CPU Architecture](https://www.youtube.com/watch?v=vgPFzblBh7w)
-1. Optional: Other topics from [Crash Course Computer Science](https://thecrashcourse.com/topic/computerscience/)
 
-Now [submit a response](../README.md#responses).
+Don't forget to [submit a response](../README.md#responses).
+
+## Optional
+
+1. [Command Line Heroes: Hello, World](https://www.redhat.com/en/command-line-heroes/season-2/hello-world)
+1. [Modern CPU Architecture](https://www.youtube.com/watch?v=vgPFzblBh7w)
+1. Other topics from [Crash Course Computer Science](https://thecrashcourse.com/topic/computerscience/)
