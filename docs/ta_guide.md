@@ -26,3 +26,12 @@ The TA is there to help students improve their coding and data analysis skills, 
   - You can just do live demo, make slides... up to you.
 - Responding to student questions
   - Keeping an eye on Discussions
+
+## Assignment setup
+
+Each [reading](../README.md#readings), part of the [Project](project.md), and other one-off assignment should have:
+
+- [ ] [An Assignment in CourseWorks](https://courseworks2.columbia.edu/courses/210480/assignments)
+  - [ ] Links to the corresponding info in this repository
+  - [ ] Due date matches [the schedule](../README.md#schedule)
+- [ ] For [readings](../README.md#readings): A post scheduled to go out in [Ed](https://courseworks2.columbia.edu/courses/210480/external_tools/37606?display=borderless) after the prior class, linking to [the Markdown file](../readings/)
