@@ -39,6 +39,8 @@ In [Computing in Context](https://computing-in-context.afeld.me/), students "exp
 
 There will not be an exam.
 
+Data visualizations must have good titles and axis labels.
+
 ### Assignment scoring details
 
 - Late work: -5% per day

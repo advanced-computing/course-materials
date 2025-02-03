@@ -63,7 +63,9 @@ Do the following as a group:
 1. Narrow down on 1-3 research questions.
    - In other words, at the end of this project, what do you want to be able to show?
 1. Draw an example visualization that you'd like to produce.
+   - You can do so digitally or on a piece of paper.
    - Include a title, legend, and axes labels (where appropriate).
+   - This is just a sketch; don't worry about the specific values.
 
 ### Proposal
 
