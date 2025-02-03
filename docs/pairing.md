@@ -3,6 +3,7 @@
 [General information.](https://dev.to/documatic/pair-programming-best-practices-and-tools-154j#best-practices-for-pair-programming) Short summary:
 
 - Two people in each pairing session is ideal, three is ok
+- Virtual is possible, in-person is better
 - There are two roles:
   - **Driver:** The person with their hands on the keyboard+mouse
   - **Navigator:** Watching, asking questions, making suggestions
