@@ -35,7 +35,11 @@ The TA is there to help students improve their coding and data analysis skills, 
 
 ## One-time setup
 
-- [ ] Set up office hours in the shared calendar
+- [ ] Set up office hours in the shared calendar.
+- [ ] Do [the same one-time setup the students do](../readings/week_02.md#one-time-setup).
+- [ ] Look ahead at the [labs](../labs/), as you'll be leading them.
+- [ ] Ensure your environment is set up to match the students.
+  - [Lab 1](../labs/lab_01.md)
 
 ### Assignments
 
