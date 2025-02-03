@@ -43,6 +43,7 @@ There will not be an exam.
 
 - Late work: -5% per day
   - Communication with the instructor/TA is paramount. They are happy to be flexible with requests for extensions made _before the deadlines_.
+  - Assignments can be turned in up to a week late, then they won't be accepted.
 - Syntax errors: -10 points
 - Incomplete Steps / Steps with logic errors: -2 to -5 points
 - Unattempted Steps: -10 points
