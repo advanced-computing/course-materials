@@ -8,7 +8,6 @@
 1. Waterfall vs. agile
 1. Project management
 1. Project kickoff
-1. Revisiting Generative AI policy
 
 ---
 

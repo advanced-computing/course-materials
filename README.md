@@ -123,13 +123,19 @@ You are expected to bring a laptop to each lecture and lab.
 
 ### Academic Integrity
 
-For individually-submitted assignments: A student may work with other students. However, assignment solutions should not be identical to / copied-and-pasted from one another, and each student should submit theirs separately. In addition, students need to indicate who they worked with with each submission.
+Anything outside of course materials and group assignment members are considered a "source". This includes:
 
-Similarly, it is common practice to use code snippets found on the internet; these sources must be cited.
+- Other students
+- Online resources
+- Books
+- Generative AI (ChatGPT, Copilot, Gemini, etc.)
 
-#### Generative AI
+If you are copying and pasting from a source, it must be cited. This doesn't need to be in a formal style like APA - a comment (and link, where applicable) is fine.
 
-[To be co-developed with the students](lectures/lecture_01.md#generative-ai-policy)
+**If you (or your group) did most of the work yourself, it's ok. If most of the work was copied from elsewhere, it's plagiarism.** For individually-submitted assignments, for example, students are welcome to work with one another, but the submissions should be different. Other notes:
+
+- Students are more than welcome to share approaches and code snippets in the Discussions, so long as they aren't giving the full solution away.
+- Generative AI tools can be incredibly useful, but the code they provide is often incomplete or wrong. Knowing enough about code to critically interpret their results can turn them from a crutch to a superpower.
 
 #### SIPA Academic Integrity Statement
 
