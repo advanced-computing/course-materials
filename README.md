@@ -123,7 +123,12 @@ You are expected to bring a laptop to each lecture and lab.
 
 ### Academic Integrity
 
-Anything outside of course materials and group assignment members are considered a "source". This includes:
+Anything outside of:
+
+- The provided course materials
+- Group assignment members
+
+are considered a "source". This includes:
 
 - Other students
 - Online resources
@@ -132,8 +137,11 @@ Anything outside of course materials and group assignment members are considered
 
 If you are copying and pasting from a source, it must be cited. This doesn't need to be in a formal style like APA - a comment (and link, where applicable) is fine.
 
-**If you (or your group) did most of the work yourself, it's ok. If most of the work was copied from elsewhere, it's plagiarism.** For individually-submitted assignments, for example, students are welcome to work with one another, but the submissions should be different. Other notes:
+**If you / your group did most of the work yourself, it's ok. If most of the work was copied from elsewhere, it's plagiarism,** and will be reported. Other notes:
 
+- For individually-submitted assignments, students are welcome to work with one another, as long as:
+  - You indicate who you worked with
+  - The submissions are different
 - Students are more than welcome to share approaches and code snippets in the Discussions, so long as they aren't giving the full solution away.
 - Generative AI tools can be incredibly useful, but the code they provide is often incomplete or wrong. Knowing enough about code to critically interpret their results can turn them from a crutch to a superpower.
 
