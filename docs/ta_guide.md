@@ -35,6 +35,8 @@ The TA is there to help students improve their coding and data analysis skills, 
 
 ## One-time setup
 
+- [ ] Set up office hours in the shared calendar
+
 ### Assignments
 
 Each [reading](../README.md#readings), part of the [Project](project.md), and other one-off assignment should have:
