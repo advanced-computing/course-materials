@@ -89,7 +89,7 @@ You can find the rubric under the [Assignment](https://courseworks2.columbia.edu
 | ---- | ----------- | ----------------------------------------------------------------- | ----------------------------------------- | -------------------------------------------------------- |
 | 1    | 1/23        | [Welcome; collaborating on code (GitHub)](lectures/lecture_01.md) | none                                      | [Computer setup; Git workflow](labs/lab_01.md)           |
 | 2    | 1/30        | [Project/product management](lectures/lecture_02.md)              | [Readings](readings/week_02.md)           | [Jupyter/pandas/visualization refresher](labs/lab_02.md) |
-| 3    | 2/6         | [Command line; dependency management](lectures/lecture_03.md)     | [Readings](readings/week_03.md)           | TBD                                                      |
+| 3    | 2/6         | [Command line; dependency management](lectures/lecture_03.md)     | [Readings](readings/week_03.md)           | [Project setup](labs/lab_03.md)                          |
 | 4    | 2/13        | Web development (Flask/Streamlit)                                 | TBD                                       | TBD                                                      |
 | 5    | 2/20        | Automated testing                                                 | [Readings](readings/week_05.md)           | TBD                                                      |
 | 6    | 2/27        | Data structures and abstraction                                   | [Readings](readings/week_06.md)           | TBD                                                      |
