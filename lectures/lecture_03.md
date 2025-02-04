@@ -1,4 +1,4 @@
-# Lecture 3 - DRAFT
+# Lecture 3
 
 ---
 
@@ -8,9 +8,44 @@
 
 ### Navigation
 
+- `pwd`
+- `ls`
+  - `ls -al`
+- `cd`
+
 ---
 
 ### Working with files
+
+- Viewing
+  - `cat`
+  - `less`
+- `mv`
+- `cp`
+- Editing
+  - `nano`
+  - `vim`
+
+---
+
+### Other shell stuff
+
+- `echo`
+- Variables
+- `whereis`
+  - `whereis jupyter`
+  - `whereis -a python3`
+- `$PATH`
+- Pipes
+  - `ls | xargs cat`
+- Redirecting output
+
+---
+
+### Shells
+
+- Bash
+- zsh
 
 ---
 
@@ -20,9 +55,9 @@
 
 ### Python
 
-- conda
-- pip
-- Virtual environment
+- [conda](https://docs.conda.io/projects/conda/en/stable/user-guide/getting-started.html)
+- [pip](https://packaging.python.org/en/latest/tutorials/installing-packages/)
+- [Virtual environment](https://docs.python.org/3/library/venv.html)
 
 ---
 
@@ -32,4 +67,11 @@
 
 ### Operating system
 
-- Homebrew/Chocolatey
+- Linux: [Aptitude](https://documentation.ubuntu.com/server/how-to/software/package-management/), [Snapcraft](https://snapcraft.io/docs), [others](https://www.linode.com/docs/guides/linux-package-management-overview/)
+  - [Debian packages vs. Snaps](https://www.reddit.com/r/Ubuntu/comments/a364ii/proscons_of_snap_vs_apt/)
+- Mac: [Homebrew](https://brew.sh/)
+- Windows: [Windows Package Manager / WinGet](https://learn.microsoft.com/en-us/windows/package-manager/), [Chocolatey](https://chocolatey.org/)
+
+---
+
+## [Project Part 2](../docs/project.md#part-2)
