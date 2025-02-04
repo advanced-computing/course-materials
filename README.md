@@ -55,6 +55,7 @@ Data visualizations must have good titles and axis labels.
 See the details and links in the [schedule](#schedule) below. Books, which are either open access and/or will be placed on [Course Reserves](https://library.columbia.edu/services/reserves.html):
 
 - [Article 19, Knodel, M., Uhlig, U., Oever, N. ten, & Cath, C. (2020). _How the Internet Really Works: An Illustrated Guide to Protocols, Privacy, Censorship, and Governance_ (Illustrated edition). No Starch Press.](https://clio.columbia.edu/catalog/15236654)
+  - Strongly recommend [purchasing a physical copy](https://catnip.article19.org/#order).
 - [Sweigart, A. (2025). _Automate the boring stuff with Python_ (3rd Edition). No Starch Press.](https://automatetheboringstuff.com/)
 - [Wufka, M., & Canonico, M. (2023). _Overview of Cloud Computing_. Overleaf.](https://dc.arcabc.ca/islandora/object/dc%3A54375)
 
