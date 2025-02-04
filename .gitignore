@@ -1,4 +1,4 @@
 *.slides.html
-.venv
+.venv/
 .DS_Store
-**/.DS_Store
+__pycache__

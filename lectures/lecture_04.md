@@ -28,7 +28,7 @@ requests.get(url)
 
 ---
 
-## [Flask](https://flask.palletsprojects.com/)
+## [Flask example](../examples/flask/)
 
 ---
 
