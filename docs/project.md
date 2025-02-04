@@ -85,3 +85,15 @@ You will then submit the following to the Discussion on [Ed](https://courseworks
 - **What challenges do you anticipate?**
 
 Only one person from your group needs to submit. None of this is set in stone long term, it is just a starting place. It can all be changed later.
+
+## Part 2
+
+_IN PROGRESS_
+
+### Goal
+
+Get experience with an application development framework
+
+### Steps
+
+Using your dataset from [Part 1](#part-1), create a [Streamlit](https://streamlit.io/) app that includes a visualization. You _can_ get fancy, but don't _have to_ at this stage. Get something simple working first.
