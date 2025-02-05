@@ -14,8 +14,12 @@ The following are types of datasets that are likely to be updated regularly:
   - [The Public Utility Data Liberation (PUDL) Project](https://catalyst.coop/pudl/)
 - Climate
   - [CarbonMapper](https://carbonmapper.org/)
+  - Fire
+    - [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/)
+      - [How to use](https://firms.modaps.eosdis.nasa.gov/academy/)
   - [MethaneSat](https://www.methanesat.org/)
   - [National Oceanic and Atmospheric Administration](https://data.noaa.gov/)
+  - [NASA Land, Atmosphere Near real-time Capability for Earth observation (LANCE)](https://www.earthdata.nasa.gov/data/projects/lance)
   - Surface and ocean temperatures
   - Water quality
     - [NYC Harbor Water Quality](https://data.cityofnewyork.us/Environment/Harbor-Water-Quality/5uug-f49n/about_data)
