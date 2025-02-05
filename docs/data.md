@@ -2,7 +2,9 @@
 
 ## Datasets that are regularly updated
 
-The following are \[types of\] datasets that are likely to be updated regularly, used for [the Project](project.md):
+> Part of [this project](project.md) is getting experience with automated data ingestion. Doing so is more interesting with data that changes regularly.
+
+The following are \[types of\] datasets that could be a good fit:
 
 - Crime
 - Transportation
