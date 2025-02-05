@@ -2,7 +2,7 @@
 
 ## Datasets that are regularly updated
 
-The following are types of datasets that are likely to be updated regularly:
+The following are \[types of\] datasets that are likely to be updated regularly, used for [the Project](project.md):
 
 - Crime
 - Transportation
@@ -33,7 +33,7 @@ The following are types of datasets that are likely to be updated regularly:
   - Stocks
   - Indexes
 
-Places to find it:
+### Places to find them
 
 - ["daily" datasets](https://api.us.socrata.com/api/catalog/v1?q=daily&order=updatedAt+DESC), via the [Socrata Discovery API](https://dev.socrata.com/docs/other/discovery)
 - Transportation data:
