@@ -14,6 +14,7 @@ The following are \[types of\] datasets that could be a good fit:
     - [CitiBike](https://citibikenyc.com/system-data)
 - Energy
   - [The Public Utility Data Liberation (PUDL) Project](https://catalyst.coop/pudl/)
+  - [U.S. Energy Information Administration](https://www.eia.gov/opendata/)
 - Climate
   - [CarbonMapper](https://carbonmapper.org/)
   - Fire
