@@ -17,3 +17,4 @@
   - [Docker](https://aws.amazon.com/docker/)
 - Professional software engineering practices
 - [Hello, Production](https://blog.thepete.net/blog/2019/10/04/hello-production/)
+- [Set up Git scraping](https://simonwillison.net/2020/Oct/9/git-scraping/)

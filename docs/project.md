@@ -107,7 +107,9 @@ Get experience with an application development framework
 ### Tips
 
 - You can load data:
-  - from a URL (preferred)
+  - from a URL (preferred), either:
+    - An API
+    - A link to a CSV
   - from a file, checked into the repository
 - Note the [Streamlit app resource limits](https://blog.streamlit.io/common-app-problems-resource-limits/).
 - At this stage, feel free to [make the dataset small](https://python-public-policy.afeld.me/en/columbia/assignments/open_ended.html#reducing-data-size) to get it working.

@@ -174,3 +174,7 @@ Done through package managers
 ---
 
 ## [Project Part 2](../docs/project.md#part-2)
+
+---
+
+_Note to self: Send terminal commands+output._

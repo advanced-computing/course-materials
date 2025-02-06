@@ -16,11 +16,14 @@ The following are \[types of\] datasets that could be a good fit:
   - [The Public Utility Data Liberation (PUDL) Project](https://catalyst.coop/pudl/)
   - [U.S. Energy Information Administration](https://www.eia.gov/opendata/)
 - Climate
-  - [CarbonMapper](https://carbonmapper.org/)
+  - Air quality
+    - [OpenAQ](https://openaq.org/)
+  - Atmosphere
+    - [CarbonMapper](https://carbonmapper.org/)
+    - [MethaneSat](https://www.methanesat.org/)
   - Fire
     - [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/)
       - [How to use](https://firms.modaps.eosdis.nasa.gov/academy/)
-  - [MethaneSat](https://www.methanesat.org/)
   - [National Oceanic and Atmospheric Administration](https://data.noaa.gov/)
   - [NASA Land, Atmosphere Near real-time Capability for Earth observation (LANCE)](https://www.earthdata.nasa.gov/data/projects/lance)
   - Surface and ocean temperatures
@@ -45,4 +48,6 @@ The following are \[types of\] datasets that could be a good fit:
   - [New York State](https://data.ny.gov/browse-preview?sortBy=last_modified&pageSize=20&limitTo=datasets&category=Transportation)
 - [NYC's recently updated datasets](https://data.cityofnewyork.us/browse?sortBy=last_modified&utf8=%E2%9C%93)
   - Could do a similar search in [other Socrata portals](https://www.opendatanetwork.com/)
+- [Datasets using git-scraping](https://github.com/topics/git-scraping?o=desc&s=updated)
+  - [Background info](https://simonwillison.net/2020/Oct/9/git-scraping/)
 - [Various open data portals](https://python-public-policy.afeld.me/en/columbia/assignments/open_ended.html#open-data-portals)
