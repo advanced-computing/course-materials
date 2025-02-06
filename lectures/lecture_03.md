@@ -5,12 +5,21 @@
 ## Terminals
 
 - Windows
-  - Command Prompt
-  - PowerShell
-  - Git BASH
-  - Windows Subsystem for Linux (WSL)
+  - [Command Prompt](https://www.dell.com/support/kbdoc/en-us/000130703/the-command-prompt-what-it-is-and-how-to-use-it-on-a-dell-system)
+  - [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/overview)
+  - [Git BASH](https://gitforwindows.org/)
+  - [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/about)
 - macOS/Linux
   - Terminal
+
+---
+
+We'll be using:
+
+- Windows: Git BASH
+- macOS: Terminal
+
+Open it up.
 
 ---
 
@@ -18,7 +27,7 @@
 
 - UNIX
 - UNIX-like
-- POSIX standard
+- [POSIX standard](https://en.wikipedia.org/wiki/POSIX)
 
 ---
 
@@ -61,10 +70,10 @@
 ## Other shell stuff
 
 - `echo`
-- Variables
-- `whereis`
-  - `whereis jupyter`
-  - `whereis -a python3`
+- Environment variables
+- `which`
+  - `which jupyter`
+  - `which -a python3`
 - `$PATH`
 - Pipes
   - `ls | xargs cat`
@@ -117,6 +126,12 @@ Done through package managers
   - [Debian packages vs. Snaps](https://www.reddit.com/r/Ubuntu/comments/a364ii/proscons_of_snap_vs_apt/)
 - Mac: [Homebrew](https://brew.sh/)
 - Windows: [Windows Package Manager / WinGet](https://learn.microsoft.com/en-us/windows/package-manager/), [Chocolatey](https://chocolatey.org/)
+
+---
+
+## Containers
+
+[Docker](https://aws.amazon.com/docker/)
 
 ---
 
