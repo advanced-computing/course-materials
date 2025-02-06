@@ -173,10 +173,4 @@ Done through package managers
 
 ---
 
-## Containers
-
-[Docker](https://aws.amazon.com/docker/)
-
----
-
 ## [Project Part 2](../docs/project.md#part-2)

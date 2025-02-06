@@ -11,6 +11,14 @@ Students:
 
 ---
 
+## Terminal in VSCode
+
+- [Using the integrated terminal](https://code.visualstudio.com/docs/terminal/getting-started)
+  - [Selecting the shell](https://code.visualstudio.com/docs/terminal/getting-started#_run-commands-in-another-shell)
+- [Python interpreter selection](https://code.visualstudio.com/docs/python/environments#_working-with-python-interpreters)
+
+---
+
 ## [Project team](../docs/project.md#teams) repository setup
 
 1. [Create a public repository in the `advanced-computing` organization.](https://github.com/new?owner=advanced-computing&visibility=public)

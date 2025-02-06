@@ -14,5 +14,6 @@
 - code formatting
 - Read [Automate the Boring Stuff](https://automatetheboringstuff.com/), chapters TBD
 - containers
+  - [Docker](https://aws.amazon.com/docker/)
 - Professional software engineering practices
 - [Hello, Production](https://blog.thepete.net/blog/2019/10/04/hello-production/)
