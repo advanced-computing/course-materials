@@ -71,6 +71,7 @@
 - Redirecting output
 - `grep`
 - `sudo`
+- `man`
 
 ---
 
