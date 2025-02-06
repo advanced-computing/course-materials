@@ -27,10 +27,18 @@ Students:
      - Your celebrity couple name
      - A combination of your favorite snacks
      - The name your automation will assume once it becomes sentient
-1. [`.gitignore`](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files#configuring-ignored-files-for-a-single-repository)
+1. In the repository folder, [create a virtual environment](https://docs.python.org/3/library/venv.html#creating-virtual-environments).
+1. Add a [`.gitignore`](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files#configuring-ignored-files-for-a-single-repository).
    1. Demo
       - Explain what it does and what it's for
    1. [Set one up for Python and Mac (if applicable)](https://www.toptal.com/developers/gitignore?templates=macos,python)
+1. Add a `requirements.txt`.
+1. [Activate the virtual environment.](https://docs.python.org/3/library/venv.html#how-venvs-work)
+1. Install the dependencies:
+
+   ```sh
+   pip install -r requirements.txt
+   ```
 
 ---
 
@@ -39,9 +47,12 @@ Students:
 Have them trade off sending and reviewing pull requests to add:
 
 - The notebook from [Part 1](../docs/project.md#part-1)
+  - [Select the Python interpreter under `.venv/` as the kernel.](https://code.visualstudio.com/docs/datascience/jupyter-kernel-management)
+  - Ensure the notebook runs from VSCode.
+  - The notebook may not (fully) render on GitHub, due to having interactivity. Try accessing the GitHub URL via [nbviewer](https://nbviewer.org/)/[Colab](https://colab.research.google.com/).
 - A README
-
-The notebook may not (fully) render, due to having interactivity. They can test with the GitHub URL in [nbviewer](https://nbviewer.org/)/[Colab](https://colab.research.google.com/).
+  - Setup/usage instructions - these will change over time
+- An [Open in Colab button](https://openincolab.com/)
 
 ---
 
