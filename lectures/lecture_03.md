@@ -4,6 +4,21 @@
 
 ## Command line
 
+- Windows
+  - Command Prompt
+  - PowerShell
+  - Git BASH
+  - Windows Subsystem for Linux (WSL)
+- macOS/Linux
+  - Terminal
+
+---
+
+## Distributions
+
+- UNIX
+- POSIX standard
+
 ---
 
 ### Navigation
@@ -39,17 +54,21 @@
 - Pipes
   - `ls | xargs cat`
 - Redirecting output
+- `grep`
 
 ---
 
 ### Shells
 
+- PowerShell
 - Bash
 - zsh
 
 ---
 
-## Dependency management
+## Dependency/package management
+
+Done through package managers
 
 ---
 
@@ -57,6 +76,7 @@
 
 - [conda](https://docs.conda.io/projects/conda/en/stable/user-guide/getting-started.html)
 - [pip](https://packaging.python.org/en/latest/tutorials/installing-packages/)
+  - [PyPI](https://pypi.org/)
 - [Virtual environment](https://docs.python.org/3/library/venv.html)
 
 ---
