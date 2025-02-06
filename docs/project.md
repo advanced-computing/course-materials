@@ -96,6 +96,6 @@ Get experience with an application development framework
 
 Using your dataset from [Part 1](#part-1), create and deploy a [Streamlit](https://streamlit.io/) app that includes a visualization. You _can_ get fancy, but don't _have to_ at this stage. Get something simple working first.
 
-Then, bring in a second relevant dataset. This can be shown on [a separate page](https://docs.streamlit.io/get-started/fundamentals/additional-features#pages) of your Streamlit app, or combined in a single visualization.
+Then, bring in a second relevant dataset. (This one doesn't need to be regularly updated.) This can be shown on [a separate page](https://docs.streamlit.io/get-started/fundamentals/additional-features#pages) of your Streamlit app, or combined in a single visualization.
 
 Make sure the Streamlit app shows the names of the people in your team. You will turn in the link to your live app.

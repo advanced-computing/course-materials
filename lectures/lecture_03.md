@@ -1,4 +1,6 @@
-# Lecture 3 - the command line
+# Lecture 3
+
+**The command line**
 
 ---
 
@@ -42,12 +44,31 @@ Open it up.
 
 ---
 
+## Paths
+
+- Separators:
+  - Windows (outside of Git BASH): `\`
+  - macOS/Linux: `/`
+- `.` - current directory
+- `..` - parent directory
+- Absolute vs. relative
+
+---
+
 ## Navigation
 
-- `pwd`
-- `ls`
-  - `ls -al`
-- `cd`
+- `pwd` - path of working directory
+- `ls` - list files
+  - `ls -al` - list _all_ files (with dotfiles) with more details
+- `cd` - change directory
+- Mac:
+  1. From Finder, right-click on folder
+  1. Click `Services`
+  1. Click `New Terminal at Folder`
+
+---
+
+Control-`r` allows you to search your command history
 
 ---
 
@@ -67,9 +88,35 @@ Open it up.
 
 ---
 
+If files have spaces or special characters, need to put quotes around them.
+
+- Best to avoid these when naming files, sticking to:
+  - Letters
+  - Numbers
+  - Periods
+  - Hyphens
+  - Underscores
+- For Python files, [snake case](https://en.wikipedia.org/wiki/Snake_case) is most common.
+
+---
+
+## Exiting/quitting
+
+- less: `q`
+- nano: control-`x`
+- vim: escape, then `:q!`
+- Other command line tools: control-`c`
+
+Worst case, close your Terminal, and that will kill whatever process was running.
+
+---
+
 ## Other shell stuff
 
 - `echo`
+  - `echo abc | less`
+- Exit codes
+  - `echo $?`
 - Environment variables
 - `which`
   - `which jupyter`
@@ -80,6 +127,7 @@ Open it up.
 - Redirecting output
 - `grep`
 - `sudo`
+  - [Important coder cultural reference](https://xkcd.com/149/)
 - `man`
 
 ---
@@ -113,10 +161,6 @@ Done through package managers
 - [pip](https://packaging.python.org/en/latest/tutorials/installing-packages/)
   - [PyPI](https://pypi.org/)
 - [Virtual environment](https://docs.python.org/3/library/venv.html)
-
----
-
-#### [VSCode interpreter selection](https://code.visualstudio.com/docs/python/environments#_working-with-python-interpreters)
 
 ---
 

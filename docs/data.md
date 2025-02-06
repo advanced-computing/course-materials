@@ -25,7 +25,6 @@ The following are \[types of\] datasets that could be a good fit:
   - [NASA Land, Atmosphere Near real-time Capability for Earth observation (LANCE)](https://www.earthdata.nasa.gov/data/projects/lance)
   - Surface and ocean temperatures
   - Water quality
-    - [NYC Harbor Water Quality](https://data.cityofnewyork.us/Environment/Harbor-Water-Quality/5uug-f49n/about_data)
   - Weather
 - Public facilities
   - Jails/prisons
@@ -35,6 +34,8 @@ The following are \[types of\] datasets that could be a good fit:
 - Finance
   - Stocks
   - Indexes
+- Polls
+  - [538 political polls](https://projects.fivethirtyeight.com/polls/)
 
 ### Places to find them
 
