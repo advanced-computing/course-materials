@@ -1,6 +1,6 @@
 # Teaching Assistant (TA) Guide
 
-The TA is there to help students improve their coding and data analysis skills, lead recitations (a.k.a. labs), ensure student questions get answered, and perform grading.
+The TA is there to help students improve their coding and data analysis skills, lead labs, ensure student questions get answered, and perform grading.
 
 - [General information on SIPA Assistantships.](https://www.sipa.columbia.edu/students/resources-sipa-students)
 - [Schedule](../README.md#schedule)
@@ -10,7 +10,7 @@ The TA is there to help students improve their coding and data analysis skills, 
 
 ## Time commitment
 
-- Attending the full lectures (on time) and leading the recitation session in-person for your assigned section each week
+- Attending the full lectures (on time) and leading the lab session in-person for your assigned section each week
 - Holding office hours for two hours each week
   - At least one hour should be a set time, the remainder can be by appointment
   - Can be virtual or in-person
