@@ -4,6 +4,14 @@
 
 ## Browser Developer Tools
 
+Showing Chrome, but it's [similar in other browsers](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Tools_and_setup/What_are_browser_developer_tools#how_to_open_the_devtools_in_your_browser).
+
+- Brief mention:
+  - [Elements (HTML) panel](https://developer.chrome.com/docs/devtools/elements)
+  - [Lighthouse](https://developer.chrome.com/docs/devtools/lighthouse)
+  - [Device mode](https://developer.chrome.com/docs/devtools/device-mode)
+- [Network panel](https://developer.chrome.com/docs/devtools/network/overview)
+
 ---
 
 ## HTTP
@@ -24,7 +32,23 @@ requests.get(url)
 
 ---
 
-## cURL
+## [Flask example](../examples/flask/)
+
+Visit http://127.0.0.1:5000/echo.
+
+---
+
+## [cURL](https://curl.se/)
+
+---
+
+`-I` flag
+
+---
+
+### [wget](https://www.gnu.org/software/wget/)
+
+Like cURL, but for downloading files.
 
 ---
 
