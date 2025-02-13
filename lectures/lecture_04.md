@@ -1,4 +1,12 @@
-# Lecture 4 - IN PROGRESS
+# Lecture 4
+
+---
+
+🤪
+
+---
+
+## Will troubleshooting
 
 ---
 
@@ -40,19 +48,18 @@ Visit http://127.0.0.1:5000/echo.
 
 ## [cURL](https://curl.se/)
 
----
-
-`-I` flag
+```sh
+curl -I http://127.0.0.1:5000/echo
+curl -X POST http://127.0.0.1:5000/echo
+curl -d "hello" http://127.0.0.1:5000/echo
+curl -i http://127.0.0.1:5000/echo > response.txt
+```
 
 ---
 
 ### [wget](https://www.gnu.org/software/wget/)
 
 Like cURL, but for downloading files.
-
----
-
-## [Flask example](../examples/flask/)
 
 ---
 

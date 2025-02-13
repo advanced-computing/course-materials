@@ -19,10 +19,13 @@ def show_table():
     return render_template("index.html", table=df.to_html())
 
 
-@app.route("/echo")
+@app.route("/echo", methods=["GET", "POST"])
 def echo():
+    print("-----START-----")
     print("Method:", request.method)
     print("URL:", request.url)
     print("Headers:\n")
     print(request.headers)
+    print(f'Body: "{request.get_data(as_text=True)}"')
+    print("-----END-----")
     return "see console"
