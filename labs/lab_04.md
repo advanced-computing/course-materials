@@ -1,9 +1,3 @@
----
-marp: true
-paginate: true
----
-
-
 # Lab 4
 
 ## Objective
