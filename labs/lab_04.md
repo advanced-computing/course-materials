@@ -1,3 +1,9 @@
+---
+marp: true
+paginate: true
+---
+
+
 # Lab 4
 
 ## Objective
@@ -28,6 +34,7 @@ We will be practicing [pair programming](../docs/pairing.md) and [documentation-
    - Don't spend too long on this step.
 1. [Create a public repository in the `advanced-computing` organization.](https://github.com/new?owner=advanced-computing&visibility=public)
    - Call it something like `[name1]-[name2]-api`.
+   - Make sure to grant collaborator access to your partner.
 1. Create a README that will describe how to use your forthcoming API.
 
 ---
@@ -43,6 +50,8 @@ For each step, you will:
 1. Test it.
 
 The documentation is a starting place; you can add/modify as you go.
+
+For inspiration checkout the example [here](https://github.com/advanced-computing/lab_examples/tree/main/lab_04).
 
 ---
 
