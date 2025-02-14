@@ -4,7 +4,7 @@
 
 ## Setup
 
-- [Set up branch protection for your repository's `main` branch in VSCode](https://barker.codes/blog/branch-protection-in-visual-studio-code/)
+- [Set up branch protection for your Project repository's `main` branch in VSCode](https://barker.codes/blog/branch-protection-in-visual-studio-code/)
 
 ## Readings
 
