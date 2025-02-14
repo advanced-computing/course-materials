@@ -16,6 +16,7 @@ Showing Chrome, but it's [similar in other browsers](https://developer.mozilla.o
 
 - Brief mention:
   - [Elements (HTML) panel](https://developer.chrome.com/docs/devtools/elements)
+    - [View source](https://support.google.com/surveys/answer/6172725)
   - [Lighthouse](https://developer.chrome.com/docs/devtools/lighthouse)
   - [Device mode](https://developer.chrome.com/docs/devtools/device-mode)
 - [Network panel](https://developer.chrome.com/docs/devtools/network/overview)
@@ -51,7 +52,7 @@ Visit http://127.0.0.1:5000/echo.
 ```sh
 curl -I http://127.0.0.1:5000/echo
 curl -X POST http://127.0.0.1:5000/echo
-curl -d "hello" http://127.0.0.1:5000/echo
+curl -X POST -d "hello" http://127.0.0.1:5000/echo
 curl -i http://127.0.0.1:5000/echo > response.txt
 ```
 
@@ -64,3 +65,7 @@ Like cURL, but for downloading files.
 ---
 
 ## [Streamlit](https://docs.streamlit.io/)
+
+---
+
+Readings will be updated
