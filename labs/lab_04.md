@@ -55,9 +55,12 @@ Allow the user to:
 
 1. List records
    - You can start with CSV or JSON output; you will implement the other later.
-   - Hints:
-     - See [`to_csv()`](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html).
-     - "If \[the path is\] None, the result is returned as a string."
+   - <details><summary><strong>Hints</strong></summary>
+      <ul>
+         <li>See <a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html"><code>to_csv()</code></a> and <a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_json.html"><code>to_json()</code></a>.</li>
+         <li>"If [the path is] None, the result is returned as a string."</li>
+      <ul>
+     </details>
 1. Filter the data based on a particular column
 1. Specify a `limit` ad `offset`
 1. Retrieve a single record by identifier
