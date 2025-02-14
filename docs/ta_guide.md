@@ -63,8 +63,16 @@ Each [reading](../README.md#readings), part of the [Project](project.md), and ot
 - [Recording attendance](https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-the-Roll-Call-Attendance-Tool/ta-p/59#take_attendance)
 - Grading assignment submissions and releasing grades
   - Recommend waiting until the submission deadline to start grading, to avoid issues with students who may have been intending to continue working on it
-- Weekly check-in with instructor
-  - We'll use [the same format as the Python course](https://python-public-policy.afeld.me/en/columbia/meta/assistant_guide.html#check-in-meeting).
+
+### Check-in meeting
+
+1. How did the Lab go?
+1. How's the workload?
+1. Anything you need clarification on?
+1. Any Discussions the instructor should jump in on?
+1. What came up in Lab/Discussions/assignments (common problems, etc.) that might be useful to cover in class?
+1. Are all cells in the gradebook filled in (through last week)?
+1. Are all the Assignments created that need to be?
 
 ## Student interactions
 
