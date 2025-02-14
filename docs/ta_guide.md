@@ -49,6 +49,7 @@ Each [reading](../README.md#readings), part of the [Project](project.md), and ot
   - [ ] Link to the corresponding Markdown file
   - [ ] `Due` date matches [the schedule](../README.md#schedule)
   - [ ] `Until` date matches the [late work cutoff](../README.md#assignment-scoring-details)
+  - [ ] Rubric is attached
   - [ ] [Published](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-publish-or-unpublish-an-assignment-as-an-instructor/ta-p/585)
 - [ ] For [readings](../README.md#readings) and [the Project Part 1](project.md#part-1): A post for the responses, scheduled to go out in [Ed](https://courseworks2.columbia.edu/courses/210480/external_tools/37606?display=borderless) after the prior class
   - [ ] Link to [the corresponding Markdown file](../readings/)
