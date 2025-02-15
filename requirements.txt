@@ -1,4 +1,5 @@
 Flask==3.*
 isort
 jupyter==1.*
+pytest
 ruff

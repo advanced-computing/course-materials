@@ -14,3 +14,5 @@
 
 - [Alexa and Third Parties' Reasonable Expectation of Privacy](https://www.law.georgetown.edu/american-criminal-law-review/aclr-online/volume-54/alexa-and-third-parties-reasonable-expectation-of-privacy/)
 - [The Privacy Risks of Your Smart Speaker](https://vpnoverview.com/privacy/devices/privacy-risks-smart-speaker/)
+
+Now [submit a response](../README.md#responses).
