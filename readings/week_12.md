@@ -6,3 +6,5 @@
 1. Optional: [Part 2](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-11-understanding-program-efficiency-part-2/)
 1. [How the Internet Really Works](../README.md#readings), Chapter 8 (pages 67-73)
 1. [Stitch Fix Algorithms Tour](https://algorithms-tour.stitchfix.com/)
+
+Now [submit a response](../README.md#responses).
