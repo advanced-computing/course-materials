@@ -122,4 +122,4 @@ Make Visualization X
 
 ---
 
-[Turn in the lab in CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+[**Submit** via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)

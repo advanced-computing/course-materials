@@ -45,7 +45,7 @@ For each step, you will:
 
 The documentation is a starting place; you can add/modify as you go.
 
-For inspiration checkout the example [here](https://github.com/advanced-computing/lab_examples/tree/main/lab_04).
+For inspiration, check out [the example](https://github.com/advanced-computing/lab_examples/tree/main/lab_04).
 
 ---
 
@@ -65,3 +65,5 @@ Allow the user to:
 1. Specify a `limit` ad `offset`
 1. Retrieve a single record by identifier
 1. Specify the output format (CSV or JSON)
+
+[**Submit** via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
