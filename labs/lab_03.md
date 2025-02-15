@@ -99,9 +99,11 @@ Students:
 
 ## Adding TODOs
 
-- Each group [create issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/quickstart) for the things that came up in [the brainstorming](../lectures/lecture_02.md#the-project)
-  - Add objectives / [acceptance criteria](https://www.atlassian.com/work-management/project-management/acceptance-criteria) for each. (These can change later.)
-- Examples:
+Each group [create issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/quickstart) for the things that came up in [the brainstorming](../lectures/lecture_02.md#the-project). Add objectives / [acceptance criteria](https://www.atlassian.com/work-management/project-management/acceptance-criteria) for each. (These can change later.)
+
+---
+
+### Examples
 
 ```markdown
 Get data
