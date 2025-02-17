@@ -6,4 +6,4 @@
 
 ## Profiling
 
-[Examples](lecture_05_code.ipynb)
+[Examples](lecture_05_profiling.ipynb)
