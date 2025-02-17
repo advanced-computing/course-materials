@@ -1,4 +1,5 @@
 Flask==3.*
+great_expectations==1.*
 isort
 jupyter==1.*
 # without this, get an error of "module 'numpy' has no attribute '_no_nep50_warning'"
