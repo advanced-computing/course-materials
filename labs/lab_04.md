@@ -61,8 +61,8 @@ Allow the user to:
          <li>"If [the path is] None, the result is returned as a string."</li>
       <ul>
      </details>
-1. Filter the data based on a particular column
-1. Specify a `limit` ad `offset`
+1. Filter the data based on a particular column, such as `age=30`
+1. Specify a `limit` and `offset`
 1. Retrieve a single record by identifier
 1. Specify the output format (CSV or JSON)
 
