@@ -18,5 +18,5 @@ module "projects" {
 
   source     = "./group_project"
   folder_id  = google_folder.projects.id
-  project_id = each.key
+  project_id = "sipa-acp-${each.key}"
 }
