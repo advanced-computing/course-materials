@@ -1,0 +1,7 @@
+{
+  "git.branchProtectionPrompt": "alwaysCommit",
+  "workbench.externalBrowser": "chrome",
+  "python.testing.pytestArgs": ["tests"],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true
+}

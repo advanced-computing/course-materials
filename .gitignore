@@ -1,4 +1,5 @@
 *.slides.html
 .venv/
+!.vscode/settings.json
 .DS_Store
 __pycache__
