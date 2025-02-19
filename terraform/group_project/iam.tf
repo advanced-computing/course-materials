@@ -22,5 +22,5 @@ resource "google_project_iam_member" "student" {
 resource "google_project_iam_member" "ta" {
   project = google_project.main.project_id
   role    = "roles/admin"
-  member  = "user:rz2516@columbia.edu"
+  member  = var.ta_member
 }

@@ -6,6 +6,10 @@ variable "project_id" {
   type = string
 }
 
+variable "ta_member" {
+  type = string
+}
+
 variable "group" {
   type = object({
     student_1_first = string

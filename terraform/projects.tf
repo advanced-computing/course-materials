@@ -19,6 +19,8 @@ locals {
     group.student_2_first,
     group.student_3_first,
   ]))) => group }
+
+  ta_member = "user:rz2516@columbia.edu"
 }
 
 module "projects" {
@@ -28,4 +30,25 @@ module "projects" {
   folder_id  = google_folder.group_projects.id
   project_id = "sipa-adv-c-${each.key}"
   group      = each.value
+  ta_member  = local.ta_member
+}
+
+module "ta_project" {
+  for_each = toset(["roberto"])
+
+  source     = "./group_project"
+  folder_id  = google_folder.group_projects.id
+  project_id = "sipa-adv-c-${each.value}"
+  group = {
+    student_1_first = null
+    student_1_last  = null
+    student_1_uni   = null
+    student_2_first = null
+    student_2_last  = null
+    student_2_uni   = null
+    student_3_first = null
+    student_3_last  = null
+    student_3_uni   = null
+  }
+  ta_member = local.ta_member
 }
