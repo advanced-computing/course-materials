@@ -33,15 +33,7 @@ This will incorporate:
 - It leverages at least one [dataset that's regularly updated](data.md#datasets-that-are-regularly-updated).
 - _More to come_
 
-## Teams
-
-1. [Alexa](../people/alexachan.md) and [Giulio](../people/giulio.md)
-1. [Angel](../people/angel.md) and [Krishna](../people/Krishna.md)
-1. [Arnav](../people/arnav.md) and [Fred](../people/fred.md)
-1. [Arshiya](../people/arshiya.md) and [Ijaz](../people/ijaz.md)
-1. [Charlotte](../people/charlotte.md), [Hiro](../people/hiro.md), and [Sam](../people/sam.md)
-1. Ibrahim and [Isaura](../people/isaura.md)
-1. [Naga](../people/naga.md) and [Will](../people/willfrolich.md)
+## [Teams](project_teams.csv)
 
 ## Part 1
 
