@@ -1,7 +1,6 @@
 resource "google_project" "main" {
   name       = var.project_id
   project_id = var.project_id
-  folder_id  = var.folder_id
   # deletion_policy = "DELETE"
 
   lifecycle {

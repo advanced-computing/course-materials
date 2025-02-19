@@ -1,22 +1,17 @@
-resource "google_folder" "projects" {
-  display_name = "SIPA Advanced Computing"
-  parent       = "organizations/378073203623" # afeld.me
-}
-
 locals {
   student_groups = csvdecode(file("${path.module}/../docs/project_teams.csv"))
   # first1-first2-first3
-  student_group_ids = [for g in local.student_groups : lower(join("-", compact([
-    g.student_1_first,
-    g.student_2_first,
-    g.student_3_first,
-  ])))]
+  student_groups_by_id = { for group in local.student_groups : lower(join("-", compact([
+    group.student_1_first,
+    group.student_2_first,
+    group.student_3_first,
+  ]))) => group }
 }
 
 module "projects" {
-  for_each = toset(local.student_group_ids)
+  for_each = local.student_groups_by_id
 
   source     = "./group_project"
-  folder_id  = google_folder.projects.id
-  project_id = "sipa-acp-${each.key}"
+  project_id = "adv-comp-${each.key}"
+  group      = each.value
 }
