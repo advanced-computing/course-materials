@@ -1,26 +1,5 @@
 # Google Cloud
 
-## Course setup
-
-This only needs to be done once per semester.
-
-1. If the number of students+instructors is larger than 20, [request a Project Quota increase](https://support.google.com/code/contact/project_quota_increase).
-1. [Install Terraform](https://developer.hashicorp.com/terraform/install).
-1. [Install `gcloud`](https://cloud.google.com/sdk/docs/install).
-1. Set up `gcloud`:
-
-   ```sh
-   gcloud config configurations activate columbia
-   gcloud auth application-default login
-   ```
-
-1. Ensure the [teams list](project_teams.csv) is up to date.
-1. Run `terraform apply`.
-
-As students go through the setup (below), you can re-run the `apply` to get a report of who is missing billing.
-
-## Student setup
-
 Do these one-time setup steps to ensure you don't have to pay for Google Cloud use for this class. Credits are provided through the [Google Cloud for Education](https://cloud.google.com/edu/faculty) program.
 
 A [Project](https://cloud.google.com/docs/overview#projects) has been created for you, which the instructors have access to for troubleshooting. You redeem the credits, which creates a Billing Account. You then have to associate that Billing Account with the existing Project.
@@ -43,11 +22,11 @@ A [Project](https://cloud.google.com/docs/overview#projects) has been created fo
    1. Click `sipa-adv-c-<name1>-<name2>`
 1. [Change the Billing Account](https://cloud.google.com/billing/docs/how-to/modify-project#how-to-change-ba) to `Billing Account for Education`
 
-### Accidentally redeemed the credit with the wrong Google account
+## Accidentally redeemed the credit with the wrong Google account
 
 If you missed the step above about switching to your Columbia Google account, the easiest fix is to follow [these steps](https://cloud.google.com/billing/docs/how-to/grant-access-to-billing#update-cloud-billing-permissions) and make your `<uni>@columbia.edu` user a `Billing Account Administrator` on the `Billing Account for Education`.
 
-### Use of Google Cloud outside this class
+## Use of Google Cloud outside this class
 
 If you're using Google Cloud for something outside of this class, we suggest [creating a separate Project](https://cloud.google.com/resource-manager/docs/creating-managing-projects) to keep things isolated. The `Billing Account for Education` is yours, so you're welcome to [associate it with other Projects](https://cloud.google.com/billing/docs/how-to/modify-project#how-to-change-ba) to use those credits.
 
