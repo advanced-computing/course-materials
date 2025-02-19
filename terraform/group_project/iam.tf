@@ -6,7 +6,7 @@ resource "google_project_iam_member" "student" {
   for_each = toset(local.unis)
 
   project = google_project.main.project_id
-  role    = "roles/editor"
+  role    = "roles/admin"
   member  = "user:${each.value}@columbia.edu"
 }
 
@@ -15,12 +15,12 @@ resource "google_project_iam_member" "student" {
 
 # resource "google_project_iam_member" "instructor" {
 #   project = google_project.main.project_id
-#   role    = "roles/owner"
+#   role    = "roles/admin"
 #   member  = "user:alf2215@columbia.edu"
 # }
 
 resource "google_project_iam_member" "ta" {
   project = google_project.main.project_id
-  role    = "roles/editor"
+  role    = "roles/admin"
   member  = "user:rz2516@columbia.edu"
 }
