@@ -40,7 +40,7 @@ A [Project](https://cloud.google.com/docs/overview#projects) has been created fo
    1. In the top navigation bar, on the left side, click the drop-down
    1. You should see a `Select a resource` modal pop up
    1. Click the `ALL` tab
-   1. Click `Ops Mgmt in IT - <your UNI>`
+   1. Click `sipa-adv-c-<name1>-<name2>`
 1. [Change the Billing Account](https://cloud.google.com/billing/docs/how-to/modify-project#how-to-change-ba) to `Billing Account for Education`
 
 ### Accidentally redeemed the credit with the wrong Google account
