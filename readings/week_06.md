@@ -1,4 +1,4 @@
-# Week 6 readings - IN PROGRESS
+# Week 6 readings
 
 [General information](../README.md#readings)
 
