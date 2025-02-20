@@ -1,6 +1,51 @@
 # Lab 5 - IN PROGRESS
 
-- Set up tests for your data cleaning
-- Set up quality checks for your dataset
+## Objective
 
-[**Submit** via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+Get hands-on experience with:
+
+- Unit testing
+- Data profiling
+- Data quality checks
+
+---
+
+## Steps
+
+You'll [pair](../docs/pairing.md) in your [Project teams](../docs/project.md#teams). Work on branches and submit pull requests for the chunks of work — you decide what the "chunks" are.
+
+---
+
+### Unit testing
+
+Without writing any code:
+
+1. Review your existing code.
+   - What can be refactored into functions?
+   - Where can we make our code [DRY](https://dzone.com/articles/is-your-code-dry-or-wet)?
+1. Decide what function you're going to create.
+1. Come up with test cases (inputs) and expected outputs.
+   - This can be in a doc, on a piece of paper, etc.
+
+---
+
+Then, as code:
+
+1. Write tests.
+1. Confirm they fail.
+1. Refactor your code into the function.
+1. Make the tests pass.
+
+---
+
+### Data profiling
+
+TODO
+
+---
+
+### Quality checks
+
+---
+
+[**Submit** the links to the pull requests via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
