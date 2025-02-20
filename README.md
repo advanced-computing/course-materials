@@ -106,7 +106,7 @@ You can find the rubric under the [Assignment](https://courseworks2.columbia.edu
 
 [recess]: https://registrar.columbia.edu/content/academic-calendar?acfy=49&acschool=18&acterm=6&field_event_type1_tid%255B%255D=23&keys=#!#e=9806
 
-[Labs](labs/) are due before the next Lab.
+**[Labs](labs/) are due before the next Lab.**
 
 This is a new course; all of the above is subject to change. Things will be adjusted to the needs and interests of the students.
 

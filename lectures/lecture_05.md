@@ -76,7 +76,7 @@ Structured way of doing what we were already doing
 
 ## Profiling
 
-[Examples](lecture_05_profiling.ipynb)
+[Examples](../examples/profiling.ipynb)
 
 ---
 
