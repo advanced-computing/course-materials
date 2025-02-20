@@ -106,3 +106,22 @@ Get experience with an application development framework
 - Note the [Streamlit app resource limits](https://blog.streamlit.io/common-app-problems-resource-limits/).
 - At this stage, feel free to [make the dataset small](https://python-public-policy.afeld.me/en/columbia/assignments/open_ended.html#reducing-data-size) to get it working.
 - If the app is slow to reload, experiment with [caching](https://docs.streamlit.io/get-started/fundamentals/advanced-concepts#caching).
+
+## Part 3 - unit testing
+
+Work on branches and submit pull requests for the chunks of work — you decide what the "chunks" are.
+
+1. Without writing any code:
+   1. Review your existing code.
+      - What can be refactored into functions?
+      - Where can we make our code [DRY](https://dzone.com/articles/is-your-code-dry-or-wet)?
+   1. Decide what function you're going to create.
+   1. Come up with test cases (inputs) and expected outputs.
+      - This can be in a text file, doc, piece of paper, etc.
+1. Then, as code:
+   1. Write tests.
+   1. Confirm they fail.
+   1. Refactor your code into the function.
+   1. Make the tests pass.
+1. Repeat until you feel your code is well-organized and well-tested.
+1. [Submit the links to the pull requests via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)

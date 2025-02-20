@@ -90,6 +90,7 @@ Structured way of doing what we were already doing
 
 Code needs to be testable. This encourages good habits, like:
 
+- Ensuring your code can change without unexpected breakage
 - Making small, reusable functions with well-defined behavior
 - Organizing code into modules
 - Allowing the loading of a module without running all the code
@@ -106,3 +107,11 @@ Seeing projects with `<name>2.py`. Splitting code up into smaller files will hel
 
 - Can be flexible, like checking for standard deviation or X% matching certain criteria
 - There are tools that help with this
+
+---
+
+## [Project Part 3](../docs/project.md#part-3---unit-testing)
+
+---
+
+Reminder of the [Project expectations](../docs/project.md#expectations).
