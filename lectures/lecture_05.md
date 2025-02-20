@@ -1,14 +1,16 @@
 # Lecture 5
 
+**Automated testing**
+
+---
+
+## [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdLj1Y6WLyD6bWHmNCV9G47MNZPtHEtjGKaugyE9uahuG81HA/viewform?usp=header)
+
 ---
 
 ## [Project Part 2](../docs/project.md#part-2)
 
 How did it go?
-
----
-
-## [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdLj1Y6WLyD6bWHmNCV9G47MNZPtHEtjGKaugyE9uahuG81HA/viewform?usp=header)
 
 ---
 
