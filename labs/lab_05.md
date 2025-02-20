@@ -25,7 +25,7 @@ Without writing any code:
    - Where can we make our code [DRY](https://dzone.com/articles/is-your-code-dry-or-wet)?
 1. Decide what function you're going to create.
 1. Come up with test cases (inputs) and expected outputs.
-   - This can be in a doc, on a piece of paper, etc.
+   - This can be in a text file, doc, piece of paper, etc.
 
 ---
 
@@ -40,12 +40,10 @@ Then, as code:
 
 ### Data profiling
 
-TODO
+[Set up YData Profiling](../lectures/lecture_05_profiling.ipynb#ydata-profiling) for your dataset. If it's slow, see [their documentation on profiling large datasets](https://docs.profiling.ydata.ai/latest/features/big_data/).
 
 ---
 
-### Quality checks
+## Submit
 
----
-
-[**Submit** the links to the pull requests via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+[Submit the links to the pull requests via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
