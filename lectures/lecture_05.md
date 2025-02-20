@@ -28,6 +28,10 @@ We want to normalize phone numbers. What situations do we need to handle?
 
 ---
 
+[Solution](../examples/phone/test_phone.py)
+
+---
+
 ## [Test-Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)
 
 1. Create an empty function
@@ -47,6 +51,10 @@ We want to normalize phone numbers. What situations do we need to handle?
 - `print()`
 - `assert`
 - Loop
+
+---
+
+### [Running through VSCode](https://code.visualstudio.com/docs/python/testing)
 
 ---
 
