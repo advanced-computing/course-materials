@@ -44,12 +44,15 @@ You'll [pair](../docs/pairing.md) in your group, repository, and dataset from [L
 
 ### Data profiling
 
-[**Set up YData Profiling**](../examples/profiling.ipynb#ydata-profiling) for your dataset. If it's slow, see [their documentation on profiling large datasets](https://docs.profiling.ydata.ai/latest/features/big_data/).
+_If there's time_
+
+[**Set up YData Profiling**](../examples/profiling/profiling.ipynb#ydata-profiling) for your dataset. If it's slow, see [their documentation on profiling large datasets](https://docs.profiling.ydata.ai/latest/features/big_data/).
 
 ---
 
 ### Data quality checks
 
+- Unit tests for data
 - [Things to check for when cleaning data](https://computing-in-context.afeld.me/lecture_17.html#data-cleaning)
 - Can be flexible, like checking for:
   - Standard deviation being in a certain range
@@ -58,7 +61,7 @@ You'll [pair](../docs/pairing.md) in your group, repository, and dataset from [L
 
 ---
 
-**Set up at least three different data quality checks** with pytest.
+**Write data quality checks for three of the [things to check for](https://computing-in-context.afeld.me/lecture_17.html#things-to-check-for** with pytest.
 
 ---
 
