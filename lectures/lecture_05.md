@@ -58,6 +58,10 @@ We want to normalize phone numbers. What situations do we need to handle?
 
 ---
 
+#### [Debugging](https://code.visualstudio.com/docs/python/testing#_debug-tests)
+
+---
+
 ## Unit testing
 
 - inputs → function → expected outputs
