@@ -111,7 +111,7 @@ Seeing projects with `<name>2.py`. Splitting code up into smaller files will hel
 
 ---
 
-## [Project Part 3](../docs/project.md#part-3---unit-testing)
+## [Project Part 3](../docs/project.md#part-3)
 
 ---
 

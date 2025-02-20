@@ -107,7 +107,13 @@ Get experience with an application development framework
 - At this stage, feel free to [make the dataset small](https://python-public-policy.afeld.me/en/columbia/assignments/open_ended.html#reducing-data-size) to get it working.
 - If the app is slow to reload, experiment with [caching](https://docs.streamlit.io/get-started/fundamentals/advanced-concepts#caching).
 
-## Part 3 - unit testing
+## Part 3
+
+### Goal
+
+Get experience with unit testing
+
+### Steps
 
 Work on branches and submit pull requests for the chunks of work — you decide what the "chunks" are.
 
