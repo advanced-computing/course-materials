@@ -8,6 +8,14 @@ How did it go?
 
 ---
 
+## [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdLj1Y6WLyD6bWHmNCV9G47MNZPtHEtjGKaugyE9uahuG81HA/viewform?usp=header)
+
+---
+
+## Questions?
+
+---
+
 ## How do you know your code works?
 
 ---
