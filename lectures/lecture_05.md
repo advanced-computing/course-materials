@@ -102,37 +102,6 @@ Structured way of doing what we were already doing
 
 ---
 
-## Data cleaning
-
-1. Add tests for parsing the dollar amount
-1. Refactor the code
-1. Make them pass
-
----
-
-Code needs to be testable. This encourages good habits, like:
-
-- Ensuring your code can change without unexpected breakage
-- Making small, reusable functions with well-defined behavior
-- Organizing code into modules
-- Allowing the loading of a module without running all the code
-
----
-
-## Code organization
-
-Seeing projects with `<name>2.py`. Splitting code up into smaller files will help you work in parallel without stepping on each others' toes.
-
----
-
-## Data quality checks
-
-- Can be flexible, like checking for standard deviation or X% matching certain criteria
-- [Things to check for when cleaning data](https://computing-in-context.afeld.me/lecture_17.html#data-cleaning)
-- There are tools that help with this
-
----
-
 ## [Project Part 3](../docs/project.md#part-3)
 
 ---

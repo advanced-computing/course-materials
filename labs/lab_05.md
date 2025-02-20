@@ -10,6 +10,32 @@ Get hands-on experience with:
 
 ---
 
+## Data cleaning
+
+_All together_
+
+1. Add tests for parsing the dollar amount
+1. Refactor the code
+   - Modules and `import`
+1. Make them pass
+
+---
+
+Code needs to be testable. This encourages good habits, like:
+
+- Ensuring your code can change without unexpected breakage
+- Making small, reusable functions with well-defined behavior
+- Organizing code into modules
+- Allowing the loading of a module without running all the code
+
+---
+
+## Code organization
+
+Seeing projects with `<name>2.py`. Splitting code up into smaller files will help you work in parallel without stepping on each others' toes.
+
+---
+
 ## Steps
 
 You'll [pair](../docs/pairing.md) in your group, repository, and dataset from [Lab 4](lab_04.md). Work on branches and submit pull requests for the chunks of work — you decide what the "chunks" are.
@@ -18,13 +44,21 @@ You'll [pair](../docs/pairing.md) in your group, repository, and dataset from [L
 
 ### Data profiling
 
-[Set up YData Profiling](../examples/profiling.ipynb#ydata-profiling) for your dataset. If it's slow, see [their documentation on profiling large datasets](https://docs.profiling.ydata.ai/latest/features/big_data/).
+[**Set up YData Profiling**](../examples/profiling.ipynb#ydata-profiling) for your dataset. If it's slow, see [their documentation on profiling large datasets](https://docs.profiling.ydata.ai/latest/features/big_data/).
 
 ---
 
-### [Data quality checks](../lectures/lecture_05.md#data-quality-checks)
+### Data quality checks
 
-Set up at least three different data quality checks with pytest.
+- [Things to check for when cleaning data](https://computing-in-context.afeld.me/lecture_17.html#data-cleaning)
+- Can be flexible, like checking for:
+  - Standard deviation being in a certain range
+  - X% of values matching certain criteria
+- There are commercial tools that help with this - we're going to write the code ourselves.
+
+---
+
+**Set up at least three different data quality checks** with pytest.
 
 ---
 
