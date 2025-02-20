@@ -23,6 +23,7 @@ We want to normalize phone numbers. What situations do we need to handle?
 1. Create an empty function
 1. Try the different test cases
 1. Make them pass
+   - Small increments
 
 ---
 
@@ -47,6 +48,19 @@ We want to normalize phone numbers. What situations do we need to handle?
   - Specific functionality
 - Generally should work offline, i.e. not talk to an API or anything
 - Generally will use small sets of sample data
+
+---
+
+- **Unit testing:** individual components
+- **Integration testing:** multiple components together
+
+---
+
+There are [others](https://www.ssw.com.au/rules/different-types-of-testing/) — it's essentially a spectrum of small to large.
+
+---
+
+When might we want to use unit vs. integration tests? In other words, what are the pros and cons of each?
 
 ---
 
