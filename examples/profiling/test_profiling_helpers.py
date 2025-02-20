@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 from profiling_helpers import parse_dollars
 
@@ -17,7 +16,7 @@ def test_parse_dollars():
         [
             1.00,
             55.78,
-            np.nan,
+            None,
         ]
     )
 
