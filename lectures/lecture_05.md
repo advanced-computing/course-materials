@@ -106,6 +106,7 @@ Seeing projects with `<name>2.py`. Splitting code up into smaller files will hel
 ## Data quality checks
 
 - Can be flexible, like checking for standard deviation or X% matching certain criteria
+- [Things to check for when cleaning data](https://computing-in-context.afeld.me/lecture_17.html#data-cleaning)
 - There are tools that help with this
 
 ---

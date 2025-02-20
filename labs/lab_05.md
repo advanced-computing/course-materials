@@ -1,4 +1,4 @@
-# Lab 5 - IN PROGRESS
+# Lab 5
 
 ## Objective
 
@@ -19,6 +19,12 @@ You'll [pair](../docs/pairing.md) in your group, repository, and dataset from [L
 ### Data profiling
 
 [Set up YData Profiling](../lectures/lecture_05_profiling.ipynb#ydata-profiling) for your dataset. If it's slow, see [their documentation on profiling large datasets](https://docs.profiling.ydata.ai/latest/features/big_data/).
+
+---
+
+### [Data quality checks](../lectures/lecture_05.md#data-quality-checks)
+
+Set up at least three different data quality checks with pytest.
 
 ---
 
