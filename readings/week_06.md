@@ -8,6 +8,7 @@
    1. Optional: [Memory Profiling in Python](https://www.youtube.com/watch?v=3PdmLQIZpwE)
 1. [Data structures](https://docs.python.org/3/tutorial/datastructures.html)
    - [Python Classes](https://realpython.com/python-classes/) through "Static Methods With `@staticmethod`"
+     - Optional: Read the rest
    - [How to Use Generators and yield in Python](https://realpython.com/introduction-to-python-generators/) through "Using Generators"
      - Optional: Continue through "Understanding the Python Yield Statement"
 
