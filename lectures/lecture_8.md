@@ -1,4 +1,4 @@
-# Lecture 10 - IN PROGRESS
+# Lecture 8 - IN PROGRESS
 
 ---
 
