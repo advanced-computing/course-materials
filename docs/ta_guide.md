@@ -74,6 +74,7 @@ Each [reading](../README.md#readings), part of the [Project](project.md), and ot
 1. What came up in Lab/Discussions/assignments (common problems, etc.) that might be useful to cover in class?
 1. Are all cells in the gradebook filled in (through last week)?
 1. Are all the Assignments created that need to be?
+1. Plan for [upcoming lab](../README.md#schedule)
 
 ## Student interactions
 
