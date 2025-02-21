@@ -1,0 +1,6 @@
+[filtering]
+# https://github.com/linkchecker/linkchecker/issues/823
+ignorewarnings=
+  url-content-type-unparseable
+
+[MarkdownCheck]
