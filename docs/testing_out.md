@@ -19,7 +19,7 @@ Coming into the course, you're expected to be comfortable with the following:
   - See [the Computing in Context syllabus](https://computing-in-context.afeld.me/#schedule) for more details.
 - How to read API documentation
 
-For Spring 2025 only, during [SIPA's transition to the new Concentrations](https://www.sipa.columbia.edu/news/introducing-columbia-sipas-enhanced-curriculum), students can test out of [the prerequisite](README.md#prerequisites). If you are interested in doing so, please read the following, then [**reach out**](mailto:alf2215@columbia.edu).
+For Spring 2025 only, during [SIPA's transition to the new Concentrations](https://www.sipa.columbia.edu/news/introducing-columbia-sipas-enhanced-curriculum), students can test out of [the prerequisite](../README.md#prerequisites). If you are interested in doing so, please read the following, then [**reach out**](mailto:alf2215@columbia.edu).
 
 Note that this pathway is specific to this course. This test does not waive the Computing in Context prerequisite for other courses, such as [Applying Machine Learning (INAFU6503)](https://vergil.columbia.edu/vergil/course/20251/62323).
 

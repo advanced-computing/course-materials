@@ -1,0 +1,13 @@
+[filtering]
+checkextern=1
+# https://github.com/linkchecker/linkchecker/issues/823
+ignorewarnings=http-redirected,url-content-type-unparseable
+
+[output]
+ignoreerrors=
+  .* 401 Unauthorized
+  .* 403 Forbidden
+  ^https://.*\.columbia.edu/ Forbidden|400
+  ^https://nyshc.health.ny.gov SSLError
+
+[MarkdownCheck]

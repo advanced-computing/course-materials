@@ -98,7 +98,7 @@ Structured way of doing what we were already doing
 
 ## Profiling
 
-[Examples](../examples/profiling.ipynb)
+[Examples](../examples/profiling/profiling.ipynb)
 
 ---
 

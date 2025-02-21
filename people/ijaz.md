@@ -1,6 +1,6 @@
 # Ijaz Ahmed Khan
 
-![Ijaz](/img/people/Ijaz.png)
+![Ijaz](../img/people/Ijaz.png)
 
 **Name:** Ijaz Ahmed Khan
 

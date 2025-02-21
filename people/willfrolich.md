@@ -1,6 +1,6 @@
 # Will Frolich
 
-![Will](/img/will.jpg)
+![Will](../img/people/will.jpg)
 
 **Name:** Will Frolich
 

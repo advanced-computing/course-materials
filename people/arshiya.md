@@ -2,7 +2,7 @@
 
 Name: Arshiya Sawhney
 
-![Arshiya](/img/people/arshiya.jpg)
+![Arshiya](../img/people/arshiya.jpg)
 
 Pronouns: she/her
 
