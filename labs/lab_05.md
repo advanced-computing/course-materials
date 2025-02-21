@@ -61,7 +61,7 @@ _If there's time_
 
 ---
 
-**Write data quality checks for three of the [things to check for](https://computing-in-context.afeld.me/lecture_17.html#things-to-check-for** with pytest.
+**Write data quality checks for three of the [things to check for](https://computing-in-context.afeld.me/lecture_17.html#things-to-check-for** with pytest. The pandas documentation around [comparing if objects are equivalent](https://pandas.pydata.org/docs/user_guide/basics.html#comparing-if-objects-are-equivalent) will be helpful.
 
 ---
 
