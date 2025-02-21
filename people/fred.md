@@ -2,7 +2,7 @@
 
 **Name:** Fred Lee
 
-![Fred](/img/people/fred_photo.jpeg)
+![Fred](../img/people/fred_photo.jpeg)
 
 **Pronouns:** he/him
 

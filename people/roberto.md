@@ -1,6 +1,6 @@
 # Roberto Zuniga
 
-![Roberto](/img/people/roberto.png)
+![Roberto](../img/people/roberto.png)
 
 **Name:** Roberto Zuniga
 

@@ -68,7 +68,7 @@ If you did all the following:
 1. [Fetch and Pull](https://code.visualstudio.com/docs/sourcecontrol/overview#_source-control-graph) to retrieve new work done by other people and merge it with your local bracnh
 1. View other people's profile pictures
 1. Create a branch
-1. Add your name to the [attendance list](/labs/attendance_example_lab_01.md)
+1. Add your name to the [attendance list](attendance_example_lab_01.md)
 1. Commit, push and create a pull request
 1. Review the pull request of the person next to you.
 1. Merge
