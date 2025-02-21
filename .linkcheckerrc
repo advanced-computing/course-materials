@@ -6,8 +6,8 @@ ignorewarnings=http-redirected,url-content-type-unparseable
 [output]
 ignoreerrors=
   .* 401 Unauthorized
+  .* 403 Forbidden
   ^https://.*\.columbia.edu/ Forbidden|400
   ^https://nyshc.health.ny.gov SSLError
-  ^https://vpnoverview.com 403 Forbidden
 
 [MarkdownCheck]
