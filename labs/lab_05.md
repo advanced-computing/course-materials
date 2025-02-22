@@ -50,6 +50,14 @@ _If there's time_
 
 ---
 
+At time of writing, [YData Profiling is only compatible with Python 3.12 and below](https://github.com/ydataai/ydata-profiling/issues/1695). If you're on Python 3.13+, the easiest thing will be to run the profiling in [Colab](https://colab.research.google.com/) and include a link to that notebook. Install the package there with:
+
+```sh
+!pip install ydata-profiling
+```
+
+---
+
 ### Data quality checks
 
 - Unit tests for data
@@ -61,7 +69,7 @@ _If there's time_
 
 ---
 
-**Write data quality checks for three of the [things to check for](https://computing-in-context.afeld.me/lecture_17.html#things-to-check-for** with pytest. The pandas documentation around [comparing if objects are equivalent](https://pandas.pydata.org/docs/user_guide/basics.html#comparing-if-objects-are-equivalent) will be helpful.
+Look around your data profiling report. Using that information, **write data quality checks for three of the [things to check for](https://computing-in-context.afeld.me/lecture_17.html#things-to-check-for)** with pytest. The pandas documentation around [comparing if objects are equivalent](https://pandas.pydata.org/docs/user_guide/basics.html#comparing-if-objects-are-equivalent) will be helpful.
 
 ---
 
