@@ -7,5 +7,6 @@ linkchecker
 numpy<=2.3
 pandas==2.*
 pytest
+pytest-cov
 ruff
 ydata-profiling

@@ -1,4 +1,5 @@
 *.slides.html
+.coverage
 .venv/
 !.vscode/settings.json
 .DS_Store
