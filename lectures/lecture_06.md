@@ -18,9 +18,19 @@ How have you been organizing code (in this course and before)?
 
 ## Modules
 
+_Files!_
+
+Let's refactor [`test_phone.py`](../examples/phone/test_phone.py).
+
 ---
 
-### `__init__.py`
+## Packages
+
+_Folders!_
+
+---
+
+## Refactoring
 
 ---
 
@@ -45,10 +55,6 @@ What data structures exist in Python?
 ---
 
 ## Object-Oriented Programming (OOP)
-
----
-
-## Refactoring
 
 ---
 
