@@ -4,17 +4,17 @@ Do these one-time setup steps to ensure you don't have to pay for Google Cloud u
 
 A [Project](https://cloud.google.com/docs/overview#projects) has been created for you, which the instructors have access to for troubleshooting. You redeem the credits, which creates a Billing Account. You then have to associate that Billing Account with the existing Project.
 
+1. Retrieve the coupon code — you'll be sent a link.
 1. [Redeem the credits](https://cloud.google.com/billing/docs/how-to/edu-grants#redeem) - [video walkthrough](https://www.youtube.com/watch?v=2AnX7BX-qew)
-   1. Instructor will send the coupon retrieval link
    1. Fill in the form
       - Use your UNI for your email, not an [alias](https://www.cuit.columbia.edu/email/email-aliases)
    1. When you get to [the GCP Credit Application screen](https://console.cloud.google.com/education), **make sure you've [switched to your Columbia Google account](https://support.google.com/docs/answer/2405894)**
-1. [Dismiss the Free Trial banner — should not need a credit card](https://services.google.com/fh/files/helpcenter/cloud_edu_free_trial_warning.pdf)
-1. Confirm the credits were applied
+1. [Dismiss the Free Trial banner — shouldn't need a credit card](https://services.google.com/fh/files/helpcenter/cloud_edu_free_trial_warning.pdf)
+1. Confirm the credits were applied.
    1. Go to [the Billing Accounts page](https://console.cloud.google.com/billing?organizationId=819335046878)
    1. Click `Billing Account for Education`
    1. In the sidebar, click `Credits`
-   1. You should see an `Operations Management in IT` credit for $50
+   1. You should see an `Advanced Computing for Policy` credit for $50
 1. Switch to your Project
    1. In the top navigation bar, on the left side, click the drop-down
    1. You should see a `Select a resource` modal pop up
