@@ -4,6 +4,18 @@
 
 ---
 
+How have you been organizing code (in this course and before)?
+
+---
+
+…within files?
+
+---
+
+…between files?
+
+---
+
 ## Modules
 
 ---
@@ -12,11 +24,27 @@
 
 ---
 
+How have you been organizing data?
+
+---
+
 ## Data structures
+
+> a _data structure_ is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data
+
+[Encyclopedia of Computer Science, 2003](https://dl.acm.org/doi/epdf/10.5555/1074100.1074312)
+
+---
+
+What data structures exist in Python?
 
 ---
 
 ## Abstraction
+
+---
+
+## Object-Oriented Programming (OOP)
 
 ---
 
