@@ -52,7 +52,9 @@ Data visualizations must have good titles and axis labels.
 
 ## Readings
 
-See the details and links in the [schedule](#schedule) below. Books, which are either open access and/or will be placed on [Course Reserves](https://library.columbia.edu/services/reserves.html):
+See the details and links in the [schedule](#schedule) below. The readings will be finalized one week before they're due.
+
+Books, which are either open access and/or will be placed on [Course Reserves](https://library.columbia.edu/services/reserves.html):
 
 - [Article 19, Knodel, M., Uhlig, U., Oever, N. ten, & Cath, C. (2020). _How the Internet Really Works: An Illustrated Guide to Protocols, Privacy, Censorship, and Governance_ (Illustrated edition). No Starch Press.](https://clio.columbia.edu/catalog/15236654)
   - Strongly recommend [purchasing a physical copy](https://catnip.article19.org/#order).
