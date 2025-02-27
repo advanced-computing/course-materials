@@ -22,8 +22,9 @@ def test_readings_boilerplate(file):
 def test_lab_submit_info(file):
     if "example" in file:
         pytest.skip("Skip examples")
-    if file.endswith("/lab_01.md"):
-        pytest.skip("Lab 1 doesn't have a separate submission")
+    for skip_lab in [1, 6]:
+        if file.endswith(f"/lab_{skip_lab:02}.md"):
+            pytest.skip(f"Lab {skip_lab} doesn't have a separate submission")
 
     content = read_file(file)
     assert "/assignments" in content
