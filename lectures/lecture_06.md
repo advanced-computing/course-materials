@@ -1,4 +1,4 @@
-# Lecture 6 - IN PROGRESS
+# Lecture 6
 
 **Organizing code**
 
@@ -70,9 +70,7 @@ What data structures exist in Python?
 
 ## Object-Oriented Programming (OOP)
 
----
-
-## Code complexity
+[Intro from Python course](https://python-public-policy.afeld.me/en/columbia/lecture_0.html#fundamental-programming-concepts)
 
 ---
 
@@ -90,6 +88,20 @@ What data structures exist in Python?
 pytest --cov --cov-report html
 open htmlcov/index.html
 ```
+
+---
+
+### Branching
+
+Not the Git kind
+
+---
+
+### Complexity
+
+- [Types](https://en.wikipedia.org/wiki/Programming_complexity#Types)
+- [Cyclomatic measurement](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
+- pandas operations
 
 ---
 
