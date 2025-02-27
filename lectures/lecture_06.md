@@ -76,3 +76,7 @@ What data structures exist in Python?
 pytest --cov --cov-report html
 open htmlcov/index.html
 ```
+
+---
+
+## [Project Part 4](../docs/project.md#part-4)

@@ -142,3 +142,12 @@ As a result, your:
 should be relatively short and easy to read.
 
 This isn't a one-time thing; continue testing and refactoring as you continue with the Project.
+
+## Part 4
+
+_IN PROGESS_
+
+- Retro
+- Revisit your [Proposal](#proposal)
+- Set up [continuous integration](https://www.atlassian.com/continuous-delivery/continuous-integration).
+  - Make a copy of [`.github/workflows/tests.yml`](../.github/workflows/tests.yml) in your repository.
