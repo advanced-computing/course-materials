@@ -14,6 +14,10 @@
 
 ---
 
+## [Grade breakdown](../README.md#grading) tweaks
+
+---
+
 How have you been organizing code (in this course and before)?
 
 ---

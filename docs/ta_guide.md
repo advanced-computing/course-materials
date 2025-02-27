@@ -43,10 +43,10 @@ The TA is there to help students improve their coding and data analysis skills, 
 
 ### Assignments
 
-Each [reading](../README.md#readings), part of the [Project](project.md), and other one-off assignment should have:
+Each [reading](../README.md#readings), part of the [Project](project.md), and [Lab](../labs) should have:
 
 - [ ] [An Assignment in CourseWorks](https://courseworks2.columbia.edu/courses/210480/assignments)
-  - [ ] Link to the corresponding Markdown file
+  - [ ] Link to the corresponding Markdown file/heading
   - [ ] `Due` date matches [the schedule](../README.md#schedule)
   - [ ] `Until` date matches the [late work cutoff](../README.md#assignment-scoring-details)
   - [ ] [Rubric is attached](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-a-rubric-to-an-assignment/ta-p/1058)
