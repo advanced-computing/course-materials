@@ -149,5 +149,3 @@ _IN PROGESS_
 
 - Retro
 - Revisit your [Proposal](#proposal)
-- Set up [continuous integration](https://www.atlassian.com/continuous-delivery/continuous-integration).
-  - Make a copy of [`.github/workflows/tests.yml`](../.github/workflows/tests.yml) in your repository.

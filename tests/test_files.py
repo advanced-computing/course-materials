@@ -22,7 +22,7 @@ def test_readings_boilerplate(file):
 def test_lab_submit_info(file):
     if "example" in file:
         pytest.skip("Skip examples")
-    for skip_lab in [1, 6]:
+    for skip_lab in [1]:
         if file.endswith(f"/lab_{skip_lab:02}.md"):
             pytest.skip(f"Lab {skip_lab} doesn't have a separate submission")
 
