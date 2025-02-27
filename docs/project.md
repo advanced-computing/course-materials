@@ -147,5 +147,30 @@ This isn't a one-time thing; continue testing and refactoring as you continue wi
 
 _IN PROGESS_
 
-- Retro
-- Revisit your [Proposal](#proposal)
+### Retro
+
+You will hold a team retrospective, with the goal of improving how your team works together. Since the groups are small, it can be fairly informal.
+
+1. Schedule 45 minutes for the retro.
+   - The retro needs to be done live/synchronous, not asynchronous.
+1. [Read about retros.](https://www.atlassian.com/agile/scrum/retrospectives)
+1. Decide who will be the Facilitator.
+   - Optional: Get someone from outside the team.
+1. Facilitator: Set up [EasyRetro](https://easyretro.io/). [Instructions.](https://www.youtube.com/watch?v=Yl6wV7EIRBw)
+1. In the actual retro:
+   1. Read the [Agile Prime Directive](https://retrospectivewiki.org/index.php?title=The_Prime_Directive) out loud.
+   1. **5 minutes:** Individually write down "what went well" and "what could be better".
+   1. **10-15 minutes:** Discuss what has gone well.
+   1. **20-25 minutes:** Discuss what could be better.
+   1. **5 minutes:** Document takeaways / action items.
+
+### Revisit your [Proposal](#proposal)
+
+### Analysis
+
+### Submit
+
+[Submit](https://courseworks2.columbia.edu/courses/210480/assignments) links to:
+
+- The EasyRetro board
+- The (updated) Streamlit app
