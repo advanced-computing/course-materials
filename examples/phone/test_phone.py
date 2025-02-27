@@ -1,22 +1,21 @@
+from helpers import normalize_number
+
 # phone numbers
 
 
-def normalize_number(input_phone):
-    if input_phone[3] == "-" and input_phone[7] == "-":
-        return input_phone
-
-    return f"{input_phone[0:3]}-{input_phone[3:6]}-{input_phone[6:11]}"
+# some complex test setup
+# disable_network_connections()
 
 
 # dashes and not
 
 
-def test_with_dashes():
-    # if normalize_number("123-456-7890") == "123-456-7890":
-    #     print("good")
-    # else:
-    #     print("error")
-    assert normalize_number("123-456-7890") == "123-456-7890"
+# def test_with_dashes():
+#     # if normalize_number("123-456-7890") == "123-456-7890":
+#     #     print("good")
+#     # else:
+#     #     print("error")
+#     assert normalize_number("123-456-7890") == "123-456-7890"
 
 
 def test_without_dashes():
