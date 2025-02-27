@@ -131,3 +131,14 @@ Work on branches and submit pull requests for the chunks of work — you decide 
    1. Make the tests pass.
 1. Repeat until you feel your code is well-organized and well-tested.
 1. [Submit the links to the pull requests via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+
+### Outcome
+
+As a result, your:
+
+- "main" scripts (for [Streamlit pages](https://docs.streamlit.io/get-started/fundamentals/additional-features#pages) or otherwise)
+- Functions
+
+should be relatively short and easy to read.
+
+This isn't a one-time thing; continue testing and refactoring as you continue with the Project.
