@@ -90,3 +90,7 @@ open htmlcov/index.html
 ---
 
 ## [Project Part 4](../docs/project.md#part-4)
+
+---
+
+### Revisit [expectations](../docs/project.md#expectations)

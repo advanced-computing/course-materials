@@ -31,6 +31,7 @@ This will incorporate:
 - All code is peer-reviewed, through [pair programming](pairing.md) and/or pull requests.
 - All team members are contributing equal amounts.
 - It leverages at least one [dataset that's regularly updated](data.md#datasets-that-are-regularly-updated).
+- The site doesn't need to [read like a blog post](https://computing-in-context.afeld.me/projects.html#requirements) necessarily, but it should explain what's going on.
 - _More to come_
 
 ## [Teams](project_teams.csv)
@@ -145,8 +146,6 @@ This isn't a one-time thing; continue testing and refactoring as you continue wi
 
 ## Part 4
 
-_IN PROGESS_
-
 ### Retro
 
 You will hold a team retrospective, with the goal of improving how your team works together. Since the groups are small, it can be fairly informal.
@@ -164,13 +163,24 @@ You will hold a team retrospective, with the goal of improving how your team wor
    1. **20-25 minutes:** Discuss what could be better.
    1. **5 minutes:** Document takeaways / action items.
 
-### Revisit your [Proposal](#proposal)
-
 ### Analysis
+
+1. Move your [Proposal](#proposal) to the Streamlit app as is.
+   - [How to add text elements](https://docs.streamlit.io/develop/api-reference/text)
+1. Revisit the Proposal.
+   - Any new insights?
+   - Anything you want to adjust?
+1. Document any changes to the Proposal on the Streamlit page.
+1. Proceed with the analysis.
+   - If the majority of your code (to call APIs, etc.) is in modules/functions, it can be `import`ed from a Jupyter notebook. You can do exploratory analysis there, moving things to modules/Streamlit as you go.
+   - You might not be able to fully answer the question(s) yet, but get as close as you can.
+
+At this point, your project should be looking more like one of the [examples](#inspiration).
 
 ### Submit
 
 [Submit](https://courseworks2.columbia.edu/courses/210480/assignments) links to:
 
 - The EasyRetro board
+- Jupyter notebook(s), if any
 - The (updated) Streamlit app
