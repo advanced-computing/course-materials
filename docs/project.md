@@ -4,13 +4,13 @@ As stated in the [course description](../README.md#course-description):
 
 > Over the semester, students will build a complex end-to-end data system.
 
-This will incorporate:
+You'll be building a live dashboard, with all the infrastructure behind it:
 
 - Automated data ingestion
 - A database
 - Web-based interactive data visualization
 
-…all in the cloud. Essentially, we are building a live dashboard, with all the infrastructure behind it.
+All of this will be in [the cloud](https://www.cloudflare.com/learning/cloud/what-is-the-cloud/).
 
 ## Inspiration
 
@@ -30,7 +30,7 @@ This will incorporate:
 
 - All code is peer-reviewed, through [pair programming](pairing.md) and/or pull requests.
 - All team members are contributing equal amounts.
-- It leverages at least one [dataset that's regularly updated](data.md#datasets-that-are-regularly-updated).
+- The Project leverages at least one [dataset that's regularly updated](data.md#datasets-that-are-regularly-updated).
 - The site doesn't need to [read like a blog post](https://computing-in-context.afeld.me/projects.html#requirements) necessarily, but it should explain what's going on.
 - _More to come_
 
