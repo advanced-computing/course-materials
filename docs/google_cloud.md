@@ -1,8 +1,10 @@
 # Google Cloud
 
+_"Project" is used to refer to both the [Google Cloud Project](https://cloud.google.com/docs/overview#projects) and the [course Project](project.md), which is admittedly confusing._
+
 Do these one-time setup steps to ensure you don't have to pay for Google Cloud use for this class. Credits are provided through the [Google Cloud for Education](https://cloud.google.com/edu/faculty) program.
 
-A [Google Cloud Project](https://cloud.google.com/docs/overview#projects) has been created for your [course Project team](project_teams.csv), which the instructors have access to for troubleshooting. You redeem the credits, which creates a Billing Account. Someone then needs to associate their Billing Account with the existing Google Cloud Project, where the credits will be used to cover the group work.
+A Google Cloud Project has been created for your [team](project_teams.csv), which the instructors have access to for troubleshooting. You redeem the credits, which creates a Billing Account. Someone then needs to associate their Billing Account with the existing Google Cloud Project, where the credits will be used to cover the group work.
 
 1. Retrieve the coupon code — you'll be sent a link.
 1. [Redeem the credits](https://cloud.google.com/billing/docs/how-to/edu-grants#redeem) - [video walkthrough](https://www.youtube.com/watch?v=2AnX7BX-qew)
@@ -20,7 +22,7 @@ A [Google Cloud Project](https://cloud.google.com/docs/overview#projects) has be
    1. You should see a `Select a resource` modal pop up.
    1. Click the `ALL` tab.
    1. Click `sipa-adv-c-<name1>-<name2>`.
-1. One person per Project team: [Change the Billing Account](https://cloud.google.com/billing/docs/how-to/modify-project#how-to-change-ba) to `Billing Account for Education`.
+1. One person per team: [Change the Billing Account](https://cloud.google.com/billing/docs/how-to/modify-project#how-to-change-ba) to `Billing Account for Education`.
 
 ## Accidentally redeemed the credit with the wrong Google account
 
@@ -28,6 +30,6 @@ If you missed the step above about switching to your Columbia Google account, th
 
 ## Use of Google Cloud outside this class
 
-If you're using Google Cloud for something outside of this Project/class, we suggest [creating a separate Project](https://cloud.google.com/resource-manager/docs/creating-managing-projects) to keep things isolated. The `Billing Account for Education` is yours, so you're welcome to [associate it with other Google Cloud Projects](https://cloud.google.com/billing/docs/how-to/modify-project#how-to-change-ba) to use those credits.
+If you're using Google Cloud for something outside of this group work / course, we suggest [creating a separate Google Cloud Project](https://cloud.google.com/resource-manager/docs/creating-managing-projects) to keep things isolated. The `Billing Account for Education` is yours, so you're welcome to [associate it with other Google Cloud Projects](https://cloud.google.com/billing/docs/how-to/modify-project#how-to-change-ba) to use those credits.
 
 We won't use the full $50 credit for this class, so you're welcome to take advantage of the remainder for other things. If you use it up, you'll start spending against your [Free Trial](https://cloud.google.com/free). Beyond that, you'll have to [pay](https://cloud.google.com/billing/docs/how-to/payment-methods).
