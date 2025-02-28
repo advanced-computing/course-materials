@@ -44,8 +44,6 @@ You'll [pair](../docs/pairing.md) in your group, repository, and dataset from [L
 
 ### Data profiling
 
-_If there's time_
-
 [**Set up YData Profiling**](../examples/profiling/profiling.ipynb#ydata-profiling) for your dataset. If it's slow, see [their documentation on profiling large datasets](https://docs.profiling.ydata.ai/latest/features/big_data/).
 
 ---

@@ -1,6 +1,12 @@
-# Week 8 readings
+# Week 8
 
 [General information](../README.md#readings)
+
+## Google Cloud setup
+
+Everyone go through the [instructions](../docs/google_cloud.md).
+
+## Readings
 
 1. Code organization
    - [The Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-python)
