@@ -1,4 +1,4 @@
-# Week 8
+# Week 7
 
 [General information](../README.md#readings)
 
