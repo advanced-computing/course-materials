@@ -6,9 +6,11 @@ jobs:
   tests:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Clone repository
+        uses: actions/checkout@v4
       # https://github.com/actions/setup-python
-      - uses: actions/setup-python@v5
+      - name: Install Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
@@ -18,4 +20,7 @@ jobs:
         # https://pytest-cov.readthedocs.io/en/latest/readme.html
         run: pytest --cov
       # https://github.com/astral-sh/ruff-action
-      - uses: astral-sh/ruff-action@v3
+      - name: Run ruff
+        uses: astral-sh/ruff-action@v3
+        with:
+          version: latest
