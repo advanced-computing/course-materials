@@ -3,7 +3,7 @@ name: Run tests
 on: push
 
 jobs:
-  pytest:
+  tests:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -15,6 +15,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Run tests
-        run: pytest
+        # https://pytest-cov.readthedocs.io/en/latest/readme.html
+        run: pytest --cov
       # https://github.com/astral-sh/ruff-action
       - uses: astral-sh/ruff-action@v3
