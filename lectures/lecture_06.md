@@ -32,19 +32,52 @@ How have you been organizing code (in this course and before)?
 
 ## Modules
 
-_Files!_
+_Files! Things you `import`!_
 
-Let's refactor [`test_phone.py`](../examples/phone/test_phone.py).
+---
+
+### Search path
+
+1. Show [Python's module search path](https://docs.python.org/3/library/sys_path_init.html).
+
+   ```python
+   import sys
+   sys.path
+   ```
+
+1. Look in those directories.
+1. Look at `csv.py`.
+1. Make a `csv.py` file the current directory.
+
+   ```python
+   print("Aidan csv")
+   ```
+
+1. Try `import csv`.
+
+---
+
+## Refactoring
+
+Let's refactor [phone code](../examples/phone/) from [last lecture](lecture_05.md#example).
+
+---
+
+Simulate an API call:
+
+```python
+from time import sleep
+
+sleep(5)
+```
+
+How do we keep the tests from being slow?
 
 ---
 
 ## Packages
 
 _Folders!_
-
----
-
-## Refactoring
 
 ---
 
