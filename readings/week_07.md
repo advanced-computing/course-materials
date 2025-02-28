@@ -16,6 +16,11 @@ Everyone go through the [instructions](../docs/google_cloud.md).
 1. Continuous integration
    1. [What is continuous integration?](https://www.atlassian.com/continuous-delivery/continuous-integration)
    1. [Understanding GitHub Actions](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions)
+1. Optional: Merge conflicts in Git/GitHub
+   1. [GitHub: About merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
+   1. [Merge conflicts in VSCode](https://code.visualstudio.com/docs/sourcecontrol/overview#_merge-conflicts)
+   1. [Atlassian: Git merge conflicts](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
+   1. [How to Prevent Merge Conflicts](https://dev.to/github/how-to-prevent-merge-conflicts-or-at-least-have-less-of-them-109p)
 1. Databases
    1. [Learn SQL](https://www.codecademy.com/learn/learn-sql)
    1. [pandas: Comparison with SQL](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_sql.html)
