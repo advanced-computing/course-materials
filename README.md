@@ -11,6 +11,7 @@
 - **Lecture:** Thursdays 9-10:50am, [IAB][IAB] room 402B
 - **Lab, a.k.a. recitation:** Fridays 2:20-3:50pm, [IAB][IAB] room 402B
 - [**Office Hours:**](https://calendar.google.com/calendar/embed?src=c_0f46e8283081fed502941bfac7501cd0b8b5cd26635c8f4546e313ef7403e5fa%40group.calendar.google.com&ctz=America%2FNew_York) Make sure you're signed in to your Columbia Google account to view. Also available by appointment.
+- [**TA Office Hours**](https://calendar.app.google/7K6UZzfeRxyUaTnn6) By appointment only.
 
 [IAB]: https://maps.app.goo.gl/Hg6dyuWcchZ2DmRB6
 
