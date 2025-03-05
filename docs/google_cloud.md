@@ -18,10 +18,16 @@ A Google Cloud Project has been created for your [team](project_teams.csv), whic
    1. In the sidebar, click `Credits`.
    1. You should see an `Advanced Computing for Policy` credit for $50.
 1. Switch to your Google Cloud Project.
+
    1. In the top navigation bar, on the left side, click the drop-down.
    1. You should see a `Select a resource` modal pop up.
+   1. From the drop-down, you may need to switch `COLUMBIA.EDU` to `AFELD.ME`.
+
+      <img src="../img/google_cloud_project.png" width="317" alt="Project selection modal"/>
+
    1. Click the `ALL` tab.
    1. Click `sipa-adv-c-<name1>-<name2>`.
+
 1. One person per team: [Change the Billing Account](https://cloud.google.com/billing/docs/how-to/modify-project#how-to-change-ba) to `Billing Account for Education`.
 
 ## Accidentally redeemed the credit with the wrong Google account
