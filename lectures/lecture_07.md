@@ -13,6 +13,14 @@ _Carry-over from [lecture 6](lecture_06.md)_
 
 ---
 
+## Packages
+
+Whenever documentation says `pip install …`, you probably want to add it to your `requirements.txt`.
+
+---
+
+## SQL
+
 Who has experience with SQL? What have you used it for?
 
 ---
@@ -162,3 +170,9 @@ FROM `bigquery-public-data.cfpb_complaints.complaint_database`
 GROUP BY company_name
 ORDER BY num_complaints DESC;
 ```
+
+---
+
+## Readings
+
+Coming soon
