@@ -120,6 +120,7 @@ pandas allows you to build up operations over multiple lines; harder to do that 
 1. Open [BigQuery](https://console.cloud.google.com/bigquery).
 1. [Enable the API.](https://cloud.google.com/apis/docs/getting-started#enabling_apis)
 1. [Open a public dataset.](https://cloud.google.com/bigquery/docs/quickstarts/query-public-dataset-console#open_a_public_dataset)
+   - Try `Category` of `Economics` and `Price` of `Free`
 
 ---
 
