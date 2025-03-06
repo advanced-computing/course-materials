@@ -1,4 +1,4 @@
-# Lab 7 - IN PROGRESS
+# Lab 7
 
 ## Objective
 
@@ -12,8 +12,8 @@ You'll [pair](../docs/pairing.md) in your group, repository, and dataset from La
 
 You'll be changing your API over to use DuckDB.
 
-1. [Install the Python client.](https://duckdb.org/docs/stable/clients/python/overview#installation)
-1. Create a script that [writes data](../lectures/lecture_07.md#writing-data) to a [persistent database](https://duckdb.org/docs/stable/clients/python/overview#persistent-storage).
+1. Install the [Python client](https://duckdb.org/docs/stable/clients/python/overview#installation).
+1. Create a [Python](https://duckdb.org/docs/stable/clients/python/overview) or [SQL](https://duckdb.org/docs/stable/clients/cli/overview#non-interactive-usage) script to [write data](../lectures/lecture_07.md#writing-data) to a [persistent database](https://duckdb.org/docs/stable/clients/python/overview#persistent-storage).
 1. Update your API to read from the database.
 
 ---
