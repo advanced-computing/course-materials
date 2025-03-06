@@ -6,7 +6,7 @@ You'll work in your [Project teams](../docs/project_teams.csv).
 
 ## Objectives
 
-- Get ready to work in Google Cloud
+- Try out linting
 - Set up continuous integration
 
 ---
