@@ -113,3 +113,19 @@ pandas allows you to build up operations over multiple lines; harder to do that 
 ---
 
 ## [BigQuery](https://cloud.google.com/bigquery)
+
+---
+
+1. In the [Google Cloud Console](https://console.cloud.google.com/), [make sure your Project is selected](../docs/google_cloud.md#switching-to-your-google-cloud-project).
+1. Open [BigQuery](https://console.cloud.google.com/bigquery).
+1. [Enable the API.](https://cloud.google.com/apis/docs/getting-started#enabling_apis)
+1. [Open a public dataset.](https://cloud.google.com/bigquery/docs/quickstarts/query-public-dataset-console#open_a_public_dataset)
+
+---
+
+```sql
+SELECT company_name, COUNT(*) AS num_complaints
+FROM `bigquery-public-data.cfpb_complaints.complaint_database`
+GROUP BY company_name
+ORDER BY num_complaints DESC;
+```
