@@ -23,6 +23,20 @@ locals {
   ta_member = "user:rz2516@columbia.edu"
 }
 
+locals {
+  no_students = {
+    student_1_first = null
+    student_1_last  = null
+    student_1_uni   = null
+    student_2_first = null
+    student_2_last  = null
+    student_2_uni   = null
+    student_3_first = null
+    student_3_last  = null
+    student_3_uni   = null
+  }
+}
+
 module "projects" {
   for_each = local.student_groups_by_id
 
@@ -39,16 +53,21 @@ module "ta_project" {
   source     = "./group_project"
   folder_id  = google_folder.group_projects.id
   project_id = "sipa-adv-c-${each.value}"
-  group = {
-    student_1_first = null
-    student_1_last  = null
-    student_1_uni   = null
-    student_2_first = null
-    student_2_last  = null
-    student_2_uni   = null
-    student_3_first = null
-    student_3_last  = null
-    student_3_uni   = null
-  }
-  ta_member = local.ta_member
+  group      = local.no_students
+  ta_member  = local.ta_member
+}
+
+# demo project
+
+resource "random_id" "demo_project_id" {
+  prefix      = "sipa-adv-c-aidan-demo-"
+  byte_length = 2
+}
+
+module "demo_project" {
+  source     = "./group_project"
+  folder_id  = google_folder.group_projects.id
+  project_id = random_id.demo_project_id.hex
+  group      = local.no_students
+  ta_member  = local.ta_member
 }
