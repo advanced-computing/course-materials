@@ -25,6 +25,20 @@ Who has experience with SQL? What have you used it for?
 
 ---
 
+SQL syntax is largely the same across SQL databases:
+
+- SQLite
+- DuckDB
+- PostgreSQL
+- MySQL
+- BigQuery
+- Oracle
+- …
+
+The variations are known as "dialects".
+
+---
+
 ### [Install the command-line tool](https://duckdb.org/docs/installation/?version=stable&environment=cli)
 
 - **Mac:** Assuming you have [Homebrew set up](../readings/week_04.md#setup), use the "package manager" option.
@@ -32,9 +46,13 @@ Who has experience with SQL? What have you used it for?
 
 ---
 
+### Clients
+
+---
+
 ### Example
 
-1. Download the [access to electricity dataset](https://databank.worldbank.org/reports.aspx?dsid=2&series=EG.ELC.ACCS.ZS#) as a CSV.
+1. Download and unzip the [access to electricity dataset](https://databank.worldbank.org/reports.aspx?dsid=2&series=EG.ELC.ACCS.ZS#) as a CSV.
 1. Query it.
 
    ```sql
@@ -57,16 +75,16 @@ SELECT * FROM read_csv(
 ### [Create a table](https://duckdb.org/docs/stable/data/csv/overview.html)
 
 ```sql
-CREATE TABLE electricity AS
-SELECT * FROM read_csv(
-   '[path].csv',
-   nullstr=['', '..']
-);
+CREATE TABLE electricity AS SELECT ...;
 ```
 
 ---
 
 What's a question we might want to ask?
+
+---
+
+[Column names with spaces need double quotes.](https://duckdb.org/docs/stable/sql/dialect/keywords_and_identifiers.html#identifiers) Alternatively, [`normalize_names`](https://duckdb.org/docs/stable/data/csv/overview.html#parameters).
 
 ---
 
@@ -77,6 +95,20 @@ SELECT
 FROM electricity
 ORDER BY diff DESC;
 ```
+
+---
+
+## SQL similarities to pandas
+
+- Tabular
+- DuckDB: `read_csv()`
+- Tables are like DataFrames
+- Columns have types
+- Column-based operations
+
+---
+
+pandas allows you to build up operations over multiple lines; harder to do that in SQL.
 
 ---
 
