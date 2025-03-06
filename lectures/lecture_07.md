@@ -119,15 +119,6 @@ pandas allows you to build up operations over multiple lines; harder to do that 
 
 ---
 
-## Database CLI usage
-
-Can use the CLI for DuckDB (and other databases):
-
-- [Interactively](https://duckdb.org/docs/stable/clients/cli/overview#running-sql-statements-in-the-cli)
-- By [having it execute a SQL script](https://duckdb.org/docs/stable/clients/cli/overview#non-interactive-usage)
-
----
-
 ## Views
 
 ---
