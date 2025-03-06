@@ -119,6 +119,8 @@ ORDER BY diff DESC;
 - Tables are like DataFrames
 - Columns have types
 - Column-based operations
+- `SELECT` is like boolean indexing
+- `GROUP BY` is like [reshaping](https://pandas.pydata.org/docs/user_guide/reshaping.html)
 
 ---
 
@@ -126,7 +128,19 @@ pandas allows you to build up operations over multiple lines; harder to do that 
 
 ---
 
-## [Writing data](https://duckdb.org/docs/stable/clients/python/overview#persistent-storage)
+## Views
+
+---
+
+## Writing data
+
+### [Individual `INSERT`s](https://duckdb.org/docs/stable/clients/python/overview#persistent-storage)
+
+Can do these in a loop
+
+---
+
+### [Writing from a DataFrame](https://duckdb.org/docs/stable/guides/python/import_pandas.html)
 
 ---
 
