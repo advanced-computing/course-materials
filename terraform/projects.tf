@@ -56,18 +56,3 @@ module "ta_project" {
   group      = local.no_students
   ta_member  = local.ta_member
 }
-
-# demo project
-
-resource "random_id" "demo_project_id" {
-  prefix      = "sipa-adv-c-aidan-demo-"
-  byte_length = 2
-}
-
-module "demo_project" {
-  source     = "./group_project"
-  folder_id  = google_folder.group_projects.id
-  project_id = random_id.demo_project_id.hex
-  group      = local.no_students
-  ta_member  = local.ta_member
-}
