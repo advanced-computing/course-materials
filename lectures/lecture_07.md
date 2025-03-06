@@ -1,15 +1,16 @@
-# Lecture 7 - IN PROGRESS
+# Lecture 7
 
 **Databases**
 
 ---
 
-### Complexity
+## Complexity
 
 _Carry-over from [lecture 6](lecture_06.md)_
 
 - [Types](https://en.wikipedia.org/wiki/Programming_complexity#Types)
 - [Cyclomatic measurement](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
+- [ruff `too-many-*` rules](https://docs.astral.sh/ruff/rules/#refactor-plr)
 
 ---
 
@@ -51,24 +52,6 @@ The variations are known as "dialects".
 
 - **Mac:** Assuming you have [Homebrew set up](../readings/week_04.md#setup), use the "package manager" option.
 - **Windows:** [Not available](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1583) for [Chocolatey](https://chocolatey.org/) yet, so probably easiest to do the "direct download".
-
----
-
-## Clients
-
----
-
-Lots of ways to connect to databases from Python, including:
-
-- [pandas](https://pandas.pydata.org/docs/user_guide/io.html#sql-queries)
-- [SQLAlchemy](https://www.sqlalchemy.org/)
-  - Object Relational Mapper (ORM)
-
----
-
-### Drivers
-
-Allow you to use the same Python syntax across databases
 
 ---
 
@@ -128,7 +111,7 @@ ORDER BY diff DESC;
 - Columns have types
 - Column-based operations
 - `SELECT` is like boolean indexing
-- `GROUP BY` is like [reshaping](https://pandas.pydata.org/docs/user_guide/reshaping.html)
+- `GROUP BY` is like `groupby()`
 
 ---
 
@@ -140,11 +123,35 @@ pandas allows you to build up operations over multiple lines; harder to do that 
 
 ---
 
+## Clients
+
+---
+
+Lots of ways to connect to databases from Python, including:
+
+- [pandas](https://pandas.pydata.org/docs/user_guide/io.html#sql-queries)
+- [SQLAlchemy](https://www.sqlalchemy.org/)
+  - Object Relational Mapper (ORM)
+
+---
+
+### Drivers
+
+Allow you to use the same Python syntax across databases
+
+---
+
 ## Writing data
+
+How would you take data from an API and get it into a database?
+
+---
 
 ### [Individual `INSERT`s](https://duckdb.org/docs/stable/clients/python/overview#persistent-storage)
 
-Can do these in a loop
+---
+
+#### [Loops](../examples/duck_loop.py)
 
 ---
 
