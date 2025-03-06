@@ -19,12 +19,11 @@ You'll [pair](../docs/pairing.md) in your group, repository, and dataset from La
 
 ---
 
+## Steps
+
 You'll be changing your API over to use DuckDB.
 
 1. Install the [Python client](https://duckdb.org/docs/stable/clients/python/overview#installation).
 1. Create a SQL script to take data from your CSV file and write it to a [persistent database](https://duckdb.org/docs/stable/clients/python/overview#persistent-storage).
 1. Update your API to read from the database.
-
----
-
 1. [Submit the links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
