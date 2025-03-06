@@ -1,3 +1,4 @@
+*.db
 *.slides.html
 .coverage
 .venv/

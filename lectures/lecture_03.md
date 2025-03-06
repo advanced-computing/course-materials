@@ -4,6 +4,12 @@
 
 ---
 
+## CLI
+
+Command line interface
+
+---
+
 ## Terminals
 
 - Windows

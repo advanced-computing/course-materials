@@ -46,11 +46,25 @@ The variations are known as "dialects".
 
 ---
 
-### Clients
+## Clients
 
 ---
 
-### Example
+Lots of ways to connect to databases from Python, including:
+
+- [pandas](https://pandas.pydata.org/docs/user_guide/io.html#sql-queries)
+- [SQLAlchemy](https://www.sqlalchemy.org/)
+  - Object Relational Mapper (ORM)
+
+---
+
+### Drivers
+
+Allow you to use the same Python syntax across databases
+
+---
+
+## Example
 
 1. Download and unzip the [access to electricity dataset](https://databank.worldbank.org/reports.aspx?dsid=2&series=EG.ELC.ACCS.ZS#) as a CSV.
 1. Query it.
@@ -61,7 +75,7 @@ The variations are known as "dialects".
 
 ---
 
-#### [Specify null values](https://duckdb.org/docs/stable/data/csv/overview.html#parameters)
+### [Specify null values](https://duckdb.org/docs/stable/data/csv/overview.html#parameters)
 
 ```sql
 SELECT * FROM read_csv(
@@ -109,6 +123,10 @@ ORDER BY diff DESC;
 ---
 
 pandas allows you to build up operations over multiple lines; harder to do that in SQL.
+
+---
+
+## [Writing data](https://duckdb.org/docs/stable/clients/python/overview#persistent-storage)
 
 ---
 

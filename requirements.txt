@@ -1,3 +1,4 @@
+duckdb
 Flask==3.*
 isort
 jupyter==1.*
