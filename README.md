@@ -19,7 +19,9 @@
 
 ## Course Description
 
-In [Computing in Context](https://computing-in-context.afeld.me/), students "explore\[d\] computing concepts and coding in the context of solving policy problems." Building off that foundation of Python fundamentals and data analysis, Advanced Computing for Policy goes both deeper and broader. The course covers computer science concepts like data structures and algorithms, as well as supporting systems like databases, cloud services, and collaboration tools. Over the semester, students will build a complex end-to-end data system. This course prepares students for more advanced data science coursework at SIPA, and equips them to do sophisticated data ingestion, analysis, and presentation in research/industry.
+In [Computing in Context](https://computing-in-context.afeld.me/), students "explore\[d\] computing concepts and coding in the context of solving policy problems." Building off that foundation of Python fundamentals and data analysis, Advanced Computing for Policy goes both deeper and broader. The course covers computer science concepts like data structures and algorithms, as well as data engineering tools like databases, cloud services, and collaboration tools. Over the semester, students will build a complex end-to-end data system.
+
+This course prepares students for more advanced data science coursework at SIPA, and equips them to do sophisticated data ingestion, analysis, and presentation. It's particularly well-suited to students looking to do data work in the public sector, not-for-profits, and academia.
 
 ## Prerequisites
 
