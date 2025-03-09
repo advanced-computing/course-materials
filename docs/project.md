@@ -175,7 +175,7 @@ You will hold a team retrospective, with the goal of improving how your team wor
    - If the majority of your code (to call APIs, etc.) is in modules/functions, it can be `import`ed from a Jupyter notebook. You can do exploratory analysis there, moving things to modules/Streamlit as you go.
    - You might not be able to fully answer the question(s) yet, but get as close as you can.
 
-At this point, your project should be looking more like one of the [examples](#inspiration).
+At this point, your project should be looking more like one of the [examples](#inspiration). Looking through the [Streamlit data elements](https://docs.streamlit.io/develop/api-reference/data) may be helpful.
 
 ### Submit
 
