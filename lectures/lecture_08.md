@@ -2,26 +2,12 @@
 
 ---
 
+## Guest speaker
+
+[John Paul Farmer](https://www.linkedin.com/in/johnpaulfarmer)
+
+---
+
 ## [Retro](../docs/project.md#retro)
 
 Anything you'd like to share?
-
----
-
-## Data engineering
-
----
-
-## ETL
-
-1. Extract
-1. Transform
-1. Load
-
----
-
-## Pipelines
-
----
-
-## [Airflow](https://airflow.apache.org/)
