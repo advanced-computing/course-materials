@@ -44,6 +44,8 @@ The trick is avoiding duplicates.
      - `_inc`
 1. [Submit the links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
 
+---
+
 ### Hints
 
 <details>
@@ -58,8 +60,8 @@ The trick is avoiding duplicates.
 <details>
   <summary>For incremental</summary>
   <ul>
-    <li>You might want to split your data files into chunks.</li>
-    <li>Your script will need to know what data has been loaded in order to avoid duplicates.</li>
+    <li>You'll want to split your data files into overlapping chunks.</li>
+    <li>Your script will need to know what data has been loaded in order to avoid re-inserting existing data.</li>
     <li>A Python script may be easier than a SQL one.</li>
   </ul>
 </details>
