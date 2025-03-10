@@ -38,7 +38,7 @@ Seeing projects with `<name>2.py`. Splitting code up into smaller files will hel
 
 ## Steps
 
-You'll [pair](../docs/pairing.md) in your group, repository, and dataset from [Lab 4](lab_04.md). Work on branches and submit pull requests for the chunks of work — you decide what the "chunks" are.
+You'll [pair](../docs/pairing.md) in your Lab group. Work on branches and submit pull requests for the chunks of work — you decide what the "chunks" are.
 
 ---
 

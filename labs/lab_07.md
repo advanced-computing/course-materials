@@ -13,7 +13,7 @@ Can use the CLI for DuckDB (and other databases):
 
 ---
 
-You'll [pair](../docs/pairing.md) in your group, repository, and dataset from Labs [4](lab_04.md) and [5](lab_05.md). Work on branches and submit pull requests for the chunks of work — you decide what the "chunks" are.
+You'll [pair](../docs/pairing.md) in your Lab group. Work on branches and submit pull requests for the chunks of work — you decide what the "chunks" are.
 
 ---
 
