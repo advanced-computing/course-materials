@@ -180,3 +180,11 @@ At this point, your project should be looking more like one of the [examples](#i
 - The EasyRetro board
 - Jupyter notebook(s), if any
 - The (updated) Streamlit app
+
+## Part 5
+
+_IN PROGRESS_
+
+**Goal:** Understand how to work with a cloud-based database
+
+A [service account](https://cloud.google.com/iam/docs/service-account-overview) has been created for your app to access BigQuery.
