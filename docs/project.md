@@ -81,9 +81,7 @@ Only one person from your group needs to submit. None of this is set in stone lo
 
 ## Part 2
 
-### Goal
-
-Get experience with an application development framework
+**Goal:** Get experience with an application development framework
 
 ### Steps
 
@@ -110,9 +108,7 @@ Get experience with an application development framework
 
 ## Part 3
 
-### Goal
-
-Get experience with unit testing
+**Goal:** Get experience with unit testing
 
 ### Steps
 

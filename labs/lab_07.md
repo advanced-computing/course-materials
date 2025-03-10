@@ -1,8 +1,6 @@
 # Lab 7
 
-## Objective
-
-Get experience writing data to and reading data from a database
+**Objective:** Get experience writing data to and reading data from a database
 
 ---
 
@@ -27,9 +25,9 @@ You'll be changing your API over to use DuckDB.
 1. Create a SQL script to take data from your CSV file and write it to a [persistent database](https://duckdb.org/docs/stable/clients/python/overview#persistent-storage).
 1. Update your API to read from the database.
 1. Add a table named "users" to your persistent database.
-	- The table should have three columns: username, age, and country
+   - The table should have three columns: username, age, and country
 1. Add a POST method to add a new user to the table through your API
-   - Use this method to add several made-up users 
+   - Use this method to add several made-up users
 1. Add a GET method to get the number of users, the average age, and the three countries with the most users.
 1. [Submit via CourseWorks](https://courseworks2.columbia.edu/courses/210480/assignments):
    - Links to the pull request(s)

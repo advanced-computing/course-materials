@@ -1,8 +1,6 @@
 # Lab 4
 
-## Objective
-
-Better understand APIs by building one
+**Objective:** Better understand APIs by building one
 
 ---
 
