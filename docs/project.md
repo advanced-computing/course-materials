@@ -188,3 +188,5 @@ _IN PROGRESS_
 **Goal:** Understand how to work with a cloud-based database
 
 A [service account](https://cloud.google.com/iam/docs/service-account-overview) has been created for your app to access BigQuery.
+
+1. [Create a service account key.](https://cloud.google.com/iam/docs/keys-create-delete#iam-service-account-keys-create-console) as JSON. The service account is `streamlit@[project].iam.gserviceaccount.com`.

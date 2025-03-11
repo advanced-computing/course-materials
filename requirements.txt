@@ -11,4 +11,5 @@ pandas-gbq
 pytest
 pytest-cov
 ruff
+streamlit
 ydata-profiling

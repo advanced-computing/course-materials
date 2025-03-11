@@ -3,15 +3,11 @@
 import pandas_gbq
 
 from google.oauth2 import service_account
-import json
+import streamlit as st
 
-SCOPES = [
-    "https://www.googleapis.com/auth/cloud-platform",
-]
 
-with open("sipa-adv-c-aidan-demo-3b12-77031d991edd.json") as f:
-    creds = json.load(f)
-
+# https://docs.streamlit.io/develop/tutorials/databases/bigquery
+creds = st.secrets["gcp_service_account"]
 credentials = service_account.Credentials.from_service_account_info(creds)
 
 df = pandas_gbq.read_gbq(
