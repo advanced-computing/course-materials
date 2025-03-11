@@ -11,6 +11,25 @@ resource "google_folder" "group_projects" {
   parent       = data.google_organization.org.name
 }
 
+# Was getting the following error locally:
+#
+#   Your application is authenticating by using local Application Default Credentials. The orgpolicy.googleapis.com API requires a quota project, which is not set by default. To learn how to set your quota project, see https://cloud.google.com/docs/authentication/adc-troubleshooting/user-creds.
+#
+# Set manually through the Console instead.
+# https://cloud.google.com/iam/docs/keys-create-delete#allow-creation
+# resource "google_org_policy_policy" "primary" {
+#   name   = "${google_folder.group_projects.name}/policies/iam.disableServiceAccountKeyCreation"
+#   parent = google_folder.group_projects.name
+
+#   spec {
+#     inherit_from_parent = false
+
+#     rules {
+#       enforce = "FALSE"
+#     }
+#   }
+# }
+
 locals {
   student_groups = csvdecode(file("${path.module}/../docs/project_teams.csv"))
   # first1-first2-first3

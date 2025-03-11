@@ -5,8 +5,13 @@ resource "google_service_account" "streamlit" {
 }
 
 resource "google_project_iam_member" "streamlit_to_bigquery" {
+  # https://cloud.google.com/bigquery/docs/access-control
+  for_each = toset([
+    "roles/bigquery.dataViewer",
+    "roles/bigquery.jobUser",
+  ])
+
   project = var.project_id
-  # https://cloud.google.com/bigquery/docs/access-control#bigquery.dataViewer
-  role   = "roles/bigquery.dataViewer"
-  member = google_service_account.streamlit.member
+  role    = each.value
+  member  = google_service_account.streamlit.member
 }
