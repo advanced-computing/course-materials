@@ -183,10 +183,29 @@ At this point, your project should be looking more like one of the [examples](#i
 
 ## Part 5
 
-_IN PROGRESS_
-
 **Goal:** Understand how to work with a cloud-based database
 
-A [service account](https://cloud.google.com/iam/docs/service-account-overview) has been created for your app to access BigQuery.
+### Notes
 
-1. [Create a service account key.](https://cloud.google.com/iam/docs/keys-create-delete#iam-service-account-keys-create-console) as JSON. The service account is `streamlit@[project].iam.gserviceaccount.com`.
+- A [service account](https://cloud.google.com/iam/docs/service-account-overview) has been created in your Project for you. It has been given read-only access to BigQuery.
+- There are various things that can go wrong in these steps. **Don't wait until the last minute.**
+
+### Steps
+
+1. Install [pandas-gbq](https://pandas-gbq.readthedocs.io/).
+1. Load data.
+   - Create a Python script that:
+     1. Creates the table, if it doesn't exist
+     1. Pulls data from your regularly-updated data source
+     1. Loads it incrementally.
+   - Since you'll be running the script locally, [authenticate with a user account](https://pandas-gbq.readthedocs.io/en/latest/howto/authentication.html#authenticating-with-a-user-account).
+   - [How to write tables with pandas-gbq](https://pandas-gbq.readthedocs.io/en/latest/writing.html)
+   - How will you know it worked as intended?
+1. Have your app use BigQuery.
+   1. [Create a service account key.](https://cloud.google.com/iam/docs/keys-create-delete#iam-service-account-keys-create-console) as JSON. The service account is `streamlit@[project].iam.gserviceaccount.com`.
+   1. Set up [secrets management](https://docs.streamlit.io/develop/concepts/connections/secrets-management) locally.
+      - Make sure to **add `secrets.toml` to your `.gitignore`** so that you don't accidentally commit it to Git.
+   1. [Copy the key information to your `secrets.toml` file.](https://docs.streamlit.io/develop/tutorials/databases/bigquery#add-the-key-file-to-your-local-app-secrets)
+   1. Modify your app to [read data from BigQuery](https://pandas-gbq.readthedocs.io/en/latest/reading.html).
+      - [Example](../examples/bigquery/query.py)
+1. [Submit the links to the pull requests via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)

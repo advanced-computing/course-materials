@@ -12,7 +12,6 @@ credentials = service_account.Credentials.from_service_account_info(creds)
 
 df = pandas_gbq.read_gbq(
     "SELECT * FROM `bigquery-public-data.cfpb_complaints.complaint_database` LIMIT 10",
-    project_id=creds["project_id"],
     credentials=credentials,
 )
 
