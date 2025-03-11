@@ -207,5 +207,5 @@ At this point, your project should be looking more like one of the [examples](#i
       - Make sure to **add `secrets.toml` to your `.gitignore`** so that you don't accidentally commit it to Git.
    1. [Copy the key information to your `secrets.toml` file.](https://docs.streamlit.io/develop/tutorials/databases/bigquery#add-the-key-file-to-your-local-app-secrets)
    1. Modify your app to [read data from BigQuery](https://pandas-gbq.readthedocs.io/en/latest/reading.html).
-      - [Example](../examples/bigquery/query.py)
+      - [Simplified example](../examples/bigquery/query.py)
 1. [Submit the links to the pull requests via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)

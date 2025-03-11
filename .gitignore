@@ -5,6 +5,8 @@
 !.vscode/settings.json
 .DS_Store
 __pycache__
+
+## SECRETS ##
 # Google Cloud service account key
 sipa-adv-c-*.json
 # https://docs.streamlit.io/develop/concepts/connections/secrets-management#develop-locally-and-set-up-secrets

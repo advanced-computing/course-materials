@@ -10,9 +10,12 @@ import streamlit as st
 creds = st.secrets["gcp_service_account"]
 credentials = service_account.Credentials.from_service_account_info(creds)
 
-df = pandas_gbq.read_gbq(
-    "SELECT * FROM `bigquery-public-data.cfpb_complaints.complaint_database` LIMIT 10",
-    credentials=credentials,
-)
+sql = """
+SELECT *
+FROM `bigquery-public-data.cfpb_complaints.complaint_database`
+LIMIT 10
+"""
+
+df = pandas_gbq.read_gbq(sql, credentials=credentials)
 
 print(df)
