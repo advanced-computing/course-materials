@@ -208,4 +208,8 @@ At this point, your project should be looking more like one of the [examples](#i
    1. [Copy the key information to your `secrets.toml` file.](https://docs.streamlit.io/develop/tutorials/databases/bigquery#add-the-key-file-to-your-local-app-secrets)
    1. Modify your app to [read data from BigQuery](https://pandas-gbq.readthedocs.io/en/latest/reading.html).
       - [Simplified example](../examples/bigquery/query.py)
-1. [Submit the links to the pull requests via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+   1. [Copy the secrets to your deployed app.](https://docs.streamlit.io/develop/tutorials/databases/bigquery#copy-your-app-secrets-to-the-cloud)
+   1. Re-deploy.
+1. [Submit the links via CourseWorks](https://courseworks2.columbia.edu/courses/210480/assignments) for:
+   - The pull request(s)
+   - The link to your live Streamlit app
