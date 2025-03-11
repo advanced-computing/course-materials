@@ -18,7 +18,10 @@ Let's say you were given access to a random table that uses one of the three dat
 
 ### Incremental load
 
-The trick is avoiding duplicates.
+The trick is avoiding duplicates. Your script might then need to say something like:
+
+1. What's the latest timestamp in the database?
+1. Pull data from the API that's more recent than that.
 
 ---
 
