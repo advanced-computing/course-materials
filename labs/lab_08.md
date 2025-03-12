@@ -27,9 +27,42 @@ The trick is avoiding duplicates. Your script might then need to say something l
 
 ## Lab work
 
-- You'll set up scripts to perform each of the [methods of data loading](#data-loading) into DuckDB.
+- You'll write methods to load continuously updated data into a database.
+    - You'll set up scripts to perform each of the [methods of data loading](#data-loading) into DuckDB.
 - You'll [pair](../docs/pairing.md) in your Lab group.
 - Work on branches and submit pull requests for the chunks of work — you decide what the "chunks" are.
+
+---
+
+### Source Data
+
+- We will be using [Consumer Price Index data](https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/pcpi) from the Philadelphia Federal Reserve.
+- We have monthly observations (rows) and monthly vintages (columns)
+
+| DATE    | PCPI04M1 | PCPI04M2 | PCPI04M3 |
+|---------|---------:|---------:|---------:|
+| 2003:09 | 185.0    | 185.1    | 185.1    |
+| 2003:10 | 185.0    | 184.9    | 184.9    |
+| 2003:11 | 184.6    | 184.6    | 184.6    |
+| 2003:12 | 185.0    | 184.9    | 184.9    |
+| 2004:01 | #N/A     | 185.8    | 185.8    |
+| 2004:02 | #N/A     | #N/A     | 186.3    |
+
+- A revision of past data is released in February of each year.
+- A revision released in year `t` can update the values in years `t-5` to `t-1`.
+
+---
+
+### Tasks
+
+Suppose your organization wants to maintain a database of CPI data
+
+- Write a `get_latest_data` function that accepts a `pull_date` and returns the latest data available up to that date
+   - For example, if the `pull_date` is 2004-01-15, the function should return the data from vintage `PCPI04M1`
+- Write code that pulls the latest data at a given `pull_date` and loads it into a DuckDB database
+    - You will implement each of the methods `append`, `trunc`, and `incremental`
+- Loop over a range of `pull_dates` to simulate running the scripts on a daily basis
+- Compare the performance of each method (consistency and speed)
 
 ---
 
@@ -38,33 +71,20 @@ The trick is avoiding duplicates. Your script might then need to say something l
 1. Write out the usage and manual testing instructions as Markdown.
    - We're doing this as [documentation-driven development](https://gist.github.com/zsup/9434452).
    - What should the user expect to see in the table after running each script?
-1. Prepare your datasets for [each method of data loading](#data-loading).
-1. Work through [each method of data loading](#data-loading).
-   - Feel free to manually copy/alter your data file(s) as needed.
+2. Write the `get_latest_data` function.
+   - This function should return only two columns: e.g. `dates` and `cpi`
+   - All other code should interact with the source data only through this function
+3. Work through [each method of data loading](#data-loading).
    - Include the type in the scripts and table names to keep them separate — something like:
      - `_append`
      - `_trunc`
      - `_inc`
-1. [Submit the links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
-
----
-
-### Hints
-
-<details>
-  <summary>For append and trunc-and-load</summary>
-  <ul>
-    <li>Make a copy of your data file and adjust the values manually.</li>
-    <li>Use dates as part of the filenames to separate them.</li>
-    <li>The table should look the same after each time you run the script.</li>
-  </ul>
-</details>
-
-<details>
-  <summary>For incremental</summary>
-  <ul>
-    <li>You'll want to split your data files into overlapping chunks.</li>
-    <li>Your script will need to know what data has been loaded in order to avoid re-inserting existing data.</li>
-    <li>A Python script may be easier than a SQL one.</li>
-  </ul>
-</details>
+    - Your code should accept a `pull_date` parameter and load the data up to that date
+    - The script should be able to run multiple times without duplicating data
+    - For incremental: a Python script may be easier than a SQL one
+4. On a notebook: simulate your organization running the scripts on a daily basis.
+   - Start from empty tables
+   - Loop over a range of `pull_dates` (e.g. 2000-01-01 to 2025-02-28) to simulate running the scripts on a daily basis.
+   - If the loop takes way too long, use a shorter range
+   - Compare the performance of each method (data consistency and speed) 
+5. [Submit the links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
