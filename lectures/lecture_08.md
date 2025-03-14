@@ -31,20 +31,44 @@ It can be helpful to track the load information for each row. These might be thi
 
 ---
 
-### SQL example
+### DuckDB example
 
-Using [`COPY`](https://duckdb.org/docs/stable/sql/statements/copy.html):
+#### Create
 
 ```sql
-COPY [table] FROM
-(
-   SELECT
-      column1,
-      column2,
-      filename AS _LOADED_FROM,
-      NOW() AS _LOADED_AT
-   FROM read_csv('[path]', filename=true);
-);
+CREATE TABLE my_table AS
+SELECT
+   *,
+   current_localtimestamp() AS _LOADED_AT,
+   filename AS _LOADED_FROM
+FROM read_csv('[path]', filename=true);
+```
+
+---
+
+#### Subsequent loads
+
+```sql
+INSERT INTO my_table
+SELECT
+   *,
+   current_localtimestamp() AS _LOADED_AT,
+   filename AS _LOADED_FROM
+FROM read_csv('[path]', filename=true);
+```
+
+---
+
+You can imagine the equivalent in a DataFrame.
+
+---
+
+### Retrieving the latest load
+
+```sql
+SELECT *
+FROM my_table
+WHERE _LOADED_AT = (SELECT MAX(_LOADED_AT) FROM my_table);
 ```
 
 ---
@@ -53,7 +77,7 @@ COPY [table] FROM
 
 ```sql
 BEGIN TRANSACTION;
-COPY ...;
+INSERT INTO ...;
 COMMIT;
 ```
 
