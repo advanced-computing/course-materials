@@ -19,7 +19,14 @@ Next lecture, we'll zoom out.
 
 ## Guest speaker
 
-[John Paul Farmer](https://www.linkedin.com/in/johnpaulfarmer)
+> [John Paul Farmer](https://www.linkedin.com/in/johnpaulfarmer) served as the 3rd Chief Technology Officer of New York City, taking point on everything from broadband to digital services to AI. Prior to that, he spent a handful of years at Microsoft, building connections with cities and the civic tech community. Previously, he was Senior Advisor for Innovation in the White House Office of Science and Technology Policy under President Obama, where he confounded and led the Presidential Innovation Fellows. He has also served as an adjunct associate professor at a Columbia and a Fellow of the University of Pennsylvania’s Institute for Urban Research. Most recently, he served as President of a next-gen broadband technology company and is now the President of Smart City Expo USA.
+
+---
+
+## Intros
+
+- Name
+- What you're passionate about
 
 ---
 
