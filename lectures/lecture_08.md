@@ -2,6 +2,21 @@
 
 ---
 
+## _gestures at everything_
+
+---
+
+## Feedback
+
+- Getting a lot of new information
+- Don't understand where we're going
+
+---
+
+Next lecture, we'll zoom out.
+
+---
+
 ## Guest speaker
 
 [John Paul Farmer](https://www.linkedin.com/in/johnpaulfarmer)
