@@ -38,6 +38,8 @@ Anything you'd like to share?
 
 ## Data warehousing
 
+[Loading data](../labs/lab_08.md#data-loading)
+
 ---
 
 ## Tracking loads

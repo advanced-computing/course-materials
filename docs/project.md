@@ -202,7 +202,7 @@ At this point, your project should be looking more like one of the [examples](#i
    - [How to write tables with pandas-gbq](https://pandas-gbq.readthedocs.io/en/latest/writing.html)
    - How will you know it worked as intended?
 1. Have your app use BigQuery.
-   1. [Create a service account key.](https://cloud.google.com/iam/docs/keys-create-delete#iam-service-account-keys-create-console) as JSON. The service account is `streamlit@[project].iam.gserviceaccount.com`.
+   1. [Create a service account key](https://cloud.google.com/iam/docs/keys-create-delete#iam-service-account-keys-create-console) as JSON. The service account is `streamlit@[project].iam.gserviceaccount.com`.
    1. Set up [secrets management](https://docs.streamlit.io/develop/concepts/connections/secrets-management) locally.
       - Make sure to **add `secrets.toml` to your `.gitignore`** so that you don't accidentally commit it to Git.
    1. [Copy the key information to your `secrets.toml` file.](https://docs.streamlit.io/develop/tutorials/databases/bigquery#add-the-key-file-to-your-local-app-secrets)
