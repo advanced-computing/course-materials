@@ -61,8 +61,27 @@ module "projects" {
 
   source     = "./group_project"
   folder_id  = google_folder.group_projects.id
-  project_id = "sipa-adv-c-${each.key}"
+  project_id = each.value.google_cloud_project_id
   group      = each.value
+  ta_member  = local.ta_member
+}
+
+# keep the Project around
+module "angel_krishna" {
+  source     = "./group_project"
+  folder_id  = google_folder.group_projects.id
+  project_id = "sipa-adv-c-angel-krishna"
+  group      = {
+    student_1_first = "Angel"
+    student_1_last  = "Ragas"
+    student_1_uni   = "jr4252"
+    student_2_first = "Krishna"
+    student_2_last  = "Pandalaneni"
+    student_2_uni   = "kp3076"
+    student_3_first = null
+    student_3_last  = null
+    student_3_uni   = null
+  }
   ta_member  = local.ta_member
 }
 
