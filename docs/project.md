@@ -79,6 +79,8 @@ You will then submit the following to the Discussion on [Ed](https://courseworks
 
 Only one person from your group needs to submit. None of this is set in stone long term, it is just a starting place. It can all be changed later.
 
+## [Lab 3](../labs/lab_03.md)
+
 ## Part 2
 
 **Goal:** Get experience with an application development framework
@@ -139,6 +141,8 @@ As a result, your:
 should be relatively short and easy to read.
 
 This isn't a one-time thing; continue testing and refactoring as you continue with the Project.
+
+## [Lab 6](../labs/lab_06.md)
 
 ## Part 4
 
@@ -216,3 +220,5 @@ Do the following for your regularly-updated data source. Only do one for now —
 1. [Submit the links via CourseWorks](https://courseworks2.columbia.edu/courses/210480/assignments) for:
    - The pull request(s)
    - The link to your live Streamlit app
+
+## [Lab 10](../labs/lab_10.md)
