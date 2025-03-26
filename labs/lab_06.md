@@ -52,4 +52,4 @@ This is one of those times where you'll follow instructions without necessarily 
 
 ### Submit
 
-[Submit the links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+[Submit links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)

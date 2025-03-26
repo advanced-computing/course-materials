@@ -28,7 +28,7 @@ The trick is avoiding duplicates. Your script might then need to say something l
 ## Lab work
 
 - You'll write methods to load continuously updated data into a database.
-    - You'll set up scripts to perform each of the [methods of data loading](#data-loading) into DuckDB.
+  - You'll set up scripts to perform each of the [methods of data loading](#data-loading) into DuckDB.
 - You'll [pair](../docs/pairing.md) in your Lab group.
 - Work on branches and submit pull requests for the chunks of work — you decide what the "chunks" are.
 
@@ -40,13 +40,13 @@ The trick is avoiding duplicates. Your script might then need to say something l
 - We have monthly observations (rows) and monthly vintages (columns)
 
 | DATE    | PCPI04M1 | PCPI04M2 | PCPI04M3 |
-|---------|---------:|---------:|---------:|
-| 2003:09 | 185.0    | 185.1    | 185.1    |
-| 2003:10 | 185.0    | 184.9    | 184.9    |
-| 2003:11 | 184.6    | 184.6    | 184.6    |
-| 2003:12 | 185.0    | 184.9    | 184.9    |
-| 2004:01 | #N/A     | 185.8    | 185.8    |
-| 2004:02 | #N/A     | #N/A     | 186.3    |
+| ------- | -------: | -------: | -------: |
+| 2003:09 |    185.0 |    185.1 |    185.1 |
+| 2003:10 |    185.0 |    184.9 |    184.9 |
+| 2003:11 |    184.6 |    184.6 |    184.6 |
+| 2003:12 |    185.0 |    184.9 |    184.9 |
+| 2004:01 |     #N/A |    185.8 |    185.8 |
+| 2004:02 |     #N/A |     #N/A |    186.3 |
 
 - A revision of past data is released in February of each year.
 - A revision released in year `t` can update the values in years `t-5` to `t-1`.
@@ -58,9 +58,9 @@ The trick is avoiding duplicates. Your script might then need to say something l
 Suppose your organization wants to maintain a database of CPI data
 
 - Write a `get_latest_data` function that accepts a `pull_date` and returns the latest data available up to that date
-   - For example, if the `pull_date` is 2004-01-15, the function should return the data from vintage `PCPI04M1`
+  - For example, if the `pull_date` is 2004-01-15, the function should return the data from vintage `PCPI04M1`
 - Write code that pulls the latest data at a given `pull_date` and loads it into a DuckDB database
-    - You will implement each of the methods `append`, `trunc`, and `incremental`
+  - You will implement each of the methods `append`, `trunc`, and `incremental`
 - Loop over a range of `pull_dates` to simulate running the scripts on a daily basis
 - Compare the performance of each method (consistency and speed)
 
@@ -79,12 +79,12 @@ Suppose your organization wants to maintain a database of CPI data
      - `_append`
      - `_trunc`
      - `_inc`
-    - Your code should accept a `pull_date` parameter and load the data up to that date
-    - The script should be able to run multiple times without duplicating data
-    - For incremental: a Python script may be easier than a SQL one
+   - Your code should accept a `pull_date` parameter and load the data up to that date
+   - The script should be able to run multiple times without duplicating data
+   - For incremental: a Python script may be easier than a SQL one
 4. On a notebook: simulate your organization running the scripts on a daily basis.
    - Start from empty tables
    - Loop over a range of `pull_dates` (e.g. 2000-01-01 to 2025-02-28) to simulate running the scripts on a daily basis.
    - If the loop takes way too long, use a shorter range
-   - Compare the performance of each method (data consistency and speed) 
-5. [Submit the links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+   - Compare the performance of each method (data consistency and speed)
+5. [Submit links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)

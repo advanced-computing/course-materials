@@ -192,7 +192,7 @@ At this point, your project should be looking more like one of the [examples](#i
 
 ### Steps
 
-Do the following for your regularly-updated data source. Repeating the middle steps for the additional dataset(s) is optional.
+Do the following for your regularly-updated data source. Only do one for now — we'll do the rest in [Lab 10](../labs/lab_10.md).
 
 1. Install [pandas-gbq](https://pandas-gbq.readthedocs.io/).
 1. Load data.
