@@ -18,7 +18,7 @@ Students:
 
 ---
 
-## [Project team](../docs/project.md#teams) repository setup
+## [Project team](../docs/project_teams.csv) repository setup
 
 - [Create a public repository in the `advanced-computing` organization.](https://github.com/new?owner=advanced-computing&visibility=public)
   - Make the name something distinctive, such as:

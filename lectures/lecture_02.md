@@ -186,7 +186,7 @@ Source: [Big Data and Social Science](https://textbook.coleridgeinitiative.org/c
 
 ---
 
-### [Teams](../docs/project.md#teams)
+### [Teams](../docs/project_teams.csv)
 
 ---
 
