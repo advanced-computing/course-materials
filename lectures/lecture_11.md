@@ -16,7 +16,7 @@ Useful for complex ETL
 
 ## [Airflow](https://airflow.apache.org/)
 
-There are many alternative "data integration" tools.
+There are _many_ [alternative data integration / workflow orchestration tools](https://www.pracdata.io/p/open-source-data-engineering-landscape-2025).
 
 ---
 
