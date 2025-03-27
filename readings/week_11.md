@@ -1,4 +1,4 @@
-# Week 11 readings - IN PROGRESS
+# Week 11 readings
 
 [General information](../README.md#readings)
 
