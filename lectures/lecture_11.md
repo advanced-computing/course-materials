@@ -16,4 +16,4 @@ There are _many_ [alternative data integration / workflow orchestration tools](h
 
 ---
 
-## [Project Part 7](../docs/project.md#part-7)
+## [Project Part 6](../docs/project.md#part-6)

@@ -222,9 +222,10 @@ Do the following for your regularly-updated data source. Only do one for now —
    - The pull request(s)
    - The link to your live Streamlit app
 
-## [Check-in](https://docs.google.com/forms/d/e/1FAIpQLSdUCkGB7mkkp5E0Lymko0VwZqFvShEsa0j7KKmkgRQNhM30xg/viewform?usp=header)
+## [Check-in][check-in]
 
-We'll do this once now, once at the end.
+- We'll do this once now, once [at the end](#final-check-in).
+- This will be factored into an [individual score](../README.md#grading).
 
 ## [Lab 10](../labs/lab_10.md)
 
@@ -242,6 +243,8 @@ Continued work on the Project
 
 ## Part 8
 
+### Presentation
+
 **Goal:** Force clarity of the project and code by having to show and explain them to others
 
 Each group will do a presentation on their Project in class.
@@ -253,3 +256,7 @@ Each group will do a presentation on their Project in class.
 - Show the live app.
 - Walk through the code.
 - Talk through your findings.
+
+### Final [check-in][check-in]
+
+[check-in]: https://docs.google.com/forms/d/e/1FAIpQLSdUCkGB7mkkp5E0Lymko0VwZqFvShEsa0j7KKmkgRQNhM30xg/viewform?usp=header

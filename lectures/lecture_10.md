@@ -26,4 +26,4 @@
 
 ---
 
-## [Project Part 6](../docs/project.md#part-6)
+## [Project check-in](../docs/project.md#check-in)
