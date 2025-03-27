@@ -17,7 +17,6 @@ Use BigQuery for _all_ your datasets. For each data source:
 
 1. What type of [data loading](lab_08.md#data-loading) will you use? Why? Explain as Markdown in your repository.
 1. Repeat the middle steps from [Part 5](../docs/project.md#part-5).
-   - Doesn't necessarily need to be [incremental](lab_08.md#incremental-load).
 
 ---
 
