@@ -222,11 +222,11 @@ Do the following for your regularly-updated data source. Only do one for now —
    - The pull request(s)
    - The link to your live Streamlit app
 
-## [Lab 10](../labs/lab_10.md)
-
 ## [Check-in](https://docs.google.com/forms/d/e/1FAIpQLSdUCkGB7mkkp5E0Lymko0VwZqFvShEsa0j7KKmkgRQNhM30xg/viewform?usp=header)
 
 We'll do this once now, once at the end.
+
+## [Lab 10](../labs/lab_10.md)
 
 ## Part 6
 

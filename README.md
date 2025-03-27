@@ -36,8 +36,8 @@ In [Computing in Context](https://computing-in-context.afeld.me/), students "exp
 
 - [Attendance: 12%](#attendance)
 - [Lab work](labs/): 24% (12 x 2% each)
-- Reading responses: 24% (12 x 2% each)
-- [Project](docs/project.md): 40% (divided into eight-ish parts, split to be determined)
+- Reading responses: 20% (10 x 2% each)
+- [Project](docs/project.md): 44% (divided into eight-ish parts, split to be determined)
 
 There will not be an exam.
 
