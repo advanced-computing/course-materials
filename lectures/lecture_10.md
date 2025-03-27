@@ -26,16 +26,4 @@
 
 ---
 
-## Pipelines
-
-Useful for complex ETL
-
----
-
-## [Airflow](https://airflow.apache.org/)
-
-There are many alternative "data integration" tools.
-
----
-
 ## [Project Part 6](../docs/project.md#part-6)

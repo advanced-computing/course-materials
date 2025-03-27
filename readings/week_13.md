@@ -2,17 +2,14 @@
 
 [General information](../README.md#readings)
 
-1. [50 Things That Made the Modern Economy: Public Key Cryptography](https://www.bbc.co.uk/programmes/p04vqrwy)
-1. [How the Internet Really Works](../README.md#readings), pages 46-51
-1. [Alexa Takes the Stand: Listening Devices Raise Privacy Issues](https://time.com/4766611/alexa-takes-the-stand-listening-devices-raise-privacy-issues/)
-1. [Study Reveals Extent of Privacy Vulnerabilities With Amazon's Alexa](https://news.ncsu.edu/2021/03/alexa-skill-vulnerabilities/)
-1. [Amazon Echo Dot Privacy & security guide](https://foundation.mozilla.org/en/privacynotincluded/amazon-echo-dot/)
-1. Complete [Digital Privacy and Security for Normal People](https://personal-security.afeld.me/) "Low-hanging fruit"
-1. [A simple way to anonymize data with Python and Pandas](https://dev.to/r0f1/a-simple-way-to-anonymize-data-with-python-and-pandas-79g)
-
-## Optional
-
-- [Alexa and Third Parties' Reasonable Expectation of Privacy](https://www.law.georgetown.edu/american-criminal-law-review/aclr-online/volume-54/alexa-and-third-parties-reasonable-expectation-of-privacy/)
-- [The Privacy Risks of Your Smart Speaker](https://vpnoverview.com/privacy/devices/privacy-risks-smart-speaker/)
+1. [Crash Course Computer Science: Algorithms](https://thecrashcourse.com/courses/intro-to-algorithms-crash-course-computer-science-13/)
+1. [Introduction to Sorting Algorithms in Python](https://realpython.com/courses/intro-sorting-algorithms/) through "Time Complexity Overview"
+1. [Quick sort](https://www.youtube.com/watch?v=ywWBy6J5gz8)
+   - The specifics here aren't important, just giving you a visual of an algorithm.
+   - Your response to this part can be an in-class recital 😉
+1. [Understanding Program Efficiency, Part 1](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-10-understanding-program-efficiency-part-1/)
+1. Optional: [Part 2](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-11-understanding-program-efficiency-part-2/)
+1. [How the Internet Really Works](../README.md#readings), Chapter 8 (pages 67-73)
+1. [Stitch Fix Algorithms Tour](https://algorithms-tour.stitchfix.com/)
 
 Now [submit a response](../README.md#responses).

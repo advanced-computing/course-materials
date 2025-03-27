@@ -32,6 +32,7 @@ All of this will be in [the cloud](https://www.cloudflare.com/learning/cloud/wha
 - All team members are contributing equal amounts.
 - The Project leverages at least one [dataset that's regularly updated](data.md#datasets-that-are-regularly-updated).
 - The site doesn't need to [read like a blog post](https://computing-in-context.afeld.me/projects.html#requirements) necessarily, but it should explain what's going on.
+- By the end, this should be a polished portfolio piece.
 - _More to come_
 
 ## [Teams](project_teams.csv)
@@ -235,11 +236,30 @@ We'll do this once now, once at the end.
 
 Next lecture, each group will do a presentation on their Project.
 
-### Requirements
-
-- 5-10 minutes
+- 5-8 minutes
 - Slides optional
+- Everyone in the group should speak.
 - Explain the initial [proposal](#proposal) and how it's evolved.
 - Show the live app.
 - Walk through the code.
 - Talk through any findings, even if they're just initial.
+
+This is meant to be "the quick version" — we'll do longer ones at the end.
+
+## Part 7
+
+_IN PROGRESS_
+
+Set up Airflow
+
+## Part 8
+
+_IN PROGRESS_
+
+Continued work on the Project
+
+## Part 9
+
+_IN PROGRESS_
+
+You'll do a longer version of [the earlier presentation](#presentation).
