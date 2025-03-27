@@ -37,7 +37,7 @@ In [Computing in Context](https://computing-in-context.afeld.me/), students "exp
 - [Attendance: 12%](#attendance)
 - [Lab work](labs/): 24% (12 x 2% each)
 - Reading responses: 24% (12 x 2% each)
-- [Project](docs/project.md): 40% (divided into 6-8 parts, split to be determined)
+- [Project](docs/project.md): 40% (divided into eight-ish parts, split to be determined)
 
 There will not be an exam.
 
@@ -102,7 +102,7 @@ You can find the rubric under the [Assignment](https://courseworks2.columbia.edu
 | 8    | 3/13        | [Guest speaker; data warehousing](lectures/lecture_08.md)         | [Project Part 4](docs/project.md#part-4)                                  | [Data loading](labs/lab_08.md)                                 | [Lab 7](labs/lab_07.md)                            |
 | 9    | 3/20        | none ([Spring Recess][recess])                                    | none                                                                      | none ([Spring Recess][recess])                                 | none                                               |
 | 10   | 3/27        | [Data engineering (pipelines, ETL)](lectures/lecture_10.md)       | [Project Part 5](docs/project.md#part-5)                                  | [Data loading, continued](labs/lab_10.md)                      | [Lab 8](labs/lab_08.md)                            |
-| 11   | 4/3         | Infrastructure / cloud computing                                  | [Readings](readings/week_11.md)                                           | TBD                                                            | [Lab 10](labs/lab_10.md)                           |
+| 11   | 4/3         | Project presentations; infrastructure / cloud computing           | [Readings](readings/week_11.md), [Project Part 6](docs/project.md#part-6) | TBD                                                            | [Lab 10](labs/lab_10.md)                           |
 | 12   | 4/10        | Big data; algorithms                                              | [Readings](readings/week_12.md)                                           | TBD                                                            | TBD                                                |
 | 13   | 4/17        | Privacy                                                           | [Readings](readings/week_13.md)                                           | TBD                                                            | TBD                                                |
 | 14   | 4/24        | buffer                                                            | TBD                                                                       | TBD                                                            | TBD                                                |

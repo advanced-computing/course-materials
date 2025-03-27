@@ -222,3 +222,24 @@ Do the following for your regularly-updated data source. Only do one for now —
    - The link to your live Streamlit app
 
 ## [Lab 10](../labs/lab_10.md)
+
+## Part 6
+
+## [Check-in](https://docs.google.com/forms/d/e/1FAIpQLSdUCkGB7mkkp5E0Lymko0VwZqFvShEsa0j7KKmkgRQNhM30xg/viewform?usp=header)
+
+We'll do this once now, once at the end.
+
+## Presentation
+
+**Goal:** Force clarity of the project and code by having to show and explain them to others
+
+Next lecture, each group will do a presentation on their Project.
+
+### Requirements
+
+- 5-10 minutes
+- Slides optional
+- Explain the initial [proposal](#proposal) and how it's evolved.
+- Show the live app.
+- Walk through the code.
+- Talk through any findings, even if they're just initial.
