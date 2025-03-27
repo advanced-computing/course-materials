@@ -3,7 +3,10 @@
 [General information](../README.md#readings)
 
 - Optional: [Append Load vs Incremental Load vs Truncate and Load](https://medium.com/@santosh_beora/the-3-most-commonly-used-etl-processes-explained-through-everyday-analogies-a7aa9f7a3754)
-- [Timing Function[s] in Python](https://builtin.com/articles/timing-functions-python)
+- Performance
+  - [The "why" of web performance](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Performance/why_web_performance)
+  - Optional: [Why does speed matter?](https://web.dev/learn/performance/why-speed-matters)
+  - [Timing Function[s] in Python](https://builtin.com/articles/timing-functions-python)
 - Airflow
   - [Overview](https://airflow.apache.org/docs/apache-airflow/stable/index.html)
   - [ETL/ELT](https://airflow.apache.org/use-cases/etl_analytics/)
