@@ -26,4 +26,8 @@
 
 ---
 
-## [Project check-in](../docs/project.md#check-in)
+## [Project arc](../docs/project.md)
+
+---
+
+### [Check-in](../docs/project.md#check-in)
