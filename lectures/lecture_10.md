@@ -1,4 +1,4 @@
-# Lecture 10 - IN PROGRESS
+# Lecture 10
 
 **Data engineering**
 
@@ -8,11 +8,17 @@
 
 ---
 
+## Why use a database?
+
+---
+
 ## Data engineering
 
 ---
 
 ### [Overview](https://docs.google.com/presentation/d/1Q7Oe3CtLo4NuB4gCHPg4v-okfraLvAeVQWLZPAtejCA/edit)
+
+<!-- using Google Slides because it was easier to do diagrams/transitions there -->
 
 ---
 
