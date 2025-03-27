@@ -6,6 +6,7 @@
 - Performance
   - [The "why" of web performance](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Performance/why_web_performance)
   - Optional: [Why does speed matter?](https://web.dev/learn/performance/why-speed-matters)
+  - Optional: [Largest Contentful Paint (LCP)](https://web.dev/articles/lcp)
   - [Timing Function[s] in Python](https://builtin.com/articles/timing-functions-python)
 - Airflow
   - [Overview](https://airflow.apache.org/docs/apache-airflow/stable/index.html)
