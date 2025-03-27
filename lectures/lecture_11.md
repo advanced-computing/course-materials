@@ -4,10 +4,6 @@
 
 ---
 
-## [Presentations](../docs/project.md#presentation)
-
----
-
 ## Pipelines
 
 Useful for complex ETL

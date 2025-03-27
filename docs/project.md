@@ -224,42 +224,32 @@ Do the following for your regularly-updated data source. Only do one for now —
 
 ## [Lab 10](../labs/lab_10.md)
 
-## Part 6
-
 ## [Check-in](https://docs.google.com/forms/d/e/1FAIpQLSdUCkGB7mkkp5E0Lymko0VwZqFvShEsa0j7KKmkgRQNhM30xg/viewform?usp=header)
 
 We'll do this once now, once at the end.
 
-## Presentation
-
-**Goal:** Force clarity of the project and code by having to show and explain them to others
-
-Next lecture, each group will do a presentation on their Project.
-
-- 5-8 minutes
-- Slides optional
-- Everyone in the group should speak.
-- Explain the initial [proposal](#proposal) and how it's evolved.
-- Show the live app.
-- Walk through the code.
-- Talk through any findings, even if they're just initial.
-
-This is meant to be "the quick version" — we'll do longer ones at the end.
-
-## Part 7
+## Part 6
 
 _IN PROGRESS_
 
 Set up Airflow
 
-## Part 8
+## Part 7
 
 _IN PROGRESS_
 
 Continued work on the Project
 
-## Part 9
+## Part 8
 
-_IN PROGRESS_
+**Goal:** Force clarity of the project and code by having to show and explain them to others
 
-You'll do a longer version of [the earlier presentation](#presentation).
+Each group will do a presentation on their Project in class.
+
+- 10-ish minutes
+- Slides optional
+- Everyone in the group should speak.
+- Explain the initial [proposal](#proposal) and how it's evolved.
+- Show the live app.
+- Walk through the code.
+- Talk through your findings.
