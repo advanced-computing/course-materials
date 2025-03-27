@@ -35,4 +35,19 @@ Ensure each page of your app (if there are multiple) fully loads within two seco
 
 ---
 
-[Submit links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+### Record
+
+Make a screen recording starting your app locally, then loading each page in real time. Some options for recording:
+
+- [Mac](https://support.apple.com/en-us/102618)
+- [Windows](https://www.microsoft.com/en-us/windows/learning-center/how-to-record-screen-windows-11)
+- [Zoom](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0059856)
+
+---
+
+## Submit
+
+[Submit via CourseWorks:](https://courseworks2.columbia.edu/courses/210480/assignments)
+
+- Links to the pull request(s)
+- The screen recording
