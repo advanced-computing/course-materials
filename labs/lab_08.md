@@ -88,3 +88,21 @@ Suppose your organization wants to maintain a database of CPI data
    - If the loop takes way too long, use a shorter range
    - Compare the performance of each method (data consistency and speed)
 5. [Submit links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+
+---
+
+## Simplified version
+
+This is a simpler version of the previous task. You can submit work fullfilling either version of the task.
+
+1. Write out the usage and manual testing instructions as Markdown.
+   - We're doing this as [documentation-driven development](https://gist.github.com/zsup/9434452).
+   - What should the user expect to see in the table after running each script?
+2. Use the data in the file [PCPI24M1.xlsx](../examples/lab_8/PCPI24M1.xlsx) to initialize your database. This file contains inflation information as available in January 2024. 
+   - Create a persistent database containing three tables: `cpi_append`, `cpi_trunc` and `cpi_inc`.
+   - For now these three tables look the same.
+3. Load additional inflation data contained in the file [PCPI25M2.xlsx](../examples/lab_8/PCPI25M2.xlsx) into your database. This file contains inflation data as available in February 2025. It contains additional observations and historical revisions with respect to the previous file. 
+   - Use [each method of data loading](#data-loading) to update the tables in your database.
+   - Now your tables might look different.
+4. Discuss how the three methods differ. 
+5. [Submit links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
