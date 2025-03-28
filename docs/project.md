@@ -204,7 +204,7 @@ Do the following for your regularly-updated data source. Only do one for now —
    - Create a Python script that:
      1. Creates the table, if it doesn't exist
      1. Pulls data from your data source
-     1. [Loads it incrementally](../labs/lab_08.md#incremental-load)
+     1. Copies the data to BigQuery using the appropriate [technique](../labs/lab_08.md#data-loading)
    - Since you'll be running the script locally, [authenticate with a user account](https://pandas-gbq.readthedocs.io/en/latest/howto/authentication.html#authenticating-with-a-user-account).
    - [How to write tables with pandas-gbq](https://pandas-gbq.readthedocs.io/en/latest/writing.html)
    - How will you know it worked as intended?
