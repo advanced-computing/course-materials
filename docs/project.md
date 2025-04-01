@@ -229,6 +229,8 @@ Do the following for your regularly-updated data source. Only do one for now —
 
 ## [Lab 10](../labs/lab_10.md)
 
+## [Lab 11](../labs/lab_11.md)
+
 ## Part 6
 
 _IN PROGRESS_
