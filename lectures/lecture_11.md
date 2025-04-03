@@ -1,4 +1,4 @@
-# Lecture 11 - IN PROGRESS
+# Lecture 11
 
 **Data engineering, continued**
 
@@ -38,6 +38,12 @@ What does that mean?
 
 ## Pipelines
 
+[From Arshiya](https://edstem.org/us/courses/73208/discussion/6434817?comment=14941963):
+
+> Why is DAG different from setting workflows in Github?
+
+---
+
 - Useful for complex [ETL](lecture_10.md#overview)
 - Dependencies
 - Assets
@@ -61,6 +67,14 @@ Why store the data?
 ---
 
 ## [Airflow](https://airflow.apache.org/)
+
+---
+
+[From Angel](https://edstem.org/us/courses/73208/discussion/6434817?comment=14975715):
+
+> this method [DAGs?] increases data pipeline transparency but simultaneously increases reliance on developer discipline. Code flexibility might just as easily turn into production instability.
+
+---
 
 There are _many_ [alternative data integration / workflow orchestration tools](https://www.pracdata.io/p/open-source-data-engineering-landscape-2025).
 
