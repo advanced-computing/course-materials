@@ -266,6 +266,8 @@ Convert one of your data loading scripts to an [Airflow DAG](https://airflow.apa
 - Link(s) to your pull request(s)
 - A screenshot of your DAG's [graph view in the Airtable UI](https://airflow.apache.org/docs/apache-airflow/stable/ui.html#graph-view), showing a successful run
 
+## [Lab 13](../labs/lab_13.md)
+
 ## Part 7
 
 **Goal:** Refining the Project
