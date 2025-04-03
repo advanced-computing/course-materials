@@ -19,11 +19,12 @@ The Project owners will be the facilitators. Facilitators will:
 - Do as little speaking, pointing, grimacing, etc. as possible
 - Take notes
   - What are participants getting confused by / stuck on?
+  - What steps did they need to take that aren't documented (well)?
   - What can be clearer?
 
 #### Participants
 
-The other team are the test participants. Participants set up and review the Project, thinking out loud.
+The other team are the test participants. The task is to set up and review the Project, thinking out loud.
 
 ---
 
