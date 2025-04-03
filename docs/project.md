@@ -1,5 +1,7 @@
 # Project
 
+## Goals
+
 As stated in the [course description](../README.md#course-description):
 
 > Over the semester, students will build a complex end-to-end data system.
@@ -28,12 +30,17 @@ All of this will be in [the cloud](https://www.cloudflare.com/learning/cloud/wha
 
 ## Expectations
 
+### At all times
+
 - All code is peer-reviewed, through [pair programming](pairing.md) and/or pull requests.
 - All team members are contributing equal amounts.
 - The Project leverages at least one [dataset that's regularly updated](data.md#datasets-that-are-regularly-updated).
+- The code and repository are clean, following good coding style and [other best practices](https://python-public-policy.afeld.me/en/columbia/assignments.html#coding-in-general).
+
+### By the end
+
 - The site doesn't need to [read like a blog post](https://computing-in-context.afeld.me/projects.html#requirements) necessarily, but it should explain what's going on.
-- By the end, this should be a polished portfolio piece.
-- _More to come_
+- The site + codebase should be a polished portfolio piece.
 
 ## [Teams](project_teams.csv)
 
@@ -241,7 +248,7 @@ Set up Airflow
 
 _IN PROGRESS_
 
-Continued work on the Project
+**Goal:** Refining the Project
 
 ## Part 8
 
