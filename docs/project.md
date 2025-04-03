@@ -35,7 +35,7 @@ All of this will be in [the cloud](https://www.cloudflare.com/learning/cloud/wha
 - All code is peer-reviewed, through [pair programming](pairing.md) and/or pull requests.
 - All team members are contributing equal amounts.
 - The Project leverages at least one [dataset that's regularly updated](data.md#datasets-that-are-regularly-updated).
-- The code and repository are clean, following good coding style and [other best practices](https://python-public-policy.afeld.me/en/columbia/assignments.html#coding-in-general).
+- The code, documentation, and repository are clean, following good coding style and [other best practices](https://python-public-policy.afeld.me/en/columbia/assignments.html#coding-in-general).
 
 ### By the end
 
