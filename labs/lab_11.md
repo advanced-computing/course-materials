@@ -12,10 +12,14 @@ Ensure our Project setup instructions, code, and analysis are clear
 
 ## Document
 
+_10 minutes_
+
 [Pair](../docs/pairing.md) in your Project team to add setup instructions to your README, taking someone from zero to the app running with populated data. You can assume they:
 
 - Know Python
 - Are comfortable in the command line
+
+Send pull request(s) and merge.
 
 ---
 
@@ -45,6 +49,8 @@ The other team are the test participants. The task is to set up and review the P
 
 ### Steps
 
+_30 minutes for each Project with break in between_
+
 1. Pick one Project to test first.
 1. Participants will:
    1. Set up the Project.
@@ -58,9 +64,18 @@ The other team are the test participants. The task is to set up and review the P
       - What is the site trying to convey?
       - What are your takeaways?
 1. Repeat for the other Project, switching roles.
-1. Regroup with your Project team.
-   1. Discuss your takeaways.
-   1. Revise your code/documentation.
+
+---
+
+### Regroup
+
+_Remaining time_
+
+In your Project team:
+
+1. Discuss your takeaways.
+1. Revise your code/documentation.
+1. Send pull request(s) and merge.
 
 ---
 
