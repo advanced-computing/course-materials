@@ -35,7 +35,3 @@
 ---
 
 ## [Terraform](https://www.terraform.io/)
-
----
-
-## [Project Part 7](../docs/project.md#part-7)

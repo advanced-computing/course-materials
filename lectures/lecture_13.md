@@ -31,3 +31,7 @@ Common for setup or administrative tasks.
 
 - Shell scripts
 - Make
+
+---
+
+## [Project Part 7](../docs/project.md#part-7)

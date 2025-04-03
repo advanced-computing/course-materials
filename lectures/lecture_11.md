@@ -67,3 +67,9 @@ There are _many_ [alternative data integration / workflow orchestration tools](h
 ---
 
 ## [Project Part 6](../docs/project.md#part-6)
+
+---
+
+## [Readings](../readings/week_12.md)
+
+They're heavy this week, don't wait!
