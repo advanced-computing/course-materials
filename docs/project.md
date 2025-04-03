@@ -240,9 +240,25 @@ Do the following for your regularly-updated data source. Only do one for now —
 
 ## Part 6
 
-_IN PROGRESS_
+### Data flow
 
-Set up Airflow
+Visually map your data flow, end to end.
+
+- What happens at each step?
+- What can go wrong?
+- Get granular
+- Go all the way upstream. How does the data get collected/generated?
+- You can use:
+  - Paper
+  - [Google Drawings](https://docs.google.com/drawings)
+  - A fancier diagramming tool
+    - Don't over-complicate this
+
+[Submit an image of / a link to your map via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+
+### Airflow
+
+_IN PROGRESS_
 
 ## Part 7
 

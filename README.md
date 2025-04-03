@@ -109,7 +109,7 @@ You can find the rubric under the [Assignment](https://courseworks2.columbia.edu
 | 12   | 4/10        | Infrastructure / cloud computing                                  | [Readings](readings/week_12.md), [Project Part 6](docs/project.md#part-6)     | TBD                                                            | [Lab 11](labs/lab_11.md)                           |
 | 13   | 4/17        | Big data; algorithms                                              | [Readings](readings/week_13.md)                                               | TBD                                                            | TBD                                                |
 | 14   | 4/24        | Privacy                                                           | [Readings](readings/week_14.md), [Project Part 7](docs/project.md#part-7)     | TBD                                                            | TBD                                                |
-| 15   | 5/1         | [Presentations](docs/project.md#presentation)                     | [Project Part 8](docs/project.md#part-8)                                      | TBD                                                            | TBD                                                |
+| 15   | 5/1         | [Project presentations](docs/project.md#presentation)             | [Project Part 8](docs/project.md#part-8)                                      | TBD                                                            | TBD                                                |
 
 [recess]: https://registrar.columbia.edu/content/academic-calendar?acfy=49&acschool=18&acterm=6&field_event_type1_tid%255B%255D=23&keys=#!#e=9806
 
