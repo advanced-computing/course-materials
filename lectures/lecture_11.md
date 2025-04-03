@@ -16,6 +16,13 @@ What would you want to happen?
 
 ---
 
+## Failure modes
+
+- Graceful degredation
+- Examples?
+
+---
+
 ## Process mapping
 
 ---
@@ -28,11 +35,15 @@ What does that mean?
 
 ---
 
-## Online vs. offline data processing
+## Data processing
 
-- Batch jobs
-- [Online analytical processing (OLAP)](https://en.wikipedia.org/wiki/Online_analytical_processing)
+- Pipelines
+  - Modeled as a DAG
+- Jobs
+- Batch vs. streaming
+- Online vs. offline
 - [Online transaction processing (OLTP)](https://en.wikipedia.org/wiki/Online_transaction_processing)
+- [Online analytical processing (OLAP)](https://en.wikipedia.org/wiki/Online_analytical_processing)
 
 ---
 
