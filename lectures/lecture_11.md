@@ -8,7 +8,7 @@ We're going to revisit a number of concepts from earlier.
 
 ---
 
-What can go wrong in data loading?
+What can go wrong in data loading/manipulation? What errors/bugs have you hit?
 
 ---
 
@@ -49,6 +49,14 @@ What does that mean?
 ## Persistence
 
 Why store the data?
+
+---
+
+## Data lake/warehouse
+
+<!-- https://lucid.app/lucidchart/3a04cf05-06b1-4a79-a2f5-b72314f0d46e/edit --->
+
+![Warehouse layers](../img/warehouse_layers.svg)
 
 ---
 
