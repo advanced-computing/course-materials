@@ -16,5 +16,8 @@
    1. Logs
       - [Cloud Logging overview](https://cloud.google.com/logging/docs/overview)
       - [Logs Explorer](https://cloud.google.com/logging/docs/view/logs-explorer-interface)
+1. [Cloud Composer](https://cloud.google.com/composer)
+   1. [Overview](https://cloud.google.com/composer/docs/composer-3/composer-overview)
+   1. [Environment architecture](https://cloud.google.com/composer/docs/composer-3/environment-architecture)
 
 Now [submit a response](../README.md#responses).
