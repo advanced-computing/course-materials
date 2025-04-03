@@ -12,7 +12,10 @@ Ensure our Project setup instructions, code, and analysis are clear
 
 ## Document
 
-[Pair](../docs/pairing.md) in your Project team to add setup instructions to your README.
+[Pair](../docs/pairing.md) in your Project team to add setup instructions to your README, taking someone from zero to the app running with populated data. You can assume they:
+
+- Know Python
+- Are comfortable in the command line
 
 ---
 
@@ -46,6 +49,7 @@ The other team are the test participants. The task is to set up and review the P
 1. Participants will:
    1. Set up the Project.
       - Get the app running locally; you don't need to deploy it.
+      - Try to follow the instructions exactly, only going back to perform missing steps when you hit a problem.
       - Timebox this to 20 minutes.
       - The Google Cloud Project identifier may need to be changed to your team's; otherwise, avoid changing any code if you can.
    1. Load the data.
