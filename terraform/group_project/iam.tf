@@ -24,3 +24,9 @@ resource "google_project_iam_member" "ta" {
   role    = "roles/admin"
   member  = var.ta_member
 }
+
+resource "google_project_iam_member" "everyone_data_viewer" {
+  project = google_project.main.project_id
+  role    = "roles/bigquery.dataViewer"
+  member  = "group:advanced-computing-for-policy-all@columbia.edu"
+}

@@ -56,9 +56,10 @@ _30 minutes for each Project with break in between_
    1. Set up the Project.
       - Get the app running locally; you don't need to deploy it.
       - Try to follow the instructions exactly, only going back to perform missing steps when you hit a problem.
+      - Everyone _should_ have read-only access to each others' BigQuery.
       - Timebox this to 20 minutes.
-      - The Google Cloud Project identifier may need to be changed to your team's; otherwise, avoid changing any code if you can.
    1. Load the data.
+      - The Google Cloud Project identifier will need to be changed to your team's; avoid changing any other code if you can.
    1. Review the site.
       - If you're unable to get it running locally, you can look at [the published site](../docs/project_teams.csv).
       - What is the site trying to convey?
