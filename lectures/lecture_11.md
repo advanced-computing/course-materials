@@ -63,6 +63,13 @@ What does that mean?
 
 ---
 
+### GitHub Actions configuration
+
+- [Examples](../.github/workflows/)
+- [Trigger configuration](https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions#on)
+
+---
+
 ## Persistence
 
 Why store the data?
@@ -74,6 +81,10 @@ Why store the data?
 <!-- https://lucid.app/lucidchart/3a04cf05-06b1-4a79-a2f5-b72314f0d46e/edit --->
 
 ![Warehouse layers](../img/warehouse_layers.svg)
+
+---
+
+### [Example view](lecture_08.md#retrieving-the-latest-load)
 
 ---
 
