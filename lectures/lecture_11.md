@@ -83,7 +83,7 @@ Why store the data?
 
 [From Angel](https://edstem.org/us/courses/73208/discussion/6434817?comment=14975715):
 
-> this method [DAGs?] increases data pipeline transparency but simultaneously increases reliance on developer discipline. Code flexibility might just as easily turn into production instability.
+> \[using DAGs\] increases data pipeline transparency but simultaneously increases reliance on developer discipline. Code flexibility might just as easily turn into production instability.
 
 ---
 

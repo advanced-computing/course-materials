@@ -82,6 +82,8 @@ When troubleshooting, we are trying to strike a balance between students getting
 
 Don't spend a _ton_ of time trying to figure out something that you don't understand; feel free to escalate to the instructor.
 
+We have [a Google Group](https://groups.google.com/a/columbia.edu/g/advanced-computing-for-policy-all/about), advanced-computing-for-policy-all@columbia.edu, [managed through Grouper](https://www.cuit.columbia.edu/grouper).
+
 ### [Discussions](https://courseworks2.columbia.edu/courses/210480/external_tools/37606?display=borderless)
 
 - [Help page](https://edstem.org/us/help/using-ed-discussion)

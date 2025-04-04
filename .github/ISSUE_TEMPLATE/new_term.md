@@ -31,3 +31,4 @@ assignees: afeld
 - [ ] [Request Google Cloud credits](https://cloud.google.com/edu/faculty)
 - [ ] [Invite TA and students to GitHub Organization](https://github.com/orgs/advanced-computing/people)
 - [ ] Update [Gmail filters](https://docs.google.com/spreadsheets/d/1MoOnADGw_A3oc1qMx2TllbRHlRD-4dDcrHXldSdzM5E/edit#gid=1645501691)
+- [ ] [Update mailing list](https://www.cuit.columbia.edu/grouper)

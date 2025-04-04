@@ -35,7 +35,7 @@ Your Project team is going to pair up with another one, being each others' test 
 
 The Project owners will be the facilitators. Facilitators will:
 
-- Do as little speaking, pointing, grimacing, etc. as possible
+- Do as little speaking/pointing/grimacing/etc. as possible
 - Take notes
   - What are participants getting confused by / stuck on?
   - What steps did they need to take that aren't documented (well)?
@@ -49,16 +49,18 @@ The other team are the test participants. The task is to set up and review the P
 
 ### Steps
 
-_30 minutes for each Project with break in between_
+_30 minutes for each Project, with break in between_
 
 1. Pick one Project to test first.
+1. Pair up, one facilitator with one participant (roughly).
 1. Participants will:
    1. Set up the Project.
       - Get the app running locally; you don't need to deploy it.
       - Try to follow the instructions exactly, only going back to perform missing steps when you hit a problem.
+      - Everyone _should_ have read-only access to each others' BigQuery.
+      - Don't worry about performing the data loading.
       - Timebox this to 20 minutes.
-      - The Google Cloud Project identifier may need to be changed to your team's; otherwise, avoid changing any code if you can.
-   1. Load the data.
+   1. Review the code, explaining out loud what you think it's doing.
    1. Review the site.
       - If you're unable to get it running locally, you can look at [the published site](../docs/project_teams.csv).
       - What is the site trying to convey?
