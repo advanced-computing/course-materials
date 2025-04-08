@@ -4,7 +4,7 @@ You'll be working with your [Project team](../docs/project_teams.csv).
 
 ---
 
-## Objective
+## Goal
 
 Get your data pipeline running in the cloud.
 

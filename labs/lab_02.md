@@ -2,7 +2,7 @@
 
 ---
 
-## Objectives
+## Goals
 
 Students:
 

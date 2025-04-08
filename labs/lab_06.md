@@ -4,7 +4,7 @@
 
 You'll work in your [Project teams](../docs/project_teams.csv).
 
-## Objectives
+## Goals
 
 - Try out linting
 - Set up continuous integration

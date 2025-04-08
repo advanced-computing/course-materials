@@ -4,7 +4,7 @@ Sit with your [Project team](../docs/project_teams.csv).
 
 ---
 
-## Objective
+## Goal
 
 Ensure our Project setup instructions, code, and analysis are clear
 

@@ -1,6 +1,6 @@
 # Lab 8
 
-**Objective:** Understand different methods of loading data
+**Goal:** Understand different methods of loading data
 
 ---
 
@@ -98,11 +98,11 @@ This is a simpler version of the previous task. You can submit work fullfilling 
 1. Write out the usage and manual testing instructions as Markdown.
    - We're doing this as [documentation-driven development](https://gist.github.com/zsup/9434452).
    - What should the user expect to see in the table after running each script?
-2. Use the data in the file [PCPI24M1.csv](../examples/lab_8/PCPI24M1.csv) to initialize your database. This file contains inflation information as available in January 2024. 
+2. Use the data in the file [PCPI24M1.csv](../examples/lab_8/PCPI24M1.csv) to initialize your database. This file contains inflation information as available in January 2024.
    - Create a persistent database containing three tables: `cpi_append`, `cpi_trunc` and `cpi_inc`.
    - For now these three tables look the same.
-3. Load additional inflation data contained in the file [PCPI25M2.csv](../examples/lab_8/PCPI25M2.csv) into your database. This file contains inflation data as available in February 2025. It contains additional observations and historical revisions with respect to the previous file. 
+3. Load additional inflation data contained in the file [PCPI25M2.csv](../examples/lab_8/PCPI25M2.csv) into your database. This file contains inflation data as available in February 2025. It contains additional observations and historical revisions with respect to the previous file.
    - Use [each method of data loading](#data-loading) to update the tables in your database.
    - Now your tables might look different.
-4. Discuss how the three methods differ. 
+4. Discuss how the three methods differ.
 5. [Submit links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)

@@ -1,6 +1,6 @@
 # Lab 1
 
-## Objectives
+## Goals
 
 Students:
 

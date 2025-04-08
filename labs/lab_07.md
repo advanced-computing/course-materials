@@ -1,6 +1,6 @@
 # Lab 7
 
-**Objective:** Get experience writing data to and reading data from a database
+**Goal:** Get experience writing data to and reading data from a database
 
 ---
 

@@ -1,6 +1,6 @@
 # Lab 5
 
-## Objective
+## Goal
 
 Get hands-on experience with:
 

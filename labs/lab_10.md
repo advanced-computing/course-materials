@@ -1,6 +1,6 @@
 # Lab 10
 
-**Objectives:**
+**Goals:**
 
 - Think through data loading for different data sources
 - Ensure your app is performant
