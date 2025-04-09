@@ -12,13 +12,17 @@
 - Storage
   - Disk
   - Blob
-- Networking
-  - Local area network (LAN)
-  - Wide area network (WAN)
-  - Virtual private cloud (VPC)
-  - Internet Protocol (IP) addresses
-    - IPv4
-    - IPv6
+
+---
+
+### Networking
+
+- Local area network (LAN)
+- Wide area network (WAN)
+- Virtual private cloud (VPC)
+- Internet Protocol (IP) addresses
+  - IPv4
+  - IPv6
 
 ---
 
