@@ -1,4 +1,4 @@
-# Lecture 12 - IN PROGRESS
+# Lecture 12
 
 **Infrastructure / cloud computing**
 
@@ -19,38 +19,61 @@ There are whole certifications/careers on this stuff; we're just scratching the 
 
 ## Terms
 
+What's a server?
+
+---
+
 - Workload
-- Server
 - Compute
 - Storage
   - Disk
   - Blob
-- Region
+- Identity and access management (IAM)
+  - Principals
+- [Region](https://cloud.google.com/about/locations)
 
 ---
 
-### Networking
+## Networking
 
-- Local area network (LAN)
-- Wide area network (WAN)
-- Virtual private cloud (VPC)
-- Internet Protocol (IP) addresses
-  - IPv4
-  - IPv6
+### Local area network (LAN)
+
+_Show wifi connection_
 
 ---
 
-#### Demo
+```sh
+flask run --host 0.0.0.0
+```
+
+---
+
+### Internet Protocol (IP) addresses
+
+- IPv4
+- IPv6
+
+---
+
+### Wide area network (WAN)
 
 - `dig <domain>`
-- Show router info
+- [Whats My IP Address](https://whatismyipaddress.com/)
+
+---
+
+### Virtual private cloud (VPC)
+
+---
+
+## Why cloud?
 
 ---
 
 ## Containers
 
+- Like [virtual environments](https://docs.python.org/3/library/venv.html) with greater isolation+portability
 - Docker
-  - Like [virtual environments](https://docs.python.org/3/library/venv.html) with greater isolation+portability
 - Registry
 - Kubernetes
 

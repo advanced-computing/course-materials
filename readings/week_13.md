@@ -2,6 +2,7 @@
 
 [General information](../README.md#readings)
 
+1. Look through [course setup Terraform](../terraform/).
 1. [Crash Course Computer Science: Algorithms](https://thecrashcourse.com/courses/intro-to-algorithms-crash-course-computer-science-13/)
 1. [Introduction to Sorting Algorithms in Python](https://realpython.com/courses/intro-sorting-algorithms/) through "Time Complexity Overview"
 1. [Quick sort](https://www.youtube.com/watch?v=ywWBy6J5gz8)
