@@ -29,13 +29,25 @@
 ## Containers
 
 - Docker
+  - Like [virtual environments](https://docs.python.org/3/library/venv.html) with greater isolation+portability
+- Registry
 - Kubernetes
+
+---
+
+## [Terraform](https://www.terraform.io/)
+
+---
+
+### Demo
+
+1. Create a Project.
+1. Grant everyone (`advanced-computing-for-policy-all@columbia.edu`) Viewer access.
+1. Create a BigQuery dataset and table.
 
 ---
 
 - Configuration as code (CaC)
 - Infrastructure as code (IaC)
 
----
-
-## [Terraform](https://www.terraform.io/)
+Why might these be useful?
