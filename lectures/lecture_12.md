@@ -4,6 +4,19 @@
 
 ---
 
+## Agenda
+
+1. Technical stuff
+1. Zooming out
+
+---
+
+## Infrastructure
+
+There are whole certifications/careers on this stuff; we're just scratching the surface.
+
+---
+
 ## Terms
 
 - Workload
@@ -12,6 +25,7 @@
 - Storage
   - Disk
   - Blob
+- Region
 
 ---
 
@@ -23,6 +37,13 @@
 - Internet Protocol (IP) addresses
   - IPv4
   - IPv6
+
+---
+
+#### Demo
+
+- `dig <domain>`
+- Show router info
 
 ---
 
@@ -43,7 +64,10 @@
 
 1. Create a Project.
 1. Grant everyone (`advanced-computing-for-policy-all@columbia.edu`) Viewer access.
+1. Re-run.
 1. Create a BigQuery dataset and table.
+1. Change access to just the dataset.
+1. Change the dataset name.
 
 ---
 
@@ -51,3 +75,19 @@
 - Infrastructure as code (IaC)
 
 Why might these be useful?
+
+---
+
+Why are we talking about all of this? How does it relate to policy?
+
+---
+
+> The magic of law is now inextricably tied to the bits and bytes of computer code.
+
+-Jennifer Pahlka, [Recoding America](https://www.recodingamerica.us/)
+
+---
+
+## [Readings](../readings/week_13.md)
+
+They're heavy again this week, don't wait!

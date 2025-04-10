@@ -67,7 +67,7 @@ Each [reading](../README.md#readings), part of the [Project](project.md), and [L
 
 ### Check-in meeting
 
-1. How did the Lab go?
+1. How did the [Lab](../README.md#schedule) go?
 1. How's the workload?
 1. Anything you need clarification on?
 1. Any Discussions the instructor should jump in on?

@@ -1,4 +1,4 @@
-# Week 13 readings - IN PROGRESS
+# Week 13 readings
 
 [General information](../README.md#readings)
 
