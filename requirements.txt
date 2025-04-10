@@ -2,6 +2,7 @@ apache-airflow==2.*
 duckdb
 # As of Airflow 2.10.5, it isn't compatible with Flask 3, so be flexible.
 Flask>=2.0,<4
+functions-framework==3.*
 isort
 jupyter==1.*
 linkchecker
