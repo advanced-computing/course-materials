@@ -10,6 +10,10 @@ variable "allow_destroy" {
   default = false
 }
 
+variable "everyone_group" {
+  type = string
+}
+
 variable "ta_member" {
   type = string
 }

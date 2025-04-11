@@ -11,3 +11,7 @@ provider "google" {
   project = local.root_project
   region  = local.region
 }
+
+locals {
+  everyone_group = "group:advanced-computing-for-policy-all@columbia.edu"
+}
