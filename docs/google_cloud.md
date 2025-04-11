@@ -26,7 +26,7 @@ From the Console:
 
 1. In the top navigation bar, on the left side, click the drop-down.
 1. You should see a `Select a resource` modal pop up.
-1. From the drop-down, you may need to switch `COLUMBIA.EDU` to `No organization`.
+1. From the drop-down, you may need to switch `COLUMBIA.EDU` to `No organization` (may show up as `afeld.me`).
 
    <img src="../img/google_cloud_project.png" width="317" alt="Project selection modal"/>
 
