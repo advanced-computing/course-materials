@@ -14,6 +14,8 @@ When it says `User A:`, use a browser logged in as that person. Ditto for B. May
 
 ## Steps
 
+Do the following through the [Console](https://console.cloud.google.com/):
+
 1. **User A:** Project setup
    1. [Create a new Project.](https://cloud.google.com/resource-manager/docs/creating-managing-projects#creating_a_project)
       - Name it something like `<user1>-<user2>-lab-12`.
@@ -32,6 +34,7 @@ When it says `User A:`, use a browser logged in as that person. Ditto for B. May
 1. Try accessing from `gcloud`
 1. `gcloud config set project <project>`
 1. `gcloud app deploy`
+1. [Delete the Project](https://cloud.google.com/resource-manager/docs/creating-managing-projects#shutting_down_projects) to avoid charges.
 
 ---
 
