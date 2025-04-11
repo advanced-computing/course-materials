@@ -71,7 +71,7 @@ module "angel_krishna" {
   source     = "./group_project"
   folder_id  = google_folder.group_projects.id
   project_id = "sipa-adv-c-angel-krishna"
-  group      = {
+  group = {
     student_1_first = "Angel"
     student_1_last  = "Ragas"
     student_1_uni   = "jr4252"
@@ -82,7 +82,7 @@ module "angel_krishna" {
     student_3_last  = null
     student_3_uni   = null
   }
-  ta_member  = local.ta_member
+  ta_member = local.ta_member
 }
 
 module "ta_project" {
@@ -103,9 +103,10 @@ resource "random_id" "demo_project_id" {
 }
 
 module "demo_project" {
-  source     = "./group_project"
-  folder_id  = google_folder.group_projects.id
-  project_id = random_id.demo_project_id.hex
-  group      = local.no_students
-  ta_member  = local.ta_member
+  source        = "./group_project"
+  folder_id     = google_folder.group_projects.id
+  project_id    = random_id.demo_project_id.hex
+  allow_destroy = true
+  group         = local.no_students
+  ta_member     = local.ta_member
 }

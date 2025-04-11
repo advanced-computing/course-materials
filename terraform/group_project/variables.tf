@@ -6,6 +6,10 @@ variable "project_id" {
   type = string
 }
 
+variable "allow_destroy" {
+  default = false
+}
+
 variable "ta_member" {
   type = string
 }
