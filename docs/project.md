@@ -304,6 +304,6 @@ Each group will do a presentation on their Project in class.
 - Walk through the code.
 - Talk through your findings.
 
-### Final [check-in][check-in]
+## Final [check-in][check-in]
 
 [check-in]: https://docs.google.com/forms/d/e/1FAIpQLSdUCkGB7mkkp5E0Lymko0VwZqFvShEsa0j7KKmkgRQNhM30xg/viewform?usp=header
