@@ -16,36 +16,54 @@ GitHub Actions ➡️ Python ➡️ BigQuery
 
 ---
 
-Back in [Lab 6](lab_06.md#steps), you set up automated testing. Use that as a template to make another workflow that runs on a [schedule](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows#schedule) for ETL.
+Make a workflow that runs on a [schedule](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows#schedule) to run your ETL. Check out [the workflows in this repository](../.github/workflows/) as examples you can start with.
 
 ---
 
-How will you know if it worked?
+## Thinking ahead
+
+- How will you know if it worked?
+- If something went wrong, where would you look to find out why?
 
 ---
 
-## Connection
+## Hints
 
-GitHub Actions will need credentials + permissions to write to BigQuery.
+<details>
+   <summary>There's an extra step</summary>
+   GitHub Actions will need credentials + permissions to write to BigQuery.
+</details>
 
-1. [Create a service account in Google Cloud.](https://cloud.google.com/iam/docs/service-accounts-create)
-1. [Create a key](https://cloud.google.com/iam/docs/keys-create-delete#iam-service-account-keys-create-console) as JSON.
-1. Add it to GitHub Actions as a [secret](https://docs.github.com/en/actions/security-for-github-actions/security-guides/using-secrets-in-github-actions).
+<details>
+   <summary>How to do it</summary>
+   <ol>
+      <li><a href="https://cloud.google.com/iam/docs/service-accounts-create">Create a service account in Google Cloud.</a></li>
+      <li><a href="https://cloud.google.com/iam/docs/grant-role-console#grant_an_iam_role">Grant</a> it the appropriate <a href="https://cloud.google.com/bigquery/docs/access-control#bigquery">role</a>.</li>
+      <li><a href="https://cloud.google.com/iam/docs/keys-create-delete#iam-service-account-keys-create-console">Create a key</a> as JSON.</li>
+      <li>Add it to GitHub Actions as a <a href="https://docs.github.com/en/actions/security-for-github-actions/security-guides/using-secrets-in-github-actions">secret</a>.</li>
+   </ol>
+</details>
 
 ---
 
 ## Tips
 
-- You can make the schedule more frequent to test it out.
-- You might want to set up [table snapshots](https://cloud.google.com/bigquery/docs/table-snapshots-intro) in case anything goes wrong.
-- You might want to make separate test and production datasets/tables in BigQuery.
+- To test out the workflow, you can:
+  - Make the schedule more frequent
+  - Set it to `push`
+  - [Run it manually](https://docs.github.com/en/actions/managing-workflow-runs-and-deployments/managing-workflow-runs/manually-running-a-workflow)
+  - Advanced: [Run it locally](https://nektosact.com/)
+- To protect yourself in case your data gets messed up:
+  - Set up [table snapshots](https://cloud.google.com/bigquery/docs/table-snapshots-intro).
+  - Make separate test and production datasets/tables in BigQuery.
 
 ---
 
 ## Optional
 
-Get the workflow running locally with [act](https://nektosact.com/)
-
 ---
 
-[Submit a link to your GitHub Actions run history via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+[Submit via CourseWorks:](https://courseworks2.columbia.edu/courses/210480/assignments)
+
+- Links to your pull request(s)
+- A link to your GitHub Actions run history
