@@ -63,4 +63,4 @@ Common for setup or administrative tasks.
 
 ---
 
-## [Project Part 7](../docs/project.md#part-7)
+## [Project Parts 7 and 8](../docs/project.md#part-7)

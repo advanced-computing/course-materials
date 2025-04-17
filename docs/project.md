@@ -41,6 +41,7 @@ All of this will be in [the cloud](https://www.cloudflare.com/learning/cloud/wha
 
 - The site doesn't need to [read like a blog post](https://computing-in-context.afeld.me/projects.html#requirements) necessarily, but it should explain what's going on.
 - The site + codebase should be a polished portfolio piece.
+- Data is being automatically updated.
 
 ## [Teams](project_teams.csv)
 
@@ -270,13 +271,24 @@ Visually map your data flow, end to end.
 
 ## Part 7
 
+**Goal:** Determine and prioritize TODOs
+
+You'll do [this prioritization exercise](https://www.atlassian.com/team-playbook/plays/prioritization-matrix) as a group.
+
+- This must be done synchronously.
+- Look back at the [expectations](#expectations).
+- The Prep can be done in the meeting itself.
+- You can use paper/stickies or a digital template like [Miro's](https://miro.com/templates/simple-priority-matrix/)
+
+[Submit a photo/link to the matrix via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+
+## Part 8
+
 ### Refinement
 
-**Goal:** Refining the Project
+**Goal:** Meet the [expectations](#expectations)
 
-_IN PROGRESS_
-
-[Submit links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+Do tasks you came up with in the prioritization exercise in order of priority.
 
 ### Presentation
 

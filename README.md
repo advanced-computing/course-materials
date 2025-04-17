@@ -38,7 +38,7 @@ In [Computing in Context](https://computing-in-context.afeld.me/), students "exp
 - [Lab work](labs/): 24% (12 x 2% each)
 - Reading responses: 20% (10 x 2% each)
 - [Project](docs/project.md): 44%
-  - Group work: 32% (divided into seven parts, split to be determined)
+  - Group work: 32% (divided into eight parts, split to be determined)
   - Individual score: 12%
     - This is effectively weighting the group work based on the individual's contributions.
 
@@ -108,8 +108,8 @@ You can find the rubric under the [Assignment](https://courseworks2.columbia.edu
 | 11   | 4/3         | [Data engineering, continued (pipelines)](lectures/lecture_11.md) | [Readings](readings/week_11.md), [Project check-in](docs/project.md#check-in) | [Process mapping](labs/lab_11.md)                              | [Lab 10](labs/lab_10.md)                           |
 | 12   | 4/10        | [Infrastructure; cloud computing](lectures/lecture_12.md)         | [Readings](readings/week_12.md)                                               | [Cloud configuration](labs/lab_12.md)                          | [Lab 11](labs/lab_11.md)                           |
 | 13   | 4/17        | [Big data; algorithms; shell scripting](lectures/lecture_13.md)   | [Readings](readings/week_13.md), [Project Part 6](docs/project.md#part-6)     | [Cloud-based pipelines](labs/lab_13.md)                        | none                                               |
-| 14   | 4/24        | [Privacy; security](lectures/lecture_14.md)                       | [Readings](readings/week_14.md)                                               | TBD                                                            | [Lab 13](labs/lab_13.md)                           |
-| 15   | 5/1         | [Project presentations](docs/project.md#presentation)             | [Project Part 7](docs/project.md#part-7)                                      | TBD                                                            | TBD                                                |
+| 14   | 4/24        | [Privacy; security](lectures/lecture_14.md)                       | [Readings](readings/week_14.md), [Project Part 7](docs/project.md#part-7)     | TBD                                                            | [Lab 13](labs/lab_13.md)                           |
+| 15   | 5/1         | [Project presentations](docs/project.md#presentation)             | [Project Part 8](docs/project.md#part-8)                                      | TBD                                                            | TBD                                                |
 
 [recess]: https://registrar.columbia.edu/content/academic-calendar?acfy=49&acschool=18&acterm=6&field_event_type1_tid%255B%255D=23&keys=#!#e=9806
 

@@ -2,6 +2,7 @@
 
 [General information](../README.md#readings)
 
+1. [Prioritization matrix for allthethings](https://www.atlassian.com/team-playbook/plays/prioritization-matrix)
 1. [50 Things That Made the Modern Economy: Public Key Cryptography](https://www.bbc.co.uk/programmes/p04vqrwy)
 1. [How the Internet Really Works](../README.md#readings), pages 46-51
 1. [Alexa Takes the Stand: Listening Devices Raise Privacy Issues](https://time.com/4766611/alexa-takes-the-stand-listening-devices-raise-privacy-issues/)
