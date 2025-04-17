@@ -1,4 +1,4 @@
-# Lecture 13 - IN PROGRESS
+# Lecture 13
 
 **Big data; algorithms; shell scripting**
 
