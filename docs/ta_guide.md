@@ -72,7 +72,7 @@ Each [reading](../README.md#readings), part of the [Project](project.md), and [L
 1. Anything you need clarification on?
 1. Any Discussions the instructor should jump in on?
 1. What came up in Lab/Discussions/assignments (common problems, etc.) that might be useful to cover in class?
-1. Are all cells in the gradebook filled in (through last week)?
+1. Are all cells in the [gradebook](https://courseworks2.columbia.edu/courses/210480/gradebook) filled in (through last week)?
 1. Are all the Assignments created that need to be?
 1. Plan for [upcoming lab](../README.md#schedule)
 
