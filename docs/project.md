@@ -270,11 +270,13 @@ Visually map your data flow, end to end.
 
 ## Part 7
 
+### Refinement
+
 **Goal:** Refining the Project
 
 _IN PROGRESS_
 
-## Part 8
+[Submit links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
 
 ### Presentation
 
