@@ -4,6 +4,23 @@
 
 ---
 
+## Airflow
+
+Share your experience.
+
+- What was interesting?
+- What was hard?
+
+---
+
+### ETL vs. CI
+
+---
+
+### [Lab 13](../labs/lab_13.md)
+
+---
+
 ## Big-O notation
 
 ---
@@ -42,6 +59,10 @@ Takeaways?
 - Threads
 - Distributed workloads
 - MapReduce
+
+---
+
+## Sync vs. async
 
 ---
 
