@@ -12,6 +12,9 @@
 1. Optional: [Part 2](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-11-understanding-program-efficiency-part-2/)
 1. [How the Internet Really Works](../README.md#readings), Chapter 8 (pages 67-73)
 1. [Stitch Fix Algorithms Tour](https://algorithms-tour.stitchfix.com/)
+1. Optional: Eventual consistency
+   - [AWS IAM documentation](https://docs.aws.amazon.com/IAM/latest/UserGuide/troubleshoot.html#troubleshoot_general_eventual-consistency)
+   - [General explanation](https://www.geeksforgeeks.org/eventual-consistency-in-distributive-systems-learn-system-design/)
 1. Optional: Docker
    1. Install [Docker Desktop](https://www.docker.com/).
    1. [Deploy Streamlit using Docker.](https://docs.streamlit.io/deploy/tutorials/docker)

@@ -28,8 +28,10 @@ You'll be User A and B, to see things from both sides. When it says `User A:`, u
    1. [Switch](../docs/google_cloud.md#switching-to-your-google-cloud-project) to the Project created above.
    1. [Create a table in BigQuery](https://cloud.google.com/bigquery/docs/tables#create-table) using [sample data from Lab 8](../examples/lab_8/PCPI24M1.csv) or any other CSV.
 1. **User A:** [Revoke access.](https://cloud.google.com/docs/security/data-loss-prevention/revoking-user-access#remove-account)
-1. **User B:** Refresh the page. You should get an access error.
+1. **User B:** Refresh the page. You should get an access error.\*
 1. Explain to each other what's been done so far.
+
+\*Not seeing access revoked immediately? This is because ["The IAM API is eventually consistent."](https://cloud.google.com/iam/docs/overview#consistency)
 
 ---
 
