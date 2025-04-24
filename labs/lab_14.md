@@ -1,8 +1,8 @@
-# Lab 14 - IN PROGRESS
+# Lab 14
 
 **Tabletop security exercise**
 
-Facilitators, organize new groups of 3-4.
+Dungeon Masters (DMs), organize new groups of 2-3 additional people.
 
 ---
 
@@ -13,7 +13,7 @@ Facilitators, organize new groups of 3-4.
 
 ---
 
-Facilitator, take it away! We'll come back together for the last five minutes.
+DMs, take it away! We'll come back together for the last five minutes.
 
 ---
 
