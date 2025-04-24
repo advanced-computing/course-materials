@@ -1,6 +1,6 @@
 # Lecture 13
 
-**Big data; algorithms; shell scripting**
+**Big data; algorithms**
 
 ---
 
@@ -75,24 +75,6 @@ How long would we expect each to take for 100 (10x) numbers?
 ## Sync vs. async
 
 What's a real-world example?
-
----
-
-## Advanced command line
-
-- Pipes
-- `find`
-- `xargs`
-- `sed`
-
----
-
-## Multiple commands
-
-Common for setup or administrative tasks.
-
-- Shell scripts
-- Make
 
 ---
 

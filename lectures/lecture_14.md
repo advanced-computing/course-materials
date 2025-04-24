@@ -1,6 +1,6 @@
 # Lecture 14 - IN PROGRESS
 
-**Privacy; security**
+**Privacy; security; shell scripting**
 
 ---
 
@@ -18,10 +18,29 @@ Doors and bars on windows
 
 ---
 
-[Quasi-identifiers](https://en.wikipedia.org/wiki/Quasi-identifier)
+### [Quasi-identifiers](https://en.wikipedia.org/wiki/Quasi-identifier)
 
 ---
 
 ## Security
 
 NIST categorization
+
+---
+
+## Advanced command line
+
+- Pipes
+- `curl`
+- `find`
+- `xargs`
+- `sed`
+
+---
+
+## Multiple commands
+
+Common for setup or administrative tasks.
+
+- Shell scripts
+- Make
