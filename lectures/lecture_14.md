@@ -1,12 +1,58 @@
 # Lecture 14 - IN PROGRESS
 
-**Privacy; security; shell scripting**
+**Privacy and security; shell scripting**
+
+<!-- pulled from https://docs.google.com/presentation/d/1MyjF3B_EG1ysvMg9NrVCkOshOHElubYIZibXvgPucPc/edit -->
+
+---
+
+## [Digital Privacy and Security for Normal People](https://personal-security.afeld.me/)
+
+- How many of those things had you done already?
+- Who did the [Next Steps](https://personal-security.afeld.me/next-steps)?
+- Any surprises or discoveries, pleasant or unpleasant?
+
+---
+
+## [Alexa readings](../readings/week_14.md)
+
+Did these change how anyone thought about their smart devices?
 
 ---
 
 ## Privacy vs. security
 
-Doors and bars on windows
+What's the difference?
+
+---
+
+![doors and windows](../img/doors_and_windows.png)
+
+[Doors vs. windows anaolgy](https://privacyref.com/difference-privacy-security/)
+
+---
+
+Why are we talking about this?
+
+---
+
+- Where has security come up in your Project?
+- Has privacy come up?
+
+---
+
+### [HaveIBeenPwned.com](https://haveibeenpwned.com/)
+
+- Type in whatever email you use most for online accounts
+- How many did you get?
+
+---
+
+## [CIA triad](https://www.nccoe.nist.gov/publication/1800-26/VolA/index.html#executive-summary)
+
+- Treats Privacy as a subset of Security (Confidentiality)
+- What would make a system have higher needs for one vs. another?
+- "High-water mark"
 
 ---
 
@@ -22,9 +68,36 @@ Doors and bars on windows
 
 ---
 
-## Security
+## Security toolkit
 
-NIST categorization
+### 2FA/MFA
+
+- What does it mean?
+- Why is it important?
+
+---
+
+### Password managers
+
+- Who uses one?
+- What do they do?
+- Why are they important/useful?
+
+---
+
+### SSO
+
+- What is it?
+  - What does it mean to consumers?
+- Any downsides?
+- Why is it important?
+
+---
+
+### Encryption
+
+- How does it work? (high level)
+- Why does it matter?
 
 ---
 
