@@ -116,4 +116,6 @@ Why are we talking about this?
 Common for setup or administrative tasks.
 
 - Shell scripts
+  - [Examples from dotfiles](https://github.com/afeld/dotfiles/tree/main/bin)
 - Make
+  - [Example from Computing in Context](https://github.com/afeld/computing-in-context/blob/main/Makefile)
