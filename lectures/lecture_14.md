@@ -1,4 +1,4 @@
-# Lecture 14 - IN PROGRESS
+# Lecture 14
 
 **Privacy and security; shell scripting**
 
@@ -118,6 +118,7 @@ Why are we talking about this?
 - `curl`
 - `find`
 - `xargs`
+- `grep`
 - `sed`
 
 ---
@@ -130,3 +131,7 @@ Common for setup or administrative tasks.
   - [Examples from dotfiles](https://github.com/afeld/dotfiles/tree/main/bin)
 - Make
   - [Example from Computing in Context](https://github.com/afeld/computing-in-context/blob/main/Makefile)
+
+---
+
+## Continue on [Project Part 8](../docs/project.md#part-8)
