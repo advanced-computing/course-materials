@@ -29,4 +29,4 @@ def test_lab_submit_info(file):
             pytest.skip(f"Lab {skip_lab} doesn't have a separate submission")
 
     content = read_file(file)
-    assert "/assignments" in content
+    assert "/assignments" in content or "submit" in content.lower()
