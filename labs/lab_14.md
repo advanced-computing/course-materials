@@ -2,22 +2,23 @@
 
 **Tabletop security exercise**
 
----
-
-Get in groups of 3-4, new people. One person in each group will be the facilitator.
+Facilitators, organize new groups of 3-4.
 
 ---
 
-## Role-playing games (RPGs)
+## Group
 
-Have you played a game like Dungeons and Dragons? This is kind of like that.
-
----
-
-## Scenario
-
-You think your parent's email has been hacked. What do you do?
+- You can ask whatever questions you like.
+- Be patient with your facilitator, they're a volunteer!
 
 ---
 
-Write a paragraph of reflection and submit to the thread on Ed.
+Facilitator, take it away! We'll come back together for the last five minutes.
+
+---
+
+## [Phases of incident response](https://csrc.nist.gov/projects/incident-response)
+
+---
+
+Write a paragraph of reflection (individually) and submit to the thread on Ed.
