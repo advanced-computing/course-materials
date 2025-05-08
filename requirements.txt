@@ -9,6 +9,7 @@ linkchecker
 numpy<=2.3
 pandas==2.*
 pandas-gbq
+plotly
 pytest
 pytest-cov
 ruff
