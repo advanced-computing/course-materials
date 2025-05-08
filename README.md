@@ -123,7 +123,11 @@ This is a new course; all of the above is subject to change. Things will be adju
 
 Attending class (lectures and labs) is mandatory, but most importantly, important. Learning programming requires commitment from the part of the student and the skills are built out of practice. If you miss an experience in class, you miss an important learning moment and the class misses your contribution.
 
-Missing class counts as an absence, regardless of the reason or notifying the instructor(s) beforehand. Missing more than 20 minutes of a class session will be treated as an absence. The first two absences are treated as "freebies", each subsequent absence will result in a 0.5% deduction from the overall grade.
+Missing class counts as an absence, regardless of the reason or notifying the instructor(s) beforehand. Missing more than 20 minutes of a class session will be treated as an absence. The first two absences are treated as "freebies". It will be calculated as:
+
+$$\text{Maximum Score} = \text{Total Lectures and Labs} - \text{Freebies} = 28 - 2 = 26$$
+
+$$\text{Your Score} = \min(\text{Maximum Score}, \text{Number of Lectures and Labs You Attended})$$
 
 If you do miss class, we trust that it's for a good reason. If you're sick, please use that freebie and stay home and rest.
 
