@@ -42,9 +42,7 @@ In [Computing in Context](https://computing-in-context.afeld.me/), students "exp
   - Individual score: 14%
     - This is effectively weighting the group work based on the individual's contributions.
 
-There will not be an exam.
-
-Data visualizations must have good titles and axis labels.
+There will not be an exam. The grades will be [curved](docs/curve.ipynb).
 
 ### Assignment scoring details
 
@@ -54,6 +52,7 @@ Data visualizations must have good titles and axis labels.
 - Syntax errors: -10 points
 - Incomplete Steps / Steps with logic errors: -2 to -5 points
 - Unattempted Steps: -10 points
+- Data visualizations missing good titles / axis labels: -5 to -10 points
 
 ## Readings
 
