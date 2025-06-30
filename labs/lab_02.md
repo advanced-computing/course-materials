@@ -43,7 +43,7 @@ Students can look back at the [Computing in Context slides](https://computing-in
 1. Check how many records the API is returning.
 1. Get the full dataset using pagination.
    - Useful resources:
-     - [Socrata API: Paging through Data](https://dev.socrata.com/docs/paging.html)
+     - [Socrata API: Paging through Data](https://dev.socrata.com/docs/queries/page.html)
      - [Requests package: Passing Parameters In URLs](https://requests.readthedocs.io/en/latest/user/quickstart/#passing-parameters-in-urls)
      - [pandas: `concat()`](https://pandas.pydata.org/docs/user_guide/merging.html#concat)
    - Restriction for this lab: Page size shouldn't be set greater than `1000`.
