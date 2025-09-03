@@ -7,7 +7,7 @@
 1. Install command line tools:
    - Mac users: [Install XCode Command Line Tools](https://www.freecodecamp.org/news/install-xcode-command-line-tools/)
    - Windows: [Git BASH](https://gitforwindows.org/)
-1. [Command Line for Beginners](https://www.freecodecamp.org/news/command-line-for-beginners/)
+1. [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 
 Don't forget to [submit a response](../README.md#responses).
 
