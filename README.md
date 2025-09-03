@@ -23,7 +23,7 @@ In [Computing in Context](https://computing-in-context.afeld.me/), students "exp
 
 ## Prerequisites
 
-[Computing in Context (INAFU6006)](https://computing-in-context.afeld.me/). See [info about testing out](docs/testing_out.md).
+[Computing in Context (INAFU6006)](https://computing-in-context.afeld.me/). See [info about testing out](https://computing-in-context.afeld.me/#testing-out).
 
 ## Communications
 
