@@ -164,6 +164,8 @@ Done through package managers
 ### Python
 
 - [conda](https://docs.conda.io/projects/conda/en/stable/user-guide/getting-started.html)
+  - [Anaconda](https://anaconda.org/anaconda/repo) [channel](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/channels.html), maintained by the company
+  - [conda-forge](https://conda-forge.org/packages/), maintained by the community
 - [pip](https://packaging.python.org/en/latest/tutorials/installing-packages/)
   - [PyPI](https://pypi.org/)
 - [Virtual environment](https://docs.python.org/3/library/venv.html)
