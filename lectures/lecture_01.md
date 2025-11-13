@@ -2,7 +2,7 @@
 
 **Instructor:** Aidan Feldman
 
-**TA:** Roberto Zuniga Valladares
+**TA:** Sneha Palle
 
 ---
 

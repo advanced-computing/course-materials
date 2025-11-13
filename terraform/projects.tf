@@ -26,7 +26,7 @@ locals {
     group.student_3_first,
   ]))) => group }
 
-  ta_member = "user:rz2516@columbia.edu"
+  ta_member = "user:sp4434@columbia.edu"
 }
 
 locals {
@@ -75,7 +75,7 @@ module "angel_krishna" {
 }
 
 module "ta_project" {
-  for_each = toset(["roberto"])
+  for_each = toset(["sneha"])
 
   source         = "./group_project"
   folder_id      = google_folder.group_projects.id

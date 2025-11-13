@@ -10,16 +10,3 @@ For example:
 1. Ringo Starr
 
 Here is the actual list:
-
-1. Roberto Zuniga
-2. Isaura Arias
-3. Alexa Chan
-4. Sam Bennett
-5. Will Frolich
-6. Ijaz Ahmed Khan
-7. Fred Lee
-9. Arshiya Sawhney
-10. Takaaki Nagasawa
-11. Hiroyuki
-12. Arnav Sahai
-13. Krishna

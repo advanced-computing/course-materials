@@ -2,14 +2,14 @@
 
 - **Course Number:** [INAFU6659](https://vergil.columbia.edu/vergil/course/20251/74227)
 - **Instructor:** [Aidan Feldman](https://www.sipa.columbia.edu/communities-connections/faculty/aidan-feldman), [alf2215@columbia.edu](mailto:alf2215@columbia.edu)
-- **Teaching Assistant (TA):** [Roberto Zuniga Valladares](https://www.sipa.columbia.edu/communities-connections/faculty/roberto-zuniga-valladares), [rz2516@columbia.edu](mailto:rz2516@columbia.edu)
-- **Semester and Year:** Spring 2025
+- **Teaching Assistant (TA):** [Sneha Palle](https://www.linkedin.com/in/sneha-palle/), [sp4434@columbia.edu](mailto:sp4434@columbia.edu)
+- **Semester and Year:** Spring 2026
 - **Credits:** 3
 
 ## Meeting Dates/Times
 
-- **Lecture:** Thursdays 9-10:50am, [IAB][IAB] room 402B
-- **Lab, a.k.a. recitation:** Fridays 2:20-3:50pm, [IAB][IAB] room 402B
+- **Lecture:** Thursdays 9-10:50am, [IAB][IAB] room TBD
+- **Lab, a.k.a. recitation:** Fridays 2:20-3:50pm, [IAB][IAB] room TBD
 - [**Office Hours:**](https://calendar.google.com/calendar/embed?src=c_0f46e8283081fed502941bfac7501cd0b8b5cd26635c8f4546e313ef7403e5fa%40group.calendar.google.com&ctz=America%2FNew_York) Make sure you're signed in to your Columbia Google account to view. Also available by appointment.
 - [**TA Office Hours**](https://calendar.app.google/7K6UZzfeRxyUaTnn6) By appointment only.
 
@@ -97,21 +97,21 @@ You can find the rubric under the [Assignment](https://courseworks2.columbia.edu
 
 | Week | Lecure date | Lecture topic(s)                                                  | Assignments due (at the start of lecture)                                     | [Lab](labs/) topic(s)                                          | [Lab](labs/) due (at the start of the Lab session) |
 | ---- | ----------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
-| 1    | 1/23        | [Welcome; collaborating on code (GitHub)](lectures/lecture_01.md) | none                                                                          | [Computer setup; Git workflow](labs/lab_01.md)                 | none                                               |
-| 2    | 1/30        | [Project/product management](lectures/lecture_02.md)              | [Readings](readings/week_02.md)                                               | [Jupyter, pandas, and visualization refresher](labs/lab_02.md) | none                                               |
-| 3    | 2/6         | [Command line; dependency management](lectures/lecture_03.md)     | [Readings](readings/week_03.md), [Project Part 1](docs/project.md#part-1)     | [Project setup](labs/lab_03.md)                                | [Lab 2](labs/lab_02.md)                            |
-| 4    | 2/13        | [Web development](lectures/lecture_04.md)                         | [Readings](readings/week_04.md)                                               | [Building an API](labs/lab_04.md)                              | [Lab 3](labs/lab_03.md)                            |
-| 5    | 2/20        | [Automated testing](lectures/lecture_05.md)                       | [Readings](readings/week_05.md), [Project Part 2](docs/project.md#part-2)     | [Data profiling/quality](labs/lab_05.md)                       | [Lab 4](labs/lab_04.md)                            |
-| 6    | 2/27        | [Organizing code](lectures/lecture_06.md)                         | [Readings](readings/week_06.md), [Project Part 3](docs/project.md#part-3)     | [Continuous integration](labs/lab_06.md)                       | [Lab 5](labs/lab_05.md)                            |
-| 7    | 3/6         | [Databases](lectures/lecture_07.md)                               | [Readings](readings/week_07.md)                                               | [Databases](labs/lab_07.md)                                    | [Lab 6](labs/lab_06.md)                            |
-| 8    | 3/13        | [Guest speaker; data warehousing](lectures/lecture_08.md)         | [Project Part 4](docs/project.md#part-4)                                      | [Data loading](labs/lab_08.md)                                 | [Lab 7](labs/lab_07.md)                            |
-| 9    | 3/20        | none ([Spring Recess][recess])                                    | none                                                                          | none ([Spring Recess][recess])                                 | none                                               |
-| 10   | 3/27        | [Data engineering (ETL)](lectures/lecture_10.md)                  | [Project Part 5](docs/project.md#part-5)                                      | [Data loading, continued](labs/lab_10.md)                      | [Lab 8](labs/lab_08.md)                            |
-| 11   | 4/3         | [Data engineering, continued (pipelines)](lectures/lecture_11.md) | [Readings](readings/week_11.md), [Project check-in](docs/project.md#check-in) | [Process mapping](labs/lab_11.md)                              | [Lab 10](labs/lab_10.md)                           |
-| 12   | 4/10        | [Infrastructure; cloud computing](lectures/lecture_12.md)         | [Readings](readings/week_12.md)                                               | [Cloud configuration](labs/lab_12.md)                          | [Lab 11](labs/lab_11.md)                           |
-| 13   | 4/17        | [Big data; algorithms](lectures/lecture_13.md)                    | [Readings](readings/week_13.md), [Project Part 6](docs/project.md#part-6)     | [Cloud-based pipelines](labs/lab_13.md)                        | none                                               |
-| 14   | 4/24        | [Privacy and security; shell scripting](lectures/lecture_14.md)   | [Readings](readings/week_14.md), [Project Part 7](docs/project.md#part-7)     | [Tabletop exercise](labs/lab_14.md)                            | [Lab 13](labs/lab_13.md)                           |
-| 15   | 5/1         | [Project presentations](docs/project.md#presentation)             | [Project Part 8](docs/project.md#part-8)                                      | Roberto's work                                                 | [Lab 14](labs/lab_14.md)                           |
+| 1    | 1/22        | [Welcome; collaborating on code (GitHub)](lectures/lecture_01.md) | none                                                                          | [Computer setup; Git workflow](labs/lab_01.md)                 | none                                               |
+| 2    | 1/29        | [Project/product management](lectures/lecture_02.md)              | [Readings](readings/week_02.md)                                               | [Jupyter, pandas, and visualization refresher](labs/lab_02.md) | none                                               |
+| 3    | 2/5         | [Command line; dependency management](lectures/lecture_03.md)     | [Readings](readings/week_03.md), [Project Part 1](docs/project.md#part-1)     | [Project setup](labs/lab_03.md)                                | [Lab 2](labs/lab_02.md)                            |
+| 4    | 2/12        | [Web development](lectures/lecture_04.md)                         | [Readings](readings/week_04.md)                                               | [Building an API](labs/lab_04.md)                              | [Lab 3](labs/lab_03.md)                            |
+| 5    | 2/19        | [Automated testing](lectures/lecture_05.md)                       | [Readings](readings/week_05.md), [Project Part 2](docs/project.md#part-2)     | [Data profiling/quality](labs/lab_05.md)                       | [Lab 4](labs/lab_04.md)                            |
+| 6    | 2/26        | [Organizing code](lectures/lecture_06.md)                         | [Readings](readings/week_06.md), [Project Part 3](docs/project.md#part-3)     | [Continuous integration](labs/lab_06.md)                       | [Lab 5](labs/lab_05.md)                            |
+| 7    | 3/5         | [Databases](lectures/lecture_07.md)                               | [Readings](readings/week_07.md)                                               | [Databases](labs/lab_07.md)                                    | [Lab 6](labs/lab_06.md)                            |
+| 8    | 3/12        | [Guest speaker; data warehousing](lectures/lecture_08.md)         | [Project Part 4](docs/project.md#part-4)                                      | [Data loading](labs/lab_08.md)                                 | [Lab 7](labs/lab_07.md)                            |
+| 9    | 3/19        | none ([Spring Recess][recess])                                    | none                                                                          | none ([Spring Recess][recess])                                 | none                                               |
+| 10   | 3/26        | [Data engineering (ETL)](lectures/lecture_10.md)                  | [Project Part 5](docs/project.md#part-5)                                      | [Data loading, continued](labs/lab_10.md)                      | [Lab 8](labs/lab_08.md)                            |
+| 11   | 4/2         | [Data engineering, continued (pipelines)](lectures/lecture_11.md) | [Readings](readings/week_11.md), [Project check-in](docs/project.md#check-in) | [Process mapping](labs/lab_11.md)                              | [Lab 10](labs/lab_10.md)                           |
+| 12   | 4/9         | [Infrastructure; cloud computing](lectures/lecture_12.md)         | [Readings](readings/week_12.md)                                               | [Cloud configuration](labs/lab_12.md)                          | [Lab 11](labs/lab_11.md)                           |
+| 13   | 4/16        | [Big data; algorithms](lectures/lecture_13.md)                    | [Readings](readings/week_13.md), [Project Part 6](docs/project.md#part-6)     | [Cloud-based pipelines](labs/lab_13.md)                        | none                                               |
+| 14   | 4/23        | [Privacy and security; shell scripting](lectures/lecture_14.md)   | [Readings](readings/week_14.md), [Project Part 7](docs/project.md#part-7)     | [Tabletop exercise](labs/lab_14.md)                            | [Lab 13](labs/lab_13.md)                           |
+| 15   | 4/30        | [Project presentations](docs/project.md#presentation)             | [Project Part 8](docs/project.md#part-8)                                      | Sneha's work                                                   | [Lab 14](labs/lab_14.md)                           |
 
 [recess]: https://registrar.columbia.edu/content/academic-calendar?acfy=49&acschool=18&acterm=6&field_event_type1_tid%255B%255D=23&keys=#!#e=9806
 
