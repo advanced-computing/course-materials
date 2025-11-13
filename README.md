@@ -1,6 +1,7 @@
 # Advanced Computing for Policy syllabus
 
-- **Course Number:** [INAFU6659](https://vergil.columbia.edu/vergil/course/20251/74227)
+- **Course Number:** [DSPC7160IA](https://vergil.columbia.edu/vergil/course/20261/106160)
+  - Formerly INAFU6659
 - **Instructor:** [Aidan Feldman](https://www.sipa.columbia.edu/communities-connections/faculty/aidan-feldman), [alf2215@columbia.edu](mailto:alf2215@columbia.edu)
 - **Teaching Assistant (TA):** [Sneha Palle](https://www.linkedin.com/in/sneha-palle/), [sp4434@columbia.edu](mailto:sp4434@columbia.edu)
 - **Semester and Year:** Spring 2026
@@ -25,7 +26,7 @@ This course prepares students for more advanced data science coursework at SIPA,
 
 ## Prerequisites
 
-[Computing in Context (INAFU6006)](https://computing-in-context.afeld.me/). See [info about testing out](https://computing-in-context.afeld.me/#testing-out).
+[Computing in Context (DSPC6000IA/INAFU6006)](https://computing-in-context.afeld.me/). See [info about testing out](https://computing-in-context.afeld.me/#testing-out).
 
 ## Communications
 
