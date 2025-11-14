@@ -1,7 +1,6 @@
 # Advanced Computing for Policy syllabus
 
-- **Course Number:** [DSPC7160IA](https://vergil.columbia.edu/vergil/course/20261/106160)
-  - Formerly INAFU6659
+- **Course Number:** [DSPC7160IA](https://vergil.columbia.edu/vergil/course/20261/106160), formerly INAFU6659
 - **Instructor:** [Aidan Feldman](https://www.sipa.columbia.edu/communities-connections/faculty/aidan-feldman), [alf2215@columbia.edu](mailto:alf2215@columbia.edu)
 - **Teaching Assistant (TA):** [Sneha Palle](https://www.linkedin.com/in/sneha-palle/), [sp4434@columbia.edu](mailto:sp4434@columbia.edu)
 - **Semester and Year:** Spring 2026
@@ -12,7 +11,6 @@
 - **Lecture:** Thursdays 3:10-5pm, [IAB][IAB] room TBD
 - **Lab, a.k.a. recitation:** Fridays 1:10-3pm, [IAB][IAB] room TBD
 - [**Office Hours:**](https://calendar.google.com/calendar/embed?src=c_0f46e8283081fed502941bfac7501cd0b8b5cd26635c8f4546e313ef7403e5fa%40group.calendar.google.com&ctz=America%2FNew_York) Make sure you're signed in to your Columbia Google account to view. Also available by appointment.
-- [**TA Office Hours**](https://calendar.app.google/7K6UZzfeRxyUaTnn6) By appointment only.
 
 [IAB]: https://maps.app.goo.gl/Hg6dyuWcchZ2DmRB6
 
@@ -116,7 +114,7 @@ You can find the rubric under the [Assignment](https://courseworks2.columbia.edu
 
 [recess]: https://registrar.columbia.edu/content/academic-calendar?acfy=49&acschool=18&acterm=6&field_event_type1_tid%255B%255D=23&keys=#!#e=9806
 
-[Project Final Check-in](docs/project.md#final-check-in) due 5/4.
+[Project Final Check-in](docs/project.md#final-check-in) due 5/3.
 
 This is a new course; all of the above is subject to change. Things will be adjusted to the needs and interests of the students.
 
