@@ -120,6 +120,10 @@ This is a new course; all of the above is subject to change. Things will be adju
 
 ## Course Policies
 
+### Auditing/pass-fail
+
+This course is largely group work and cumulative projects. Therefore, it doesn't make sense to have students doing only some of the work. As a result, neither auditing nor pass-fail are permitted for this course.
+
 ### Attendance
 
 Attending class (lectures and labs) is mandatory, but most importantly, important. Learning programming requires commitment from the part of the student and the skills are built out of practice. If you miss an experience in class, you miss an important learning moment and the class misses your contribution.
