@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       # https://github.com/actions/setup-python
       - name: Install Python
         uses: actions/setup-python@v6
