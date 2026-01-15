@@ -18,7 +18,7 @@ resource "google_folder" "group_projects" {
 }
 
 resource "google_folder_iam_member" "project_creator" {
-  folder = google_folder.group_projects.folder_id
+  folder = google_folder.group_projects.name
   role   = "roles/resourcemanager.projectCreator"
   member = local.everyone_group
 }

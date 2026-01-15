@@ -4,7 +4,7 @@
 #
 # Set manually through the Console instead.
 # https://cloud.google.com/iam/docs/keys-create-delete#allow-creation
-# resource "google_org_policy_policy" "primary" {
+# resource "google_org_policy_policy" "allow_keys" {
 #   name   = "${google_folder.group_projects.name}/policies/iam.disableServiceAccountKeyCreation"
 #   parent = google_folder.group_projects.name
 
@@ -54,50 +54,30 @@ module "projects" {
   ta_member      = local.ta_member
 }
 
-# keep the Project around
-module "angel_krishna" {
-  source     = "./group_project"
-  folder_id  = google_folder.group_projects.id
-  project_id = "sipa-adv-c-angel-krishna"
-  group = {
-    student_1_first = "Angel"
-    student_1_last  = "Ragas"
-    student_1_uni   = "jr4252"
-    student_2_first = "Krishna"
-    student_2_last  = "Pandalaneni"
-    student_2_uni   = "kp3076"
-    student_3_first = null
-    student_3_last  = null
-    student_3_uni   = null
-  }
-  everyone_group = local.everyone_group
-  ta_member      = local.ta_member
-}
+# module "ta_project" {
+#   for_each = toset(["sneha"])
 
-module "ta_project" {
-  for_each = toset(["sneha"])
-
-  source         = "./group_project"
-  folder_id      = google_folder.group_projects.id
-  project_id     = "sipa-adv-c-${each.value}"
-  group          = local.no_students
-  everyone_group = local.everyone_group
-  ta_member      = local.ta_member
-}
+#   source         = "./group_project"
+#   folder_id      = google_folder.group_projects.id
+#   project_id     = "sipa-adv-c-${each.value}"
+#   group          = local.no_students
+#   everyone_group = local.everyone_group
+#   ta_member      = local.ta_member
+# }
 
 # demo project
 
-resource "random_id" "demo_project_id" {
-  prefix      = "sipa-adv-c-aidan-demo-"
-  byte_length = 2
-}
+# resource "random_id" "demo_project_id" {
+#   prefix      = "sipa-adv-c-aidan-demo-"
+#   byte_length = 2
+# }
 
-module "demo_project" {
-  source         = "./group_project"
-  folder_id      = google_folder.group_projects.id
-  project_id     = random_id.demo_project_id.hex
-  allow_destroy  = true
-  group          = local.no_students
-  everyone_group = local.everyone_group
-  ta_member      = local.ta_member
-}
+# module "demo_project" {
+#   source         = "./group_project"
+#   folder_id      = google_folder.group_projects.id
+#   project_id     = random_id.demo_project_id.hex
+#   allow_destroy  = true
+#   group          = local.no_students
+#   everyone_group = local.everyone_group
+#   ta_member      = local.ta_member
+# }
