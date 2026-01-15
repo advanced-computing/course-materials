@@ -1,6 +1,6 @@
 ## Setup
 
-[ydata-profiling requires Python 3.12 or below.](https://github.com/ydataai/ydata-profiling/issues/1695)
+[ydata-profiling requires Python 3.13 or below.](https://github.com/ydataai/ydata-profiling/pull/1804)
 
 ```sh
 python -m venv .venv

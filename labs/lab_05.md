@@ -48,7 +48,7 @@ You'll [pair](../docs/pairing.md) in your Lab group. Work on branches and submit
 
 ---
 
-At time of writing, [YData Profiling is only compatible with Python 3.12 and below](https://github.com/ydataai/ydata-profiling/issues/1695). If you're on Python 3.13+, the easiest thing will be to run the profiling in [Colab](https://colab.research.google.com/) and include a link to that notebook. Install the package there with:
+At time of writing, [YData Profiling is only compatible with Python 3.13 and below](https://github.com/ydataai/ydata-profiling/pull/1804). If you're on Python 3.14+, the easiest thing will be to run the profiling in [Colab](https://colab.research.google.com/) and include a link to that notebook. Install the package there with:
 
 ```sh
 !pip install ydata-profiling

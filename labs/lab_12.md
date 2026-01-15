@@ -46,7 +46,7 @@ We're going to deploy a [Cloud Run Function](https://cloud.google.com/functions)
 1. Create a Function using the ["inline editor"](https://cloud.google.com/run/docs/quickstarts/functions/deploy-functions-console). Set the following, leave the other defaults.
    - Service name: `lab-12`
    - Region: `us-central1`
-   - Runtime: `Python 3.12`
+   - Runtime: `Python 3.14`
    - Uncheck `Use Cloud IAM to authenticate incoming requests`.
    - Under `Container(s), Volumes, Networking, Security` -> `Security`, set service account to be [`Default compute service account`](https://cloud.google.com/functions/docs/securing/function-identity#runtime-sa).
 1. It will give you some `Hello World` code. Click `Save and redeploy`.
