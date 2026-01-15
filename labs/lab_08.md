@@ -87,7 +87,7 @@ Suppose your organization wants to maintain a database of CPI data
    - Loop over a range of `pull_dates` (e.g. 2000-01-01 to 2025-02-28) to simulate running the scripts on a daily basis.
    - If the loop takes way too long, use a shorter range
    - Compare the performance of each method (data consistency and speed)
-5. [Submit links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+5. [Submit links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)
 
 ---
 
@@ -105,4 +105,4 @@ This is a simpler version of the previous task. You can submit work fullfilling 
    - Use [each method of data loading](#data-loading) to update the tables in your database.
    - Now your tables might look different.
 4. Discuss how the three methods differ.
-5. [Submit links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+5. [Submit links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)

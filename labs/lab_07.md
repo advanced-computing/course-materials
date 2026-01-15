@@ -29,6 +29,6 @@ You'll be changing your API over to use DuckDB.
 1. Add a POST method to add a new user to the table through your API
    - Use this method to add several made-up users
 1. Add a GET method to get the number of users, the average age, and the three countries with the most users.
-1. [Submit via CourseWorks](https://courseworks2.columbia.edu/courses/210480/assignments):
+1. [Submit via CourseWorks](https://courseworks2.columbia.edu/courses/233896/assignments):
    - Links to the pull request(s)
    - A [screenshot](https://www.take-a-screenshot.org/) showing data in your database

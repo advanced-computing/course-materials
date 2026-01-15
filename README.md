@@ -28,8 +28,8 @@ This course prepares students for more advanced data science coursework at SIPA,
 
 ## Communications
 
-- Grades and assignments will be posted through [Courseworks](https://courseworks2.columbia.edu/courses/210480).
-- Troubleshooting and other communications between class sessions will be through [Ed Discussions](https://courseworks2.columbia.edu/courses/210480/external_tools/37606?display=borderless) / GitHub, so that other students can respond and/or benefit from the answers.
+- Grades and assignments will be posted through [Courseworks](https://courseworks2.columbia.edu/courses/233896).
+- Troubleshooting and other communications between class sessions will be through [Ed Discussions](https://courseworks2.columbia.edu/courses/233896/external_tools/37606?display=borderless) / GitHub, so that other students can respond and/or benefit from the answers.
   - Email is also an option, though please only use for questions that aren't appropriate for others to see.
   - The instructor/Reader will try to respond within 24 hours, 48 hours max, if someone else hasn't already.
 
@@ -73,7 +73,7 @@ It's likely that you will need to do reading beyond what is assigned to fill in 
 
 ### Responses
 
-For each set of readings (which might include podcasts/videos), you will submit a response in [Ed](https://courseworks2.columbia.edu/courses/210480/external_tools/37606?display=borderless). This might be one or more of:
+For each set of readings (which might include podcasts/videos), you will submit a response in [Ed](https://courseworks2.columbia.edu/courses/233896/external_tools/37606?display=borderless). This might be one or more of:
 
 - A paragraph of reflection
 - A list of questions
@@ -90,7 +90,7 @@ Creativity is welcome. The response should do a few things:
 
 After your initial post, you are encouraged to read and respond to others'.
 
-You can find the rubric under the [Assignment](https://courseworks2.columbia.edu/courses/210480/assignments) in Courseworks.
+You can find the rubric under the [Assignment](https://courseworks2.columbia.edu/courses/233896/assignments) in Courseworks.
 
 ## Schedule
 

@@ -65,4 +65,4 @@ Allow the user to:
 1. Retrieve a single record by identifier
 1. Specify the output format (CSV or JSON)
 
-[**Submit** via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+[**Submit** via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)

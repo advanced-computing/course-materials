@@ -46,7 +46,7 @@ Make a screen recording starting your app locally, then loading each page in rea
 
 ## Submit
 
-[Submit via CourseWorks:](https://courseworks2.columbia.edu/courses/210480/assignments)
+[Submit via CourseWorks:](https://courseworks2.columbia.edu/courses/233896/assignments)
 
 - Links to the pull request(s)
 - The screen recording

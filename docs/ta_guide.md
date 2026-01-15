@@ -45,13 +45,13 @@ The TA is there to help students improve their coding and data analysis skills, 
 
 Each [reading](../README.md#readings), part of the [Project](project.md), and [Lab](../labs) should have:
 
-- [ ] [An Assignment in CourseWorks](https://courseworks2.columbia.edu/courses/210480/assignments)
+- [ ] [An Assignment in CourseWorks](https://courseworks2.columbia.edu/courses/233896/assignments)
   - [ ] Link to the corresponding Markdown file/heading
   - [ ] `Due` date matches [the schedule](../README.md#schedule)
   - [ ] `Until` date matches the [late work cutoff](../README.md#assignment-scoring-details)
   - [ ] [Rubric is attached](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-a-rubric-to-an-assignment/ta-p/1058)
   - [ ] [Published](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-publish-or-unpublish-an-assignment-as-an-instructor/ta-p/585)
-- [ ] For [readings](../README.md#readings) and [the Project Part 1](project.md#part-1): A post for the responses, scheduled to go out in [Ed](https://courseworks2.columbia.edu/courses/210480/external_tools/37606?display=borderless) after the prior class
+- [ ] For [readings](../README.md#readings) and [the Project Part 1](project.md#part-1): A post for the responses, scheduled to go out in [Ed](https://courseworks2.columbia.edu/courses/233896/external_tools/37606?display=borderless) after the prior class
   - [ ] Link to [the corresponding Markdown file](../readings/)
   - [ ] Pin to the top so it's easy for people to find.
 - [ ] Grading Policy Settings (under Grades tab)
@@ -72,7 +72,7 @@ Each [reading](../README.md#readings), part of the [Project](project.md), and [L
 1. Anything you need clarification on?
 1. Any Discussions the instructor should jump in on?
 1. What came up in Lab/Discussions/assignments (common problems, etc.) that might be useful to cover in class?
-1. Are all cells in the [gradebook](https://courseworks2.columbia.edu/courses/210480/gradebook) filled in (through last week)?
+1. Are all cells in the [gradebook](https://courseworks2.columbia.edu/courses/233896/gradebook) filled in (through last week)?
 1. Are all the Assignments created that need to be?
 1. Plan for [upcoming lab](../README.md#schedule)
 
@@ -84,7 +84,7 @@ Don't spend a _ton_ of time trying to figure out something that you don't unders
 
 We have [a Google Group](https://groups.google.com/a/columbia.edu/g/advanced-computing-for-policy-all/about), advanced-computing-for-policy-all@columbia.edu, [managed through Grouper](https://www.cuit.columbia.edu/grouper).
 
-### [Discussions](https://courseworks2.columbia.edu/courses/210480/external_tools/37606?display=borderless)
+### [Discussions](https://courseworks2.columbia.edu/courses/233896/external_tools/37606?display=borderless)
 
 - [Help page](https://edstem.org/us/help/using-ed-discussion)
 - Ensure Discussion questions have answers within [the specified timeline](../README.md#communications).

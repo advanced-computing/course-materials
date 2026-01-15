@@ -73,7 +73,7 @@ Do the following as a group:
 
 ### Proposal
 
-You will then submit the following to the Discussion on [Ed](https://courseworks2.columbia.edu/courses/210480/external_tools/37606?display=borderless):
+You will then submit the following to the Discussion on [Ed](https://courseworks2.columbia.edu/courses/233896/external_tools/37606?display=borderless):
 
 - **What dataset are you going to use?**
   - Please include a link.
@@ -138,7 +138,7 @@ Work on branches and submit pull requests for the chunks of work — you decide 
    1. Refactor your code into the function.
    1. Make the tests pass.
 1. Repeat until you feel your code is well-organized and well-tested.
-1. [Submit the links to the pull requests via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+1. [Submit the links to the pull requests via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)
 
 ### Outcome
 
@@ -188,7 +188,7 @@ At this point, your project should be looking more like one of the [examples](#i
 
 ### Submit
 
-[Submit](https://courseworks2.columbia.edu/courses/210480/assignments) links to:
+[Submit](https://courseworks2.columbia.edu/courses/233896/assignments) links to:
 
 - The EasyRetro board
 - Jupyter notebook(s), if any
@@ -226,7 +226,7 @@ Do the following for your regularly-updated data source. Only do one for now —
       - [Simplified example](../examples/bigquery/query.py)
    1. [Copy the secrets to your deployed app.](https://docs.streamlit.io/develop/tutorials/databases/bigquery#copy-your-app-secrets-to-the-cloud)
    1. Re-deploy.
-1. [Submit the links via CourseWorks](https://courseworks2.columbia.edu/courses/210480/assignments) for:
+1. [Submit the links via CourseWorks](https://courseworks2.columbia.edu/courses/233896/assignments) for:
    - The pull request(s)
    - The link to your live Streamlit app
 
@@ -261,7 +261,7 @@ Visually map your data flow, end to end.
 
 ### Submit
 
-[Submit via CourseWorks:](https://courseworks2.columbia.edu/courses/210480/assignments)
+[Submit via CourseWorks:](https://courseworks2.columbia.edu/courses/233896/assignments)
 
 - An image of / a link to your map
 - ~~Link(s) to your pull request(s)~~
@@ -280,7 +280,7 @@ You'll do [this prioritization exercise](https://www.atlassian.com/team-playbook
 - The Prep can be done in the meeting itself.
 - You can use paper/stickies or a digital template like [Miro's](https://miro.com/templates/simple-priority-matrix/)
 
-[Submit a photo/link to the matrix via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+[Submit a photo/link to the matrix via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)
 
 ## Part 8
 

@@ -6,9 +6,9 @@
 
 Please do the following:
 
-- [Add your name pronunciation and pronouns](https://courseworks2.columbia.edu/courses/210480/external_tools/62951)
+- [Add your name pronunciation and pronouns](https://courseworks2.columbia.edu/courses/233896/external_tools/62951)
 - Add your profile photo in Ed, the discussion tool
-  1.  [Open Ed](https://courseworks2.columbia.edu/courses/210480/external_tools/37606?display=borderless)
+  1.  [Open Ed](https://courseworks2.columbia.edu/courses/233896/external_tools/37606?display=borderless)
   1.  Click the icon in the top right
   1.  Click Settings
   1.  Add your photo
@@ -24,7 +24,7 @@ Please do the following:
 1. [Manifesto for Agile Software Development](https://agilemanifesto.org/)
    - a.k.a. The Agile Manifesto
    - This is short, but important. Read it slowly.
-1. [_Inspired_ by Marty Cagan, chapters 8-9](https://courseworks2.columbia.edu/courses/210480/files?preview=23023996)
+1. [_Inspired_ by Marty Cagan, chapters 8-9](https://courseworks2.columbia.edu/courses/233896/files?preview=23023996)
 1. [Kanban](https://www.atlassian.com/agile/kanban)
 1. [The three "PM"s: Differentiating between Product, Project, and Program Management](https://www.linkedin.com/pulse/three-pms-differentiating-between-product-project-diamonde-henderson)
 1. [Getting to “technical enough” as a product manager](https://medium.com/@lulu_cheng/getting-to-technical-enough-as-a-product-manager-5b372513cd1c)

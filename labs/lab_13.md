@@ -63,7 +63,7 @@ Make a workflow that runs on a [schedule](https://docs.github.com/en/actions/wri
 
 ---
 
-[Submit via CourseWorks:](https://courseworks2.columbia.edu/courses/210480/assignments)
+[Submit via CourseWorks:](https://courseworks2.columbia.edu/courses/233896/assignments)
 
 - Links to your pull request(s)
 - A link to your GitHub Actions run history
