@@ -1,5 +1,3 @@
-# instructors
-
 resource "github_team" "instructors" {
   name        = "instructors"
   description = "Instructor + TA"
@@ -30,28 +28,6 @@ resource "github_organization_role_team" "instructors" {
   role_id   = local.all_repo_admin_id
   team_slug = github_team.instructors.slug
 }
-
-# students
-
-resource "github_team" "spring_2026" {
-  name        = "spring-2026"
-  description = "Spring 2026"
-  privacy     = "closed"
-}
-
-resource "github_team_members" "spring_2026" {
-  team_id = github_team.spring_2026.id
-
-  dynamic "members" {
-    for_each = compact(local.roster[*].github_username)
-    content {
-      username = members.value
-      role     = members.value == local.instructor_github_username ? "maintainer" : "member"
-    }
-  }
-}
-
-# primary repo
 
 resource "github_repository_collaborators" "course_materials_collaborators" {
   repository = "course-materials"
