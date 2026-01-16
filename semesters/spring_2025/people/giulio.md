@@ -1,6 +1,6 @@
 # Giulio Trombin
 
-![Giulio](../../img/people/2025-spring/giulio.jpg)
+![Giulio](../img/giulio.jpg)
 
 **Name:** Giulio Trombin
 

@@ -1,6 +1,6 @@
 # Hiroyuki Oiwa
 
-![Hiroyuki](../../img/people/2025-spring/hiro.png)
+![Hiroyuki](../img/hiro.png)
 
 **Name:** Hiroyuki Oiwa
 

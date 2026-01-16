@@ -24,7 +24,7 @@ provider "google" {
 
 locals {
   everyone_group = "group:advanced-computing-for-policy-all@columbia.edu"
-  roster         = csvdecode(trimspace(file("${path.module}/../docs/roster.csv")))
+  roster         = csvdecode(trimspace(file("${path.module}/../semesters/spring_2026/roster.csv")))
 
   instructor_uni             = "alf2215"
   ta_uni                     = "sp4434"

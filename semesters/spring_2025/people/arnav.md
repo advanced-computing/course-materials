@@ -14,4 +14,4 @@ Want to sharpen my technical skills and acquire that as a skill set.
 i
 **Favorite snack:** bhakar wadi, samosa
 
-**My image:** ![An old photo of mine](../../img/people/2025-spring/arnav_pic.jpg)
+**My image:** ![An old photo of mine](../img/arnav_pic.jpg)

@@ -1,6 +1,6 @@
 # Ijaz Ahmed Khan
 
-![Ijaz](../../img/people/2025-spring/Ijaz.png)
+![Ijaz](../img/Ijaz.png)
 
 **Name:** Ijaz Ahmed Khan
 

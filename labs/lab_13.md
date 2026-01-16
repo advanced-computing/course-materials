@@ -2,7 +2,7 @@
 
 **Cloud-based pipelines**
 
-You'll be working with your [Project team](../docs/project_teams.csv).
+You'll be working with your [Project team](../semesters/spring_2025/project_teams.csv).
 
 ---
 

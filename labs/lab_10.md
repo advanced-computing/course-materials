@@ -7,7 +7,7 @@
 
 ---
 
-Work in your [Project team](../docs/project_teams.csv).
+Work in your [Project team](../semesters/spring_2025/project_teams.csv).
 
 ---
 

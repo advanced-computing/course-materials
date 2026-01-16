@@ -1,6 +1,6 @@
 # Krishna
 
-![Krishna](../../img/people/2025-spring/Krishna.jpg)
+![Krishna](../img/Krishna.jpg)
 **Name:** Krishna Kishore Pandalaneni
 
 **Pronouns:** he/him

@@ -43,7 +43,7 @@ All of this will be in [the cloud](https://www.cloudflare.com/learning/cloud/wha
 - The site + codebase should be a polished portfolio piece.
 - Data is being automatically updated.
 
-## [Teams](project_teams.csv)
+## [Teams](../semesters/spring_2025/project_teams.csv)
 
 ## Part 1
 

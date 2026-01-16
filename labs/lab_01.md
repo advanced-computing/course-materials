@@ -48,7 +48,7 @@ If you did all the following:
 
 1. [Clone](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_clone-a-repository-locally) [the repository](https://github.com/advanced-computing/course-materials).
 1. [Create a branch.](https://code.visualstudio.com/docs/sourcecontrol/overview#_branches-and-tags)
-1. Add a profile photo / avatar under [`img/people/2026-spring/`](../img/people/2026-spring/).
+1. Add a profile photo / avatar under [`img/people/2026-spring/`](../semesters/spring_2026/img/).
    - Keep them around 200px tall, please.
 1. [Add the image to your Markdown file.](https://www.markdownguide.org/basic-syntax/#images-1)
    - [Preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview)

@@ -1,6 +1,6 @@
 # Aidan Feldman
 
-![Aidan](../../img/people/2026-spring/aidan.jpg)
+![Aidan](../img/aidan.jpg)
 
 **Name:** Aidan Feldman
 
