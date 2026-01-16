@@ -19,7 +19,7 @@ We will be practicing [pair programming](../docs/pairing.md) and [documentation-
 
 ### Setup
 
-1. Pair up with someone who isn't on your [project team](../semesters/spring_2025/project_teams.csv).
+1. Pair up with someone who isn't on your [project team](../semesters/spring_2025/roster.csv).
    - This will be known as your "Lab group". Subsequent Labs will use the same people, repository, and dataset.
 1. Pick a dataset that has unique identifiers for each row.
    - You can use a dataset from one of your [projects](../docs/project.md), or [pick a different one](https://python-public-policy.afeld.me/en/columbia/assignments/open_ended.html#open-data-portals).

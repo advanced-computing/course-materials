@@ -2,7 +2,7 @@
 
 [Slides in PDF format](https://github.com/advanced-computing/lab_examples/blob/main/lab_06_slides/lab_06.pdf)
 
-You'll work in your [Project teams](../semesters/spring_2025/project_teams.csv).
+You'll work in your [Project teams](../semesters/spring_2025/roster.csv).
 
 ## Goals
 
