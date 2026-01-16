@@ -22,6 +22,33 @@ In [Computing in Context](https://computing-in-context.afeld.me/), students "exp
 
 This course prepares students for more advanced data science coursework at SIPA, and equips them to do sophisticated data ingestion, analysis, and presentation. It's particularly well-suited to students looking to do data work in the public sector, not-for-profits, and academia.
 
+### Learning Objectives
+
+By the end of this course, students will be able to:
+
+#### Software Engineering
+
+- Use the command line comfortably
+- Collaborate on code using version control (Git and GitHub)
+- Create and contribute to open source software
+- Understand data structures and algorithms
+- Organize code into modular, maintainable components that follow best practices for code style
+- Write automated tests
+- Build and deploy web applications and APIs
+
+#### Data Engineering
+
+- Build complex end-to-end data systems
+- Query and manage data using relational databases (SQL)
+- Implement ETL (Extract, Transform, Load) pipelines
+- Manage cloud-based data infrastructure
+
+#### System Design and Project Management
+
+- Understand different project management methodologies
+- Identify and mitigate risks related to data security and privacy
+- Create polished dashboards for stakeholder communication
+
 ## Prerequisites
 
 [Computing in Context (DSPC6000IA/INAFU6006)](https://computing-in-context.afeld.me/). See [info about testing out](https://computing-in-context.afeld.me/#testing-out).
