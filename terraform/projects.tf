@@ -26,7 +26,7 @@ locals {
     group.student_3_first,
   ]))) => group }
 
-  ta_member = "user:sp4434@columbia.edu"
+  ta_member = "user:${local.ta_uni}@columbia.edu"
 }
 
 locals {
@@ -54,16 +54,14 @@ module "projects" {
   ta_member      = local.ta_member
 }
 
-# module "ta_project" {
-#   for_each = toset(["sneha"])
-
-#   source         = "./group_project"
-#   folder_id      = google_folder.group_projects.id
-#   project_id     = "sipa-adv-c-${each.value}"
-#   group          = local.no_students
-#   everyone_group = local.everyone_group
-#   ta_member      = local.ta_member
-# }
+module "ta_project" {
+  source         = "./group_project"
+  folder_id      = google_folder.group_projects.id
+  project_id     = "sipa-adv-c-${local.ta_uni}"
+  group          = local.no_students
+  everyone_group = local.everyone_group
+  ta_member      = local.ta_member
+}
 
 # demo project
 

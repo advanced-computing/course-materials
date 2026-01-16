@@ -23,8 +23,11 @@ provider "google" {
 }
 
 locals {
-  everyone_group             = "group:advanced-computing-for-policy-all@columbia.edu"
-  roster                     = csvdecode(trimspace(file("${path.module}/../docs/roster.csv")))
-  instructor_github_username = "afeld"
-  ta_github_username         = "spalle1997"
+  everyone_group = "group:advanced-computing-for-policy-all@columbia.edu"
+  roster         = csvdecode(trimspace(file("${path.module}/../docs/roster.csv")))
+
+  instructor_uni             = "alf2215"
+  ta_uni                     = "sp4434"
+  instructor_github_username = one([for user in local.roster : user["GitHub username"] if user["UNI"] == local.instructor_uni])
+  ta_github_username         = one([for user in local.roster : user["GitHub username"] if user["UNI"] == local.ta_uni])
 }
