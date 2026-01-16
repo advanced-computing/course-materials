@@ -1,3 +1,11 @@
+terraform {
+  required_providers {
+    github = {
+      source = "integrations/github"
+    }
+  }
+}
+
 resource "google_project" "main" {
   name       = var.project_id
   project_id = var.project_id
