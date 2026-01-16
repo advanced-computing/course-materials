@@ -5,8 +5,8 @@
 # Set manually through the Console instead.
 # https://cloud.google.com/iam/docs/keys-create-delete#allow-creation
 # resource "google_org_policy_policy" "allow_keys" {
-#   name   = "${google_folder.group_projects.name}/policies/iam.disableServiceAccountKeyCreation"
-#   parent = google_folder.group_projects.name
+#   name   = "${google_folder.course.name}/policies/iam.disableServiceAccountKeyCreation"
+#   parent = google_folder.course.name
 
 #   spec {
 #     inherit_from_parent = false
@@ -47,7 +47,7 @@ module "projects" {
   for_each = local.student_groups_by_id
 
   source         = "./group_project"
-  folder_id      = google_folder.group_projects.id
+  folder_id      = google_folder.spring_2026.id
   project_id     = each.value.google_cloud_project_id
   group          = each.value
   everyone_group = local.everyone_group
@@ -72,7 +72,7 @@ module "ta_project" {
 
 # module "demo_project" {
 #   source         = "./group_project"
-#   folder_id      = google_folder.group_projects.id
+#   folder_id      = google_folder.course.id
 #   project_id     = random_id.demo_project_id.hex
 #   allow_destroy  = true
 #   group          = local.no_students
