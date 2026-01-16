@@ -19,7 +19,7 @@
 
 locals {
   # Group students by team_id, filtering out those without a team
-  teams = {
+  students_by_team_id = {
     for team_id, students in merge([
       for student in local.roster :
       student.team_id != "" ? { "${student.team_id}" = [student] } : {}
@@ -31,7 +31,7 @@ locals {
 }
 
 module "projects" {
-  for_each = local.teams
+  for_each = local.students_by_team_id
 
   source         = "./group_project"
   folder_id      = google_folder.spring_2026.id
@@ -52,17 +52,17 @@ module "ta_project" {
 
 # demo project
 
-# resource "random_id" "demo_project_id" {
-#   prefix      = "sipa-adv-c-aidan-demo-"
-#   byte_length = 2
-# }
+resource "random_id" "demo_project_id" {
+  prefix      = "sipa-adv-c-aidan-demo-"
+  byte_length = 2
+}
 
-# module "demo_project" {
-#   source         = "./group_project"
-#   folder_id      = google_folder.course.id
-#   project_id     = random_id.demo_project_id.hex
-#   allow_destroy  = true
-#   students       = []
-#   everyone_group = local.everyone_group
-#   ta_member      = local.ta_member
-# }
+module "demo_project" {
+  source         = "./group_project"
+  folder_id      = google_folder.spring_2026.id
+  project_id     = random_id.demo_project_id.hex
+  allow_destroy  = true
+  students       = []
+  everyone_group = local.everyone_group
+  ta_member      = local.ta_member
+}
