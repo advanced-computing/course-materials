@@ -60,8 +60,4 @@ resource "github_repository_collaborators" "course_materials_collaborators" {
     team_id    = github_team.instructors.slug
     permission = "admin"
   }
-
-  team {
-    team_id = github_team.spring_2026.slug
-  }
 }
