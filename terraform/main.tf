@@ -23,7 +23,8 @@ provider "google" {
 }
 
 locals {
-  everyone_group     = "group:advanced-computing-for-policy-all@columbia.edu"
-  roster             = csvdecode(trimspace(file("${path.module}/../docs/roster.csv")))
-  ta_github_username = "spalle1997"
+  everyone_group             = "group:advanced-computing-for-policy-all@columbia.edu"
+  roster                     = csvdecode(trimspace(file("${path.module}/../docs/roster.csv")))
+  instructor_github_username = "afeld"
+  ta_github_username         = "spalle1997"
 }
