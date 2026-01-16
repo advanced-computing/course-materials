@@ -1,5 +1,7 @@
 # Aidan Feldman
 
+![Aidan](../../img/people/2026-spring/aidan.jpg)
+
 **Name:** Aidan Feldman
 
 **Pronouns:** he/him

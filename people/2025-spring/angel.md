@@ -1,6 +1,6 @@
 # Angel Ragas
 
-![Angel](../img/people/angel.jpeg)
+![Angel](../../img/people/2025-spring/angel.jpeg)
 
 **Name:** Angel Ragas
 

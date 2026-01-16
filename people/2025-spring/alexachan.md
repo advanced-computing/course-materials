@@ -2,7 +2,7 @@
 
 **Name:** Alexa Chan
 
-![Alexa](../img/people/alexa.jpeg)
+![Alexa](../../img/people/2025-spring/alexa.jpeg)
 
 **Pronouns:** she/her
 

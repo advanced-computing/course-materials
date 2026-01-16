@@ -1,6 +1,6 @@
 # Takaaki Nagasawa
 
-![Naga](../img/people/naga.jpeg)
+![Naga](../../img/people/2025-spring/naga.jpeg)
 
 **Name:** Naga
 

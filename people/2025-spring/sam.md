@@ -2,7 +2,7 @@
 
 **Name:** Sam Bennett
 
-![Sam](../img/people/Sam.jpg)
+![Sam](../../img/people/2025-spring/Sam.jpg)
 
 **Pronouns:** he/him
 

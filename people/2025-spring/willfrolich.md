@@ -1,6 +1,6 @@
 # Will Frolich
 
-![Will](../img/people/will.jpg)
+![Will](../../img/people/2025-spring/will.jpg)
 
 **Name:** Will Frolich
 

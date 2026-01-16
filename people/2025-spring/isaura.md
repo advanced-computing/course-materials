@@ -1,6 +1,6 @@
 ## Isaura Arias
 
-![Isaura](../img/people/isaura.jpeg)
+![Isaura](../../img/people/2025-spring/isaura.jpeg)
 Name: Isaura Arias; call me Isaura; Ee- sah- oo - rah
 
 Pronouns: she/hers
