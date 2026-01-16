@@ -18,7 +18,7 @@
 # }
 
 locals {
-  student_groups = csvdecode(file("${path.module}/../docs/project_teams.csv"))
+  student_groups = csvdecode(trimspace(file("${path.module}/../docs/project_teams.csv")))
   # first1-first2-first3
   student_groups_by_id = { for group in local.student_groups : lower(join("-", compact([
     group.student_1_first,
