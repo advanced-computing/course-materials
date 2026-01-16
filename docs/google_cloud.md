@@ -4,7 +4,7 @@ _"Project" is used to refer to both the [Google Cloud Project](https://cloud.goo
 
 Do these one-time setup steps to ensure you don't have to pay for Google Cloud use for this class. Credits are provided through the [Google Cloud for Education](https://cloud.google.com/edu/faculty) program.
 
-A Google Cloud Project has been created for your [team](../semesters/spring_2025/roster.csv), which the instructors have access to for troubleshooting. You redeem the credits, which creates a Billing Account. Someone then needs to associate their Billing Account with the existing Google Cloud Project, where the credits will be used to cover the group work.
+A Google Cloud Project has been created for your [team](../semesters/spring_2026/roster.csv), which the instructors have access to for troubleshooting. You redeem the credits, which creates a Billing Account. Someone then needs to associate their Billing Account with the existing Google Cloud Project, where the credits will be used to cover the group work.
 
 1. Retrieve the coupon code — you'll be sent a link.
 1. [Redeem the credits](https://cloud.google.com/billing/docs/how-to/edu-grants#redeem) - [video walkthrough](https://www.youtube.com/watch?v=2AnX7BX-qew)
