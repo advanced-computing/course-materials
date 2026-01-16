@@ -18,38 +18,25 @@
 # }
 
 locals {
-  student_groups = [] # csvdecode(trimspace(file("${path.module}/../semesters/spring_2025/project_teams.csv")))
-  # first1-first2-first3
-  student_groups_by_id = { for group in local.student_groups : lower(join("-", compact([
-    group.student_1_first,
-    group.student_2_first,
-    group.student_3_first,
-  ]))) => group }
+  # Group students by team_id, filtering out those without a team
+  teams = {
+    for team_id, students in merge([
+      for student in local.roster :
+      student.team_id != "" ? { "${student.team_id}" = [student] } : {}
+    ]...) :
+    team_id => students
+  }
 
   ta_member = "user:${local.ta_uni}@columbia.edu"
 }
 
-locals {
-  no_students = {
-    student_1_first = null
-    student_1_last  = null
-    student_1_uni   = null
-    student_2_first = null
-    student_2_last  = null
-    student_2_uni   = null
-    student_3_first = null
-    student_3_last  = null
-    student_3_uni   = null
-  }
-}
-
 module "projects" {
-  for_each = local.student_groups_by_id
+  for_each = local.teams
 
   source         = "./group_project"
   folder_id      = google_folder.spring_2026.id
-  project_id     = each.value.google_cloud_project_id
-  group          = each.value
+  project_id     = "sipa-adv-c-${each.key}"
+  students       = each.value
   everyone_group = local.everyone_group
   ta_member      = local.ta_member
 }
@@ -58,7 +45,7 @@ module "ta_project" {
   source         = "./group_project"
   folder_id      = google_folder.spring_2026.id
   project_id     = "sipa-adv-c-${local.ta_uni}"
-  group          = local.no_students
+  students       = []
   everyone_group = local.everyone_group
   ta_member      = local.ta_member
 }
@@ -75,7 +62,7 @@ module "ta_project" {
 #   folder_id      = google_folder.course.id
 #   project_id     = random_id.demo_project_id.hex
 #   allow_destroy  = true
-#   group          = local.no_students
+#   students       = []
 #   everyone_group = local.everyone_group
 #   ta_member      = local.ta_member
 # }

@@ -1,5 +1,5 @@
 locals {
-  unis = compact([var.group.student_1_uni, var.group.student_2_uni, var.group.student_3_uni])
+  unis = [for student in var.students : student.uni]
 }
 
 resource "google_project_iam_member" "student" {
