@@ -10,6 +10,8 @@ assignees: afeld
 - [ ] Incorporate learnings from last time
 - [ ] Update in repo
   - [ ] Dates
+  - [ ] Make folder under `people/` and `img/people/`
+    - [ ] Update references
   - [ ] Office hours
   - [ ] CourseWorks links
 - [ ] Find TA
