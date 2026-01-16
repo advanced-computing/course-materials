@@ -28,6 +28,6 @@ locals {
 
   instructor_uni             = "alf2215"
   ta_uni                     = "sp4434"
-  instructor_github_username = one([for user in local.roster : user["GitHub username"] if user["UNI"] == local.instructor_uni])
-  ta_github_username         = one([for user in local.roster : user["GitHub username"] if user["UNI"] == local.ta_uni])
+  instructor_github_username = one([for user in local.roster : user.github_username if user.uni == local.instructor_uni])
+  ta_github_username         = one([for user in local.roster : user.github_username if user.uni == local.ta_uni])
 }
