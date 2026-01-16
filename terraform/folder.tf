@@ -22,3 +22,13 @@ resource "google_folder_iam_member" "project_creator" {
   role   = "roles/resourcemanager.projectCreator"
   member = local.everyone_group
 }
+
+resource "google_folder" "spring_2025" {
+  display_name = "Spring 2025"
+  parent       = google_folder.group_projects.name
+}
+
+resource "google_folder" "spring_2026" {
+  display_name = "Spring 2026"
+  parent       = google_folder.group_projects.name
+}

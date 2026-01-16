@@ -56,7 +56,7 @@ module "projects" {
 
 module "ta_project" {
   source         = "./group_project"
-  folder_id      = google_folder.group_projects.id
+  folder_id      = google_folder.spring_2026.id
   project_id     = "sipa-adv-c-${local.ta_uni}"
   group          = local.no_students
   everyone_group = local.everyone_group

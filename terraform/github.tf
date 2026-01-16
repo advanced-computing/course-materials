@@ -57,7 +57,8 @@ resource "github_repository_collaborators" "course_materials_collaborators" {
   repository = "course-materials"
 
   team {
-    team_id = github_team.instructors.slug
+    team_id    = github_team.instructors.slug
+    permission = "admin"
   }
 
   team {
