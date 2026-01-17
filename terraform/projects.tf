@@ -42,27 +42,28 @@ module "projects" {
 }
 
 module "ta_project" {
-  source         = "./group_project"
-  folder_id      = google_folder.spring_2026.id
-  team_id        = local.ta_uni
-  students       = []
-  everyone_group = local.everyone_group
-  ta_member      = local.ta_member
+  source            = "./group_project"
+  folder_id         = google_folder.spring_2026.id
+  team_id           = local.ta_uni
+  create_repository = false
+  students          = []
+  everyone_group    = local.everyone_group
+  ta_member         = local.ta_member
 }
 
 # demo project
 
 resource "random_id" "demo_project_id" {
-  prefix      = "aidan-demo-"
   byte_length = 2
 }
 
 module "demo_project" {
-  source         = "./group_project"
-  folder_id      = google_folder.spring_2026.id
-  team_id        = random_id.demo_project_id.hex
-  allow_destroy  = true
-  students       = []
-  everyone_group = local.everyone_group
-  ta_member      = local.ta_member
+  source            = "./group_project"
+  folder_id         = google_folder.spring_2026.id
+  team_id           = "aidan-demo-${random_id.demo_project_id.hex}"
+  create_repository = false
+  allow_destroy     = true
+  students          = []
+  everyone_group    = local.everyone_group
+  ta_member         = local.ta_member
 }

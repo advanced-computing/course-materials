@@ -6,6 +6,11 @@ variable "team_id" {
   type = string
 }
 
+variable "create_repository" {
+  type    = bool
+  default = true
+}
+
 variable "allow_destroy" {
   default = false
 }

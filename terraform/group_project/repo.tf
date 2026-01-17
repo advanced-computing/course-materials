@@ -1,5 +1,7 @@
 # Create GitHub repository for the project
 resource "github_repository" "project" {
+  count = var.create_repository ? 1 : 0
+
   name        = var.team_id
   description = "Group project repository for ${var.team_id}"
   visibility  = "public"
@@ -19,11 +21,11 @@ resource "github_repository" "project" {
 
 # Add students as collaborators to the project repository
 resource "github_repository_collaborator" "students" {
-  for_each = {
+  for_each = var.create_repository ? {
     for student in var.students : student.github_username => student
-  }
+  } : {}
 
-  repository = github_repository.project.name
+  repository = github_repository.project[0].name
   username   = each.value.github_username
   permission = "maintain"
 }
