@@ -35,7 +35,7 @@ module "projects" {
 
   source         = "./group_project"
   folder_id      = google_folder.spring_2026.id
-  project_id     = "sipa-adv-c-${each.key}"
+  team_id        = each.key
   students       = each.value
   everyone_group = local.everyone_group
   ta_member      = local.ta_member
@@ -44,7 +44,7 @@ module "projects" {
 module "ta_project" {
   source         = "./group_project"
   folder_id      = google_folder.spring_2026.id
-  project_id     = "sipa-adv-c-${local.ta_uni}"
+  team_id        = local.ta_uni
   students       = []
   everyone_group = local.everyone_group
   ta_member      = local.ta_member
@@ -53,14 +53,14 @@ module "ta_project" {
 # demo project
 
 resource "random_id" "demo_project_id" {
-  prefix      = "sipa-adv-c-aidan-demo-"
+  prefix      = "aidan-demo-"
   byte_length = 2
 }
 
 module "demo_project" {
   source         = "./group_project"
   folder_id      = google_folder.spring_2026.id
-  project_id     = random_id.demo_project_id.hex
+  team_id        = random_id.demo_project_id.hex
   allow_destroy  = true
   students       = []
   everyone_group = local.everyone_group

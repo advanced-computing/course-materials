@@ -6,9 +6,13 @@ terraform {
   }
 }
 
+locals {
+  project_id = "sipa-adv-c-${var.team_id}"
+}
+
 resource "google_project" "main" {
-  name       = var.project_id
-  project_id = var.project_id
+  name       = local.project_id
+  project_id = local.project_id
   folder_id  = var.folder_id
   # safeguard to avoid deleting student work
   deletion_policy = var.allow_destroy ? "DELETE" : "PREVENT"

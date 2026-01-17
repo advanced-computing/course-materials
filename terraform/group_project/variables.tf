@@ -2,7 +2,7 @@ variable "folder_id" {
   type = string
 }
 
-variable "project_id" {
+variable "team_id" {
   type = string
 }
 

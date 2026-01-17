@@ -1,7 +1,7 @@
 # Create GitHub repository for the project
 resource "github_repository" "project" {
-  name        = var.project_id
-  description = "Group project repository for ${var.project_id}"
+  name        = var.team_id
+  description = "Group project repository for ${var.team_id}"
   visibility  = "public"
 
   has_issues             = true
