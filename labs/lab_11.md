@@ -1,6 +1,6 @@
 # Lab 11
 
-Sit with your [Project team](../semesters/spring_2026/roster.csv).
+Sit with your [Project team](../semesters/spring_2026/people.csv).
 
 ---
 
@@ -62,7 +62,7 @@ _30 minutes for each Project, with break in between_
       - Timebox this to 20 minutes.
    1. Review the code, explaining out loud what you think it's doing.
    1. Review the site.
-      - If you're unable to get it running locally, you can look at [the published site](../semesters/spring_2026/roster.csv).
+      - If you're unable to get it running locally, you can look at [the published site](../semesters/spring_2026/people.csv).
       - What is the site trying to convey?
       - What are your takeaways?
 1. Repeat for the other Project, switching roles.
