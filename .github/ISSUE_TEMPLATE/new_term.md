@@ -34,3 +34,4 @@ assignees: afeld
 - [ ] [Invite TA and students to GitHub Organization](https://github.com/orgs/advanced-computing/people)
 - [ ] Update [Gmail filters](https://docs.google.com/spreadsheets/d/1MoOnADGw_A3oc1qMx2TllbRHlRD-4dDcrHXldSdzM5E/edit#gid=1645501691)
 - [ ] [Update mailing list](https://grouper.cc.columbia.edu/grouper/grouperUi/app/UiV2Main.index?operation=UiV2Group.viewGroup&groupId=06b1515b29a944cf99625eb297f545c0) ([docs](https://www.cuit.columbia.edu/grouper))
+- [ ] Confirm registered students meet the [prerequisite](https://github.com/advanced-computing/course-materials?tab=readme-ov-file#prerequisites)
