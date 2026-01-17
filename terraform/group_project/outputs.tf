@@ -3,6 +3,6 @@ output "billing_account" {
 }
 
 output "project_id" {
-  value       = local.project_id
+  value       = google_project.main.project_id
   description = "Derived Google Cloud project ID"
 }
