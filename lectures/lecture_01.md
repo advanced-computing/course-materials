@@ -34,12 +34,14 @@ If you did all the following:
 
 The hard way!
 
-1. Accept the invite to [the GitHub Organization](https://github.com/advanced-computing), if you haven't already.
-   - You should show up in [the list of People](https://github.com/orgs/advanced-computing/people).
 1. [Open the repository.](https://github.com/advanced-computing/course-materials)
 1. [Make your own Markdown file](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository#adding-a-file-to-a-repository-on-github) under [`semesters/spring_2026/people/`](../semesters/spring_2026/people/), based on [Aidan's](../semesters/spring_2026/people/aidan.md).
-   - Include nickname / what you'd like to be called
    - The more specific the better.
+   - Try doing so through VSCode; you can use the github.com web interface if necessary.
+1. Commit and send a pull request.
+   - You'll be asked if you want to Fork.
+     - Why?
+     - Click yes.
 1. [Review](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request) [pull requests](https://github.com/advanced-computing/course-materials/pulls)
 
 ---

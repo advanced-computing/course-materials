@@ -17,6 +17,11 @@
      <img src="[path]" height="200" />
      ```
 
+1. Fill out your row of [`semesters/spring_2026/people.csv`](../semesters/spring_2026/people.csv).
+   - `nickname` (if applicable)
+   - `github_username`
+   - `portfolio_site` - if you don't have one yet, you can add it after you [set it up](../readings/week_02.md#one-time-setup)
+   - `team_id` - leave blank
 1. [Commit](https://code.visualstudio.com/docs/sourcecontrol/overview#_commit)
 1. Check out the [Source Control Graph](https://code.visualstudio.com/docs/sourcecontrol/overview#_source-control-graph).
 1. [Push](https://code.visualstudio.com/docs/sourcecontrol/overview#_remotes)

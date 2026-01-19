@@ -11,6 +11,12 @@
 
 ---
 
+## [GitHub Organization](https://github.com/advanced-computing)
+
+You should gotten an invite. Once you accept, you'll show up in [the list of People](https://github.com/orgs/advanced-computing/people).
+
+---
+
 Let's say you have a big project to do — school, work, personal, whatever. How do you go about it?
 
 _Try and avoid jargon._
