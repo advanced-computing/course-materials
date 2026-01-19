@@ -58,7 +58,8 @@ If you did all the following:
 1. [Create a pull request.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 1. Check out the repository's [network graph](https://github.com/advanced-computing/course-materials/network).
 1. Review the pull request of the person next to you.
-1. Merge
+1. Merge.
+1. Submit a link to your pull request in the Assignment.
 
 ---
 

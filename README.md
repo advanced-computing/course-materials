@@ -63,10 +63,10 @@ By the end of this course, students will be able to:
 ## Grading
 
 - [Attendance: 12%](#attendance)
-- [Lab work](labs/): 22% (11 x 2% each)
+- [Lab work](labs/): 24% (12 x 2% each)
 - Reading responses: 20% (10 x 2% each)
-- [Project](docs/project.md): 46%
-  - Group work: 32% (divided into eight parts, split to be determined)
+- [Project](docs/project.md): 44%
+  - Group work: 32% (divided into eight parts)
   - Individual score: 14%
     - This is effectively weighting the group work based on the individual's contributions.
 
@@ -124,7 +124,7 @@ You can find the rubric under the [Assignment](https://courseworks2.columbia.edu
 | Week | Lecure date | Lecture topic(s)                                                  | Assignments due (at the start of lecture)                                     | [Lab](labs/) topic(s)                                          | [Lab](labs/) due (at the start of the Lab session) |
 | ---- | ----------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
 | 1    | 1/22        | [Welcome; collaborating on code (GitHub)](lectures/lecture_01.md) | none                                                                          | [Computer setup; Git workflow](labs/lab_01.md)                 | none                                               |
-| 2    | 1/29        | [Project/product management](lectures/lecture_02.md)              | [Readings](readings/week_02.md)                                               | [Jupyter, pandas, and visualization refresher](labs/lab_02.md) | none                                               |
+| 2    | 1/29        | [Project/product management](lectures/lecture_02.md)              | [Readings](readings/week_02.md)                                               | [Jupyter, pandas, and visualization refresher](labs/lab_02.md) | [Lab 1](labs/lab_01.md)                            |
 | 3    | 2/5         | [Command line; dependency management](lectures/lecture_03.md)     | [Readings](readings/week_03.md), [Project Part 1](docs/project.md#part-1)     | [Project setup](labs/lab_03.md)                                | [Lab 2](labs/lab_02.md)                            |
 | 4    | 2/12        | [Web development](lectures/lecture_04.md)                         | [Readings](readings/week_04.md)                                               | [Building an API](labs/lab_04.md)                              | [Lab 3](labs/lab_03.md)                            |
 | 5    | 2/19        | [Automated testing](lectures/lecture_05.md)                       | [Readings](readings/week_05.md), [Project Part 2](docs/project.md#part-2)     | [Data profiling/quality](labs/lab_05.md)                       | [Lab 4](labs/lab_04.md)                            |
