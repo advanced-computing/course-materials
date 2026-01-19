@@ -169,6 +169,10 @@ You are responsible for getting caught up on what was covered in class. You may 
 
 You are expected to bring a laptop to each lecture and lab.
 
+### Devices
+
+To encourage focus and participation, students are asked to keep laptops closed and phones away in lecture by default. (Accommodations for students with disabilities are an exception.) You'll be asked to open the laptops for in-class exercises.
+
 ### Academic Integrity
 
 Anything outside of:
