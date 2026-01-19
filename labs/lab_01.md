@@ -9,9 +9,14 @@
 1. [Clone](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_clone-a-repository-locally) [the repository](https://github.com/advanced-computing/course-materials).
 1. [Create a branch.](https://code.visualstudio.com/docs/sourcecontrol/overview#_branches-and-tags)
 1. Add a profile photo / avatar under [`semesters/spring_2026/img/`](../semesters/spring_2026/img/).
-   - Keep them around 200px tall, please.
 1. [Add the image to your Markdown file.](https://www.markdownguide.org/basic-syntax/#images-1)
    - [Preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview)
+   - If the picture is big, use HTML in the Markdown file to constrain the size:
+
+     ```html
+     <img src="[path]" height="200" />
+     ```
+
 1. [Commit](https://code.visualstudio.com/docs/sourcecontrol/overview#_commit)
 1. Check out the [Source Control Graph](https://code.visualstudio.com/docs/sourcecontrol/overview#_source-control-graph).
 1. [Push](https://code.visualstudio.com/docs/sourcecontrol/overview#_remotes)
