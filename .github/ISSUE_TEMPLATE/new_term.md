@@ -27,7 +27,9 @@ assignees: afeld
   - [ ] [Set up Ed](https://courseworks2.columbia.edu/courses/56883/pages/using-ed-discussions)
     - [ ] Send welcome Announcement
     - [ ] Schedule reading response threads
-  - [ ] Update Assignment dates
+  - [ ] Set up Assignments
+    - [ ] [Create](https://github.com/advanced-computing/course-materials/issues/new?template=assignment_setup.md)
+    - [ ] Assign to TA
 - [ ] [Request Google Cloud credits](https://cloud.google.com/edu/faculty)
 - [ ] [Invite TA and students to GitHub Organization](https://github.com/orgs/advanced-computing/people)
 - [ ] Update [Gmail filters](https://docs.google.com/spreadsheets/d/1MoOnADGw_A3oc1qMx2TllbRHlRD-4dDcrHXldSdzM5E/edit#gid=1645501691)
