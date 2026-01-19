@@ -1,46 +1,6 @@
 # Lab 1
 
-## Goals
-
-Students:
-
-- are set up with:
-  - Git
-  - VSCode
-  - Terminal
-- understand how to work with Git repositories
-
----
-
-## Setup
-
-We're going to go through and make sure you have the following installed / set up:
-
-### [Git](https://git-scm.com/downloads)
-
-- On Windows, there are a _lot_ of options in the installer - safe to stick to the defaults.
-- Set global [name](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git) and [email](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-commit-email-address-in-git)
-
-```
-git config --global user.name "Mona Lisa"
-git config --global user.email "ml1234@columbia.edu"
-```
-
----
-
-### [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
-
-- On Windows, in the [integrated terminal](https://code.visualstudio.com/docs/terminal/getting-started), [`Select Default Profile`](https://code.visualstudio.com/docs/terminal/profiles) to be `Git BASH`.
-
-<img src="https://code.visualstudio.com/assets/docs/terminal/basics/terminal-dropdown.png" width="200" height="200" />
-
-If you did all the following:
-
-- took [Computing in Context](https://computing-in-context.afeld.me/)
-- have the same computer
-- didn't uninstall any of the development tools
-
-…then you should be all set.
+**Goal:** Students understand how to work with open source GitHub repositories.
 
 ---
 
@@ -76,3 +36,9 @@ If you did all the following:
 - Fork
 
 [Slides visualizing Git history](https://speakerdeck.com/aidanfeldman/git-graphically)
+
+---
+
+## [One-time setup](../readings/week_02.md#one-time-setup)
+
+(until class ends, or you finish)
