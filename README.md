@@ -141,6 +141,8 @@ You can find the rubric under the [Assignment](https://courseworks2.columbia.edu
 
 [recess]: https://registrar.columbia.edu/content/academic-calendar#!#e=36957
 
+### Notes
+
 - There's no Lab 9.
 - [Project Final Check-in](docs/project.md#final-check-in) due 5/3.
 - This is a relatively new course; all of the above is subject to change. Things will be adjusted to the needs and interests of the students.
