@@ -63,19 +63,6 @@ If you did all the following:
 
 ---
 
-## Sign the Attendance List
-
-1. [Checkout](https://code.visualstudio.com/docs/sourcecontrol/overview#_branches-and-tags) to the default branch
-1. [Fetch and Pull](https://code.visualstudio.com/docs/sourcecontrol/overview#_source-control-graph) to retrieve new work done by other people and merge it with your local bracnh
-1. View other people's profile pictures
-1. Create a branch
-1. Add your name to the [attendance list](attendance_example_lab_01.md)
-1. Commit, push and create a pull request
-1. Review the pull request of the person next to you.
-1. Merge
-
----
-
 ## Git concepts/[terms](https://docs.github.com/en/get-started/learning-about-github/github-glossary)/[workflow](https://docs.github.com/en/get-started/using-github/github-flow)
 
 - Repository
