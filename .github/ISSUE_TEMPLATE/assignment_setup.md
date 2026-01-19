@@ -1,5 +1,6 @@
 ---
 name: assignment setup
+about: Setup steps for Assignments
 title: Set up Assignments
 ---
 

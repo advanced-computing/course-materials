@@ -1,5 +1,6 @@
 ---
 name: TA setup
+about: Setup steps for the TA
 title: TA setup
 ---
 
