@@ -6,13 +6,14 @@ labels: ""
 assignees: afeld
 ---
 
-- [ ] Request space for office hours
+- [ ] Office hours
+  - [ ] Request space
+  - [ ] Update in [calendar](https://github.com/advanced-computing/course-materials?tab=readme-ov-file#meeting-datestimes)
 - [ ] Incorporate learnings from last time
 - [ ] Update in repo
   - [ ] Dates
   - [ ] Make `semester/` sub-folder
     - [ ] Update references
-  - [ ] Office hours
   - [ ] CourseWorks links
 - [ ] Find TA
   - [ ] Update in syllabus

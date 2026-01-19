@@ -10,4 +10,4 @@ title: TA setup
 - [ ] Tweak your [Ed Discussion notification settings](https://edstem.org/us/settings/notifications).
 - [ ] [Turn on notifications for assignment comments.](https://community.canvaslms.com/t5/Canvas-Question-Forum/Notification-when-student-posts-a-comment-on-an-assignment/m-p/405572#M142680)
 - [ ] Look ahead at the [labs](https://github.com/advanced-computing/course-materials/tree/main/labs), as you'll be leading them.
-- [ ] Optional: [Send `@advanced-computing` notifications to your Columbia email.](https://docs.github.com/en/subscriptions-and-notifications/how-tos/managing-organization-notifications)
+- [ ] Optional: [Send **@advanced-computing** notifications to your Columbia email.](https://docs.github.com/en/subscriptions-and-notifications/how-tos/managing-organization-notifications)
