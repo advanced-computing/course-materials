@@ -139,11 +139,11 @@ You can find the rubric under the [Assignment](https://courseworks2.columbia.edu
 | 14   | 4/23        | [Privacy and security; shell scripting](lectures/lecture_14.md)   | [Readings](readings/week_14.md), [Project Part 7](docs/project.md#part-7)     | [Tabletop exercise](labs/lab_14.md)                            | [Lab 13](labs/lab_13.md)                           |
 | 15   | 4/30        | [Project presentations](docs/project.md#presentation)             | [Project Part 8](docs/project.md#part-8)                                      | Sneha's work                                                   | [Lab 14](labs/lab_14.md)                           |
 
-[recess]: https://registrar.columbia.edu/content/academic-calendar?acfy=49&acschool=18&acterm=6&field_event_type1_tid%255B%255D=23&keys=#!#e=9806
+[recess]: https://registrar.columbia.edu/content/academic-calendar#!#e=36957
 
-[Project Final Check-in](docs/project.md#final-check-in) due 5/3.
-
-This is a new course; all of the above is subject to change. Things will be adjusted to the needs and interests of the students.
+- There's no Lab 9.
+- [Project Final Check-in](docs/project.md#final-check-in) due 5/3.
+- This is a relatively new course; all of the above is subject to change. Things will be adjusted to the needs and interests of the students.
 
 ## Course Policies
 
