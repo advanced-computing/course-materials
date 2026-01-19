@@ -18,7 +18,11 @@ assignees: afeld
   - [ ] Update in syllabus
   - [ ] Set up check-in
   - [ ] Add them to shared calendar
+  - [ ] Setup checklist
+    - [ ] [Create](https://github.com/advanced-computing/course-materials/issues/new?template=ta_setup.md)
+    - [ ] Assign to TA
 - [ ] Set up Courseworks
+  - [ ] Update bookmark
   - [ ] [Import content from previous term](https://support.ctl.columbia.edu/892419)
   - [ ] Specify Textbooks
   - [ ] Submit [Course Reserves](https://library.columbia.edu/services/reserves.html)

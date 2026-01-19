@@ -4,9 +4,6 @@ The TA is there to help students improve their coding and data analysis skills, 
 
 - [General information on SIPA Assistantships.](https://www.sipa.columbia.edu/students/resources-sipa-students)
 - [Schedule](../README.md#schedule)
-- Notifications:
-  - You may want to tweak your [Ed Discussion notification settings](https://edstem.org/us/settings/notifications).
-  - You will want to [turn on notifications for assignment comments](https://community.canvaslms.com/t5/Canvas-Question-Forum/Notification-when-student-posts-a-comment-on-an-assignment/m-p/405572#M142680).
 
 ## Time commitment
 
@@ -32,14 +29,6 @@ The TA is there to help students improve their coding and data analysis skills, 
   - You're more than welcome to incorporate your own experience/background/research — students tend to like that.
 - Responding to student questions
   - [Keeping an eye on Discussions](#discussions)
-
-## One-time setup
-
-- [ ] Set up office hours in the shared calendar.
-- [ ] Do [the same one-time setup the students do](../readings/week_02.md#one-time-setup).
-- [ ] Look ahead at the [labs](../labs/), as you'll be leading them.
-- [ ] Ensure your environment is set up to match the students.
-  - [Lab 1](../labs/lab_01.md)
 
 ## Weekly cadence
 
