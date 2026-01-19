@@ -1,3 +1,6 @@
+[checking]
+useragent="AdvancedComputingLinkChecker/1.0 (https://github.com/advanced-computing/course-materials; alf2215@columbia.edu)"
+
 [filtering]
 checkextern=1
 # https://github.com/linkchecker/linkchecker/issues/823
@@ -7,6 +10,7 @@ ignorewarnings=http-redirected,url-content-type-unparseable
 ignoreerrors=
   .* 401 Unauthorized
   .* 403 Forbidden
+  .* 429 Too Many Requests
   ^https://.*\.columbia.edu/ Forbidden|400
   ^https://nyshc.health.ny.gov SSLError
 
