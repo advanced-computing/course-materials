@@ -14,7 +14,7 @@
 
 [IAB]: https://maps.app.goo.gl/Hg6dyuWcchZ2DmRB6
 
-[Academic calendar](https://bulletin.columbia.edu/sipa/registration/academic-calendar/)
+[Academic calendar](https://www.sipa.columbia.edu/sipa-education/bulletin/academic-calendar)
 
 ## Course Description
 

@@ -5,6 +5,7 @@ isort
 jupyter==1.*
 linkchecker
 pandas-gbq
+pandas-stubs
 pytest
 pytest-cov
 ruff
