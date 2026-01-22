@@ -1,6 +1,6 @@
 # Eisuke Kobayashi
 
-**Program:** (fill in)
+**Program:** MPA
 
 **Concentration/minor:** DSP/IFEP
 
