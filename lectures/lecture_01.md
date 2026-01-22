@@ -36,7 +36,6 @@ The hard way!
 
 1. [Open the repository.](https://github.com/advanced-computing/course-materials)
 1. [Make your own Markdown file](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository#adding-a-file-to-a-repository-on-github) under [`semesters/spring_2026/people/`](../semesters/spring_2026/people/), based on [Aidan's](../semesters/spring_2026/people/aidan.md).
-   - The more specific the better.
    - Try doing so through VSCode; you can use the github.com web interface if necessary.
 1. Commit and send a pull request.
    - You'll be asked if you want to Fork.
