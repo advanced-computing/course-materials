@@ -2,7 +2,7 @@
 
 **Program:** MPA
 
-**Concentration/minor:** Major CEE, Minor DSP
+**Concentration/minor:** Major in CEE, Minor in DSP
 
 **Background:** Consultant, Strategy, and investment intern in different companies/areas (Internet, pharmaceuticals, finance, technology...)
 
