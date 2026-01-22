@@ -1,4 +1,4 @@
-# Gina Wang
+# Jinen (Gina) Wang
 
 **Program:** MPA
 
