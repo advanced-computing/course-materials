@@ -43,6 +43,7 @@ The TA is there to help students improve their coding and data analysis skills, 
 1. How's the workload?
 1. Anything you need clarification on?
 1. Any Discussions the instructor should jump in on?
+   - Questions in Reading responses, etc.
 1. What came up in Lab/Discussions/assignments (common problems, etc.) that might be useful to cover in class?
 1. Are all cells in the [gradebook](https://courseworks2.columbia.edu/courses/233896/gradebook) filled in (through last week)?
 1. Are all the Assignments created that need to be?

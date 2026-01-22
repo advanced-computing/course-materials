@@ -4,7 +4,7 @@
 
 Students:
 
-- Get the repository that they'll be building their Projects in set up
+- Get their Project repository set up
 - Practice working collaboratively in a repository
 
 ---
@@ -20,22 +20,18 @@ Students:
 
 ## [Project team](../semesters/spring_2026/people.csv) repository setup
 
-- [Create a public repository in the `advanced-computing` organization.](https://github.com/new?owner=advanced-computing&visibility=public)
-  - Make the name something distinctive, such as:
-    - What your project is focused on
-    - Your celebrity couple name
-    - A combination of your favorite snacks
-    - The name your automation will assume once it becomes sentient
-- On your computer choose a directory to locate your local repository
-  - Choose a path that will be easy to access:
-    - &check; `C:/repos/`
-    - &cross; `C:/Users/rbzun/OneDrive/Documents/classes/advanced computing/`
-- Using the terminal
-  - `cd` to this directory
-  - [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) your project repository
-    1. Copy the repository URL
-    1. In the terminal run `git clone <URL>`
-- Open your local repository folder in VSCode
+1. [Create a public repository in the `advanced-computing` organization.](https://github.com/new?owner=advanced-computing&visibility=public)
+   - Make the name something distinctive, such as:
+     - What your project is focused on
+     - Your celebrity couple name
+     - A combination of your favorite snacks
+     - The name your automation will assume once it becomes sentient
+1. Using the terminal
+   1. `cd` to this directory
+   1. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) your project repository
+      1. Copy the repository URL
+      1. In the terminal run `git clone <URL>`
+1. Open your local repository folder in VSCode
 
 ---
 
