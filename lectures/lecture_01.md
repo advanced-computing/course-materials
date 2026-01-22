@@ -125,7 +125,13 @@ We'll be building a data system that:
 
 ## Project teams
 
-Thinking teams of two; let me know ASAP if you have enemies.
+Teams of 2-3; let me know ASAP if you have enemies.
+
+---
+
+## Save the dates
+
+[Open Data Week](https://opendataweek.nyc/) / [School of Data](https://schoolofdata.nyc/)
 
 ---
 
