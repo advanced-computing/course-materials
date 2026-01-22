@@ -6,9 +6,6 @@
 
 Please do the following:
 
-- Confirm you have the following set up:
-  - Python 3
-  - [Jupyter Book portfolio site](https://computing-in-context.afeld.me/portfolio-site-workshop/)
 - If on Windows:
   1. Install / confirm you have [Git for Windows](https://gitforwindows.org/), particularly Git BASH.
      - There are a _lot_ of options in the installer - safe to stick to the defaults.
@@ -16,6 +13,9 @@ Please do the following:
 
     <img src="https://code.visualstudio.com/assets/docs/terminal/basics/terminal-dropdown.png" height="200" />
 
+- Confirm you have the following set up:
+  - Python 3
+  - [Jupyter Book portfolio site](https://computing-in-context.afeld.me/portfolio-site-workshop/)
 - [Add your name pronunciation and pronouns](https://courseworks2.columbia.edu/courses/233896/external_tools/62951)
 - Add your profile photo in Ed, the discussion tool
   1.  [Open Ed](https://courseworks2.columbia.edu/courses/233896/external_tools/37606?display=borderless)

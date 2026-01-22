@@ -12,21 +12,21 @@ Please ensure you have the following set up. We'll be hitting the ground running
 
 ---
 
+If you:
+
+- took [Computing in Context](https://computing-in-context.afeld.me/) and
+- have the same computer and
+- didn't uninstall any of the development tools
+
+…then you should be all set.
+
+---
+
 ## Agenda
 
 1. Intros
 1. Go through [syllabus](../README.md)
 1. Collaborating on code
-
----
-
-If you did all the following:
-
-- took [Computing in Context](https://computing-in-context.afeld.me/)
-- have the same computer
-- didn't uninstall any of the development tools
-
-…then you should be all set.
 
 ---
 
