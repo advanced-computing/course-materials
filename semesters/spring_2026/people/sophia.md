@@ -12,4 +12,4 @@ I am taking this class to improve my coding skills. I really enjoy working with 
 
 **Favorite snack:** A good soda, usually Dr. Pepper
 
-<img src="../
+<img src="../img/sophia.jpg" height="200" />
