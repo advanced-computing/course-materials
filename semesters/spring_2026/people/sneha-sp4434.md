@@ -13,3 +13,6 @@ I'm teaching this class because I love helping people learn about coding/enginee
 One dream job is working on national or state tech regulation policies - specifically with respect to antitrust, AI, and privacy.
 
 **Favorite snack:** Unfortunately, potato chips
+
+<img src="/Users/spalle/Documents/School/Spring2026/acic/course-materials/semesters/spring_2026/img/sneha.jpeg" height="200" />
+
