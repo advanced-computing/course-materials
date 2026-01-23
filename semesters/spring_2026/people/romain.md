@@ -7,4 +7,5 @@
 
 **worst traits**: Impatience, coding has been testing my limits.
 
+<img src="../img/romain.jpg" height="200" />
 
