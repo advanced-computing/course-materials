@@ -14,4 +14,5 @@ My longer-term goal is to work in a data-driven policy or strategy role, where I
 
 **Favorite snack:** I don't like snacks.
 
+**Profile Photo**
 <img src="../img/wuhao.jpg" height="200" />
