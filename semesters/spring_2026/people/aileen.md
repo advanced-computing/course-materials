@@ -1,6 +1,6 @@
 # Aileen Yang    
 
-**Program:** MPA-DSP 
+**Program:** 1st year MPA-DSP 
 
 **Background:** Computer Science & Business Information Systems 
 
