@@ -1,4 +1,4 @@
-# Aidan Feldman
+# Samuel Fu
 
 **Program:** MPA
 
@@ -11,3 +11,5 @@
 To learn more code :D
 
 **Favorite snack:** Jello
+
+<img src="../img/Sam.jpg" height = "200"/>
