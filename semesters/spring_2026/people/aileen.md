@@ -12,4 +12,4 @@ My dream job is to work in the UN on digital transformation.
 
 **Favorite snack:** Vinegar chips 
 
-![aileen's pic](/Users/aileen/Downloads/SIPA Comp/course-materials/semesters/spring_2026/img/aileen.PNG)
+<img src="/Users/aileen/Downloads/SIPA Comp/course-materials/semesters/spring_2026/img/aileen.PNG" height="200" />
