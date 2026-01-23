@@ -12,4 +12,4 @@ I've worked for the Japanese government for neary 8 years and I'd like to implem
 
 **Favorite snack:** Pringles
 
-
+<img src="..//img/eisuke&apos;s picture.jpg" height="200" />
