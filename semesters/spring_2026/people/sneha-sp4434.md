@@ -14,5 +14,5 @@ One dream job is working on national or state tech regulation policies - specifi
 
 **Favorite snack:** Unfortunately, potato chips
 
-<img src="/Users/spalle/Documents/School/Spring2026/acic/course-materials/semesters/spring_2026/img/sneha.jpeg" height="200" />
+<img src="../img/sneha.jpeg" height="200" />
 
