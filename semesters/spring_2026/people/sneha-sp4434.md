@@ -1,6 +1,6 @@
 # Sneha Palle
 
-**Program:** MPA
+**Program:** Master of Public Administration (MPA)
 
 **Concentration/minor:** Climate & Energy; Tech Policy
 
