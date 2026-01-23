@@ -11,3 +11,5 @@ I'm interested in this class because I want to work on data engineering and anal
 My dream job is to work in the UN on digital transformation.
 
 **Favorite snack:** Vinegar chips 
+
+![aileen's pic](/Users/aileen/Downloads/SIPA Comp/course-materials/semesters/spring_2026/img/aileen.PNG)
