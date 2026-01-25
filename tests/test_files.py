@@ -3,7 +3,7 @@ from glob import glob
 import pytest
 
 readings = glob("readings/*")
-labs = glob("labs/*")
+lab_assignments = glob("labs/assignments/*")
 
 LABS_WITHOUT_SUBMISSION = [1, 12]
 
@@ -20,7 +20,7 @@ def test_readings_boilerplate(file):
     assert "[submit a response](../README.md#responses)" in content
 
 
-@pytest.mark.parametrize("file", labs)
+@pytest.mark.parametrize("file", lab_assignments)
 def test_lab_submit_info(file):
     if "example" in file:
         pytest.skip("Skip examples")
