@@ -260,7 +260,9 @@ Visually map your data flow, end to end.
 [Submit via CourseWorks:](https://courseworks2.columbia.edu/courses/233896/assignments)
 
 - An image of / a link to your map
-- Link(s) to your pull request(s)
+- Link(s) to:
+  - Your pull request(s)
+  - A successful run of the GitHub Action
 
 ## [Lab 13](../labs/lab_13.md)
 
