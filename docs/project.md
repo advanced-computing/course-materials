@@ -255,17 +255,12 @@ Visually map your data flow, end to end.
   - A fancier diagramming tool
     - Don't over-complicate this
 
-### ~~Airflow~~
-
-~~Convert one of your data loading scripts to an [Airflow DAG](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/fundamentals.html).~~
-
 ### Submit
 
 [Submit via CourseWorks:](https://courseworks2.columbia.edu/courses/233896/assignments)
 
 - An image of / a link to your map
-- ~~Link(s) to your pull request(s)~~
-- ~~A screenshot of your DAG's [graph view in the Airtable UI](https://airflow.apache.org/docs/apache-airflow/stable/ui.html#graph-view), showing a successful run~~
+- Link(s) to your pull request(s)
 
 ## [Lab 13](../labs/lab_13.md)
 
