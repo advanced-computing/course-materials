@@ -1,4 +1,6 @@
 # Emily Chu
+<img src="../img/Emily.jpg" width="200" height="200" style="object-fit: cover;" />
+
 **Program:** Master of Public Administration
 
 **Concentration/minor:** Data Science for Policy
