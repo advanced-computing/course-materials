@@ -13,3 +13,6 @@ I want to further my skills learned in Computing in Context. Last semester in CI
 One dream job is working in management consulting firms.
 
 **Favorite snack:** Sour Gummy Bear Candy
+
+<img src="../img/cd3593-photo.jpg" height="200" />
+
