@@ -1,4 +1,7 @@
 # Naveen Venkat
+![Naveen Venkat](../img/nav-v.jpg)
+<img src="../img/nav-v.jpg" height="200" />
+
 
 **Program:** MA Global Thought
 
