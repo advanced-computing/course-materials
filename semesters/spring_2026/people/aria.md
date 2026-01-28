@@ -16,3 +16,5 @@ When in government, I was responsible for several projects that would have been 
 I'd really like to get some experience working on renewable energy deployment; the next time there is a U.S. Administration friendly to strengthening federal climate policy, I would love to go back to federal government.
 
 **Favorite snack** I am a popcorn fiend!
+
+<img src="../img/aria.jpeg" height="200" />
