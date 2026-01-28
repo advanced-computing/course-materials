@@ -12,3 +12,5 @@ I wanna get a profound knowledge of Python and during last semester's class, I g
 My dream job is to open a bakery shop, which is not relevant to coding or anything. But to be realistics, I would love to become a consultant, owning a problem-solving mind and tackle with problems in different areas. And when I earn enough money, I would retire and open a bakery shop, making coffee and cakes every day.
 
 **Favorite snack:** Nougat
+
+<img src="../img/irina.jpeg" height="200" />
