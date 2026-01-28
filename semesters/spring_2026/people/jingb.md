@@ -13,3 +13,5 @@ I took the Computing in Context course last sem and found it really interesting 
 My dream job is (at least at present) is to so something that I'm good at like consulting or strategic management.
 
 **Favorite snack:** Neutella Cookies
+
+<img src="../img/jingb.JPG" height="200" />
