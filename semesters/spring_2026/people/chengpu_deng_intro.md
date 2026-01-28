@@ -14,5 +14,5 @@ One dream job is working in management consulting firms.
 
 **Favorite snack:** Sour Gummy Bear Candy
 
-<img src="../img/cd3593-avatar.jpeg" height="200" />
+<img src="../img/cd3593-photo.jpg" height="200" />
 
