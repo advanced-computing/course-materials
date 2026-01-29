@@ -3,7 +3,7 @@ from glob import glob
 import pytest
 
 readings = glob("readings/*")
-lab_assignments = glob("labs/assignments/*")
+labs = glob("labs/*")
 
 LABS_WITHOUT_SUBMISSION = [1, 12]
 
@@ -20,10 +20,12 @@ def test_readings_boilerplate(file):
     assert "[submit a response](../README.md#responses)" in content
 
 
-@pytest.mark.parametrize("file", lab_assignments)
+@pytest.mark.parametrize("file", labs)
 def test_lab_submit_info(file):
     if "example" in file:
         pytest.skip("Skip examples")
+    if "slides" in file:
+        pytest.skip("Skip slides")
     for skip_lab in LABS_WITHOUT_SUBMISSION:
         if file.endswith(f"/lab_{skip_lab:02}.md"):
             pytest.skip(f"Lab {skip_lab} doesn't have a separate submission")
