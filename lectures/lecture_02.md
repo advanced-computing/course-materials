@@ -4,6 +4,7 @@
 
 ## Agenda
 
+1. Announcements
 1. Organizing work
 1. Waterfall vs. agile
 1. Project management
@@ -20,6 +21,12 @@
 ---
 
 ![Copilot mistake](../img/copilot_mistake.png)
+
+---
+
+## [Academic Integrity policy](../README.md#academic-integrity)
+
+Updated based on [poll responses](https://edstem.org/us/courses/89925/discussion/7571906).
 
 ---
 
