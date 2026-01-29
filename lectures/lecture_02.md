@@ -38,6 +38,12 @@ You should gotten an invite. Once you accept, you'll show up in [the list of Peo
 
 ---
 
+Question from Sneha:
+
+> how much would you prefer to emphasize VS code / github UI tools vs. terminal commands for version control?
+
+---
+
 Let's say you have a big project to do — school, work, personal, whatever. How do you go about it?
 
 _Try and avoid jargon._
@@ -214,3 +220,5 @@ Source: [Big Data and Social Science](https://textbook.coleridgeinitiative.org/c
 ---
 
 ### [Teams](../semesters/spring_2026/people.csv)
+
+Will be assigned Saturday (after the [Add/Drop period](https://www.sipa.columbia.edu/sipa-education/bulletin/academic-calendar) ends).
