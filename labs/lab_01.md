@@ -56,3 +56,8 @@
 ## [One-time setup](../readings/week_02.md#one-time-setup)
 
 (until class ends, or you finish)
+
+---
+
+## [Lab 01 Slides](https://docs.google.com/presentation/d/1QJeLkw9YPbCbCviYrMKNfZ7eDuufTpS-Wtguee77ZAI/edit?usp=sharing)
+

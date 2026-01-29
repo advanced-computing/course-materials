@@ -24,9 +24,12 @@ def test_readings_boilerplate(file):
 def test_lab_submit_info(file):
     if "example" in file:
         pytest.skip("Skip examples")
+    if "slides" in file:
+        pytest.skip("Skip slides")
     for skip_lab in LABS_WITHOUT_SUBMISSION:
         if file.endswith(f"/lab_{skip_lab:02}.md"):
             pytest.skip(f"Lab {skip_lab} doesn't have a separate submission")
 
     content = read_file(file)
     assert "/assignments" in content or "submit" in content.lower()
+
