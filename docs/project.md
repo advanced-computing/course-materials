@@ -62,7 +62,7 @@ Do the following as a group:
 
 1. Discuss what you'd like your project to focus on. Don't need to get _too_ specific yet.
 1. Explore [datasets that are updated weekly (the more often, the better)](data.md#datasets-that-are-regularly-updated) and pick one.
-1. Create a new notebook in [Google Colab](https://colab.research.google.com/).
+1. Create a new notebook.
 1. Ensure you can load the data.
 1. Narrow down on 1-3 research questions.
    - In other words, at the end of this project, what do you want to be able to show?

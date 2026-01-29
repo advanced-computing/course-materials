@@ -32,9 +32,7 @@ Students can look back at the [Computing in Context slides](https://computing-in
 1. One person in each group, create a new notebook in [Google Colab](https://colab.research.google.com/).
    1. Add everyone's name.
    1. Share it with your teammate(s).
-1. Download the [NYPD Hate Crime data](https://data.cityofnewyork.us/Public-Safety/NYPD-Hate-Crimes/bqiq-cu78/about_data) as a CSV.
-1. Upload the file to Colab.
-1. Load the data with pandas.
+1. [Load](https://python-public-policy.afeld.me/en/columbia/assignments/open_ended.html#storing-data) the [NYPD Hate Crime data](https://data.cityofnewyork.us/Public-Safety/NYPD-Hate-Crimes/bqiq-cu78/about_data) into pandas.
 1. Confirm how many records have been loaded.
 1. Compute an aggregate statistic (mean, median, sum, whatever).
 1. Create a visualization.
