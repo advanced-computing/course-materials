@@ -34,7 +34,7 @@ Stuck with [the same as Computing in Context](https://computing-in-context.afeld
 
 ## [GitHub Organization](https://github.com/advanced-computing)
 
-You should gotten an invite. Once you accept, you'll show up in [the list of People](https://github.com/orgs/advanced-computing/people).
+You should gotten an invite. Once you accept, you'll show up in [the Team](https://github.com/orgs/advanced-computing/teams/spring-2026).
 
 ---
 
@@ -164,7 +164,7 @@ This works best when teams are:
 
 ---
 
-Many, _many_ tools, such as:
+Many, _many_ tools, including:
 
 - Asana
 - GitHub Projects
