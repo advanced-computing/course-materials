@@ -1,5 +1,7 @@
 # Lecture 2: Project/product management
 
+Take the [AI policy poll](https://edstem.org/us/courses/89925/discussion/7571906) if you haven't already.
+
 ---
 
 ## Agenda
@@ -15,7 +17,7 @@
 ## [Lab 1](../labs/lab_01.md) submissions
 
 - [Pull requests](https://github.com/advanced-computing/course-materials/pulls?q=is%3Apr)
-- [Copilot session](https://github.com/advanced-computing/course-materials/tasks/18f6e183-695a-4c40-97f9-b31339a3103e)
+- [Copilot session](https://github.com/advanced-computing/course-materials/tasks/18f6e183-695a-4c40-97f9-b31339a3103e) — not visible to you
 - [Copilot pull request](https://github.com/advanced-computing/course-materials/pull/124)
 
 ---
@@ -26,7 +28,7 @@
 
 ## [Academic Integrity policy](../README.md#academic-integrity)
 
-Updated based on [poll responses](https://edstem.org/us/courses/89925/discussion/7571906).
+Stuck with [the same as Computing in Context](https://computing-in-context.afeld.me/#academic-integrity).
 
 ---
 
@@ -212,7 +214,3 @@ Source: [Big Data and Social Science](https://textbook.coleridgeinitiative.org/c
 ---
 
 ### [Teams](../semesters/spring_2026/people.csv)
-
----
-
-## [Snacks](https://docs.google.com/spreadsheets/d/1-Jmx10JMxhiJettMsYX7SFt53olMTDXDJCrsF8D0nLc/edit?gid=0#gid=0)
