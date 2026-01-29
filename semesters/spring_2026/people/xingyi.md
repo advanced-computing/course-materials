@@ -16,5 +16,5 @@ My current dream job is to own a farm and raise ducks in my hometown but it may 
 
 ![xingyi](/semesters/spring_2026/img/xingyi.jpg "Xingyi's Profile Photo")
 
-<img src="。。/img/xingyi.jpg" height="200" />
+<img src="../img/xingyi.jpg" height="200" />
 
