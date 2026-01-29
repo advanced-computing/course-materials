@@ -193,29 +193,12 @@ Anything outside of the provided course materials is considered a "source". This
 - Students are welcome to work with one another, as long as:
   - You indicate who you worked with
   - The submissions are different
-- Students are more than welcome to share approaches and code snippets in the Discussions, so long as they aren't giving the full solution away.
-- Students may post their [open-ended assignments](assignments/open_ended.md) publicly (on GitHub, LinkedIn, etc). Other assignments (with "correct answers") cannot be posted publicly, to avoid cheating in future semesters. You are more than welcome to share any of your notebooks with specific people, such as future employers.
-
-#### Generative AI
-
-Generative AI tools can be incredibly useful, but the code they provide is often incomplete or wrong. Knowing enough about code to critically interpret their results can turn them from a crutch to a superpower.
-
-For this course, it's recommended that you try doing the work yourself, asking the AI questions as needed when you're stuck/confused. If you're _really_ lost, you can try:
-
-1. Having AI generate a solution.
-1. Try it.
-   1. Copy it into a code cell.
-   1. Run it.
-   1. Confirm the output makes sense.
-1. Understand it.
-   1. Read through it closely.
-   1. Add a comment above each line explaining what it's doing.
-1. Redo it.
-   1. Delete the code + comments from above.
-   1. Close the AI chat.
-   1. Re-write the solution yourself.
-
-[Tools](https://python-public-policy.afeld.me/en/columbia/resources.html#generative-ai)
+- For any assignments with "correct answers":
+  - They cannot be posted publicly, to avoid cheating in future semesters.
+  - They can be shared with specific people, such as future employers.
+  - Students are more than welcome to share approaches and code snippets in the Discussions, so long as they aren't giving the full solution away.
+- For all other assignments, you're welcome to share them, including publicly (GitHub, LinkedIn, etc).
+- [Tips for working with generative AI](https://python-public-policy.afeld.me/en/columbia/assignments.html#generative-ai)
 
 #### SIPA Academic Integrity Statement
 
