@@ -17,11 +17,13 @@ All of this will be in [the cloud](https://www.cloudflare.com/learning/cloud/wha
 ## Inspiration
 
 - [Center for Disease Control (CDC) dashboards](https://www.cdc.gov/nssp/php/data-research/dashboards/index.html)
-- [Chicago Region Transit Dashboard](https://experience.arcgis.com/experience/2aa35be601ed4e1aa1b1fcf2bf56cb2f/page/Home/)
+- [Chicago Region Transit Dashboard](https://experience.arcgis.com/experience/b1a29e850bf44bf087e01277eabfcaad/page/Home)
 - [Chicago Transit Authority Historical Bus Crowding](https://capacitydb.ctadataportal.com/)
 - [Colorado Behavioral Health Administration (BHA) Performance Hub](https://bha.colorado.gov/data-and-reports/performance-hub)
 - [Congestion Pricing Tracker](https://www.congestion-pricing-tracker.com/)
-- [Johns Hopkins COVID map](https://coronavirus.jhu.edu/map.html)
+- MTA
+  - [Capital Program Dashboard](https://capitaldashboard.mta.info/)
+  - [Metrics](https://metrics.mta.info/)
 - [New York Flu Tracker](https://nyshc.health.ny.gov/web/nyapd/new-york-state-flu-tracker)
 - [New York Traffic Data Viewer (TDV)](https://www.dot.ny.gov/tdv)
 - [NYPD TrafficStat](https://trafficsafetyforum.nypdonline.org/)
@@ -62,7 +64,7 @@ Do the following as a group:
 
 1. Discuss what you'd like your project to focus on. Don't need to get _too_ specific yet.
 1. Explore [datasets that are updated weekly (the more often, the better)](data.md#datasets-that-are-regularly-updated) and pick one.
-1. Create a new notebook in [Google Colab](https://colab.research.google.com/).
+1. Create a new notebook.
 1. Ensure you can load the data.
 1. Narrow down on 1-3 research questions.
    - In other words, at the end of this project, what do you want to be able to show?
@@ -255,17 +257,14 @@ Visually map your data flow, end to end.
   - A fancier diagramming tool
     - Don't over-complicate this
 
-### ~~Airflow~~
-
-~~Convert one of your data loading scripts to an [Airflow DAG](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/fundamentals.html).~~
-
 ### Submit
 
 [Submit via CourseWorks:](https://courseworks2.columbia.edu/courses/233896/assignments)
 
 - An image of / a link to your map
-- ~~Link(s) to your pull request(s)~~
-- ~~A screenshot of your DAG's [graph view in the Airtable UI](https://airflow.apache.org/docs/apache-airflow/stable/ui.html#graph-view), showing a successful run~~
+- Link(s) to:
+  - Your pull request(s)
+  - A successful run of the GitHub Action
 
 ## [Lab 13](../labs/lab_13.md)
 

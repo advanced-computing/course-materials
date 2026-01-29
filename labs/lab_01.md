@@ -28,7 +28,7 @@
 1. [Create a pull request.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 1. Check out the repository's [network graph](https://github.com/advanced-computing/course-materials/network).
 1. Review the pull request of the person next to you.
-1. Merge.
+1. Sneha: Merge.
 1. Submit a link to your pull request in the Assignment.
 
 ---
@@ -49,6 +49,15 @@
 
 ---
 
+## [Merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
+
+---
+
 ## [One-time setup](../readings/week_02.md#one-time-setup)
 
 (until class ends, or you finish)
+
+---
+
+## [Lab 01 Slides](https://docs.google.com/presentation/d/1QJeLkw9YPbCbCviYrMKNfZ7eDuufTpS-Wtguee77ZAI/edit?usp=sharing)
+
