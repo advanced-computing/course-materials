@@ -13,3 +13,5 @@ I'm attending this class because I want to know more about basic computer scienc
 One dream job is working on tackling complex global problems through tech-enabled solutions.
 
 **Favorite snack:** AMOS peelerz Candy
+
+<img src="../img/jinen.jpeg" height="200" />

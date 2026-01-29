@@ -11,6 +11,18 @@
 
 ---
 
+## [Lab 1](../labs/lab_01.md) submissions
+
+- [Pull requests](https://github.com/advanced-computing/course-materials/pulls?q=is%3Apr)
+- [Copilot session](https://github.com/advanced-computing/course-materials/tasks/18f6e183-695a-4c40-97f9-b31339a3103e)
+- [Copilot pull request](https://github.com/advanced-computing/course-materials/pull/124)
+
+---
+
+![Copilot mistake](../img/copilot_mistake.png)
+
+---
+
 ## [GitHub Organization](https://github.com/advanced-computing)
 
 You should gotten an invite. Once you accept, you'll show up in [the list of People](https://github.com/orgs/advanced-computing/people).
