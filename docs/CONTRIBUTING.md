@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 They are built in [Remark](https://github.com/gnab/remark).
 
-1. From this directory, start the server.
+1. From the repository root, start the server.
 
    ```sh
    python3 -m http.server
