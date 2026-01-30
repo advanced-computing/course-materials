@@ -14,4 +14,5 @@ Looking ahead, my long-term goal is to work in an international company and appl
 
 **Favorite snack:** fruit jelly
 
-<img src="/semesters/spring_2026/img/IMG_chenyi.jpg" height="200">"
+<img src="../img/chenyi.jpg" height="200" />
+
