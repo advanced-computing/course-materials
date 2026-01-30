@@ -1,6 +1,10 @@
-*** Program: Master of Public Administration (MPA) ***
+<img src="../img/yizi.jpg" height="200" />
 
-*** Concentration/minor: Data Science for Policy ***
+**Name: Yizi Li**
+
+**Program: Master of Public Administration (MPA)**
+
+**Concentration/minor: Data Science for Policy**
 
 - Background: Public Policy, Education Policy, Quantitative Research, Research Statistics
 

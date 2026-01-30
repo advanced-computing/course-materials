@@ -13,3 +13,5 @@ I’m in this class because I want to strengthen my ability to design end-to-end
 My longer-term goal is to work in a data-driven policy or strategy role, where I can translate complex datasets into actionable insights for governments, public institutions, or mission-driven organizations. A dream project would be building a data pipeline that integrates messy administrative or economic data from multiple sources and turns it into clear, trustworthy insights that inform policy design or resource allocation.
 
 **Favorite snack:** I don't like snacks.
+
+<img src="../img/wuhao.jpg" height="200" />
