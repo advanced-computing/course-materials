@@ -23,6 +23,7 @@ resource "github_repository" "project" {
 resource "github_repository_collaborator" "students" {
   for_each = var.create_repository ? {
     for student in var.students : student.github_username => student
+    if student.github_username != ""
   } : {}
 
   repository = github_repository.project[0].name
