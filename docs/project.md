@@ -47,6 +47,8 @@ All of this will be in [the cloud](https://www.cloudflare.com/learning/cloud/wha
 
 ## [Teams](../semesters/spring_2026/people.csv)
 
+The teams have a corresponding [repository](https://github.com/orgs/advanced-computing/repositories) and [Google Cloud Project](google_cloud.md) automatically created.
+
 ## Part 1
 
 ### Goals
@@ -62,11 +64,13 @@ Part of this project is getting experience with automated data ingestion. Doing 
 
 Do the following as a group:
 
-1. Discuss what you'd like your project to focus on. Don't need to get _too_ specific yet.
-1. Explore [datasets that are updated weekly (the more often, the better)](data.md#datasets-that-are-regularly-updated) and pick one.
-1. Create a new notebook.
+1. Discuss what you'd like your project to focus on.
+   - Don't need to get _too_ specific yet.
+   - This doesn't lock you in.
+1. Explore [datasets that are updated weekly (the more often, the better)](data.md#datasets-that-are-regularly-updated) and pick one that could be relevant.
+1. Create a new notebook in your team repository.
 1. Ensure you can load the data.
-1. Narrow down on 1-3 research questions.
+1. Narrow down to 1-3 research questions.
    - In other words, at the end of this project, what do you want to be able to show?
 1. Draw an example visualization that you'd like to produce.
    - You can do so digitally or on a piece of paper.
@@ -82,7 +86,6 @@ You will then submit the following to the Discussion on [Ed](https://courseworks
 - **What are your research question(s)?**
   - It should be _specific, and objectively answerable_ through the data available.
 - **What's the link to your notebook?**
-  - Go to Share -> General access -> LionMail -> Commenter.
 - **What's your target visualization?**
   - Include a picture.
 - **What are your [known unknowns](https://en.wikipedia.org/wiki/There_are_unknown_unknowns)?**
