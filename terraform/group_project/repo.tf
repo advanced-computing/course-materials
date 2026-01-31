@@ -30,3 +30,15 @@ resource "github_repository_collaborator" "students" {
   username   = each.value.github_username
   permission = "maintain"
 }
+
+# Protect main branch - require pull requests
+resource "github_branch_protection" "main" {
+  count = var.create_repository ? 1 : 0
+
+  repository_id = github_repository.project[0].name
+  pattern       = "main"
+
+  required_pull_request_reviews {
+    required_approving_review_count = 1
+  }
+}
