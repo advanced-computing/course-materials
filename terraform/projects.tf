@@ -18,13 +18,11 @@
 # }
 
 locals {
+  team_ids = distinct([for student in local.roster : student.team_id if student.team_id != ""])
   # Group students by team_id, filtering out those without a team
   students_by_team_id = {
-    for team_id, students in merge([
-      for student in local.roster :
-      student.team_id != "" ? { "${student.team_id}" = [student] } : {}
-    ]...) :
-    team_id => students
+    for team_id in local.team_ids :
+    team_id => [for student in local.roster : student if student.team_id == team_id]
   }
 
   ta_member = "user:${local.ta_uni}@columbia.edu"
