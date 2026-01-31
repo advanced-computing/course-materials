@@ -3,7 +3,7 @@ resource "github_repository" "project" {
   count = var.create_repository ? 1 : 0
 
   name        = var.team_id
-  description = "Group project repository for ${var.team_id}"
+  description = "Group project repository: ${join(", ", [for student in var.students : student.first_name])}"
   visibility  = "public"
 
   has_issues             = true
@@ -16,6 +16,8 @@ resource "github_repository" "project" {
 
   lifecycle {
     prevent_destroy = true
+    # allow students to update
+    ignore_changes = [description]
   }
 }
 
