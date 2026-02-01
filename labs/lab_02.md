@@ -43,3 +43,6 @@ Students can look back at the [Computing in Context slides](https://computing-in
 1. Check how many results you get total, confirm it matches what's in the data portal.
 1. Do the aggregate statistic and visualization using the expanded dataset and note how they've changed.
 1. [Submit via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)
+
+---
+# [Lab Slides](https://docs.google.com/presentation/d/1dt8mt0rtXXZDPCvjhxtFcjjeXH8w6_lDOnB418ldYZM/edit?usp=sharing)
