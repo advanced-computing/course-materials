@@ -95,7 +95,14 @@ Students:
 
 ## Adding TODOs
 
-Each group [create issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/quickstart) for the things that came up in [the brainstorming](../lectures/lecture_02.md#the-project). Add objectives / [acceptance criteria](https://www.atlassian.com/work-management/project-management/acceptance-criteria) for each. (These can change later.)
+Each Project team will:
+
+1. Re-review the [Project goals](../docs/project.md#goals) and think back to [the brainstorming](../lectures/lecture_02.md#the-project).
+1. Think through what it will take to achieve that.
+   - What are the [known unknowns](https://en.wikipedia.org/wiki/There_are_unknown_unknowns)?
+1. Create at least eight [issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/quickstart).
+   - Add objectives / [acceptance criteria](https://www.atlassian.com/work-management/project-management/acceptance-criteria) for each.
+   - These can change later.
 
 ---
 
