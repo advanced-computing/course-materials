@@ -37,11 +37,13 @@ Students:
 
 ## Adding a [`.gitignore`](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files#configuring-ignored-files-for-a-single-repository)
 
-- In general, we don't want Git to commit every single file in our local repository
-  - Examples: **.DS_Store** files in macOS; **Thumbs.db** files in Windows; python environment files **.env** and **.venv** (more on this below)
-- We can tell Git which files and folders to ignore using a .gitignore file
+- In general, we don't want Git to commit every single file in our local repository. Examples:
+  - **.DS_Store** files in macOS
+  - **Thumbs.db** files in Windows
+  - Python environment files **.env** and **.venv** (more on this below)
+- We can tell Git which files and folders to ignore using a `.gitignore` file
 - [Set one up for Python and Mac or Windows](https://www.toptal.com/developers/gitignore?templates=macos,python)
-- Save a .gitignore file in your repository's root directory
+- Save a `.gitignore` file in your repository's root directory
 
 ---
 
@@ -69,27 +71,27 @@ Students:
 
 ## Checking that .gitignore works
 
-- Check the list of changes in the Source Control panel of VSCode
-- Go to the .gitignore file, comment the `.venv/` line and save
-- Check the list of changes again. Can you see the problem?
-- Uncomment the `.venv/` line and save
-- Create a new branch, commit and push
-- By group, merge one of the pull requests
+1. Check the list of changes in the Source Control panel of VSCode.
+1. Go to the `.gitignore` file, comment the `.venv/` line and save.
+1. Check the list of changes again. Can you see the problem?
+1. Uncomment the `.venv/` line and save.
+1. Create a new branch, commit and push.
+1. By group, merge one of the pull requests.
 
 ---
 
 ## Pull request practice
 
-- Make sure your repository is up-to-date: `checkout` to the main branch and `pull`
-- Each student will create a new branch to add a new feature:
-  - **Student A**: add the notebook from [Part 1](../docs/project.md#part-1)
-    - Ensure the notebook runs from VSCode.
-    - The notebook may not (fully) render on GitHub, due to having interactivity. Try accessing the GitHub URL via [nbviewer](https://nbviewer.org/)/[Colab](https://colab.research.google.com/).
-  - **Student B**: add a README.md
-    - Add project title and a short description
-    - Setup/usage instructions - these will change over time
-  - **Student A or B**: add an [Open in Colab button](https://openincolab.com/)
-- Review each other's pull requests
+1. Make sure your repository is up-to-date: `checkout` to the `main` branch and `pull`
+1. Each student will create a new branch to add a new feature:
+   1. **Student A**: add the notebook from [Part 1](../docs/project.md#part-1)
+      - Ensure the notebook runs from VSCode.
+      - The notebook may not (fully) render on GitHub, due to having interactivity. Try accessing the GitHub URL via [nbviewer](https://nbviewer.org/)/[Colab](https://colab.research.google.com/).
+   1. **Student B**: add a `README.md`.
+      - Add project title and a short description
+      - Setup/usage instructions - these will change over time
+   1. **Student A or B**: add an [Open in Colab button](https://openincolab.com/)
+1. Review each other's pull requests
 
 ---
 
