@@ -20,12 +20,6 @@ Students:
 
 ## [Project team](../docs/project.md#teams) repository setup
 
-1. [Create a public repository in the `advanced-computing` organization.](https://github.com/new?owner=advanced-computing&visibility=public)
-   - Make the name something distinctive, such as:
-     - What your project is focused on
-     - Your celebrity couple name
-     - A combination of your favorite snacks
-     - The name your automation will assume once it becomes sentient
 1. Using the terminal
    1. `cd` to this directory
    1. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) your project repository
