@@ -45,9 +45,9 @@ All of this will be in [the cloud](https://www.cloudflare.com/learning/cloud/wha
 - The site + codebase should be a polished portfolio piece.
 - Data is being automatically updated.
 
-## [Teams](../semesters/spring_2026/people.csv)
+## Teams
 
-The teams have a corresponding [repository](https://github.com/orgs/advanced-computing/repositories) and [Google Cloud Project](google_cloud.md) automatically created.
+See the [grouping by `team_id`](../semesters/spring_2026/people.csv). The teams have a corresponding [repository](https://github.com/orgs/advanced-computing/repositories) and [Google Cloud Project](google_cloud.md) automatically created.
 
 ## Part 1
 

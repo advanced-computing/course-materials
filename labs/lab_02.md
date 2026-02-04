@@ -21,7 +21,7 @@ We'll be doing this lab as pair programming, with the TA floating around to help
 
 1. Go over [pair programming](../docs/pairing.md).
 1. Talk through the steps below.
-1. Get in groups of 2-3 (unrelated to the [project teams](../semesters/spring_2026/people.csv)).
+1. Get in groups of 2-3 (unrelated to the [project teams](../docs/project.md#teams)).
 
 ---
 
@@ -45,4 +45,5 @@ Students can look back at the [Computing in Context slides](https://computing-in
 1. [Submit via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)
 
 ---
+
 # [Lab Slides](https://docs.google.com/presentation/d/1dt8mt0rtXXZDPCvjhxtFcjjeXH8w6_lDOnB418ldYZM/edit?usp=sharing)

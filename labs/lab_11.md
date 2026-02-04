@@ -1,6 +1,6 @@
 # Lab 11
 
-Sit with your [Project team](../semesters/spring_2026/people.csv).
+Sit with your [Project team](../docs/project.md#teams).
 
 ---
 
