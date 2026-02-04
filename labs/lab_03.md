@@ -20,12 +20,8 @@ Students:
 
 ## [Project team](../docs/project.md#teams) repository setup
 
-1. Using the terminal
-   1. `cd` to this directory
-   1. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) your project repository
-      1. Copy the repository URL
-      1. In the terminal run `git clone <URL>`
-1. Open your local repository folder in VSCode
+1. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) your project repository.
+1. Open your local repository folder in VSCode.
 
 ---
 
@@ -63,7 +59,7 @@ Students:
 
 ---
 
-## Checking that .gitignore works
+## Checking that `.gitignore` works
 
 1. Check the list of changes in the Source Control panel of VSCode.
 1. Go to the `.gitignore` file, comment the `.venv/` line and save.
