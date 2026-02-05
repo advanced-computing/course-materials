@@ -4,6 +4,12 @@
 
 ---
 
+## Reading responses
+
+They are great! Will talk through some of them at the end, if we have time.
+
+---
+
 ## CLI
 
 Command line interface
@@ -182,6 +188,48 @@ Done through package managers
 ---
 
 ## [Project Part 2](../docs/project.md#part-2)
+
+---
+
+## Reading response questions
+
+---
+
+### Week 2
+
+#### Workflow & coordination
+
+- I am curious **if there is a way to sync with the home database without doing it manually** once in a while. It seems a bit annoying to have to deal with it regularly.
+- At what point does the proliferation of branches and pull requests begin to **introduce coordination overhead, rather than reducing it**?
+- If a team hits a WIP limit in a very specialized area, h**ow can generalist team members realistically help clear that bottleneck** if they lack the specific expertise?
+
+---
+
+#### Planning & merge conflicts
+
+- While the readings emphasize how safe branches are, I'm curious what are the **best practices for the planning phase when multiple branches inevitably need to touch the same files**? I'm interested in how teams avoid messy merge conflicts before they happen.
+
+---
+
+### Week 3
+
+#### Terminology
+
+- What's the difference between **command line interface, terminal, shell, and bash**?
+
+---
+
+#### Design responsibility
+
+- It also raises an important question that the readings only briefly touch on: if users are largely unaware of how files actually work, **who bears responsibility for data loss, privacy breaches, or misuse**---users, designers, or institutions?
+
+---
+
+#### AI & the modern relevance of CLI
+
+- Elements of the command line: the prompt, followed by a command, and an option reminds me of talking to an AI chatbot. **Is this the right way of understanding how it works, or are there differences between the two**? I guess one key difference is perhaps that your computer can't "talk back to you", but instead, runs your command, unlike a chatbot.
+- The video mentioned that early interfaces prioritized making things easy for computers, not humans. **Will AI change this?** When we can talk to computers in natural language, will command lines become like Latin---something only specialists need?
+- Does the **efficiency of the CLI still hold true for professionals whose main focus is policy analysis** rather than software engineering?
 
 ---
 

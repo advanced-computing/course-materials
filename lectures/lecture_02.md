@@ -219,6 +219,6 @@ Source: [Big Data and Social Science](https://textbook.coleridgeinitiative.org/c
 
 ---
 
-### [Teams](../semesters/spring_2026/people.csv)
+### [Teams](../docs/project.md#teams)
 
 Will be assigned Saturday (after the [Add/Drop period](https://www.sipa.columbia.edu/sipa-education/bulletin/academic-calendar) ends).
