@@ -1,9 +1,12 @@
 # Lecture 2: Project/product management
 
+Take the [AI policy poll](https://edstem.org/us/courses/89925/discussion/7571906) if you haven't already.
+
 ---
 
 ## Agenda
 
+1. Announcements
 1. Organizing work
 1. Waterfall vs. agile
 1. Project management
@@ -11,9 +14,33 @@
 
 ---
 
+## [Lab 1](../labs/lab_01.md) submissions
+
+- [Pull requests](https://github.com/advanced-computing/course-materials/pulls?q=is%3Apr)
+- [Copilot session](https://github.com/advanced-computing/course-materials/tasks/18f6e183-695a-4c40-97f9-b31339a3103e) — not visible to you
+- [Copilot pull request](https://github.com/advanced-computing/course-materials/pull/124)
+
+---
+
+![Copilot mistake](../img/copilot_mistake.png)
+
+---
+
+## [Academic Integrity policy](../README.md#academic-integrity)
+
+Stuck with [the same as Computing in Context](https://computing-in-context.afeld.me/#academic-integrity).
+
+---
+
 ## [GitHub Organization](https://github.com/advanced-computing)
 
-You should gotten an invite. Once you accept, you'll show up in [the list of People](https://github.com/orgs/advanced-computing/people).
+You should gotten an invite. Once you accept, you'll show up in [the Team](https://github.com/orgs/advanced-computing/teams/spring-2026).
+
+---
+
+Question from Sneha:
+
+> how much would you prefer to emphasize VS code / github UI tools vs. terminal commands for version control?
 
 ---
 
@@ -137,7 +164,7 @@ This works best when teams are:
 
 ---
 
-Many, _many_ tools, such as:
+Many, _many_ tools, including:
 
 - Asana
 - GitHub Projects
@@ -192,8 +219,6 @@ Source: [Big Data and Social Science](https://textbook.coleridgeinitiative.org/c
 
 ---
 
-### [Teams](../semesters/spring_2026/people.csv)
+### [Teams](../docs/project.md#teams)
 
----
-
-## [Snacks](https://docs.google.com/spreadsheets/d/1-Jmx10JMxhiJettMsYX7SFt53olMTDXDJCrsF8D0nLc/edit?gid=0#gid=0)
+Will be assigned Saturday (after the [Add/Drop period](https://www.sipa.columbia.edu/sipa-education/bulletin/academic-calendar) ends).

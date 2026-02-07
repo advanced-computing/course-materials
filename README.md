@@ -175,9 +175,30 @@ To encourage focus and participation, students are asked to keep laptops closed 
 
 ### Academic Integrity
 
-To be [co-created](lectures/lecture_01.md#generative-ai-policy).
+If you are copying and pasting from a source (see below), it must be cited. This doesn't need to be in a formal style like APA - a comment (and link, where possible) is fine.
 
-<!-- will also pull from https://computing-in-context.afeld.me/#course-policies -->
+**If you did most of the work yourself, it's ok. If most of the work was copied from elsewhere, it's plagiarism,** and will be reported.
+
+#### Sources
+
+Anything outside of the provided course materials is considered a "source". This includes:
+
+- Other students
+- Online resources
+- Books
+- Generative AI (ChatGPT, Claude, Copilot, Gemini, etc.)
+
+#### Other notes
+
+- Students are welcome to work with one another, as long as:
+  - You indicate who you worked with
+  - The submissions are different
+- For any assignments with "correct answers":
+  - They cannot be posted publicly, to avoid cheating in future semesters.
+  - They can be shared with specific people, such as future employers.
+  - Students are more than welcome to share approaches and code snippets in the Discussions, so long as they aren't giving the full solution away.
+- For all other assignments, you're welcome to share them, including publicly (GitHub, LinkedIn, etc).
+- [Tips for working with generative AI](https://python-public-policy.afeld.me/en/columbia/assignments.html#generative-ai)
 
 #### SIPA Academic Integrity Statement
 

@@ -36,6 +36,7 @@ Please do the following:
    - This is short, but important. Read it slowly.
 1. [_Inspired_ by Marty Cagan, chapters 8-9](https://courseworks2.columbia.edu/courses/233896/files?preview=23023996)
 1. [Kanban](https://www.atlassian.com/agile/kanban)
+1. [Acceptance criteria: examples and best practices](https://www.atlassian.com/work-management/project-management/acceptance-criteria)
 1. [The three "PM"s: Differentiating between Product, Project, and Program Management](https://www.linkedin.com/pulse/three-pms-differentiating-between-product-project-diamonde-henderson)
 1. [Getting to “technical enough” as a product manager](https://medium.com/@lulu_cheng/getting-to-technical-enough-as-a-product-manager-5b372513cd1c)
 
