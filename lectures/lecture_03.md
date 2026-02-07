@@ -222,7 +222,7 @@ Done through package managers
 
 ---
 
-### Week 2
+### [Week 2](https://edstem.org/us/courses/89925/discussion/7546421)
 
 #### Workflow & coordination
 
@@ -238,25 +238,11 @@ Done through package managers
 
 ---
 
-### Week 3
+### [Week 3](https://edstem.org/us/courses/89925/discussion/7586157)
 
 #### Terminology
 
 - What's the difference between **command line interface, terminal, shell, and bash**?
-
----
-
-#### Design responsibility
-
-- It also raises an important question that the readings only briefly touch on: if users are largely unaware of how files actually work, **who bears responsibility for data loss, privacy breaches, or misuse**---users, designers, or institutions?
-
----
-
-#### AI & the modern relevance of CLI
-
-- Elements of the command line: the prompt, followed by a command, and an option reminds me of talking to an AI chatbot. **Is this the right way of understanding how it works, or are there differences between the two**? I guess one key difference is perhaps that your computer can't "talk back to you", but instead, runs your command, unlike a chatbot.
-- The video mentioned that early interfaces prioritized making things easy for computers, not humans. **Will AI change this?** When we can talk to computers in natural language, will command lines become like Latin---something only specialists need?
-- Does the **efficiency of the CLI still hold true for professionals whose main focus is policy analysis** rather than software engineering?
 
 ---
 
