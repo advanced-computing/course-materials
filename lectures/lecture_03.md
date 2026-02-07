@@ -45,6 +45,12 @@ Open it up.
 
 ---
 
+[!["It's a UNIX system!" clip from Jurassic Park](https://img.youtube.com/vi/JOeY07qKU9c/maxresdefault.jpg)](https://www.youtube.com/watch?v=JOeY07qKU9c)
+
+_subtitles on_
+
+---
+
 ### Examples
 
 - Darwin (macOS)
