@@ -28,10 +28,10 @@ Command line interface
 
 ---
 
-We'll be using:
+We'll be using the following in the [VSCode integrated terminal](https://code.visualstudio.com/docs/terminal/getting-started):
 
 - Windows: Git BASH
-- macOS: Terminal
+- macOS: Bash/zsh
 
 Open it up.
 
@@ -167,6 +167,19 @@ Uses a "wildcard":
 - Bash
 - zsh
 
+```sh
+echo $SHELL
+```
+
+---
+
+### Getting fancy
+
+Optional!
+
+- [Oh My Zsh](https://ohmyz.sh/)
+- [Oh My Bash](https://ohmybash.nntoan.com/)
+
 ---
 
 ## Dependency/package management
@@ -191,7 +204,7 @@ Done through package managers
 - Linux: [Aptitude](https://documentation.ubuntu.com/server/how-to/software/package-management/), [Snapcraft](https://snapcraft.io/docs), [others](https://www.linode.com/docs/guides/linux-package-management-overview/)
   - [Debian packages vs. Snaps](https://www.reddit.com/r/Ubuntu/comments/a364ii/proscons_of_snap_vs_apt/)
 - Mac: [Homebrew](https://brew.sh/)
-- Windows: [Windows Package Manager / WinGet](https://learn.microsoft.com/en-us/windows/package-manager/), [Chocolatey](https://chocolatey.org/)
+- Windows: [Windows Package Manager / WinGet](https://learn.microsoft.com/en-us/windows/package-manager/), [Chocolatey](https://chocolatey.org/), [Scoop](https://scoop.sh/)
 
 ---
 
