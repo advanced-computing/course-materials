@@ -112,6 +112,14 @@ If files have spaces or special characters, need to put quotes around them.
 
 ---
 
+## Cases
+
+- `snake_case`
+- `TitleCase`
+- `camelCase`
+
+---
+
 ## Exiting/quitting
 
 - less: `q`
