@@ -122,3 +122,7 @@ Make Visualization X
 ---
 
 [**Submit** via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)
+
+---
+
+# [Lab Slides](https://docs.google.com/presentation/d/12hLoQc3XirF7OP2gd5UJ72mck6SL_sbZGHox23Gp_wM/)
