@@ -40,8 +40,9 @@ Open it up.
 ## Distributions
 
 - UNIX
-- UNIX-like
+- [UNIX-like](https://en.wikipedia.org/wiki/Unix-like)
 - [POSIX standard](https://en.wikipedia.org/wiki/POSIX)
+- [History](https://www.reddit.com/r/linux/comments/kporah/i_made_a_simple_diagram_on_history_of_os_feel/)
 
 ---
 
@@ -181,10 +182,10 @@ echo $SHELL
 
 ### Getting fancy
 
-Optional!
-
-- [Oh My Zsh](https://ohmyz.sh/)
-- [Oh My Bash](https://ohmybash.nntoan.com/)
+- [Dotfiles](https://github.com/afeld/dotfiles)
+- Shell customization
+  - [Oh My Zsh](https://ohmyz.sh/)
+  - [Oh My Bash](https://ohmybash.nntoan.com/)
 
 ---
 
