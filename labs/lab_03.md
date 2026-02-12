@@ -14,14 +14,13 @@ Students:
 - Open the [integrated terminal](https://code.visualstudio.com/docs/terminal/getting-started)
   - [Select the shell](https://code.visualstudio.com/docs/terminal/getting-started#_run-commands-in-another-shell) (Git Bash or other)
 - [Python interpreter selection](https://code.visualstudio.com/docs/python/environments#_working-with-python-interpreters)
-  - Use the **Python: Select Interpreter** from the **Command Palette** (`Ctrl+Shift+P`)
 
 ---
 
 ## [Project team](../docs/project.md#teams) repository setup
 
 1. Confirm that [you have write access](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository) to your team's project repository.
-2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) your project repository.
+1. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) your project repository.
 1. Open your local repository folder in VSCode.
 1. Create a README that contains your [Proposal](../docs/project.md#proposal) (at a minimum).
 1. [Choose a license](https://choosealicense.com/) for your repository.
