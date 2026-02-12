@@ -13,7 +13,6 @@ pandas-stubs
 plotly
 pytest
 pytest-cov
-python-dotenv
 ruff
 streamlit==1.*
 yfinance
