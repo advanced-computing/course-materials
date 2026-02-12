@@ -42,8 +42,12 @@ All of this will be in [the cloud](https://www.cloudflare.com/learning/cloud/wha
 
 ### By the end
 
-- The site should be more open-ended than [Projects from Computing in Context](https://computing-in-context.afeld.me/projects/), allowing users to explore.
+- Create dashboard(s) that explore relationships between variables.
+  - It should be more open-ended than [Projects from Computing in Context](https://computing-in-context.afeld.me/projects/), allowing users to explore.
   - The site doesn't need to [read like a blog post](https://computing-in-context.afeld.me/projects/#requirements) necessarily, but it should explain what's going on.
+  - It should layer several sources/dimensions of data to add depth and context (e.g. location, weather, demographics).
+  - It should have multiple visualizations that work together.
+  - The idea is that it should make it easy for someone (maybe a policymaker or other decision maker) to spot meaningful patterns or insights.
 - The site + codebase should be a polished portfolio piece.
 - Data is being automatically updated.
 
