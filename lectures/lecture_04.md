@@ -46,6 +46,12 @@ curl -I http://127.0.0.1:5000/echo
 curl -X POST http://127.0.0.1:5000/echo
 curl -X POST -d "hello" http://127.0.0.1:5000/echo
 curl -i http://127.0.0.1:5000/echo > response.txt
+
+curl 'http://127.0.0.1:5000/divide?numerator=5&denominator=2'
+curl 'http://127.0.0.1:5000/divide?denominator=2&numerator=5'
+curl 'http://127.0.0.1:5000/divide?numerator=5&denominator=0'
+curl 'http://127.0.0.1:5000/divide?numerator=5&denominator=abc'
+curl 'http://127.0.0.1:5000/divide?numerator=5'
 ```
 
 ---
