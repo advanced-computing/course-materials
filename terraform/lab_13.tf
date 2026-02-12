@@ -7,16 +7,18 @@ resource "google_service_account" "lab_13_github_actions" {
   display_name = "Lab 13 GitHub Actions service account"
 }
 
-# Grant BigQuery permissions to the service account
-resource "google_project_iam_member" "lab_13_bigquery_permissions" {
-  for_each = toset([
-    "roles/bigquery.dataEditor",
-    "roles/bigquery.jobUser",
-  ])
-
+# Grant BigQuery job user permission at project level (needed to run queries)
+resource "google_project_iam_member" "lab_13_bigquery_job_user" {
   project = local.root_project
-  role    = each.value
+  role    = "roles/bigquery.jobUser"
   member  = google_service_account.lab_13_github_actions.member
+}
+
+# Grant dataset-level access to stock_data dataset only
+resource "google_bigquery_dataset_iam_member" "lab_13_stock_data_editor" {
+  dataset_id = "stock_data"
+  role       = "roles/bigquery.dataEditor"
+  member     = google_service_account.lab_13_github_actions.member
 }
 
 # Create a service account key
