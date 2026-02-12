@@ -8,11 +8,19 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
+    """Plain text response"""
     return "Hello world!"
+
+
+@app.route("/hello.json")
+def hello_json():
+    """Simple JSON response"""
+    return {"hello": "json"}
 
 
 @app.route("/hello/<name>")
 def hello(name):
+    """Working with path variables: https://flask.palletsprojects.com/en/stable/quickstart/#variable-rules"""
     return f"Hello {name}"
 
 
