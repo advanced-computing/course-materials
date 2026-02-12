@@ -2,6 +2,13 @@
 
 ---
 
+## [Project clarifications](https://github.com/advanced-computing/course-materials/pull/139/changes)
+
+- Dashboard
+- Ensure you can load data
+
+---
+
 ## Browser Developer Tools
 
 Showing Chrome, but it's [similar in other browsers](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Tools_and_setup/What_are_browser_developer_tools#how_to_open_the_devtools_in_your_browser).

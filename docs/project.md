@@ -34,14 +34,20 @@ All of this will be in [the cloud](https://www.cloudflare.com/learning/cloud/wha
 
 ### At all times
 
-- All code is peer-reviewed, through [pair programming](pairing.md) and/or pull requests.
+- [Pair program](pairing.md) as much as possible.
+- All code is peer-reviewed through pull requests.
 - All team members are contributing equal amounts.
 - The Project leverages at least one [dataset that's regularly updated](data.md#datasets-that-are-regularly-updated).
 - The code, documentation, and repository are clean, following good coding style and [other best practices](https://python-public-policy.afeld.me/en/columbia/assignments.html#coding-in-general).
 
 ### By the end
 
-- The site doesn't need to [read like a blog post](https://computing-in-context.afeld.me/projects.html#requirements) necessarily, but it should explain what's going on.
+- Create dashboard(s) that explore relationships between variables.
+  - It should be more open-ended than [Projects from Computing in Context](https://computing-in-context.afeld.me/projects/), allowing users to explore.
+  - The site doesn't need to [read like a blog post](https://computing-in-context.afeld.me/projects/#requirements) necessarily, but it should explain what's going on.
+  - It should layer several sources/dimensions of data to add depth and context (e.g. location, weather, demographics).
+  - It should have multiple visualizations that work together.
+  - The idea is that it should make it easy for someone (maybe a policymaker or other decision maker) to spot meaningful patterns or insights.
 - The site + codebase should be a polished portfolio piece.
 - Data is being automatically updated.
 
@@ -68,11 +74,12 @@ Do the following as a group:
    - Don't need to get _too_ specific yet.
    - This doesn't lock you in.
 1. Explore [datasets that are updated weekly (the more often, the better)](data.md#datasets-that-are-regularly-updated) and pick one that could be relevant.
+   - You _can_ pick multiple, but start simple.
 1. Create a new notebook in your team repository.
-1. Ensure you can load the data.
-1. Narrow down to 1-3 research questions.
-   - In other words, at the end of this project, what do you want to be able to show?
-1. Draw an example visualization that you'd like to produce.
+1. In the notebook, load and display the data from all your data sources.
+   - If there's an API, use the API.
+1. Draw one (or more) example visualizations that you'd like to produce.
+   - Have at least one be a time series.
    - You can do so digitally or on a piece of paper.
    - Include a title, legend, and axes labels (where appropriate).
    - This is just a sketch; don't worry about the specific values.
@@ -83,8 +90,9 @@ You will then submit the following to the Discussion on [Ed](https://courseworks
 
 - **What dataset are you going to use?**
   - Please include a link.
-- **What are your research question(s)?**
-  - It should be _specific, and objectively answerable_ through the data available.
+- **~~What are your research question(s)~~ What questions should your users be able to answer by using your app?**
+  - Come up with at least three.
+  - Go deep, not broad.
 - **What's the link to your notebook?**
 - **What's your target visualization?**
   - Include a picture.
