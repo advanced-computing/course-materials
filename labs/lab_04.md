@@ -44,7 +44,7 @@ For each step, you will:
 
 The documentation is a starting place; you can add/modify as you go.
 
-For inspiration, check out [the example](examples/lab_04/).
+For inspiration, check out [the example](../examples/lab_04/).
 
 ---
 

@@ -1,6 +1,4 @@
-# Lab Examples
-
-This repository contains some examples related to the course labs.
+# Examples
 
 ## Lab 02
 
@@ -11,5 +9,3 @@ Find example [here](lab_02) or open the notebook in Colab pressing <a target="_b
 ## Lab 04 & 05
 
 Find examples for an api that list popular Youtube videos [here](lab_04). Some example unit tests are also included.
-
-# Lab 06
