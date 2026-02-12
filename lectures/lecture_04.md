@@ -81,3 +81,24 @@ Like cURL, but for downloading files.
 - Elements of the command line: the prompt, followed by a command, and an option reminds me of talking to an AI chatbot. **Is this the right way of understanding how it works, or are there differences between the two**? I guess one key difference is perhaps that your computer can't "talk back to you", but instead, runs your command, unlike a chatbot.
 - The video mentioned that early interfaces prioritized making things easy for computers, not humans. **Will AI change this?** When we can talk to computers in natural language, will command lines become like Latin---something only specialists need?
 - Does the **efficiency of the CLI still hold true for professionals whose main focus is policy analysis** rather than software engineering?
+
+---
+
+## Week 4
+
+### Virtual environments
+
+One thing that I'm still unsure of is **when to use the global environment versus activating my virtual environment**. I understand that virtual environments should be created and activated for each project - but **how many projects is too many? What if I forget which virtual environment is for which project?** Do I need to keep track of my Notes app?
+
+---
+
+### Jupyter Notebook vs. Streamlit
+
+The power of Streamlit, which transforms python scripts into interatctive apps in a second, is amazing [...] However, since Jupyter notebook has similar functions, which is Python-friendly and shows output immediately, **I wonder which tools we should choose, what kind of differences are between these two.**
+
+---
+
+### Internet architecture
+
+- Overall, I would benefit from a **quick review of the whole architecture** laid out in chapters 3 and 5, even though well illustrated it was a decent amount of new information.
+- I am unsure what it is referring to by **"packets".**
