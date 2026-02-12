@@ -1,0 +1,31 @@
+name: Update Microsoft Stock Price Data
+
+on:
+  schedule:
+    # weekly
+    - cron: "0 0 * * 0"
+  # support manual trigger
+  workflow_dispatch:
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Check directory structure
+        run: |
+          echo "Current directory: $(pwd)"
+          echo "Contents of current directory:"
+          ls -la
+          echo "Contents of repository root:"
+          find . -type f -name "*.py" | sort
+      - name: Update data
+        env:
+          BQ_LAB13: ${{ secrets.BQ_LAB13 }}
+        run: python ${{ github.workspace }}/examples/lab_13/load_data.py

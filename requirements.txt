@@ -1,15 +1,21 @@
 duckdb
 Flask==3.*
 functions-framework==3.*
+google-cloud-bigquery
 isort
 jupyter==1.*
 linkchecker
+matplotlib
+numpy
+pandas
 pandas-gbq
 pandas-stubs
+plotly
 pytest
 pytest-cov
 ruff
 streamlit==1.*
+yfinance
 # waiting on
 # https://github.com/ydataai/ydata-profiling/pull/1804
 # ydata-profiling

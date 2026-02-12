@@ -29,6 +29,8 @@ Make a workflow that runs on a [schedule](https://docs.github.com/en/actions/wri
 
 ## Hints
 
+Example [workflow](../.github/workflows/update_data.yml) and [code](../examples/lab_13/)
+
 <details>
    <summary>There's an extra step</summary>
    GitHub Actions will need credentials + permissions to write to BigQuery.
