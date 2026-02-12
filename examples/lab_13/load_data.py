@@ -6,6 +6,9 @@ import pandas_gbq  # type: ignore
 import yfinance as yf  # type: ignore  # for downloading stock data
 from google.oauth2 import service_account
 
+PROJECT_ID = "sipa-advanced-computing"
+TABLE = "stock_data.msft"
+
 
 def get_price_data():
     dat = yf.Ticker("MSFT")
@@ -17,7 +20,6 @@ def get_bq_credentials():
     # Load the data from BigQuery
     SCOPES = [
         "https://www.googleapis.com/auth/cloud-platform",
-        "https://www.googleapis.com/auth/drive",
     ]
 
     # getting the credentials from the environment variable
@@ -31,16 +33,13 @@ def get_bq_credentials():
 
 
 def get_bq_data():
-
     # Load the data from BigQuery into a DataFrame
-    query = "SELECT * FROM `stock_data.msft`"
+    query = f"SELECT * FROM `{TABLE}`"
 
     # getting the credentials
     credentials = get_bq_credentials()
 
-    df = pandas_gbq.read_gbq(
-        query, project_id="sipa-adv-c-roberto", credentials=credentials
-    )
+    df = pandas_gbq.read_gbq(query, project_id=PROJECT_ID, credentials=credentials)
 
     return df
 
@@ -50,6 +49,9 @@ def update_data():
     msft_df = get_price_data()
     # get the data from bigquery
     bq_df = get_bq_data()
+
+    # getting the credentials
+    credentials = get_bq_credentials()
 
     # comparing latest date from bq and msft_df
     bq_latest_date = bq_df["Date"].max()
@@ -61,9 +63,10 @@ def update_data():
         # add the new data to bq
         pandas_gbq.to_gbq(
             new_data,
-            "stock_data.msft",
-            project_id="sipa-adv-c-roberto",
+            TABLE,
+            project_id=PROJECT_ID,
             if_exists="append",
+            credentials=credentials,
         )
         print("Data updated")
     else:
