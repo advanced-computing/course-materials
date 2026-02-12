@@ -1,6 +1,6 @@
 # Lab 6
 
-[Slides in PDF format](https://github.com/advanced-computing/lab_examples/blob/main/lab_06_slides/lab_06.pdf)
+[Slides in PDF format](lab_06_slides.pdf)
 
 You'll work in your [Project teams](../docs/project.md#teams).
 
