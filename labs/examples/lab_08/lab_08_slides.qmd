@@ -1,0 +1,268 @@
+---
+format: revealjs
+highlight-style: arrow
+self-contained: true
+---
+
+# Lab 8
+
+**Objective:** Understand different methods of loading data
+
+---
+
+## Data loading
+
+- Append load
+- Trunc(ate) and load
+- Incremental load
+
+---
+
+## Append load
+
+- Adding new data entries to a dataset without modifying or removing existing records 
+
+::: {.columns style="font-size: 70%;"}
+
+::: {.column width="33%"}
+Our database:
+
+| id | name | last_update |
+|----|------| --- |
+| [1]{style="color:black;"}   | [Bob]{style="color:black;"}  | [2020-01-01]{style="color:black;"}  |
+| 2  | Alice| 2021-01-01  |
+| 3  | Charlie| 2021-01-01 |
+| 4  | David | 2021-01-01 |
+
+:::
+
+::: {.column width="33%"}
+New data:
+
+| id | name | last_update |
+|----|------| --- |
+| 2 | Alice | 2021-01-01  |
+| 3 | Charlie | 2021-01-01 |
+| 4 | David | 2022-01-01 |
+| [5]{style="color:blue;"} | [Eve]{style="color:blue;"} | [2022-01-01]{style="color:blue;"} |
+
+:::
+
+::: {.column width="33%"}
+Result:
+
+| id | name | last_update |
+|----|------| --- |
+| 1  | Bob  | 2020-01-01  |
+| 2  | Alice | 2021-01-01 |
+| 3  | Charlie | 2021-01-01 |
+| 4  | David | 2021-01-01 |
+| [5]{style="color:orange;"} | [Eve]{style="color:orange;"} | [2022-01-01]{style="color:orange;"} |
+
+:::
+
+:::
+
+--- 
+
+## Incremental load
+
+- Incorporating new records, updating existing ones, and removing outdated data based on the latest changes
+
+::: {.columns style="font-size: 70%;"}
+
+::: {.column width="33%"}
+Our database:
+
+| id | name | last_update |
+|----|------| --- |
+| [1]{style="color:red;"}  | [Bob]{style="color:red;"}  | [2020-01-01]{style="color:red;"}  |
+| 2  | Alice| 2021-01-01  |
+| 3  | Charlie| 2021-01-01 |
+| 4  | David | [2021-01-01]{style="color:green;"} |
+
+:::
+
+::: {.column width="33%"}
+New data:
+
+| id | name | last_update |
+|----|------| --- |
+| 2 | Alice | 2021-01-01  |
+| 3 | Charlie | 2021-01-01 |
+| 4 | David | [2022-01-01]{style="color:green;"} |
+| [5]{style="color:green;"} | [Eve]{style="color:green;"} | [2022-01-01]{style="color:green;"} |
+
+:::
+
+::: {.column width="33%"}
+Result:
+
+| id | name | last_update |
+|----|------| --- |
+| 2  | Alice | 2021-01-01 |
+| 3  | Charlie | 2021-01-01 |
+| [4]{style="color:orange;"}  | [David]{style="color:orange;"} | [2022-01-01]{style="color:orange;"} |
+| [5]{style="color:orange;"}  | [Eve]{style="color:orange;"} | [2022-01-01]{style="color:orange;"} |
+
+:::
+
+:::
+
+---
+
+### Append and Incremental Load
+
+The trick is avoiding duplicates. Your script might then need to say something like:
+
+1. What's the latest timestamp in the database?
+1. Pull data from the API that's more recent than that.
+
+---
+
+## Trunc(ate) and load
+
+- Removing all existing records and replacing them with new data
+
+::: {.columns style="font-size: 70%;"}
+
+::: {.column width="33%"}
+Our database:
+
+
+| id | name | last_update |
+|----|------| --- |
+| [1]{style="color:red;"}   | [Bob]{style="color:red;"}     | [2020-01-01]{style="color:red;"}  |
+| [2]{style="color:red;"}   | [Alice]{style="color:red;"}   | [2021-01-01]{style="color:red;"}  |
+| [3]{style="color:red;"}   | [Charlie]{style="color:red;"} | [2021-01-01]{style="color:red;"} |
+| [4]{style="color:red;"}   | [David]{style="color:red;"}   | [2021-01-01]{style="color:red;"} |
+
+:::
+
+::: {.column width="33%"}
+New data:
+
+| id | name | last_update |
+|----|------| --- |
+| [2]{style="color:black;"} | [Alice]{style="color:black;"} | [2021-01-01]{style="color:black;"}  |
+| 3 | Charlie | 2021-01-01 |
+| 4 | David | 2022-01-01 |
+| 5 | Eve | 2022-01-01 |
+
+:::
+
+::: {.column width="33%"}
+Result:
+
+| id | name | last_update |
+|----|------| --- |
+| [2]{style="color:orange;"} | [Alice]{style="color:orange;"} | [2021-01-01]{style="color:orange;"}  |
+| [3]{style="color:orange;"} | [Charlie]{style="color:orange;"} | [2021-01-01]{style="color:orange;"} |
+| [4]{style="color:orange;"} | [David]{style="color:orange;"} | [2022-01-01]{style="color:orange;"} |
+| [5]{style="color:orange;"} | [Eve]{style="color:orange;"} | [2022-01-01]{style="color:orange;"} |
+
+:::
+
+:::
+
+
+# Lab work
+
+- You'll write methods to load continuously updated data into a database.
+    - You'll set up scripts to perform each of the [methods of data loading](#data-loading) into DuckDB.
+- You'll [pair](../docs/pairing.md) in your Lab group.
+- Work on branches and submit pull requests for the chunks of work — you decide what the "chunks" are.
+
+---
+
+### Source Data
+
+- We will be using [Consumer Price Index data](https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/pcpi) from the Philadelphia Federal Reserve.
+- We have monthly observations (rows) and monthly vintages (columns)
+
+
+::: {style="font-size: 70%"}
+| DATE    | PCPI04M1 | PCPI04M2 | PCPI04M3 |
+|---------|---------:|---------:|---------:|
+| 2003:09 | 185.0    | 185.1    | 185.1    |
+| 2003:10 | 185.0    | 184.9    | 184.9    |
+| 2003:11 | 184.6    | 184.6    | 184.6    |
+| 2003:12 | 185.0    | 184.9    | 184.9    |
+| 2004:01 | #N/A     | 185.8    | 185.8    |
+| 2004:02 | #N/A     | #N/A     | 186.3    |
+:::
+
+---
+
+### Source Data (cont'd)
+
+- A revision of past data is released in Febraury of each year.
+- A revision released in year `t` can update the values in years `t-5` to `t-1`.
+
+::: {style="font-size: 70%"}
+| DATE    | PCPI04M1 | PCPI04M2 | PCPI04M3 |
+|---------|---------:|---------:|---------:|
+| 2003:09 | 185.0    | 185.1    | 185.1    |
+| 2003:10 | 185.0    | 184.9    | 184.9    |
+| 2003:11 | 184.6    | 184.6    | 184.6    |
+| 2003:12 | 185.0    | 184.9    | 184.9    |
+| 2004:01 | #N/A     | 185.8    | 185.8    |
+| 2004:02 | #N/A     | #N/A     | 186.3    |
+:::
+
+---
+
+### Tasks
+
+::: {style="font-size: 85%"}
+Suppose your organization wants to maintain a database of CPI data
+
+- Write a `get_latest_data` function that accepts a `pull_date` and returns the latest data available up to that date
+   - For example, if the `pull_date` is 2004-01-15, the function should return the data from vintage `PCPI04M1`
+- Write code that pulls the latest data at a given `pull_date` and loads it into a DuckDB database
+    - You will implement each of the methods `append`, `trunc`, and `incremental`
+- Loop over a range of `pull_dates` to simulate running the scripts on a daily basis
+- Compare the performance of each method (consistency and speed)
+:::
+
+---
+
+### Steps
+
+::: {style="font-size: 80%"}
+1. Write out the usage and manual testing instructions as Markdown.
+   - We're doing this as [documentation-driven development](https://gist.github.com/zsup/9434452).
+   - What should the user expect to see in the table after running each script?
+2. Write the `get_latest_data` function.
+   - This function should return only two columns: e.g. `dates` and `cpi`
+   - All other code should interact with the source data only through this function
+:::
+
+---
+
+### Steps (cont'd)
+
+::: {style="font-size: 80%"}
+3. Work through [each method of data loading](#data-loading).
+   - Include the type in the scripts and table names to keep them separate — something like:
+     - `_append`
+     - `_trunc`
+     - `_inc`
+    - Your code should accept a `pull_date` parameter and load the data up to that date
+    - The script should be able to run multiple times without duplicating data
+    - For incremental: a Python script may be easier than a SQL one
+
+:::
+
+--- 
+### Steps (cont'd)
+
+::: {style="font-size: 80%"}
+4. On a notebook: simulate your organization running the scripts on a daily basis.
+   - Start from empty tables
+   - Loop over a range of `pull_dates` (e.g. 2000-01-01 to 2025-02-28) to simulate running the scripts on a daily basis.
+   - If the loop takes way too long, use a shorter range
+   - Compare the performance of each method (data consistency and speed) 
+5. [Submit the links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/210480/assignments)
+:::
+

@@ -1,0 +1,14 @@
+Flask==3.*
+isort
+jupyter==1.*
+ruff
+pandas
+numpy
+plotly
+matplotlib
+python-dotenv
+pytest
+duckdb
+google-cloud-bigquery
+pandas-gbq
+yfinance
