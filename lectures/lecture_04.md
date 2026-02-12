@@ -2,7 +2,7 @@
 
 ---
 
-## [Project](../docs/project.md) clarifications
+## [Project clarifications](https://github.com/advanced-computing/course-materials/pull/139/changes)
 
 - Dashboard
 - Ensure you can load data
