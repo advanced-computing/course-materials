@@ -111,7 +111,7 @@ Only one person from your group needs to submit. None of this is set in stone lo
 
 1. Using your dataset from [Part 1](#part-1):
    1. Create a [Streamlit](https://streamlit.io/) app.
-   1. Deploy the app.
+   1. [Deploy to the Streamlit Community Cloud.](https://docs.streamlit.io/deploy/streamlit-community-cloud)
    1. Add a visualization.
       - You _can_ get fancy, but don't _have to_ at this stage. Get something simple working first.
 1. Bring in a second relevant dataset. (This one doesn't need to be regularly updated.)
