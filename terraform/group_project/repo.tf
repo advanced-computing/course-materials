@@ -8,9 +8,15 @@ resource "github_repository" "project" {
 
   has_issues             = true
   has_projects           = true
-  has_wiki               = true
+  has_wiki               = false
   auto_init              = false
   delete_branch_on_merge = true
+
+  security_and_analysis {
+    secret_scanning {
+      status = "enabled"
+    }
+  }
 
   topics = ["advanced-computing", "group-project"]
 
