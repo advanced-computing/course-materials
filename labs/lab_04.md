@@ -34,23 +34,7 @@ We will be practicing [pair programming](../docs/pairing.md) and [documentation-
 
 ### Build
 
-For each step, you will:
-
-1. Document the functionality. Include:
-   - Options, if applicable
-   - Sample output
-1. Build it.
-1. Test it.
-
-The documentation is a starting place; you can add/modify as you go.
-
-For inspiration, check out [the example](../examples/lab_04/).
-
----
-
-_Suggested order_
-
-Allow the user to:
+Develop an API that allows the user to:
 
 1. List records
    - You can start with CSV or JSON output; you will implement the other later.
@@ -64,5 +48,21 @@ Allow the user to:
 1. Specify a `limit` and `offset`
 1. Retrieve a single record by identifier
 1. Specify the output format (CSV or JSON)
+
+---
+
+_Suggested order_
+
+For each step, you will:
+
+1. Document the functionality. Include:
+   - Options, if applicable
+   - Sample output
+1. Build it.
+1. Test it.
+
+The documentation is a starting place; you can add/modify as you go.
+
+For inspiration, check out [the example](../examples/lab_04/).
 
 [**Submit** via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)
