@@ -39,14 +39,35 @@ resource "github_repository_collaborator" "students" {
   permission = "maintain"
 }
 
-# Protect main branch - require pull requests
-resource "github_branch_protection" "main" {
+# Protect main branch using repository ruleset
+resource "github_repository_ruleset" "main" {
   count = var.create_repository ? 1 : 0
 
-  repository_id = github_repository.project[0].name
-  pattern       = "main"
+  name        = "Protect main branch"
+  repository  = github_repository.project[0].name
+  target      = "branch"
+  enforcement = "active"
 
-  required_pull_request_reviews {
-    required_approving_review_count = 1
+  conditions {
+    ref_name {
+      include = ["~DEFAULT_BRANCH"]
+      exclude = []
+    }
+  }
+
+  rules {
+    # Require pull requests with review from another collaborator
+    pull_request {
+      required_approving_review_count = 1
+      dismiss_stale_reviews_on_push   = false
+      require_code_owner_review       = false
+      require_last_push_approval      = false
+    }
+
+    # Prevent force pushes
+    non_fast_forward = true
+
+    # Prevent branch deletion
+    deletion = true
   }
 }
