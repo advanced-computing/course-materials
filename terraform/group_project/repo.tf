@@ -55,6 +55,12 @@ resource "github_repository_ruleset" "main" {
     }
   }
 
+  bypass_actors {
+    actor_id    = var.instructors_team_id
+    actor_type  = "Team"
+    bypass_mode = "always"
+  }
+
   rules {
     # Require pull requests with review from another collaborator
     pull_request {

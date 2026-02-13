@@ -31,3 +31,7 @@ variable "students" {
     github_username = string
   }))
 }
+
+variable "instructors_team_id" {
+  type = string
+}

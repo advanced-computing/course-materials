@@ -31,22 +31,24 @@ locals {
 module "projects" {
   for_each = local.students_by_team_id
 
-  source         = "./group_project"
-  folder_id      = google_folder.spring_2026.id
-  team_id        = each.key
-  students       = each.value
-  everyone_group = local.everyone_group
-  ta_member      = local.ta_member
+  source              = "./group_project"
+  folder_id           = google_folder.spring_2026.id
+  team_id             = each.key
+  students            = each.value
+  everyone_group      = local.everyone_group
+  ta_member           = local.ta_member
+  instructors_team_id = github_team.instructors.id
 }
 
 module "ta_project" {
-  source            = "./group_project"
-  folder_id         = google_folder.spring_2026.id
-  team_id           = local.ta_uni
-  create_repository = false
-  students          = []
-  everyone_group    = local.everyone_group
-  ta_member         = local.ta_member
+  source              = "./group_project"
+  folder_id           = google_folder.spring_2026.id
+  team_id             = local.ta_uni
+  create_repository   = false
+  students            = []
+  everyone_group      = local.everyone_group
+  ta_member           = local.ta_member
+  instructors_team_id = github_team.instructors.id
 }
 
 # demo project
@@ -56,12 +58,13 @@ resource "random_id" "demo_project_id" {
 }
 
 module "demo_project" {
-  source            = "./group_project"
-  folder_id         = google_folder.spring_2026.id
-  team_id           = "aidan-demo-${random_id.demo_project_id.hex}"
-  create_repository = false
-  allow_destroy     = true
-  students          = []
-  everyone_group    = local.everyone_group
-  ta_member         = local.ta_member
+  source              = "./group_project"
+  folder_id           = google_folder.spring_2026.id
+  team_id             = "aidan-demo-${random_id.demo_project_id.hex}"
+  create_repository   = false
+  allow_destroy       = true
+  students            = []
+  everyone_group      = local.everyone_group
+  ta_member           = local.ta_member
+  instructors_team_id = github_team.instructors.id
 }
