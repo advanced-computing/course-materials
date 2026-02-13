@@ -117,6 +117,10 @@ Only one person from your group needs to submit. None of this is set in stone lo
 1. Bring in a second relevant dataset. (This one doesn't need to be regularly updated.)
    - This can be shown on [a separate page](https://docs.streamlit.io/get-started/fundamentals/additional-features#pages) of your Streamlit app, or combined in a single visualization.
 1. Add the names of the people on your team to your Streamlit app homepage.
+1. Set the repository `Website` to the app URL (`https://<something>.streamlit.app/`).
+
+   ![Click the gear, then fill in the Website field](../img/repo_website.png)
+
 1. Turn in the link to your live app via CourseWorks.
 
 ### Tips
