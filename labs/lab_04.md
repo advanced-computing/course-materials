@@ -66,3 +66,7 @@ The documentation is a starting place; you can add/modify as you go.
 For inspiration, check out [the example](../examples/lab_04/).
 
 [**Submit** via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)
+
+---
+
+# [Slides](https://docs.google.com/presentation/d/1ksRGrqUfKcrQJLF9cPwOKV7F_oBWObWrkweViwjnE9M/edit?usp=sharing)
