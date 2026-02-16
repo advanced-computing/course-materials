@@ -36,7 +36,7 @@ resource "github_repository_collaborator" "students" {
 
   repository = github_repository.project[0].name
   username   = each.value.github_username
-  permission = "maintain"
+  permission = "admin"
 }
 
 # Protect main branch using repository ruleset
