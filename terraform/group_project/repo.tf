@@ -16,6 +16,9 @@ resource "github_repository" "project" {
     secret_scanning {
       status = "enabled"
     }
+    secret_scanning_push_protection {
+      status = "enabled"
+    }
   }
 
   topics = ["advanced-computing", "group-project"]
