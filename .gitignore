@@ -6,6 +6,9 @@
 .DS_Store
 __pycache__
 
+# Quarto
+*_slides.html
+
 ## SECRETS ##
 # Google Cloud service account key
 sipa-adv-c-*.json
