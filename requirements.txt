@@ -16,6 +16,3 @@ pytest-cov
 ruff
 streamlit==1.*
 yfinance
-# waiting on
-# https://github.com/ydataai/ydata-profiling/pull/1804
-# ydata-profiling

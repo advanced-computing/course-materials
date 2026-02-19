@@ -44,15 +44,7 @@ You'll [pair](../docs/pairing.md) in your Lab group. Work on branches and submit
 
 ### Data profiling
 
-[**Set up YData Profiling**](../examples/profiling/profiling.ipynb#ydata-profiling) for your dataset. If it's slow, see [their documentation on profiling large datasets](https://docs.profiling.ydata.ai/latest/features/big_data/).
-
----
-
-At time of writing, [YData Profiling is only compatible with Python 3.13 and below](https://github.com/ydataai/ydata-profiling/pull/1804). If you're on Python 3.14+, the easiest thing will be to run the profiling in [Colab](https://colab.research.google.com/) and include a link to that notebook. Install the package there with:
-
-```sh
-!pip install ydata-profiling
-```
+Install the [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) VSCode extension.
 
 ---
 
