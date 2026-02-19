@@ -21,11 +21,13 @@ All of this will be in [the cloud](https://www.cloudflare.com/learning/cloud/wha
 - [Chicago Transit Authority Historical Bus Crowding](https://capacitydb.ctadataportal.com/)
 - [Colorado Behavioral Health Administration (BHA) Performance Hub](https://bha.colorado.gov/data-and-reports/performance-hub)
 - [Congestion Pricing Tracker](https://www.congestion-pricing-tracker.com/)
+- [Inside Airbnb](https://insideairbnb.com/new-york-city/)
 - MTA
   - [Capital Program Dashboard](https://capitaldashboard.mta.info/)
   - [Metrics](https://metrics.mta.info/)
 - [New York Flu Tracker](https://nyshc.health.ny.gov/web/nyapd/new-york-state-flu-tracker)
 - [New York Traffic Data Viewer (TDV)](https://www.dot.ny.gov/tdv)
+- [NYC Population FactFinder](https://popfactfinder.planning.nyc.gov/)
 - [NYPD TrafficStat](https://trafficsafetyforum.nypdonline.org/)
 - [TransitMatters](https://dashboard.transitmatters.org/)
 - [United States of Health](https://www.mckinsey.com/industries/public-sector/our-insights/us-public-health-dashboard)
