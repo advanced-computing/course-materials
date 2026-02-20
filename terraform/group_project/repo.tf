@@ -26,7 +26,10 @@ resource "github_repository" "project" {
   lifecycle {
     prevent_destroy = true
     # allow students to update
-    ignore_changes = [description]
+    ignore_changes = [
+      description,
+      homepage_url,
+    ]
   }
 }
 
