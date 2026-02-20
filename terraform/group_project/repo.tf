@@ -6,11 +6,13 @@ resource "github_repository" "project" {
   description = "Group project repository: ${join(", ", [for student in var.students : student.first_name])}"
   visibility  = "public"
 
+  allow_auto_merge       = true
+  auto_init              = false
+  delete_branch_on_merge = true
   has_issues             = true
   has_projects           = true
   has_wiki               = false
-  auto_init              = false
-  delete_branch_on_merge = true
+  vulnerability_alerts   = true
 
   security_and_analysis {
     secret_scanning {
@@ -21,7 +23,7 @@ resource "github_repository" "project" {
     }
   }
 
-  topics = ["advanced-computing", "group-project"]
+  topics = ["group-project"]
 
   lifecycle {
     prevent_destroy = true
