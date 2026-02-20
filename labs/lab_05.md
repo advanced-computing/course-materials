@@ -14,10 +14,20 @@ Get hands-on experience with:
 
 _All together_
 
-1. Add tests for parsing the dollar amount
-1. Refactor the code
-   - Modules and `import`
-1. Make them pass
+<!-- intentionally vague -->
+
+We're going to be creating a `parse_dollars()` function. It should accept a Series as an argument and return a new Series.
+
+1. Come up with test cases.
+   - Example inputs → expected outputs/result
+1. Convert those to pytest.
+   - Don't write `parse_dollars()` yet!
+1. Run the tests, confirm they fail.
+1. Write `parse_dollars()`, making tests pass.
+
+---
+
+[Solution](../examples/profiling/)
 
 ---
 
