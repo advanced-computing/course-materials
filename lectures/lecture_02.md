@@ -197,6 +197,12 @@ _Show Asana_
 
 ---
 
+## [Iron triangle](https://en.wikipedia.org/wiki/Project_management_triangle)
+
+![project management triangle](../img/project-management-triangle.svg)
+
+---
+
 ## The Project
 
 _Bringing it back_
