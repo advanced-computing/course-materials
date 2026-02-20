@@ -10,14 +10,33 @@ Get hands-on experience with:
 
 ---
 
+## Announcements
+
+- [Aidan responded to survey feedback](https://edstem.org/us/courses/89925/discussion/7698376)
+- We saw [requests on the GitHub Organization](https://github.com/organizations/advanced-computing/settings/member_feature_requests), but it doesn't say from whom.
+  - Custom repository roles: Not sure what this was for. Please post on Ed if you need something about your repositories adjusted.
+  - Copilot: [How to get it](https://edstem.org/us/courses/89925/discussion/7702140)
+
+---
+
 ## Data cleaning
 
 _All together_
 
-1. Add tests for parsing the dollar amount
-1. Refactor the code
-   - Modules and `import`
-1. Make them pass
+<!-- intentionally vague -->
+
+We're going to be creating a `parse_dollars()` function. It should accept a Series as an argument and return a new Series.
+
+1. Come up with test cases.
+   - Example inputs → expected outputs/result
+1. Convert those to pytest.
+   - Don't write `parse_dollars()` yet!
+1. Run the tests, confirm they fail.
+1. Write `parse_dollars()`, making tests pass.
+
+---
+
+[Solution](../examples/profiling/)
 
 ---
 
