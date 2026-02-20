@@ -6,9 +6,9 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Viewing slides
+## Slides
 
-They are built in [Remark](https://github.com/gnab/remark).
+The [lecture](../lectures/) and [lab](../labs/) Markdown files are built as slides with [Remark](https://github.com/gnab/remark). To view:
 
 1. From the repository root, start the server.
 
