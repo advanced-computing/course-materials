@@ -59,10 +59,14 @@ Install the [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=
 
 ---
 
-Look around your data profiling report. Using that information, **write data quality checks for three of the [things to check for](https://computing-in-context.afeld.me/lecture_17.html#things-to-check-for)** with pytest. The pandas documentation around [comparing if objects are equivalent](https://pandas.pydata.org/docs/user_guide/basics.html#comparing-if-objects-are-equivalent) will be helpful.
+Look around your data profiling report. **Write takeaways of five findings** that seem relevant to your analysis. This can be done in a Markdown file or a Jupyter notebook in your repository.
+
+---
+
+Using the profile information, **write data quality checks for three of the [things to check for](https://computing-in-context.afeld.me/lecture_17.html#things-to-check-for)** with pytest. The pandas documentation around [comparing if objects are equivalent](https://pandas.pydata.org/docs/user_guide/basics.html#comparing-if-objects-are-equivalent) will be helpful.
 
 ---
 
 ## Submit
 
-[Submit the links to the pull requests via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)
+[Submit the links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)
