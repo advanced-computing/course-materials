@@ -32,6 +32,8 @@ The TA is there to help students improve their coding and data analysis skills, 
 
 ## Weekly cadence
 
+- Pull 3-5 questions/points from the reading responses that would be useful to discuss in class.
+  - If possible, send a pull request to add them as [slides](../docs/CONTRIBUTING.md#slides) to the end of that [lecture](../lectures/), removing any from last semester.
 - Attending class
 - [Recording attendance](https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-is-the-Roll-Call-Attendance-Tool/ta-p/59#take_attendance)
 - Grading assignment submissions and releasing grades
