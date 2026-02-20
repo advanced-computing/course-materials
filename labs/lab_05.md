@@ -10,6 +10,15 @@ Get hands-on experience with:
 
 ---
 
+## Announcements
+
+- [Aidan responded to survey feedback](https://edstem.org/us/courses/89925/discussion/7698376)
+- We saw [requests on the GitHub Organization](https://github.com/organizations/advanced-computing/settings/member_feature_requests), but it doesn't say from whom.
+  - Custom repository roles: Not sure what this was for. Please post on Ed if you need something about your repositories adjusted.
+  - Copilot: [How to get it](https://edstem.org/us/courses/89925/discussion/7702140)
+
+---
+
 ## Data cleaning
 
 _All together_
