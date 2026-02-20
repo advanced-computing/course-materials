@@ -26,7 +26,7 @@ Showing Chrome, but it's [similar in other browsers](https://developer.mozilla.o
 
 ---
 
-Remember [when we were working with APIs](https://computing-in-context.afeld.me/lecture_22.html#api-calls-in-the-wild)?
+Remember [when we were working with APIs](https://computing-in-context.afeld.me/lecture-23/#api-calls-in-the-wild)?
 
 ```python
 requests.get(url)

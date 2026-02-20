@@ -51,7 +51,7 @@ Install the [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=
 ### Data quality checks
 
 - Unit tests for data
-- [Things to check for when cleaning data](https://computing-in-context.afeld.me/lecture_17.html#data-cleaning)
+- [Things to check for when cleaning data](https://computing-in-context.afeld.me/lecture-18/#data-cleaning)
 - Can be flexible, like checking for:
   - Standard deviation being in a certain range
   - X% of values matching certain criteria
@@ -63,7 +63,7 @@ Look around your data profiling report. **Write takeaways of five findings** tha
 
 ---
 
-Using the profile information, **write data quality checks for three of the [things to check for](https://computing-in-context.afeld.me/lecture_17.html#things-to-check-for)** with pytest. The pandas documentation around [comparing if objects are equivalent](https://pandas.pydata.org/docs/user_guide/basics.html#comparing-if-objects-are-equivalent) will be helpful.
+Using the profile information, **write data quality checks for three of the [things to check for](https://computing-in-context.afeld.me/lecture-18/#things-to-check-for)** with pytest. The pandas documentation around [comparing if objects are equivalent](https://pandas.pydata.org/docs/user_guide/basics.html#comparing-if-objects-are-equivalent) will be helpful.
 
 ---
 
