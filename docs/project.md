@@ -21,6 +21,7 @@ All of this will be in [the cloud](https://www.cloudflare.com/learning/cloud/wha
 - [Chicago Transit Authority Historical Bus Crowding](https://capacitydb.ctadataportal.com/)
 - [Colorado Behavioral Health Administration (BHA) Performance Hub](https://bha.colorado.gov/data-and-reports/performance-hub)
 - [Congestion Pricing Tracker](https://www.congestion-pricing-tracker.com/)
+- [Gapminder](https://www.gapminder.org/tools/)
 - [Inside Airbnb](https://insideairbnb.com/new-york-city/)
 - MTA
   - [Capital Program Dashboard](https://capitaldashboard.mta.info/)
