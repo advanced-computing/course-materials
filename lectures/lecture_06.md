@@ -4,17 +4,7 @@
 
 ---
 
-## Comments from [survey](https://docs.google.com/forms/d/e/1FAIpQLSdLj1Y6WLyD6bWHmNCV9G47MNZPtHEtjGKaugyE9uahuG81HA/viewform?usp=header)
-
-- "It would be helpful to have slightly more guidance on the labs … maybe the tasks broken down into smaller steps."
-- "I feel like I could use a python refresher"
-  - [Resources](../README.md#additional-resources)
-- "I'd like there to be some notification if additional readings are added."
-  - [Clarified in syllabus](../README.md#readings)
-
----
-
-## [Grade breakdown](../README.md#grading) tweaks
+## [Survey responses](https://edstem.org/us/courses/89925/discussion/7698376)
 
 ---
 
