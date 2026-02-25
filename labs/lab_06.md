@@ -4,6 +4,8 @@
 
 You'll work in your [Project teams](../docs/project.md#teams).
 
+---
+
 ## Goals
 
 - Try out linting
@@ -11,7 +13,7 @@ You'll work in your [Project teams](../docs/project.md#teams).
 
 ---
 
-## Finishing [Lab 5](lab_05.md)
+## [Lab 5](lab_05.md) follow-up
 
 - Profiling
   - Find anything surprising/interesting/useful?

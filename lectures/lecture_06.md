@@ -112,7 +112,16 @@ open htmlcov/index.html
 
 ### Branching
 
-Not the Git kind
+- The result of [control flow](https://docs.python.org/3/tutorial/controlflow.html)
+- Not the Git kind
+
+---
+
+## Complexity
+
+- [Types](https://en.wikipedia.org/wiki/Programming_complexity#Types)
+- [Cyclomatic measurement](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
+- [ruff `too-many-*` rules](https://docs.astral.sh/ruff/rules/#refactor-plr)
 
 ---
 

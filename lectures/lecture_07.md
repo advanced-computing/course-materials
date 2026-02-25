@@ -4,16 +4,6 @@
 
 ---
 
-## Complexity
-
-_Carry-over from [lecture 6](lecture_06.md)_
-
-- [Types](https://en.wikipedia.org/wiki/Programming_complexity#Types)
-- [Cyclomatic measurement](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
-- [ruff `too-many-*` rules](https://docs.astral.sh/ruff/rules/#refactor-plr)
-
----
-
 ## Packages
 
 Whenever documentation says `pip install …`, you probably want to add it to your `requirements.txt`.
