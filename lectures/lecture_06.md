@@ -4,6 +4,12 @@
 
 ---
 
+## [Lab 5](../labs/lab_05.md) follow-up
+
+Did the profiling reveal anything surprising/interesting/useful?
+
+---
+
 How have you been organizing code (in this course and before)?
 
 ---
