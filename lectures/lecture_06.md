@@ -132,3 +132,21 @@ open htmlcov/index.html
 ---
 
 ### Revisit [expectations](../docs/project.md#expectations)
+
+---
+
+## [Reading response questions](https://edstem.org/us/courses/89925/discussion/7699102)
+
+### Object-Oriented Programming (OOP) & Classes
+
+- "x = function(variable): Wouldn't this already store a value? Then what is the **purpose of making the class?**"
+- "**How do Python classes allow us to better map real-world concepts** into code compared to using basic data structures like nested dictionaries or lists?"
+
+---
+
+### Generators / Memory Management
+
+- "How should developers decide **when to use generators** instead of loading data into memory directly?"
+- "When should I choose a generator over a list?"
+
+---
