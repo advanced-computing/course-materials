@@ -71,9 +71,8 @@ def divide():
     denominator = request.args.get("denominator", type=float)
 
     if numerator is None or denominator is None:
-        return {
-            "error": "Both 'numerator' and 'denominator' parameters are required to be numeric values"
-        }, 400
+        msg = "Both 'numerator' and 'denominator' parameters are required to be numeric values"  # noqa: E501
+        return {"error": msg}, 400
 
     if denominator == 0:
         return {"error": "Division by zero is not allowed"}, 400

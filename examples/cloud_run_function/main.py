@@ -1,6 +1,4 @@
 import functions_framework
-
-
 from google.cloud import bigquery
 
 

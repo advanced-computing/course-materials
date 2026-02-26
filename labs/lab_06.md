@@ -24,6 +24,16 @@ Level up your Project repository. This includes:
 
 ---
 
+### Configuration
+
+Add the [ruff configuration](https://docs.astral.sh/ruff/configuration/) from [this repository](../pyproject.toml) to yours.
+
+---
+
+This is a starting place; you're welcome to adapt it as you go.
+
+---
+
 1. Install the [ruff VSCode extension](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff).
 1. Open up your Python files, you'll likely see some warnings.
    - Don't do anything with them yet.

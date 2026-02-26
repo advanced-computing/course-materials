@@ -1,10 +1,8 @@
 # https://pandas-gbq.readthedocs.io/en/latest/howto/authentication.html#authenticating-with-a-user-account
 
 import pandas_gbq
-
-from google.oauth2 import service_account
 import streamlit as st
-
+from google.oauth2 import service_account
 
 # https://docs.streamlit.io/develop/tutorials/databases/bigquery
 creds = st.secrets["gcp_service_account"]
