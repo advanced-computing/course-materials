@@ -6,18 +6,13 @@ You'll work in your [Project teams](../docs/project.md#teams).
 
 ---
 
-## Goals
+## Goal
 
-- Try out linting
-- Set up continuous integration
+Level up your Project repository. This includes:
 
----
-
-## [Lab 5](lab_05.md) follow-up
-
-- Profiling
-  - Find anything surprising/interesting/useful?
-- Data quality checks
+- Linting
+- Continuous integration
+- Data validation
 
 ---
 
@@ -52,6 +47,14 @@ This is one of those times where you'll follow instructions without necessarily 
 
 ---
 
-### Submit
+## Data validation
+
+We'll be using [Pandera](https://pandera.readthedocs.io/). **Write data validations for all variables (columns) of interest** across your datasets. (Should probably be fewer than 20.)
+
+- What assumptions are you making about the data that you'd want to validate going forward?
+
+---
+
+## Submit
 
 [Submit links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)
