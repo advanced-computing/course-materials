@@ -4,6 +4,14 @@ about: Setup steps for Assignments
 title: Set up Assignments
 ---
 
+## General
+
+- [ ] Set up [Group Sets](https://community.instructure.com/en/kb/articles/660873-how-do-i-add-a-group-set-in-a-course)
+  - [ ] Lab
+  - [ ] Project
+
+## Assignments
+
 Each [reading](https://github.com/advanced-computing/course-materials/tree/main?tab=readme-ov-file#readings), part of the [Project](https://github.com/advanced-computing/course-materials/blob/main/docs/project.md), and [Lab](https://github.com/advanced-computing/course-materials/tree/main/labs) should have:
 
 - [ ] [An Assignment in CourseWorks](https://courseworks2.columbia.edu/courses/233896/assignments)
