@@ -5,6 +5,8 @@ source = ["examples/", "examples/flask/", "tests/"]
 
 ## ruff stuff ##
 # https://docs.astral.sh/ruff/settings/
+[tool.ruff]
+line-length = 100
 [tool.ruff.lint]
 # https://docs.astral.sh/ruff/rules/
 extend-select = [
@@ -19,8 +21,4 @@ extend-select = [
   "SIM", # flake8-simplify
   "UP",  # pyupgrade (modern Python)
   "W",   # pycodestyle warnings
-]
-ignore = [
-  "E501",  # line length
-  "PD011",
 ]
