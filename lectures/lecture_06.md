@@ -4,10 +4,6 @@
 
 ---
 
-## [Survey responses](https://edstem.org/us/courses/89925/discussion/7698376)
-
----
-
 How have you been organizing code (in this course and before)?
 
 ---
