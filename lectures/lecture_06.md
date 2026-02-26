@@ -22,6 +22,20 @@ How have you been organizing code (in this course and before)?
 
 ---
 
+## Project tip
+
+Split your logic:
+
+- Data ingestion (Extract)
+- Data cleaning/processing (Transform)
+- Presentation (Streamlit stuff)
+
+---
+
+How?
+
+---
+
 ## Modules
 
 _Files! Things you `import`!_
@@ -63,7 +77,7 @@ from time import sleep
 sleep(5)
 ```
 
-How do we keep the tests from being slow?
+See [`get_data()`](../examples/phone/helpers.py). How do we keep the tests from being slow?
 
 ---
 
@@ -96,6 +110,12 @@ What data structures exist in Python?
 ## Object-Oriented Programming (OOP)
 
 [Intro from Python course](https://python-public-policy.afeld.me/en/columbia/lecture_0.html#fundamental-programming-concepts)
+
+---
+
+Let's refactor the [phone code](../examples/phone/helpers.py) into classes.
+
+_Note to self: domestic vs. international numbers_
 
 ---
 
