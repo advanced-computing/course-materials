@@ -18,7 +18,7 @@ def get_price_data():
 
 def get_bq_credentials():
     # Load the data from BigQuery
-    SCOPES = [
+    scopes = [
         "https://www.googleapis.com/auth/cloud-platform",
     ]
 
@@ -27,7 +27,7 @@ def get_bq_credentials():
     bq_credentials = json.loads(bq_credentials)
     # as json file
     credentials = service_account.Credentials.from_service_account_info(
-        bq_credentials, scopes=SCOPES
+        bq_credentials, scopes=scopes
     )
     return credentials
 

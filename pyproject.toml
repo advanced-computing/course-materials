@@ -5,7 +5,7 @@ source = ["examples/", "examples/flask/", "tests/"]
 
 ## ruff stuff ##
 # https://docs.astral.sh/ruff/settings/
-[tool.ruff]
+[tool.ruff.lint]
 # https://docs.astral.sh/ruff/rules/
 extend-select = [
   "B",   # flake8-bugbear (common bugs)
@@ -19,4 +19,8 @@ extend-select = [
   "SIM", # flake8-simplify
   "UP",  # pyupgrade (modern Python)
   "W",   # pycodestyle warnings
+]
+ignore = [
+  "E501",  # line length
+  "PD011",
 ]

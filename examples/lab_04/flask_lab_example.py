@@ -1,6 +1,5 @@
-from flask import Flask
-from flask import request
-import pandas as pd 
+import pandas as pd
+from flask import Flask, request
 
 app = Flask(__name__)
 
@@ -13,7 +12,7 @@ def hello_world():
 
 @app.get("/api/list")
 def list():
-    
+
     # Get the query parameters
     format = request.args.get('format', 'json')
     filterby = request.args.get('filterby',None)
@@ -23,7 +22,7 @@ def list():
 
     # Load the data
     data = pd.read_csv('videos_data.csv')
-    
+
     # filter the data
     data = filter_by_value(data,filterby,filtervalue)
     if isinstance(data,str):
@@ -31,10 +30,10 @@ def list():
 
     # applying the limit and offset
     data = apply_limit_offset(data,limit,offset)
-    
+
     # convert the data to the requested format
     data = convert_to_format(data,format)
-    
+
     return data
 
 
@@ -59,7 +58,7 @@ def convert_to_format(data,format):
         return data.to_csv(index=False)
     else:
         return "Invalid format"
-    
+
 
 
 if __name__ == "__main__":

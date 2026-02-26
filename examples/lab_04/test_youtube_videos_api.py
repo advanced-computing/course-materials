@@ -1,8 +1,8 @@
-import pandas as pd 
-from flask_lab_example import filter_by_value
-from flask_lab_example import apply_limit_offset
-from flask_lab_example import convert_to_format
 import io
+
+import pandas as pd
+from flask_lab_example import apply_limit_offset, convert_to_format, filter_by_value
+
 
 def get_test_df():
     data = {
@@ -57,7 +57,7 @@ def test_convert_to_format_csv():
 def test_convert_to_format_json():
     df = get_test_df().head(2)
     result = convert_to_format(df,'json')
-    
+
     # we wil convert back to dataframe from the json and then compare
     result = pd.read_json(io.StringIO(result))
     expected_output = df
@@ -66,6 +66,6 @@ def test_convert_to_format_json():
 def test_convert_to_format_invalid():
     df = get_test_df().head(2)
     result = convert_to_format(df,'invalid')
-    
+
     expected_output = "Invalid format"
     assert result == expected_output

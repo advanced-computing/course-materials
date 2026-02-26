@@ -24,7 +24,7 @@ def factorial(n):
         return 1
     else:
         return n * factorial(n-1)
-    
+
 @app.route("/factorial", methods=["GET"])
 def factorial_route():
     """Return the factorial of a number."""
