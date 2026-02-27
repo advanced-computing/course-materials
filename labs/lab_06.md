@@ -1,7 +1,5 @@
 # Lab 6
 
-[Slides in PDF format](lab_06_slides.pdf)
-
 You'll work in your [Project teams](../docs/project.md#teams).
 
 ---
@@ -68,3 +66,7 @@ We'll be using [Pandera](https://pandera.readthedocs.io/). **Write data validati
 ## Submit
 
 [Submit links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)
+
+---
+
+# [Slides](https://docs.google.com/presentation/d/1huYoR5yUwsrVkk2cWg-KHzn8Slygt2jv6ig2gdKekKE/edit?usp=sharing)
