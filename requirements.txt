@@ -2,7 +2,6 @@ duckdb
 Flask==3.*
 functions-framework==3.*
 google-cloud-bigquery
-isort
 jupyter==1.*
 linkchecker
 matplotlib
