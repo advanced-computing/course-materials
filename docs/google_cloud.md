@@ -6,7 +6,7 @@ Do these one-time setup steps to ensure you don't have to pay for Google Cloud u
 
 A Google Cloud Project has been created for your [team](project.md#teams), which the instructors have access to for troubleshooting. You redeem the credits, which creates a Billing Account. Someone then needs to associate their Billing Account with the existing Google Cloud Project, where the credits will be used to cover the group work.
 
-1. Retrieve the coupon code — you'll be sent a link.
+1. [Retrieve the coupon code.](https://edstem.org/us/courses/89925/discussion/7740167)
 1. [Redeem the credits](https://cloud.google.com/billing/docs/how-to/edu-grants#redeem) - [video walkthrough](https://www.youtube.com/watch?v=2AnX7BX-qew)
    1. Fill in the form.
       - Use your UNI for your email, not an [alias](https://www.cuit.columbia.edu/email/email-aliases).
