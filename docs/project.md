@@ -192,7 +192,7 @@ You will hold a team retrospective, with the goal of improving how your team wor
    1. **20-25 minutes:** Discuss what could be better.
    1. **5 minutes:** Document takeaways / action items.
 
-### Analysis
+### Keep going
 
 1. Move your [Proposal](#proposal) to the Streamlit app as is.
    - [How to add text elements](https://docs.streamlit.io/develop/api-reference/text)
@@ -200,7 +200,7 @@ You will hold a team retrospective, with the goal of improving how your team wor
    - Any new insights?
    - Anything you want to adjust?
 1. Document any changes to the Proposal on the Streamlit page.
-1. Proceed with the analysis.
+1. Proceed with enhancing the app.
    - If the majority of your code (to call APIs, etc.) is in modules/functions, it can be `import`ed from a Jupyter notebook. You can do exploratory analysis there, moving things to modules/Streamlit as you go.
    - You might not be able to fully answer the question(s) yet, but get as close as you can.
 
