@@ -137,7 +137,7 @@ Teams of 2-3; let me know ASAP if you have enemies.
 
 ## Generative AI policy
 
-[SIPA guidance:](https://bulletin.columbia.edu/sipa/teaching-guide/#teachingresourcestext)
+[SIPA guidance:](https://docs.google.com/document/d/1zmv6c_M1eIfC1-JXeDkJ8o2faO2mOnC2GF6YrX2QxD8/edit?tab=t.0#heading=h.ujp4g9kzqbbe)
 
 > Consider the continuum of policies: (a) Use of Generative AI is prohibited … (c) Use freely with acknowledgment and disclosure.
 
