@@ -4,6 +4,12 @@
 
 ---
 
+## [Project](../docs/project.md) evolution
+
+Each Project Part is a baseline; you'll probably need to do more than that to get to the [end result](../docs/project.md#by-the-end).
+
+---
+
 ## Packages
 
 Whenever documentation says `pip install …`, you probably want to add it to your `requirements.txt`.
@@ -182,5 +188,3 @@ ORDER BY num_complaints DESC;
 
 - **When is Pandas used vs SQL used**? What are the advantages/disadvantages of both? I’ve noticed that many dbs use SQL instead of pandas.
 - In our quant class, we learn that R is widely used in social science research for statistical analysis. **How do these languages typically work together in real data systems?** Also, if these large data systems combine multiple languages, does relying on multiple languages make such systems harder to maintain?
-
----
