@@ -170,6 +170,18 @@ ORDER BY num_complaints DESC;
 
 ---
 
-## Readings
+## [Reading response questions](https://edstem.org/us/courses/89925/discussion/7737019)
 
-Coming soon
+### Code Quality
+
+- At what point does adding more code quality tools (linters, formatters, type checkers) improve productivity, and when might it slow development?
+- At what point does separating code into modules become fragmentation, and how do you decide **where one module ends and another begins**?
+
+---
+
+### Databases
+
+- **When is Pandas used vs SQL used**? What are the advantages/disadvantages of both? I’ve noticed that many dbs use SQL instead of pandas.
+- In our quant class, we learn that R is widely used in social science research for statistical analysis. **How do these languages typically work together in real data systems?** Also, if these large data systems combine multiple languages, does relying on multiple languages make such systems harder to maintain?
+
+---
