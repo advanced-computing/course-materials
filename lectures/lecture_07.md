@@ -40,8 +40,7 @@ The variations are known as "dialects".
 
 ### [Install the command-line tool](https://duckdb.org/docs/installation/?version=stable&environment=cli)
 
-- **Mac:** Assuming you have [Homebrew set up](../readings/week_04.md#setup), use the "package manager" option.
-- **Windows:** [Not available](https://github.com/chocolatey-community/chocolatey-package-requests/issues/1583) for [Chocolatey](https://chocolatey.org/) yet, so probably easiest to do the "direct download".
+Recommend installing through a [system package manager](../readings/week_04.md#setup). If you have any trouble, the default instructions are fine.
 
 ---
 

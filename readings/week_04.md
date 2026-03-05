@@ -4,10 +4,10 @@
 
 ## Setup
 
-Install a system package manager:
+Install a [system package manager](../lectures/lecture_03.md#operating-system). Recommended:
 
 - Mac: [Homebrew](https://brew.sh/)
-- Windows: [Chocolatey](https://chocolatey.org/)
+- Windows: [WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
 
 ## Readings
 
