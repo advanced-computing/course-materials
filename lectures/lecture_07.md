@@ -10,6 +10,15 @@ Each Project Part is a baseline; you'll probably need to do more than that to ge
 
 ---
 
+## [Open Data Week](https://opendataweek.nyc/)
+
+- [School of Data](https://schoolofdata.nyc/)
+  - Strongly recommend
+  - Early-bird ticket sales end today
+  - As a sweetener: [I'm showing a policy-related dance-theater piece on the Sunday (UnSchool of Data)](https://nycsodata26.sched.com/event/2I1wy/pre-existing-conditions-performance-and-group-discussion-on-healthcare-in-america) 🕺
+- You'll be required to attend at least one event.
+  - Doesn't need to be (Un)School of Data.
+
 ## Packages
 
 Whenever documentation says `pip install …`, you probably want to add it to your `requirements.txt`.
