@@ -92,4 +92,4 @@ Using the profile information, **write data quality checks for three of the [thi
 
 ---
 
-# [Slides](https://docs.google.com/presentation/d/1ksRGrqUfKcrQJLF9cPwOKV7F_oBWObWrkweViwjnE9M/edit?usp=sharing)(https://docs.google.com/presentation/d/1a5qXvuwM8uH53XjT4ZguF6jXc_hvLjwQXX2DbqZa5kE/edit?usp=sharing)
+# [Slides](https://docs.google.com/presentation/d/1ksRGrqUfKcrQJLF9cPwOKV7F_oBWObWrkweViwjnE9M/edit?usp=sharing)
