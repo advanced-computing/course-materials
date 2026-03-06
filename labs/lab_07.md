@@ -32,3 +32,7 @@ You'll be changing your API over to use DuckDB.
 1. [Submit via CourseWorks](https://courseworks2.columbia.edu/courses/233896/assignments):
    - Links to the pull request(s)
    - A [screenshot](https://www.take-a-screenshot.org/) showing data in your database
+
+---
+
+# [Slides](https://docs.google.com/presentation/d/1XVCaeVgA7Hlq4FdWBfGE3WgrYvoa57vLZPrtpCzZuqU/edit?usp=sharing)
