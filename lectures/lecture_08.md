@@ -1,5 +1,7 @@
 # Lecture 8
 
+**Data warehousing**
+
 ---
 
 ## [Retro](../docs/project.md#retro)
@@ -8,9 +10,7 @@ Anything you'd like to share?
 
 ---
 
-## Data warehousing
-
-[Loading data](../labs/lab_08.md#data-loading)
+## [Loading data](#data-loading)
 
 ---
 
