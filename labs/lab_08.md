@@ -1,27 +1,6 @@
 # Lab 8
 
-**Goal:** Understand different methods of loading data
-
----
-
-## Data loading
-
-- Append load
-- Trunc(ate) and load
-- Incremental load
-
----
-
-Let's say you were given access to a random table that uses one of the three data loading methods above. How would you tell which it was?
-
----
-
-### Incremental load
-
-The trick is avoiding duplicates. Your script might then need to say something like:
-
-1. What's the latest timestamp in the database?
-1. Pull data from the API that's more recent than that.
+**Goal:** Practice data warehousing
 
 ---
 
