@@ -160,6 +160,18 @@ Work on branches and submit pull requests for the chunks of work — you decide 
 1. Repeat until you feel your code is well-organized and well-tested.
 1. [Submit the links to the pull requests via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)
 
+### Rubric
+
+Part 3 is graded out of **100 points**.
+
+| Criteria               | Full credit                                                                                                                  | Partial credit (high)                                                                      | Partial credit (mid)                                                                | Limited credit                                                                 | No credit                                         |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------- |
+| Test coverage (30 pts) | **30**: Tests cover major functionality, key branches, and edge/error cases.                                                 | **24**: Covers most major functionality with some branch/edge gaps.                        | **18**: Covers common paths only; misses several important cases.                   | **12**: Minimal coverage; large parts of behavior untested.                    | **0**: No meaningful automated test coverage.     |
+| Test quality (30 pts)  | **30**: Tests are clear, reliable, and specific, with strong assertions and good organization.                               | **24**: Mostly clear and reliable tests, with minor assertion/organization issues.         | **18**: Tests run but are inconsistent, repetitive, or weakly asserted.             | **12**: Fragile or unclear tests with limited value for debugging.             | **0**: Tests are missing, broken, or not useful.  |
+| Code quality (40 pts)  | **40**: Code is well-structured, readable, and maintainable; meaningful refactoring reduces duplication and improves design. | **32**: Code is generally clean with noticeable refactoring and organization improvements. | **24**: Mixed code quality; some refactoring, but readability/design issues remain. | **16**: Limited improvement; code remains hard to follow or highly repetitive. | **0**: No meaningful improvement to code quality. |
+
+Use best-fit scoring within each row based on submitted evidence.
+
 ### Outcome
 
 As a result, your:
