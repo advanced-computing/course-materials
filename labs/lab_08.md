@@ -85,3 +85,7 @@ This is a simpler version of the previous task. You can submit work fullfilling 
    - Now your tables might look different.
 4. Discuss how the three methods differ.
 5. [Submit links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)
+
+---
+
+# [Slides](https://docs.google.com/presentation/d/1XHqt2RZVyEw1ocJCr9IUY-PDsK1FjyQDcGJ_Bx49LO4/edit?usp=sharing)
