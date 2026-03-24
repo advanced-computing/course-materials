@@ -11,6 +11,8 @@ pandas-gbq
 pandas-stubs
 pandera[pandas]
 plotly
+# https://github.com/advanced-computing/course-materials/security/dependabot/9
+pyasn1 >= 0.6.3
 pytest
 pytest-cov
 ruff
