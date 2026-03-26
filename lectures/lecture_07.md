@@ -99,17 +99,11 @@ What's a question we might want to ask?
 
 ---
 
-[Column names with spaces need double quotes.](https://duckdb.org/docs/stable/sql/dialect/keywords_and_identifiers.html#identifiers) Alternatively, [`normalize_names`](https://duckdb.org/docs/stable/data/csv/overview.html#parameters).
+### [Code](../examples/lecture_07/)
 
 ---
 
-```sql
-SELECT
-   "Country name",
-   "2022 [YR2022]" - "1990 [YR1990]" AS diff
-FROM electricity
-ORDER BY diff DESC;
-```
+[Column names with spaces need double quotes.](https://duckdb.org/docs/stable/sql/dialect/keywords_and_identifiers.html#identifiers) Alternatively, [`normalize_names`](https://duckdb.org/docs/stable/data/csv/overview.html#parameters).
 
 ---
 

@@ -1,4 +1,4 @@
-*.db
+*.db.wal
 *.slides.html
 .coverage
 .venv/
