@@ -10,7 +10,11 @@ Anything you'd like to share?
 
 ---
 
-## [Loading data](#data-loading)
+## Data loading
+
+- Append load
+- Trunc(ate) and load
+- Incremental load
 
 ---
 
@@ -69,6 +73,19 @@ WHERE _LOADED_AT = (SELECT MAX(_LOADED_AT) FROM my_table);
 
 ---
 
+Let's say you were given access to a random table that uses one of the [three data loading methods above](#data-loading). How would you tell which it was?
+
+---
+
+### Incremental load
+
+The trick is avoiding duplicates. Your script might then need to say something like:
+
+1. What's the latest timestamp in the database?
+1. Pull data from the API that's more recent than that.
+
+---
+
 ## [Transactions](https://duckdb.org/docs/stable/sql/statements/transactions.html)
 
 ```sql
@@ -79,24 +96,7 @@ COMMIT;
 
 ---
 
-## Data loading
-
-- Append load
-- Trunc(ate) and load
-- Incremental load
-
----
-
-Let's say you were given access to a random table that uses one of the three data loading methods above. How would you tell which it was?
-
----
-
-### Incremental load
-
-The trick is avoiding duplicates. Your script might then need to say something like:
-
-1. What's the latest timestamp in the database?
-1. Pull data from the API that's more recent than that.
+## [Jumping ahead](lecture_11.md)
 
 ---
 
