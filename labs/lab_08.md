@@ -7,7 +7,7 @@
 ## Lab work
 
 - You'll write methods to load continuously updated data into a database.
-  - You'll set up scripts to perform each of the [methods of data loading](#data-loading) into DuckDB.
+  - You'll set up scripts to perform each of the [methods of data loading](../lectures/lecture_08.md#data-loading) into DuckDB.
 - You'll [pair](../docs/pairing.md) in your Lab group.
 - Work on branches and submit pull requests for the chunks of work — you decide what the "chunks" are.
 
@@ -53,7 +53,7 @@ Suppose your organization wants to maintain a database of CPI data
 2. Write the `get_latest_data` function.
    - This function should return only two columns: e.g. `dates` and `cpi`
    - All other code should interact with the source data only through this function
-3. Work through [each method of data loading](#data-loading).
+3. Work through [each method of data loading](../lectures/lecture_08.md#data-loading).
    - Include the type in the scripts and table names to keep them separate — something like:
      - `_append`
      - `_trunc`
@@ -81,7 +81,7 @@ This is a simpler version of the previous task. You can submit work fullfilling 
    - Create a persistent database containing three tables: `cpi_append`, `cpi_trunc` and `cpi_inc`.
    - For now these three tables look the same.
 3. Load additional inflation data contained in the file [PCPI25M2.csv](../examples/lab_08/PCPI25M2.csv) into your database. This file contains inflation data as available in February 2025. It contains additional observations and historical revisions with respect to the previous file.
-   - Use [each method of data loading](#data-loading) to update the tables in your database.
+   - Use [each method of data loading](../lectures/lecture_08.md#data-loading) to update the tables in your database.
    - Now your tables might look different.
 4. Discuss how the three methods differ.
 5. [Submit links to the pull request(s) via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)

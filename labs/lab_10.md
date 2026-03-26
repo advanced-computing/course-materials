@@ -15,7 +15,7 @@ Work in your [Project team](../docs/project.md#teams).
 
 Use BigQuery for _all_ your datasets. For each data source:
 
-1. What type of [data loading](lab_08.md#data-loading) will you use? Why? Explain as Markdown in your repository.
+1. What type of [data loading](../lectures/lecture_08.md#data-loading) will you use? Why? Explain as Markdown in your repository.
 1. Repeat the middle steps from [Part 5](../docs/project.md#part-5).
 
 ---
