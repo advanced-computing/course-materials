@@ -12,6 +12,10 @@ You'll be building a live dashboard, with all the infrastructure behind it:
 - A database
 - Web-based interactive data visualization
 
+Data flow:
+
+API -> Python script -> BigQuery -> Streamlit app (on the internet) -> visualization
+
 All of this will be in [the cloud](https://www.cloudflare.com/learning/cloud/what-is-the-cloud/).
 
 ## Inspiration
