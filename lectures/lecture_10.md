@@ -4,6 +4,13 @@ Sit with your [Project team](../docs/project.md#teams).
 
 ---
 
+## Announcements
+
+- [Project check-in](../docs/project.md#check-in) link updated
+- [Week 11 readings](../readings/week_11.md) updated
+
+---
+
 ## Questions
 
 - Mery: Should we be ingesting all columns?
@@ -88,7 +95,3 @@ In your Project team:
 1. Discuss your takeaways.
 1. Revise your code/documentation.
 1. Send pull request(s) and merge.
-
----
-
-## [Readings](../readings/week_11.md)
