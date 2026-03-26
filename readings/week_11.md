@@ -8,5 +8,9 @@
   - Optional: [Why does speed matter?](https://web.dev/learn/performance/why-speed-matters)
   - Optional: [Largest Contentful Paint (LCP)](https://web.dev/articles/lcp)
   - [Timing Function[s] in Python](https://builtin.com/articles/timing-functions-python)
+- Attend/watch an [Open Data Week](https://edstem.org/us/courses/89925/discussion/7808867) session
 
-Now [submit a response](../README.md#responses).
+Now submit:
+
+- A [response](../README.md#responses) to the readings
+- A few-paragraph summary and reflection of the session
