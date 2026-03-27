@@ -31,7 +31,7 @@ Ensure our Project setup instructions, code, and analysis are clear
 
 _10 minutes_
 
-[Pair](../docs/pairing.md) in your Project team to add setup instructions to your README, taking someone from zero to the app running with populated data. You can assume they:
+[Pair](../docs/pairing.md) in your Project team to add setup instructions to your README, written to take a stranger (who isn't taking this class) from zero to the app running with populated data. You can assume they:
 
 - Know Python
 - Are comfortable in the command line
@@ -42,7 +42,7 @@ Send pull request(s) and merge.
 
 ## [Usability testing](https://www.nngroup.com/articles/usability-testing-101/)
 
-Your Project team is going to pair up with another one, being each others' test facilitators and participants. You'll be checking/validating the usability of the code, documentation, and site.
+You're now going to get into your Lab groups, being each others' test facilitators and participants. You'll be checking/validating the usability of the code, documentation, and site.
 
 ---
 
@@ -60,19 +60,19 @@ The Project owners will be the facilitators. Facilitators will:
 
 #### Participants
 
-The other team are the test participants. The task is to set up and review the Project, thinking out loud.
+The other team are the test participants. The task is to set up and review the Project locally, thinking out loud.
 
 ---
 
 ### Steps
 
-_30 minutes for each Project, with break in between_
+_20 minutes for each Project, with break in between_
 
 1. Pick one Project to test first.
 1. Pair up, one facilitator with one participant (roughly).
 1. Participants will:
    1. Set up the Project.
-      - Get the app running locally; you don't need to deploy it.
+      - Get the app running locally (on `localhost`); you don't need to deploy it (to `.streamlit.app`).
       - Try to follow the instructions exactly, only going back to perform missing steps when you hit a problem.
       - Everyone _should_ have read-only access to each others' BigQuery.
       - Don't worry about performing the data loading.
@@ -93,5 +93,6 @@ _Remaining time_
 In your Project team:
 
 1. Discuss your takeaways.
-1. Revise your code/documentation.
-1. Send pull request(s) and merge.
+1. Later:
+   1. Revise your code/documentation.
+   1. Send pull request(s) and merge.
