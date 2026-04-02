@@ -9,6 +9,7 @@ title: Set up Assignments
 - [ ] Set up [Group Sets](https://community.instructure.com/en/kb/articles/660873-how-do-i-add-a-group-set-in-a-course)
   - [ ] Lab
   - [ ] Project
+- [ ] Update the [check-in form](https://github.com/advanced-computing/course-materials/blob/main/docs/project.md#check-in) for this semester
 
 ## Assignments
 

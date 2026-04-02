@@ -37,3 +37,6 @@ assignees: afeld
 - [ ] Update [Gmail filters](https://docs.google.com/spreadsheets/d/1MoOnADGw_A3oc1qMx2TllbRHlRD-4dDcrHXldSdzM5E/edit#gid=1645501691)
 - [ ] [Update mailing list](https://grouper.cc.columbia.edu/grouper/grouperUi/app/UiV2Main.index?operation=UiV2Group.viewGroup&groupId=06b1515b29a944cf99625eb297f545c0) ([docs](https://www.cuit.columbia.edu/grouper))
 - [ ] Confirm registered students meet the [prerequisite](https://github.com/advanced-computing/course-materials?tab=readme-ov-file#prerequisites)
+- [ ] Set up teams, ensuring folks are mixed up
+- [ ] Make a copy of the [check-in form](https://github.com/advanced-computing/course-materials/blob/main/docs/project.md#check-in)
+  - [ ] Grant edit access to the TA
