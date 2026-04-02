@@ -4,6 +4,14 @@
 
 ---
 
+## [Page load times](../labs/lab_10.md#performance)
+
+- Clarify the intent
+- Added profiling option
+  - Demo
+
+---
+
 We're going to revisit a number of concepts from earlier.
 
 ---

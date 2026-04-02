@@ -38,6 +38,9 @@ Ensure each page of your app (if there are multiple) fully loads within two seco
   st.caption(f"Page loaded in {elapsed:.2f} seconds")
   ```
 
+- [Dig into the timing even further using profiling.](https://github.com/wyattscarpenter/wfork-streamlit-profiler).
+  - [How to read the results.](https://calmcode.io/course/pyinstrument/scripts)
+  - Note that the `Profiler` adds overhead, so you probably don't want to leave it in your app indefinitely.
 - You can use [caching in Streamlit](https://docs.streamlit.io/develop/concepts/architecture/caching), but don't rely on that exclusively.
 - [Timing Function[s] in Python](https://builtin.com/articles/timing-functions-python) can help you identify where the slowdown(s) are.
 
