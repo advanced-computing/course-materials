@@ -23,6 +23,20 @@ What would you want to happen?
 
 ---
 
+## ETL
+
+What is it?
+
+---
+
+What ETL is going on in your apps?
+
+---
+
+### ETL vs. [CI](../labs/lab_06.md#continuous-integration)
+
+---
+
 ## Process mapping
 
 ---
@@ -49,7 +63,7 @@ What does that mean?
 
 ## Pipelines
 
-- Useful for complex [ETL](lecture_10.md#overview)
+- Useful for complex ETL
 - Dependencies
 - Assets
 - Data
@@ -83,6 +97,8 @@ Why store the data?
 ---
 
 ## GitHub Actions for ETL
+
+GitHub Actions ➡️ Python ➡️ BigQuery
 
 ---
 
