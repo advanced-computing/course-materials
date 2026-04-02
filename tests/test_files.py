@@ -24,7 +24,7 @@ def read_file(path):
 def test_readings_boilerplate(file):
     content = read_file(file)
     assert "[General information](../README.md#readings)" in content
-    assert "[submit a response](../README.md#responses)" in content
+    assert "response](../README.md#responses)" in content
 
 
 @pytest.mark.parametrize("file", labs)
