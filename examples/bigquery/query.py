@@ -1,4 +1,6 @@
-# https://pandas-gbq.readthedocs.io/en/latest/howto/authentication.html#authenticating-with-a-user-account
+# run with:
+#
+#   streamlit run examples/bigquery/query.py
 
 import pandas_gbq
 import streamlit as st
@@ -16,4 +18,6 @@ LIMIT 10
 
 df = pandas_gbq.read_gbq(sql, credentials=credentials)
 
-print(df)
+st.markdown("# Data from BigQuery")
+
+df
