@@ -5,9 +5,9 @@ source = ["examples/", "examples/flask/", "tests/"]
 
 ## ruff stuff ##
 # https://docs.astral.sh/ruff/settings/
+
 [tool.ruff]
 line-length = 100
-[tool.ruff.lint]
 # https://docs.astral.sh/ruff/rules/
 extend-select = [
   "B",   # flake8-bugbear (common bugs)
@@ -22,3 +22,7 @@ extend-select = [
   "UP",  # pyupgrade (modern Python)
   "W",   # pycodestyle warnings
 ]
+
+[tool.ruff.lint.per-file-ignores]
+# Streamlit expects "useless expression"s
+"examples/bigquery/query.py" = ["B018"]
