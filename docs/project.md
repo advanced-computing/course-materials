@@ -265,28 +265,7 @@ Do the following for your regularly-updated data source. Only do one for now —
 
 ## Part 6
 
-### Data flow
-
-Visually map your data flow, end to end.
-
-- What happens at each step?
-- What can go wrong?
-- Get granular
-- Go all the way upstream. How does the data get collected/generated?
-- You can use:
-  - Paper
-  - [Google Drawings](https://docs.google.com/drawings)
-  - A fancier diagramming tool
-    - Don't over-complicate this
-
-### Submit
-
-[Submit via CourseWorks:](https://courseworks2.columbia.edu/courses/233896/assignments)
-
-- An image of / a link to your map
-- Link(s) to:
-  - Your pull request(s)
-  - A successful run of the GitHub Action
+TODO
 
 ## [Lab 13](../labs/lab_13.md)
 

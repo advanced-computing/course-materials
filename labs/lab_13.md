@@ -29,7 +29,7 @@ Make a workflow that runs on a [schedule](https://docs.github.com/en/actions/wri
 
 ## Hints
 
-Example [workflow](../.github/workflows/update_data.yml) and [code](../examples/lab_13/)
+Example [workflow](../.github/workflows/update_data.yml) and [code](../examples/lab_13/).
 
 <details>
    <summary>There's an extra step</summary>
@@ -61,11 +61,7 @@ Example [workflow](../.github/workflows/update_data.yml) and [code](../examples/
 
 ---
 
-## Optional
+[**Submit** links via CourseWorks](https://courseworks2.columbia.edu/courses/233896/assignments) for:
 
----
-
-[Submit via CourseWorks:](https://courseworks2.columbia.edu/courses/233896/assignments)
-
-- Links to your pull request(s)
-- A link to your GitHub Actions run history
+- Your pull request(s)
+- A successful run of the GitHub Action
