@@ -22,11 +22,12 @@ Use BigQuery for _all_ your datasets. For each data source:
 
 ## Performance
 
-Ensure each page of your app (if there are multiple) fully loads within two seconds.
+Ensure each page of your app (if there are multiple) fully loads within two seconds, for both initial and subsequent page loads.
 
 - Display the overall page load time using a [custom context manager](https://www.pythonmorsels.com/creating-a-context-manager/):
 
   ```python
+  from contextlib import contextmanager
   import time
   import streamlit as st
 
@@ -42,10 +43,9 @@ Ensure each page of your app (if there are multiple) fully loads within two seco
 
   with display_load_time():
       # --- your page code here ---
-
   ```
 
-- [Dig into the timing even further using profiling.](https://github.com/wyattscarpenter/wfork-streamlit-profiler).
+- [Dig into the timing even further using profiling.](https://github.com/wyattscarpenter/wfork-streamlit-profiler)
   - [How to read the results.](https://calmcode.io/course/pyinstrument/scripts)
   - Note that the `Profiler` adds overhead, so you probably don't want to leave it in your app indefinitely.
 - You can use [caching in Streamlit](https://docs.streamlit.io/develop/concepts/architecture/caching).
