@@ -4,6 +4,14 @@
 
 ---
 
+## [Page load times](../labs/lab_10.md#performance)
+
+- Clarify the intent
+- Added profiling option
+  - Demo
+
+---
+
 We're going to revisit a number of concepts from earlier.
 
 ---
@@ -20,6 +28,20 @@ What would you want to happen?
 
 - Graceful degredation
 - Examples?
+
+---
+
+## ETL
+
+What is it?
+
+---
+
+What ETL is going on in your apps?
+
+---
+
+### ETL vs. [CI](../labs/lab_06.md#continuous-integration)
 
 ---
 
@@ -49,7 +71,7 @@ What does that mean?
 
 ## Pipelines
 
-- Useful for complex [ETL](lecture_10.md#overview)
+- Useful for complex ETL
 - Dependencies
 - Assets
 - Data
@@ -83,6 +105,8 @@ Why store the data?
 ---
 
 ## GitHub Actions for ETL
+
+GitHub Actions ➡️ Python ➡️ BigQuery
 
 ---
 

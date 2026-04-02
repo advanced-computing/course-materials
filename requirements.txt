@@ -17,4 +17,5 @@ pytest
 pytest-cov
 ruff
 streamlit==1.*
+wfork-streamlit-profiler
 yfinance

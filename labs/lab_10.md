@@ -24,22 +24,33 @@ Use BigQuery for _all_ your datasets. For each data source:
 
 Ensure each page of your app (if there are multiple) fully loads within two seconds.
 
-- Display the overall page load time using:
+- Display the overall page load time using a [custom context manager](https://www.pythonmorsels.com/creating-a-context-manager/):
 
   ```python
   import time
   import streamlit as st
 
-  start_time = time.time()
+  @contextmanager
+  def display_load_time():
+      start_time = time.time()
 
-  # --- your page code here ---
+      try:
+          yield
+      finally:
+          elapsed = time.time() - start_time
+          st.caption(f"Page loaded in {elapsed:.2f} seconds")
 
-  elapsed = time.time() - start_time
-  st.caption(f"Page loaded in {elapsed:.2f} seconds")
+  with display_load_time():
+      # --- your page code here ---
+
   ```
 
-- You can use [caching in Streamlit](https://docs.streamlit.io/develop/concepts/architecture/caching), but don't rely on that exclusively.
-- [Timing Function[s] in Python](https://builtin.com/articles/timing-functions-python) can help you identify where the slowdown(s) are.
+- [Dig into the timing even further using profiling.](https://github.com/wyattscarpenter/wfork-streamlit-profiler).
+  - [How to read the results.](https://calmcode.io/course/pyinstrument/scripts)
+  - Note that the `Profiler` adds overhead, so you probably don't want to leave it in your app indefinitely.
+- You can use [caching in Streamlit](https://docs.streamlit.io/develop/concepts/architecture/caching).
+  - Don't rely on that exclusively.
+  - That won't help with initial/uncached page load.
 
 <details>
    <summary>Hint</summary>
