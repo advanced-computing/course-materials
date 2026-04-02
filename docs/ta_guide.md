@@ -70,6 +70,15 @@ We have [a Google Group](https://groups.google.com/a/columbia.edu/g/advanced-com
 
 ## Assignments
 
+### [Project check-in](project.md#check-in)
+
+We're looking for any teams that may have issues. This may be reflected:
+
+- As the workload being (allegedly) uneven
+- In comments
+
+Please escalate these to the instructor.
+
 ### Grading
 
 [How to grade in CourseWorks](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-use-SpeedGrader/ta-p/757)
