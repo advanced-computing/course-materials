@@ -12,6 +12,10 @@
 
 ---
 
+### [Caching demo](../examples/caching.py)
+
+---
+
 We're going to revisit a number of concepts from earlier.
 
 ---
