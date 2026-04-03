@@ -8,6 +8,11 @@ source = ["examples/", "examples/flask/", "tests/"]
 
 [tool.ruff]
 line-length = 100
+
+[tool.ruff.lint]
+extend-ignore = [
+  "E501", # line too long
+]
 # https://docs.astral.sh/ruff/rules/
 extend-select = [
   "B",   # flake8-bugbear (common bugs)
