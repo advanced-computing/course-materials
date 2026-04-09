@@ -114,3 +114,17 @@ Why are we talking about all of this? How does it relate to policy?
 ## [Readings](../readings/week_13.md)
 
 They're heavy again this week, don't wait!
+
+---
+
+## [Reading response questions](https://edstem.org/us/courses/89925/discussion/7885181)
+
+### Usability Testing for Dev Tools
+- Are developers of tools like Google Cloud actually conducting usability testing for engineers, or is it assumed that technical users will adapt on their own?
+- Does anyone actually usability-test DevOps tooling, or do we just assume engineers can figure it out?
+
+---
+
+### Cloud Computing & Data Centers
+- How can organizations balance efficiency with the need to keep systems understandable and manageable for human users?
+- As they [Big Tech companies] are expanding their business operations, and with AI in the picture, is this why building their own data centers makes more sense, rather than renting?
