@@ -29,6 +29,7 @@ resource "github_repository" "project" {
     prevent_destroy = true
     # allow students to update
     ignore_changes = [
+      delete_branch_on_merge,
       description,
       homepage_url,
     ]

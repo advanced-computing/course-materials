@@ -17,12 +17,6 @@ resource "google_folder" "course" {
   parent       = data.google_organization.org.name
 }
 
-resource "google_folder_iam_member" "project_creator" {
-  folder = google_folder.course.name
-  role   = "roles/resourcemanager.projectCreator"
-  member = local.everyone_group
-}
-
 resource "google_folder" "spring_2025" {
   display_name = "Spring 2025"
   parent       = google_folder.course.name
@@ -31,4 +25,10 @@ resource "google_folder" "spring_2025" {
 resource "google_folder" "spring_2026" {
   display_name = "Spring 2026"
   parent       = google_folder.course.name
+}
+
+resource "google_folder_iam_member" "project_creator" {
+  folder = google_folder.spring_2026.name
+  role   = "roles/resourcemanager.projectCreator"
+  member = local.everyone_group
 }

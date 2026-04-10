@@ -21,7 +21,7 @@ You'll be User A and B, to see things from both sides. When it says `User A:`, u
    1. [Create a new Project.](https://cloud.google.com/resource-manager/docs/creating-managing-projects#creating_a_project)
       - Project name: Something like `<user1>-<user2>-lab-12`
       - Organization: `afeld.me`
-      - Location: `SIPA Advanced Computing`
+      - Location: `SIPA Advanced Computing` -> `Spring 2026`
    1. [Change the Billing Account](https://cloud.google.com/billing/docs/how-to/modify-project#how-to-change-ba) to that person's `Billing Account for Education`.
    1. [Grant](https://cloud.google.com/iam/docs/grant-role-console#grant_an_iam_role) User B [BigQuery Admin](https://cloud.google.com/bigquery/docs/access-control#bigquery.admin) at the Project level.
 1. **User B:** BigQuery setup
