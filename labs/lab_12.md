@@ -6,38 +6,34 @@ Get experience configuring a cloud environment
 
 ---
 
-- You'll be [pairing](../docs/pairing.md) with a new person.
-- You'll work in the [Console](https://console.cloud.google.com/).
+- You'll be [pairing](../docs/pairing.md) with your Lab partner.
+- You'll be making setting things up using [Terraform](https://developer.hashicorp.com/terraform) (console), checking them in the [Console](https://console.cloud.google.com/) (pointing and clicking).
 - There are a lot of things that can go wrong. No stress, this is a learning experience.
 - Take your time. It's preferred that you read outputs carefully, understand what's going on, and explore, rather than rushing through.
 
 ---
 
-## Part 1: IAM for users
+## Part 1: Terraform
 
-You'll be User A and B, to see things from both sides. When it says `User A:`, use a browser logged in as that person. Ditto for B. May be easiest to switch between laptops.
+Work through the [Terraform Google Cloud tutorial](https://developer.hashicorp.com/terraform/tutorials/gcp-get-started), [pairing](../docs/pairing.md) in your Lab groups.
 
-1. **User A:** Project setup
-   1. [Create a new Project.](https://cloud.google.com/resource-manager/docs/creating-managing-projects#creating_a_project)
-      - Project name: Something like `<user1>-<user2>-lab-12`
-      - Organization: `afeld.me`
-      - Location: `SIPA Advanced Computing` -> `Spring 2026`
-   1. [Change the Billing Account](https://cloud.google.com/billing/docs/how-to/modify-project#how-to-change-ba) to that person's `Billing Account for Education`.
-   1. [Grant](https://cloud.google.com/iam/docs/grant-role-console#grant_an_iam_role) User B [BigQuery Admin](https://cloud.google.com/bigquery/docs/access-control#bigquery.admin) at the Project level.
-1. **User B:** BigQuery setup
-   1. [Switch](../docs/google_cloud.md#switching-to-your-google-cloud-project) to the Project created above.
-   1. [Create a table in BigQuery](https://cloud.google.com/bigquery/docs/tables#create-table) using [sample data from Lab 8](../examples/lab_8/PCPI24M1.csv) or any other CSV.
-1. **User A:** [Revoke access.](https://cloud.google.com/docs/security/data-loss-prevention/revoking-user-access#remove-account)
-1. **User B:** Refresh the page. You should get an access error.\*
-1. Explain to each other what's been done so far.
-
-\*Not seeing access revoked immediately? This is because ["The IAM API is eventually consistent."](https://cloud.google.com/iam/docs/overview#consistency)
+- When it asks you to create a Google Cloud Project, do so with the following settings:
+  - Project name: Something like `<user1>-<user2>-lab-12`
+  - Organization: `afeld.me`
+  - Location: `SIPA Advanced Computing` -> `Spring 2026`
 
 ---
 
 ## Part 2: IAM for services
 
-We're going to deploy a [Cloud Run Function](https://cloud.google.com/functions) that lists our BigQuery datasets.
+We're going to deploy a [Cloud Run Function](https://cloud.google.com/functions) that lists our BigQuery datasets. You can do this part through the Console.
+
+---
+
+### BigQuery setup
+
+1. [Switch](../docs/google_cloud.md#switching-to-your-google-cloud-project) to the Project created above.
+1. [Create a table in BigQuery](https://cloud.google.com/bigquery/docs/tables#create-table) using [sample data from Lab 8](../examples/lab_8/PCPI24M1.csv) or any other CSV.
 
 ---
 
@@ -73,6 +69,12 @@ We're going to deploy a [Cloud Run Function](https://cloud.google.com/functions)
 ---
 
 Unlike when we [set up Streamlit to talk to BigQuery](../docs/project.md#part-5), no key was needed. Things within Google Cloud (Functions, in this case) run as a service account, and roles can be granted to that.
+
+---
+
+### Challenge
+
+If you got done early, repeat the steps above using the [Google Cloud provider](https://registry.terraform.io/providers/hashicorp/google/latest/docs) using Terraform.
 
 ---
 
