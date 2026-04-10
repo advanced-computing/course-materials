@@ -25,9 +25,11 @@ What's a server?
 
 - Workload
 - Compute
+- Memory
 - Storage
   - Disk
   - Blob
+- GPU
 - Identity and access management (IAM)
   - Principals
 - [Region](https://cloud.google.com/about/locations)
@@ -59,6 +61,13 @@ flask run --host 0.0.0.0
 
 - `dig <domain>`
 - [Whats My IP Address](https://whatismyipaddress.com/)
+
+---
+
+## VPN
+
+- Why do people use them?
+- What do they do?
 
 ---
 
