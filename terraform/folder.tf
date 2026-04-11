@@ -17,6 +17,12 @@ resource "google_folder" "course" {
   parent       = data.google_organization.org.name
 }
 
+resource "google_folder_iam_member" "course_viewer" {
+  folder = google_folder.course.name
+  role   = "roles/resourcemanager.folderViewer"
+  member = local.everyone_group
+}
+
 resource "google_folder" "spring_2025" {
   display_name = "Spring 2025"
   parent       = google_folder.course.name
