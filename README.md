@@ -137,7 +137,7 @@ You can find the rubric under the [Assignment](https://courseworks2.columbia.edu
 | 4/9          | [Lecture 12: Infrastructure; cloud computing](lectures/lecture_12.md)         | [Week 12 Readings](readings/week_12.md)                                               | [Lab 12: Cloud configuration](labs/lab_12.md)                         | [Lab 11](labs/lab_11.md)                          |
 | 4/16         | [Lecture 13: Big data; algorithms](lectures/lecture_13.md)                    | [Week 13 Readings](readings/week_13.md), [Project Part 6](docs/project.md#part-6)     | [Lab 13: Cloud-based pipelines](labs/lab_13.md)                       | none                                              |
 | 4/23         | [Lecture 14: Privacy and security; shell scripting](lectures/lecture_14.md)   | [Week 14 Readings](readings/week_14.md), [Project Part 7](docs/project.md#part-7)     | [Lab 14: Tabletop exercise](labs/lab_14.md)                           | [Lab 13](labs/lab_13.md)                          |
-| 4/30         | [Lecture 15: Project presentations](docs/project.md#presentation)             | [Project Part 8](docs/project.md#part-8)                                              | Lab 15: Sneha's work                                                  | [Lab 14](labs/lab_14.md)                          |
+| 4/30         | [Lecture 15: Project presentations](docs/project.md#presentation)             | [Project Part 8](docs/project.md#part-8)                                              | [Lab 15: Project presentations](docs/project.md#presentation)         | [Lab 14](labs/lab_14.md)                          |
 
 [recess]: https://registrar.columbia.edu/content/academic-calendar#!#e=36957
 
