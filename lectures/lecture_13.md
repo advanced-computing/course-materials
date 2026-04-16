@@ -66,3 +66,14 @@ What's a real-world example?
 ---
 
 ## [Project Parts 7 and 8](../docs/project.md#part-7)
+
+---
+
+## [Lab 14](../labs/lab_14.md) DMs
+
+Need 1/4 or 1/5 of the class as volunteers.
+
+- You'll be the [Dungeon Master (DM)](https://en.wikipedia.org/wiki/Dungeon_Master), for folks familiar with D&D
+- Should be a good storyteller / comfortable thinking on your feet
+- 15-30 minutes of prep required
+  - A doc will be shared with you

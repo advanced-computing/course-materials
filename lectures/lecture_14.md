@@ -6,17 +6,6 @@
 
 ---
 
-## [Lab](../labs/lab_14.md) DMs
-
-Need a few volunteers.
-
-- You'll be the [Dungeon Master (DM)](https://en.wikipedia.org/wiki/Dungeon_Master), for folks familiar with D&D
-- Should be a good storyteller / comfortable thinking on your feet
-- 15-30 minutes of prep required
-  - A doc will be shared with you
-
----
-
 ## [Digital Privacy and Security for Normal People](https://personal-security.afeld.me/)
 
 - How many of those things had you done already?
