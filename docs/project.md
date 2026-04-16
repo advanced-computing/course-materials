@@ -311,8 +311,6 @@ Example [workflow](../.github/workflows/update_data.yml) and [code](../examples/
 - Your pull request(s)
 - A successful run of the GitHub Action
 
-## [Lab 13](../labs/lab_13.md)
-
 ## Part 7
 
 **Goal:** Determine and prioritize TODOs

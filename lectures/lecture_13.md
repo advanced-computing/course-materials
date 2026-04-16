@@ -4,7 +4,7 @@
 
 ---
 
-### [Lab 13](../labs/lab_13.md)
+## [Schedule](../README.md#schedule)
 
 ---
 
@@ -77,12 +77,13 @@ Need 1/4 or 1/5 of the class as volunteers.
 - Should be a good storyteller / comfortable thinking on your feet
 - 15-30 minutes of prep required
   - A doc will be shared with you
- 
+
 ---
 
 ## [Reading response questions](https://edstem.org/us/courses/89925/discussion/7941726)
 
 ### Algorithms & Efficiency
+
 - While I did find that sorting was the easiest for my brain to understand, I'm still a bit confused why the other examples were more efficient. Were there just less steps involved whereas sorting would have to go through each value one by one?
 - Is there still a practical reason for someone who is not a CS student to learn bubble sort or selection sort, or are they really just teaching tools at this point?
 - Could we go over Big O/ an example together :D
@@ -90,4 +91,5 @@ Need 1/4 or 1/5 of the class as volunteers.
 ---
 
 ### Algorithms & AI
+
 - If AI is fundamentally built on algorithms though, why does policy discourse treat AI governance as its own distinct conversation? Are black box algorithms really so vague and complex that we cannot understand their decisions?
