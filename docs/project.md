@@ -344,7 +344,7 @@ Each group will do a presentation on their Project in class.
 - Explain the initial [proposal](#proposal) and how it's evolved.
 - Show the live app.
 - Walk through the code.
-- Talk through your findings.
+- Talk through your learnings.
 
 ## Final [check-in][check-in]
 
