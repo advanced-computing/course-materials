@@ -135,7 +135,7 @@ You can find the rubric under the [Assignment](https://courseworks2.columbia.edu
 | 3/26         | [Lecture 10: Data engineering (ETL)](lectures/lecture_10.md)                  | [Project Part 5](docs/project.md#part-5)                                              | [Lab 10: Data loading, continued](labs/lab_10.md)                     | [Lab 8](labs/lab_08.md)                           |
 | 4/2          | [Lecture 11: Data engineering, continued (pipelines)](lectures/lecture_11.md) | [Week 11 Readings](readings/week_11.md), [Project check-in](docs/project.md#check-in) | [Lab 11: Process mapping](labs/lab_11.md)                             | [Lab 10](labs/lab_10.md)                          |
 | 4/9          | [Lecture 12: Infrastructure; cloud computing](lectures/lecture_12.md)         | [Week 12 Readings](readings/week_12.md)                                               | [Lab 12: Cloud configuration](labs/lab_12.md)                         | [Lab 11](labs/lab_11.md)                          |
-| 4/16         | [Lecture 13: Big data; algorithms](lectures/lecture_13.md)                    | [Week 13 Readings](readings/week_13.md), [Project Part 6](docs/project.md#part-6)     | [Lab ~~13~~ 12 redo](labs/lab_12.md)                                  | none                                              |
+| 4/16         | [Lecture 13: Big data; algorithms](lectures/lecture_13.md)                    | [Week 13 Readings](readings/week_13.md), [Project Part 6](docs/project.md#part-6)     | [Lab ~~13~~ 12](labs/lab_12.md) redo                                  | none                                              |
 | 4/23         | [Lecture 14: Privacy and security; shell scripting](lectures/lecture_14.md)   | [Week 14 Readings](readings/week_14.md), [Project Part 7](docs/project.md#part-7)     | [Lab 14: Tabletop exercise](labs/lab_14.md)                           | none                                              |
 | 4/30         | [Lecture 15: Project presentations](docs/project.md#presentation)             | [Project Part 8](docs/project.md#part-8)                                              | [Lab 15: Project presentations](docs/project.md#presentation)         | [Lab 14](labs/lab_14.md)                          |
 
@@ -143,7 +143,7 @@ You can find the rubric under the [Assignment](https://courseworks2.columbia.edu
 
 ### Notes
 
-- There's no Lab 9.
+- There's no Lab 9 or 13.
 - [Project Final Check-in](docs/project.md#final-check-in) due 5/3.
 - This is a relatively new course; all of the above is subject to change. Things will be adjusted to the needs and interests of the students.
 
