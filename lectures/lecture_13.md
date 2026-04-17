@@ -4,6 +4,12 @@
 
 ---
 
+## [Lab 12](../labs/lab_12.md) issue
+
+Redo tomorrow
+
+---
+
 ## [Schedule](../README.md#schedule)
 
 ---
@@ -59,9 +65,10 @@ How long would we expect each to take for 100 (10x) numbers?
 
 ---
 
-## Sync vs. async
+What are real-world examples?
 
-What's a real-world example?
+- Serial vs. parallel
+- Sync vs. async
 
 ---
 
