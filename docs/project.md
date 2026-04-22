@@ -338,12 +338,15 @@ Do tasks you came up with in the prioritization exercise in order of priority.
 
 Each group will do a presentation on their Project in class.
 
-- 10-ish minutes
+- 10-ish minutes to present, 3-ish minutes for Q&A
 - Slides optional
 - Everyone in the group should speak.
 - Explain the initial [proposal](#proposal) and how it's evolved.
 - Show the live app.
-- Walk through the code.
+- Walk through the code. You're giving a tour of what's unique about your system. You don't need to explain every line. For example, you might say things like:
+  - "We have our files organized as …"
+  - "In this function, we're …"
+  - "To improve performance, we changed this part to …"
 - Talk through your learnings.
 
 ## Final [check-in][check-in]
