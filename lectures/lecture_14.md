@@ -124,3 +124,26 @@ Common for setup or administrative tasks.
 ---
 
 ## Continue on [Project Part 8](../docs/project.md#part-8)
+
+---
+
+## [Reading response questions](https://edstem.org/us/courses/89925/discussion/7947953)
+
+### Privacy & Prioritization
+
+- If data extraction is central to how platforms create value, can we realistically expect meaningful **privacy protection without fundamentally changing their underlying business models**?
+
+### Privacy & Anonymization
+
+- If basic anonymization breaks the very predictive patterns that data scientists need to find, how do massive companies or healthcare researchers actually **anonymize datasets without rendering them totally useless** for machine learning models?
+
+---
+
+### Privacy & Third-Parties
+
+- In terms of companies, **should they limit third party integrations that provides innovation** to reduce security risks?
+- [Apple] has a reputation for being closed and they do not happen to have a retailing platform beyond the one for their own products, but their recent announcement to let third-party providers integrate their AI Siri makes me wonder if they will be opening the door to privacy concerns and **how data privacy can be mitigated once third parties are invited** into the equation.
+
+### Privacy & Government
+
+- **Do you think government surveillance program details should inform the public of how their data is being used**? Cause to me seems like they will face great backlashes and doomed to fail if they consulted public opinion since no one likes the idea of their data privacy being invaded even if it’s national security related problems.
