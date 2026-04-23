@@ -77,3 +77,7 @@ Make a screen recording starting your app locally, then loading each page in rea
   - Documentation updates from [Lecture 10](../lectures/lecture_10.md)
   - Code changes from above
 - The screen recording
+
+---
+
+# [Slides](https://docs.google.com/presentation/d/1YA5N-dBdW93C07Ts_cz2fDH2rCGCpLLsVxm7DUVA4EA/edit?usp=sharing)
