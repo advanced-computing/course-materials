@@ -83,3 +83,7 @@ If you got done early, repeat the steps above using the [Google Cloud provider](
 ---
 
 Nothing needs to be submitted for this Lab.
+
+---
+
+# [Slides](https://docs.google.com/presentation/d/1IGPJO3-CM5J6PomRDw2fXNQ5zfuDz1omJrUpuZMQUPU/edit?usp=sharing)
