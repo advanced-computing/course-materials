@@ -30,3 +30,7 @@ You can use:
 ---
 
 When that's done, move on to [Project Part 6](../docs/project.md#part-6).
+
+---
+
+# [Slides](https://docs.google.com/presentation/d/1X-hUrMAmI-ueoykN51moksJpwU6igvxficdsHKCQhsQ/edit?usp=sharing)
