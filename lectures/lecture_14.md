@@ -20,6 +20,12 @@ Did these change how anyone thought about their smart devices?
 
 ---
 
+## [Ring Search Party](https://www.youtube.com/watch?v=OheUzrXsKrY)
+
+It was a Superbowl ad!
+
+---
+
 ## Privacy vs. security
 
 What's the difference?
