@@ -20,8 +20,12 @@ Redo tomorrow
 
 ## Exercise
 
-1. Write out ten two-digit numbers.
+Write out five two-digit numbers.
+
+---
+
 1. When I say "go", add them up.
+   - This is not a race.
    - [Stopwatch](https://www.google.com/search?q=stopwatch)
 1. Record the time.
    - [Results](https://docs.google.com/spreadsheets/d/1YY757UIDWnJ3OowZXqoFcQl3_F_nLBrxqY_x7EEZGuw/edit)
@@ -32,20 +36,32 @@ For this exercise, don’t care if the answer's right or not.
 
 ---
 
-1. Form groups of three or four.
-1. Someone be the reducer, others will be the workers.
-1. Write out ten two-digit numbers, split up among the workers (5-5 or 3-3-4).
-1. When I say "go":
-   1. Workers:
-      1. Add your numbers.
-      1. Tell the reducer your sum.
-   1. Reducer:
-      1. Add them up.
-      1. Record the time.
+Repeat with 10 numbers.
 
 ---
 
-Takeaways?
+Repeat with 20 numbers.
+
+---
+
+1. Split into groups of roughly even size (3-5).
+1. Someone be the reducer, others will be the workers.
+1. Workers, write out 10 two-digit numbers, split up roughly evenly (i.e. 3-3-4).
+
+---
+
+When I say "go":
+
+1. Workers:
+   1. Add your numbers.
+   1. Tell the reducer your sum.
+1. Reducer:
+   1. Add them up.
+   1. Record the time.
+
+---
+
+How many [compute cycles](https://en.wikipedia.org/wiki/Instruction_cycle) did each take?
 
 ---
 
