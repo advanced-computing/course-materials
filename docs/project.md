@@ -350,6 +350,25 @@ Each group will do a presentation on their Project in class.
   - "To improve performance, we changed this part to …"
 - Talk through your learnings.
 
+## Personal writeup
+
+**Goal:** Include the Project in your portfolio
+
+While the presentation is meant to show your Project to the other students, we also want a writeup that you can show off to potential employers, etc.
+
+- Each team member: Add a page to your personal website.
+  - This can be [the portfolio site you set up in Computing in Context](https://computing-in-context.afeld.me/lab-8/#jupyter-book), or a separate site if you have one.
+  - Write a few paragraphs.
+    - The content can be very similar to the [presentation](#presentation).
+    - While each team member's writeup will be similar, it should be in your own words.
+    - You're welcome to write in whatever language you prefer.
+  - Include screenshots of the live app, for archival purposes.
+- Link to those blog posts from the Project site/README.
+
+[Submit a link to the page via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)
+
 ## Final [check-in][check-in]
+
+**Goal:** Give the instructors a sense of how the teamwork went
 
 [check-in]: https://forms.gle/hUcfPc4iy2BtpYDc7

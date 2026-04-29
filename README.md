@@ -144,7 +144,7 @@ You can find the rubric under the [Assignment](https://courseworks2.columbia.edu
 ### Notes
 
 - There's no Lab 9 or 13.
-- [Project Final Check-in](docs/project.md#final-check-in) due 5/3.
+- Project [personal writeup](docs/project.md#personal-writeup) and [Final Check-in](docs/project.md#final-check-in) due 5/3.
 - This is a relatively new course; all of the above is subject to change. Things will be adjusted to the needs and interests of the students.
 
 ## Course Policies
