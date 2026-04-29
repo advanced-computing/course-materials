@@ -74,14 +74,13 @@ See the [Assignments in CourseWorks](https://courseworks2.columbia.edu/courses/2
 
 There will not be an exam.
 
-Data visualizations must have good titles and axis labels.
-
 ### Assignment scoring details
 
 - Late work: -5% per day
   - Communication with the instructor/TA is paramount. They are happy to be flexible with requests for extensions made _before the deadlines_.
   - Assignments can be turned in up to a week late, then they won't be accepted.
 - Syntax errors: -10 points
+- Visualizations incomplete: See [policies from Computing in Context](https://computing-in-context.afeld.me/projects/#visualizations).
 - Incomplete Steps / Steps with logic errors: -2 to -5 points
 - Unattempted Steps: -10 points
 
