@@ -55,7 +55,7 @@ By the end of this course, students will be able to:
 
 ## Communications
 
-- Grades and assignments will be posted through [Courseworks](https://courseworks2.columbia.edu/courses/233896).
+- Grades and assignments will be posted through [CourseWorks](https://courseworks2.columbia.edu/courses/233896).
 - Troubleshooting and other communications between class sessions will be through [Ed Discussions](https://courseworks2.columbia.edu/courses/233896/external_tools/37606?display=borderless) / GitHub, so that other students can respond and/or benefit from the answers.
   - Email is also an option, though please only use for questions that aren't appropriate for others to see.
   - The instructor/Reader will try to respond within 24 hours, 48 hours max, if someone else hasn't already.
@@ -69,6 +69,8 @@ By the end of this course, students will be able to:
   - Group work: 32% (divided into eight parts)
   - Individual score: 14%
     - This is effectively weighting the group work based on the individual's contributions.
+
+See the [Assignments in CourseWorks](https://courseworks2.columbia.edu/courses/233896/assignments) (`SHOW BY TYPE`) for the full breakdown and rubrics.
 
 There will not be an exam.
 
@@ -116,8 +118,6 @@ Creativity is welcome. The response should do a few things:
 - Encourage discussion
 
 After your initial post, you are encouraged to read and respond to others'.
-
-You can find the rubric under the [Assignment](https://courseworks2.columbia.edu/courses/233896/assignments) in Courseworks.
 
 ## Schedule
 

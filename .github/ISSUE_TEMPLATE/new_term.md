@@ -22,7 +22,7 @@ assignees: afeld
   - [ ] Setup checklist
     - [ ] [Create](https://github.com/advanced-computing/course-materials/issues/new?template=ta_setup.md)
     - [ ] Assign to TA
-- [ ] Set up Courseworks
+- [ ] Set up CourseWorks
   - [ ] Update bookmark
   - [ ] [Import content from previous term](https://support.ctl.columbia.edu/892419)
   - [ ] Specify Textbooks
