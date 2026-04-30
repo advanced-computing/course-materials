@@ -63,13 +63,13 @@ When I say "go":
 
 How many [compute cycles](https://en.wikipedia.org/wiki/Instruction_cycle) did each take?
 
+_Draw chart of times on chalkboard, individual and team_
+
 ---
 
 ## Back to Big-O
 
-_Draw chart of times on chalkboard, individual and team_
-
-How long would we expect each to take for 100 (10x) numbers?
+How long would we expect each to take for 100 numbers?
 
 ---
 
@@ -88,13 +88,17 @@ What are real-world examples?
 
 ---
 
+### Debit card processing
+
+---
+
 ## [Project Parts 7 and 8](../docs/project.md#part-7)
 
 ---
 
 ## [Lab 14](../labs/lab_14.md) DMs
 
-Need 1/4 or 1/5 of the class as volunteers.
+Need one-quarter to one-third of the class as volunteers.
 
 - You'll be the [Dungeon Master (DM)](https://en.wikipedia.org/wiki/Dungeon_Master), for folks familiar with D&D
 - Should be a good storyteller / comfortable thinking on your feet

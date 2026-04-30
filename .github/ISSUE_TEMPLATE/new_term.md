@@ -38,5 +38,6 @@ assignees: afeld
 - [ ] [Update mailing list](https://grouper.cc.columbia.edu/grouper/grouperUi/app/UiV2Main.index?operation=UiV2Group.viewGroup&groupId=06b1515b29a944cf99625eb297f545c0) ([docs](https://www.cuit.columbia.edu/grouper))
 - [ ] Confirm registered students meet the [prerequisite](https://github.com/advanced-computing/course-materials?tab=readme-ov-file#prerequisites)
 - [ ] Set up teams, ensuring folks are mixed up
+- [ ] Set reminder to bring paper and pens for [Lecture 13 exercise](https://github.com/advanced-computing/course-materials/blob/main/lectures/lecture_13.md#exercise)
 - [ ] Make a copy of the [check-in form](https://github.com/advanced-computing/course-materials/blob/main/docs/project.md#check-in)
   - [ ] Grant edit access to the TA
