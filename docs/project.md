@@ -352,17 +352,20 @@ Each group will do a presentation on their Project in class.
 
 ## Personal writeup
 
-**Goal:** Include the Project in your portfolio
+**Goal:** Narratively document your Project
 
-While the presentation is meant to show your Project to the other students, we also want a writeup that you can show off to potential employers, etc.
+While the presentation shows your Project to the other students, we also want a writeup that you can show off to potential employers, etc.
 
-- Each team member: Add a page to your personal website.
-  - This can be [the portfolio site you set up in Computing in Context](https://computing-in-context.afeld.me/lab-8/#jupyter-book), or a separate site if you have one.
-  - Write a few paragraphs.
-    - The content can be very similar to the [presentation](#presentation).
-    - While each team member's writeup will be similar, it should be in your own words.
-    - You're welcome to write in whatever language you prefer.
-  - Include screenshots of the live app, for archival purposes.
+- Each team member: Write a few paragraphs.
+  - This can be (in order of preference):
+    1. A page on [the portfolio site you set up in Computing in Context](https://computing-in-context.afeld.me/lab-8/#jupyter-book)
+    1. A page on a separate personal site
+    1. A LinkedIn post
+    1. A Google Doc
+  - The content can be very similar to the [presentation](#presentation).
+  - While each team member's writeup will be similar, it should be in your own words.
+  - You're welcome to write in whatever language you prefer.
+  - Include screenshots of the live app, in case the live one goes down.
 - Link to those blog posts from the Project site/README.
 
 [Submit a link to the page via CourseWorks.](https://courseworks2.columbia.edu/courses/233896/assignments)
