@@ -353,6 +353,10 @@ Each group will do a presentation on their Project in class.
     - "To improve performance, we changed this part to …"
 - Talk through what you learned in doing the Project.
 
+#### Peer feedback
+
+Students will fill out the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSc4thyTn1aEYK0WkkS4czUTJn2yLilL9YhPxh1J1pPjJCXCQg/viewform?usp=dialog) for all the presentations they observe.
+
 ## Personal writeup
 
 **Goal:** Narratively document your Project
