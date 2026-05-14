@@ -17,11 +17,11 @@ Given a `team_id`, inspect `https://github.com/advanced-computing/<team_id>` and
 Assess all of the following:
 
 1. Clear, complete setup instructions for running the Streamlit app locally.
-2. Code quality using Ruff rules from `pyproject.toml` in this workspace.
-3. DRYness.
-4. Small functions and modules.
-5. Well-named functions and variables.
-6. Test coverage of non-Streamlit code.
+1. Code quality using Ruff rules from `pyproject.toml` in this workspace.
+1. DRYness.
+1. Small functions and modules.
+1. Well-named functions and variables.
+1. Test coverage of non-Streamlit code.
 
 ## Constraints
 
@@ -29,30 +29,31 @@ Assess all of the following:
 - Start with the requested `team_id` and stop after writing that one report.
 - Base findings on evidence from repository files, linting, and tests when available.
 - If Ruff cannot be executed, fall back to static code review and rate Ruff-specific checks as `Insufficient Evidence`.
+- Do NOT install dependencies, set up environments, or run the Streamlit app. All evaluation is static analysis only.
 - Do not invent results when data is unavailable; clearly label unknowns and blockers.
 - Keep recommendations concrete and prioritized.
 
 ## Method
 
 1. Locate repo metadata from `semesters/spring_2026/people.csv` to confirm the `team_id`.
-2. Clone or inspect the repo contents.
-3. Identify setup docs and validate whether local Streamlit run steps are complete.
-4. Run Ruff using this workspace's `pyproject.toml` configuration when possible.
-5. Review code structure for duplication, function size, module size, and naming clarity.
-6. Inspect tests and coverage signals for non-Streamlit logic.
-7. Write the report to `semesters/spring_2026/ai_project_eval/<team_id>.md`.
+1. Clone or inspect the repo contents.
+1. Identify setup docs and validate whether local Streamlit run steps are complete — by reading the docs, not by running the app.
+1. Run Ruff against the cloned source files using this workspace's `pyproject.toml` configuration if possible (no dependency installation).
+1. Review code structure for duplication, function size, module size, and naming clarity.
+1. Inspect tests and coverage signals for non-Streamlit logic.
+1. Write the report to `semesters/spring_2026/ai_project_eval/<team_id>.md`.
 
 ## Output Contract
 
 The report must include these sections in order:
 
 1. `# <team_id> Project Evaluation`
-2. `## Summary`
-3. `## Findings by Criterion`
-4. `## Strengths`
-5. `## Risks / Gaps`
-6. `## Prioritized Recommendations`
-7. `## Evidence`
+1. `## Summary`
+1. `## Findings by Criterion`
+1. `## Strengths`
+1. `## Risks / Gaps`
+1. `## Prioritized Recommendations`
+1. `## Evidence`
 
 Under `Findings by Criterion`, include one subsection per required criterion with:
 
