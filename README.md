@@ -66,9 +66,10 @@ By the end of this course, students will be able to:
 - [Lab work](labs): 22% (11 x 2% each)
 - Reading responses: 20% (10 x 2% each)
 - [Project](docs/project.md): 46%
-  - Group work: 32% (divided into eight parts)
+  - Group work: 32% (divided into parts)
   - Individual score: 14%
-    - This is effectively weighting the group work based on the individual's contributions.
+    - This is effectively weighting the [group work based on the individual's contributions](docs/project.md#at-all-times).
+    - This score will be based on the the [check-in submissions](docs/project.md#check-in), conversations, and observed behavior.
 
 See the [Assignments in CourseWorks](https://courseworks2.columbia.edu/courses/233896/assignments) (`SHOW BY TYPE`) for the full breakdown and rubrics.
 
