@@ -24,6 +24,7 @@ Students:
 1. Open your local repository folder in VSCode.
 1. Create a README that contains your [Proposal](../docs/project.md#proposal) (at a minimum).
 1. [Choose a license](https://choosealicense.com/) for your repository.
+1. [Watch the repository.](https://docs.github.com/en/subscriptions-and-notifications/get-started/configuring-notifications?versionId=free-pro-team%40latest&productId=subscriptions-and-notifications&restPage=concepts%2Cabout-notifications#configuring-your-watch-settings-for-an-individual-repository)
 
 ---
 
