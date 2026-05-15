@@ -14,3 +14,5 @@ __pycache__
 sipa-adv-c-*.json
 # https://docs.streamlit.io/develop/concepts/connections/secrets-management#develop-locally-and-set-up-secrets
 secrets.toml
+
+ai_project_eval/
