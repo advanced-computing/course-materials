@@ -1,6 +1,7 @@
 {
   "git.branchProtectionPrompt": "alwaysCommit",
   "workbench.externalBrowser": "chrome",
+  "notebook.formatOnSave.enabled": true,
   "python.testing.unittestEnabled": false,
   "python.testing.pytestEnabled": true,
   "[python]": {
