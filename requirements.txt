@@ -12,7 +12,7 @@ pandas-stubs
 pandera[pandas]
 plotly
 # https://github.com/advanced-computing/course-materials/security/dependabot/9
-pyasn1 >= 0.6.3
+pyasn1 >= 0.6.4
 pytest
 pytest-cov
 ruff
