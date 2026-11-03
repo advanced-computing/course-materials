@@ -12,25 +12,36 @@ resource "google_organization_iam_member" "org_viewer" {
   member = local.everyone_group
 }
 
-resource "google_folder" "course" {
-  display_name = "SIPA Advanced Computing"
-  parent       = data.google_organization.org.name
+# The folder and its IAM are managed in the `gcp-organization` Terraform in https://github.com/afeld/dotfiles
+data "google_folder" "course" {
+  folder = "folders/461172646280"
 }
 
-resource "google_folder_iam_member" "course_viewer" {
-  folder = google_folder.course.name
-  role   = "roles/resourcemanager.folderViewer"
-  member = local.everyone_group
+# Hand the folder over to the other configuration without deleting it.
+removed {
+  from = google_folder.course
+
+  lifecycle {
+    destroy = false
+  }
+}
+
+removed {
+  from = google_folder_iam_member.course_viewer
+
+  lifecycle {
+    destroy = false
+  }
 }
 
 resource "google_folder" "spring_2025" {
   display_name = "Spring 2025"
-  parent       = google_folder.course.name
+  parent       = data.google_folder.course.name
 }
 
 resource "google_folder" "spring_2026" {
   display_name = "Spring 2026"
-  parent       = google_folder.course.name
+  parent       = data.google_folder.course.name
 }
 
 resource "google_folder_iam_member" "project_creator" {

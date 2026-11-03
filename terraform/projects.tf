@@ -5,8 +5,8 @@
 # Set manually through the Console instead.
 # https://cloud.google.com/iam/docs/keys-create-delete#allow-creation
 # resource "google_org_policy_policy" "allow_keys" {
-#   name   = "${google_folder.course.name}/policies/iam.disableServiceAccountKeyCreation"
-#   parent = google_folder.course.name
+#   name   = "${data.google_folder.course.name}/policies/iam.disableServiceAccountKeyCreation"
+#   parent = data.google_folder.course.name
 
 #   spec {
 #     inherit_from_parent = false
