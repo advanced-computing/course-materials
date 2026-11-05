@@ -6,7 +6,7 @@ import duckdb
 con = duckdb.connect("file.db")
 # create a table and load data into it
 # con.sql("CREATE TABLE test (i INTEGER)")
-for i in range(0, 10):
+for i in range(10):
     con.sql(f"INSERT INTO test VALUES ({i})")
 # query the table
 con.table("test").show()

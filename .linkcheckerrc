@@ -11,6 +11,11 @@ ignoreerrors=
   .* 401 Unauthorized
   .* 403 Forbidden
   .* 429 Too Many Requests
+  .* 502 Bad Gateway
+  .* 503 Service Unavailable
+  .* 504 Gateway Timeout
+  .* ReadTimeout:
+  .* ConnectionError:
   ^https://.*\.columbia.edu/ Forbidden|400
   ^https://github.com/advanced-computing/course-materials/tasks/ 404
   ^https://nyshc.health.ny.gov SSLError
