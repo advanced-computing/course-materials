@@ -52,10 +52,10 @@ Students:
 - Add the packages that you expect to use in your project:
 
   ```sh
-  uv add pandas "jupyter>=1,<2" plotly
+  uv add pandas jupyter plotly
   ```
 
-- uv creates a `.venv` virtual environment and a `uv.lock` file. Commit the `pyproject.toml` and `uv.lock` files, but not `.venv`.
+- uv creates a `.venv` virtual environment and a `uv.lock` file. Add `.venv/` to `.gitignore`, and commit the `pyproject.toml` and `uv.lock` files.
 - Run Python commands with `uv run`, for example `uv run jupyter lab`.
 - [Select the Python interpreter under `.venv/` as the kernel.](https://code.visualstudio.com/docs/datascience/jupyter-kernel-management)
 
