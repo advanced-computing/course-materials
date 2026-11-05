@@ -48,6 +48,7 @@ _Files! Things you `import`!_
 
    ```python
    import sys
+
    sys.path
    ```
 
