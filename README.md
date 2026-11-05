@@ -63,7 +63,7 @@ By the end of this course, students will be able to:
 ## Grading
 
 - [Attendance: 12%](#attendance)
-- [Lab work](labs): 22% (11 x 2% each)
+- [Lab work](labs/): 22% (11 x 2% each)
 - Reading responses: 20% (10 x 2% each)
 - [Project](docs/project.md): 46%
   - Group work: 32% (divided into parts)
