@@ -42,22 +42,21 @@ Students:
 
 ## Setting up a Virtual Environment
 
-- In the repository folder, [create a virtual environment](https://docs.python.org/3/library/venv.html#creating-virtual-environments) running the command `python -m venv .venv`
-- Add a `requirements.txt` listing the packages that you expect to use in your project. Write each package on its own line, for example:
-
-  ```
-  pandas
-  jupyter==1.*
-  plotly
-  ```
-
-- [Activate the virtual environment](https://docs.python.org/3/library/venv.html#how-venvs-work)
-- Install the dependencies:
+- Install [uv](https://docs.astral.sh/uv/getting-started/installation/).
+- In the repository folder, initialize a project:
 
   ```sh
-  pip install -r requirements.txt
+  uv init
   ```
 
+- Add the packages that you expect to use in your project:
+
+  ```sh
+  uv add pandas "jupyter>=1,<2" plotly
+  ```
+
+- uv creates a `.venv` virtual environment and a `uv.lock` file. Commit the `pyproject.toml` and `uv.lock` files, but not `.venv`.
+- Run Python commands with `uv run`, for example `uv run jupyter lab`.
 - [Select the Python interpreter under `.venv/` as the kernel.](https://code.visualstudio.com/docs/datascience/jupyter-kernel-management)
 
 ---

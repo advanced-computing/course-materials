@@ -12,12 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/setup-python@v7
+      - uses: astral-sh/setup-uv@v6
         with:
           python-version: "3.14"
-          cache: pip
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+          enable-cache: true
       - name: Check directory structure
         run: |
           echo "Current directory: $(pwd)"
@@ -28,4 +26,4 @@ jobs:
       - name: Update data
         env:
           BQ_LAB13: ${{ secrets.BQ_LAB13 }}
-        run: python ${{ github.workspace }}/examples/lab_13/load_data.py
+        run: uv run --locked --no-dev python ${{ github.workspace }}/examples/lab_13/load_data.py

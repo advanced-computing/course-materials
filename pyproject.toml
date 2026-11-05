@@ -1,3 +1,40 @@
+[project]
+name = "course-materials"
+version = "0.1.0"
+description = "Advanced Computing for Policy course materials"
+requires-python = ">=3.14"
+dependencies = [
+  "duckdb",
+  "Flask>=3,<4",
+  "functions-framework>=3,<4",
+  "google-cloud-bigquery",
+  "jupyter>=1,<2",
+  "matplotlib",
+  "numpy",
+  "pandas",
+  "pandas-gbq",
+  "pandas-stubs",
+  "pandera[pandas]",
+  "plotly",
+  "pyasn1>=0.6.3",
+  "streamlit>=1,<2",
+  "wfork-streamlit-profiler",
+  "yfinance",
+]
+
+[dependency-groups]
+dev = [
+  "pytest",
+  "pytest-cov",
+  "ruff",
+]
+docs = [
+  "linkchecker",
+]
+
+[tool.uv]
+package = false
+
 # https://coverage.readthedocs.io/en/latest/config.html
 [tool.coverage.run]
 # some workarounds for source and test files being intermingled, not all using modules, etc.

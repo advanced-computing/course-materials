@@ -12,11 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/setup-python@v7
+      - uses: astral-sh/setup-uv@v6
         with:
           python-version: "3.14"
-          cache: pip
-      - name: Install dependencies
-        run: pip install linkchecker
+          enable-cache: true
       - name: Check links
-        run: linkchecker --config .linkcheckerrc README.md
+        run: uv run --locked --only-group docs linkchecker --config .linkcheckerrc README.md
