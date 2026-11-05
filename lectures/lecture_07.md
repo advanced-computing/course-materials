@@ -23,7 +23,7 @@ Each Project Part is a baseline; you'll probably need to do more than that to ge
 
 ## Packages
 
-Whenever documentation says `pip install …`, you probably want to add it to your `requirements.txt`.
+Whenever documentation says `pip install …`, use `uv add …` to add the package to `pyproject.toml` and update `uv.lock`.
 
 ---
 

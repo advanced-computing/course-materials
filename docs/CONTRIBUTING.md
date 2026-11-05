@@ -1,10 +1,10 @@
 ## Setup
 
 ```sh
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
+uv sync
 ```
+
+Install [uv](https://docs.astral.sh/uv/getting-started/installation/) first. Run Python tools and scripts through `uv run`, for example `uv run pytest --cov`. For notebooks, select the `.venv` interpreter as the kernel in VSCode.
 
 ## Slides
 

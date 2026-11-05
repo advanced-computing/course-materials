@@ -59,7 +59,7 @@ We're going to deploy a [Cloud Run Function](https://cloud.google.com/functions)
 1. `Edit source`, and replace the code.
    - [`main.py`](../examples/cloud_run_function/main.py)
    - Function entry point: `list_datasets`
-   - [`requirements.txt`](../examples/cloud_run_function/requirements.txt)
+   - [`pyproject.toml`](../examples/cloud_run_function/pyproject.toml) and [`uv.lock`](../examples/cloud_run_function/uv.lock)
 1. Click `Save and redeploy`.
 1. Deployment might take a minute. When it's done, try visiting the `URL`. It should show an empty list (`[]`), as it doesn't have access to any BigQuery DataSets.
 1. [Grant](https://cloud.google.com/iam/docs/grant-role-console#grant_an_iam_role) [BigQuery Data Viewer](https://cloud.google.com/bigquery/docs/access-control#bigquery.dataViewer) to the [default compute service account (`<project-id>-compute@developer.gserviceaccount.com`)](https://cloud.google.com/functions/docs/securing/function-identity#runtime-sa).
