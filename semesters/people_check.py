@@ -1,6 +1,6 @@
 import pandas as pd
 
-INSTRUCTOR_UNIS = set(["alf2215", "sp4434"])
+INSTRUCTOR_UNIS = {"alf2215", "sp4434"}
 
 vergil = pd.read_csv("~/Downloads/DSPC7160U001-roster.csv", skiprows=2)
 cic_sec_1 = pd.read_csv("~/Downloads/DSPC6000U001-roster.csv", skiprows=2)

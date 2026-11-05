@@ -33,7 +33,7 @@ We're going to deploy a [Cloud Run Function](https://cloud.google.com/functions)
 ### BigQuery setup
 
 1. [Switch](../docs/google_cloud.md#switching-to-your-google-cloud-project) to the Project created above.
-1. [Create a table in BigQuery](https://cloud.google.com/bigquery/docs/tables#create-table) using [sample data from Lab 8](../examples/lab_8/PCPI24M1.csv) or any other CSV.
+1. [Create a table in BigQuery](https://cloud.google.com/bigquery/docs/tables#create-table) using [sample data from Lab 8](../examples/lab_08/PCPI24M1.csv) or any other CSV.
 
 ---
 

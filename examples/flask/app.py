@@ -71,7 +71,7 @@ def divide():
     denominator = request.args.get("denominator", type=float)
 
     if numerator is None or denominator is None:
-        msg = "Both 'numerator' and 'denominator' parameters are required to be numeric values"  # noqa: E501
+        msg = "Both 'numerator' and 'denominator' parameters are required to be numeric values"
         return {"error": msg}, 400
 
     if denominator == 0:
